@@ -1,0 +1,8 @@
+id,name_en,pillar,colour,description
+R_CN,China,core,#b5443c,Zhou world: Chunqiu and Warring States polities
+R_IN,India,core,#a86f22,Gangetic plain: late Vedic and sramana movements; Mahajanapadas
+R_IL,Israel and Judah,core,#4a6fa5,"Southern Levant, plus the Babylonian exile community"
+R_GR,Greece,core,#35796d,Aegean and Ionia; poleis and colonies
+R_PE,Persia,core,#7d5aa6,Iranian plateau; Achaemenid empire
+R_ME,Mesopotamia,background,#767676,Assyria and Babylonia: the imperial background against which Judah and Persia are documented
+R_EG,Egypt,background,#868686,"Nile valley and delta: a Persian province from Cambyses's conquest (526/525 BCE), often in revolt; the background against which Persian and Greek records place it"

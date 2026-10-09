@@ -1,0 +1,251 @@
+[
+ {
+  "id": "LIN_001",
+  "teacher_id": "P_SOCRATES",
+  "student_id": "P_PLATO",
+  "lineage_type": "direct",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_JOWETT_APOLOGY"
+  ],
+  "note": "Plato present at the trial; the dialogues."
+ },
+ {
+  "id": "LIN_002",
+  "teacher_id": "P_PLATO",
+  "student_id": "P_ARISTOTLE",
+  "lineage_type": "direct",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_DL9"
+  ],
+  "note": "Diogenes Laertius 5.1: twenty years in the Academy."
+ },
+ {
+  "id": "LIN_003",
+  "teacher_id": "P_CONFUCIUS",
+  "student_id": "P_MENCIUS",
+  "lineage_type": "claimed",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SHIJI_47",
+   "SRC_LEGGE_MENCIUS"
+  ],
+  "note": "Mencius 4B22 describes himself as an indirect disciple; Shiji 74 says he studied under Zisi's followers."
+ },
+ {
+  "id": "LIN_004",
+  "teacher_id": "P_THALES",
+  "student_id": "P_ANAXIMANDER",
+  "lineage_type": "claimed",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_DL9",
+   "SRC_BURNET_EGP"
+  ],
+  "note": "Theophrastus, as quoted by Burnet (Early Greek Philosophy 3rd ed. §13), calls Anaximander 'a fellow-citizen and associate of Thales'; Diogenes Laertius 2.1 places him in the same city and tradition. 'Associate' is weaker than 'pupil', so lineage_type is claimed."
+ },
+ {
+  "id": "LIN_005",
+  "teacher_id": "P_DEMOCRITUS",
+  "student_id": "P_PROTAGORAS",
+  "lineage_type": "claimed",
+  "reliability": "low",
+  "source_ids": [
+   "SRC_DL9"
+  ],
+  "note": "Diogenes Laertius 9.50 (Hicks): 'Protagoras studied under Democritus.' RECORDED AS DOUBTFUL AND WHY: the same author's chronology contradicts it. DL 9.56 puts Protagoras's floruit in the 84th Olympiad (444-441), while DL 9.34 makes Democritus forty years younger than Anaxagoras, whose birth DL 2.7 places in the 70th Olympiad (500-497) — so Democritus would have been about seventeen when Protagoras was at the height of his career. The link is kept because the claim is in the source and readers meet it elsewhere; reliability low says what to do with it."
+ },
+ {
+  "id": "LIN_006",
+  "teacher_id": "P_ANAXAGORAS",
+  "student_id": "P_PERICLES",
+  "lineage_type": "claimed",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_DL9"
+  ],
+  "note": "Diogenes Laertius 2.13 (Hicks) has Pericles say to the assembly 'I am a pupil of Anaxagoras; do not then be carried away by slanders and put him to death.' Reported speech in a third-century compilation, hence claimed and medium."
+ },
+ {
+  "id": "LIN_007",
+  "teacher_id": "P_CONFUCIUS",
+  "student_id": "P_ZENGZI",
+  "lineage_type": "direct",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_SHIJI_67"
+  ],
+  "note": "Shiji 67 lists him among the disciples and dates him by his age difference from Confucius (少孔子四十六歲). The Analects gives him sayings of his own (1.4, 8.3-7)."
+ },
+ {
+  "id": "LIN_008",
+  "teacher_id": "P_CONFUCIUS",
+  "student_id": "P_ZIXIA",
+  "lineage_type": "direct",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_SHIJI_67"
+  ],
+  "note": "Shiji 67: 卜商字子夏。少孔子四十四歲. The Analects has Confucius address him directly (3.8, 6.11)."
+ },
+ {
+  "id": "LIN_009",
+  "teacher_id": "P_CONFUCIUS",
+  "student_id": "P_RANQIU",
+  "lineage_type": "direct",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_SHIJI_67",
+   "SRC_LEGGE_ANALECTS"
+  ],
+  "note": "Shiji 67 lists him among the disciples; the Analects has Confucius rebuke him by name for enriching the Ji family (11.17) and question him about his ambitions (11.26). The Zuozhuan, Ai 11, shows him in the Ji family's service, which is what the rebuke is about."
+ },
+ {
+  "id": "LIN_010",
+  "teacher_id": "P_BUDDHA",
+  "student_id": "P_SARIPUTTA",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd1:23-24.7, read this session. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_011",
+  "teacher_id": "P_BUDDHA",
+  "student_id": "P_MOGGALLANA",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd1:23-24.7, read this session. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_012",
+  "teacher_id": "P_BUDDHA",
+  "student_id": "P_ANANDA",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SUTTACENTRAL_DN16"
+  ],
+  "note": "DN 16 has him as the constant attendant from 1.4.1 to 6.12.5, read this session. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_013",
+  "teacher_id": "P_BUDDHA",
+  "student_id": "P_MAHAKASSAPA",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd21:1.1.2 has him call the Buddha our Teacher; the segments read this session do not narrate his ordination. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_014",
+  "teacher_id": "P_BUDDHA",
+  "student_id": "P_DEVADATTA",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd17:2.1-3.6. A lineage row for the disciple who tried to take the order and to kill the teacher - kept because a lineage graph that shows only the successes is a devotional object, not a record. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_015",
+  "teacher_id": "P_SANJAYA",
+  "student_id": "P_SARIPUTTA",
+  "lineage_type": "school",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd1:24.5.3, read this session: two hundred and fifty wanderers who were disciples of Sancaya went over. The prior teacher, recorded because a movement's recruits come from somewhere. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_016",
+  "teacher_id": "P_SANJAYA",
+  "student_id": "P_MOGGALLANA",
+  "lineage_type": "school",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd1:24.5.3, read this session. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_017",
+  "teacher_id": "P_BUDDHA",
+  "student_id": "P_KONDANNA",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_SN",
+   "SRC_SC_VINAYA"
+  ],
+  "note": "SN 56.11 and pli-tv-kd1:6.10-6.13: one of the group of five in the deer park. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_018",
+  "teacher_id": "P_BUDDHA",
+  "student_id": "P_SUBHADDA",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SUTTACENTRAL_DN16"
+  ],
+  "note": "DN 16:5.23-5.27: the last person taught, on the last night. reliability=medium throughout these rows and not high, deliberately: the Pali Vinaya and the Digha are later compilations of the tradition that these links constitute, so the texts are evidence of what the school claimed about itself. That is worth recording and is not the same as contemporary attestation."
+ },
+ {
+  "id": "LIN_019",
+  "teacher_id": "P_ZIXIA",
+  "student_id": "P_MARQUIS_WEN_WEI",
+  "lineage_type": "direct",
+  "reliability": "low",
+  "source_ids": [
+   "SRC_WS_SHIJI_44",
+   "SRC_WS_SHIJI_15"
+  ],
+  "note": "Shiji 44 魏世家: 文侯受子夏經藝 (read 2026-10-04 at zh.wikisource.org page 史記/卷044 (revision 7903606, fetched whole via action=raw on 2026-10-04, this session)); Shiji 15, the 魏 column at the line labelled 407: 十八。文侯受經子夏 (read 2026-10-04 at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session)). reliability LOW for the reason E_CN_036 records: Shiji 67 makes Zixia forty-four years younger than Confucius (born -508/-507, E_CN_028), so he would be about a hundred at the table's date. The two chapters cannot both be right; the link is entered as the Shiji gives it, with the conflict on the record."
+ },
+ {
+  "id": "LIN_020",
+  "teacher_id": "P_XUNZI",
+  "student_id": "P_HANFEI",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_WS_SHIJI_63"
+  ],
+  "note": "Shiji 63: 與李斯俱事荀卿，斯自以為不如非。 (read 2026-10-04 at zh.wikisource.org page 史記/卷063 (revision 7903601, fetched whole via action=raw on 2026-10-04, this session)). Medium: one Shiji sentence."
+ },
+ {
+  "id": "LIN_021",
+  "teacher_id": "P_XUNZI",
+  "student_id": "P_LISI",
+  "lineage_type": "direct",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_WS_SHIJI_74",
+   "SRC_WS_SHIJI_87",
+   "SRC_WS_SHIJI_63"
+  ],
+  "note": "Shiji 74: 李斯嘗為弟子，已而相秦; Shiji 87: 乃從荀卿學帝王之術。; Shiji 63: 與李斯俱事荀卿 (all read 2026-10-04, this session). Three chapters of one work."
+ },
+ {
+  "id": "LIN_022",
+  "teacher_id": "P_ZENGZI",
+  "student_id": "P_WUQI",
+  "lineage_type": "direct",
+  "reliability": "low",
+  "source_ids": [
+   "SRC_WS_SHIJI_65"
+  ],
+  "note": "Shiji 65: 嘗學於曾子 … 遂事曾子。居頃之，其母死，起終不歸。曾子薄之，而與起絕。 (read 2026-10-04 at zh.wikisource.org page 史記/卷065 (revision 2567048, fetched whole via action=raw on 2026-10-04, this session)). reliability LOW: Shiji 67 makes Zengzi forty-six years younger than Confucius (born -506/-505, P_ZENGZI, E_CN_029), and Wu Qi's career runs to -381 (E_CN_050); the teaching is possible only if Wu Qi was young and Zengzi old, and the same chapter says Zengzi broke with him. Entered as the Shiji gives it, with the strain stated (the LIN_019 precedent)."
+ }
+]

@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/relations.schema.json",
+  "title": "relations",
+  "description": "Person-to-person relations.",
+  "type": "object",
+  "required": [
+    "id",
+    "person_a",
+    "person_b",
+    "rel_type",
+    "rel_label_en",
+    "reliability",
+    "source_ids",
+    "note"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "person_a": {
+      "type": "string"
+    },
+    "person_b": {
+      "type": "string"
+    },
+    "rel_type": {
+      "type": "string",
+      "enum": [
+        "kin",
+        "rival",
+        "enemy",
+        "teacher",
+        "service",
+        "patron",
+        "associate"
+      ]
+    },
+    "rel_label_en": {
+      "type": "string"
+    },
+    "reliability": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "source_ids": {
+      "type": "string",
+      "description": "Semicolon-separated id list."
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "relations",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "person_a",
+        "target": "people",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "person_b",
+        "target": "people",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "source_ids",
+        "target": "sources",
+        "allowBlank": false,
+        "multi": true
+      },
+      {
+        "rule": "enum",
+        "field": "reliability"
+      },
+      {
+        "rule": "enum",
+        "field": "rel_type"
+      },
+      {
+        "rule": "procedural",
+        "name": "relations_self"
+      }
+    ]
+  }
+}

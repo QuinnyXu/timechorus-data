@@ -1,0 +1,56 @@
+year,region_id,one_line_en,source_ids,reliability
+-586,R_IL,Jerusalem falls to Nebuchadnezzar; the Temple is burned.,SRC_JPS1917,high
+-586,R_CN,Confucius is not yet born; Lu is ruled by Duke Cheng (r. 590–573; 586 is his fifth year); the Zhou king is a figurehead.,SRC_LEGGE_ZUO,high
+-586,R_GR,Solon's laws are eight years old; Athens is drifting toward the tyranny of Peisistratus.,SRC_KENYON_ATHPOL,medium
+-586,R_PE,Persia is still a vassal of the Medes; Cyrus is a child or not yet born.,SRC_GODLEY_HDT,medium
+-586,R_IN,Late Vedic ritual culture; the Buddha is not yet born on the short chronology.,SRC_BECHERT1991,low
+-539,R_PE,Cyrus enters Babylon without a battle.,SRC_LIVIUS_NABONIDUS,high
+-539,R_IL,The exiles hear Second Isaiah name Cyrus as the LORD's anointed.,SRC_JPS1917,medium
+-539,R_CN,Confucius is about twelve years old in Lu.,SRC_SHIJI_47,medium
+-539,R_GR,The Ionian cities have been under Persian rule for some years: Harpagus subdued the mainland Ionians after the fall of Sardis.,SRC_GODLEY_HDT,medium
+-500,R_CN,"Confucius, about fifty, serves briefly in the government of Lu.",SRC_SHIJI_47,medium
+-500,R_IN,The Buddha teaches in Magadha and Kosala (short chronology).,SRC_BECHERT1991,low
+-500,R_IL,Yehud is a small Persian province; the Second Temple is fifteen years old.,SRC_JPS1917,medium
+-500,R_GR,Cleisthenes's democracy is eight years old; Heraclitus writes at Ephesus; the Ionian revolt is about to begin.,SRC_GODLEY_HDT;SRC_DL9,medium
+-500,R_PE,Darius rules from Susa and Persepolis over the largest empire yet seen.,SRC_LIVIUS_BEHISTUN,high
+-479,R_CN,Confucius dies in Lu.,SRC_LEGGE_ZUO,high
+-479,R_GR,The Greeks defeat the Persians at Plataea and Mycale; the Persian Wars end.,SRC_GODLEY_HDT,high
+-479,R_PE,Xerxes withdraws from Greece.,SRC_GODLEY_HDT,high
+-399,R_GR,Socrates is executed in Athens.,SRC_JOWETT_APOLOGY,high
+-399,R_CN,The Warring States era: Mozi's school is active; Mencius not yet born.,SRC_LOEWE1993,medium
+-399,R_IN,Within the range of the Buddha's death (short chronology).,SRC_BECHERT1991,low
+-539,R_IN,On the short chronology the Buddha is not yet born; the oldest Upanishads are already behind the Ganges plain.,SRC_BECHERT1991;SRC_SBE01,low
+-479,R_IL,Yehud is a small Persian province and the Second Temple is about thirty-seven years old; no Hebrew text in this corpus is dated to this year.,SRC_JPS1917,low
+-479,R_IN,On the short chronology the Buddha is somewhere between unborn and about twenty; the sources will not say which.,SRC_BECHERT1991,low
+-399,R_IL,"Yehud is a Persian province; the missions of Ezra and Nehemiah are dated by the regnal years of an Artaxerxes the books never identify, and may be just past or still to come.",SRC_JPS1917,low
+-399,R_PE,The Achaemenid empire continues; Darius's inscription at Behistun is more than a century old.,SRC_LIVIUS_BEHISTUN,low
+-546,R_GR,Sardis falls to Cyrus and the Ionian cities pass under Persian rule; Thales's Miletus is now a subject city.,SRC_GODLEY_HDT,medium
+-546,R_PE,Cyrus takes Lydia and Persia reaches the Aegean.,SRC_GODLEY_HDT,medium
+-546,R_CN,Confucius is about five years old in Lu.,SRC_SHIJI_47;SRC_GONGYANG,medium
+-546,R_IL,"The Judeans are fifty years into the exile; Babylon is ruled by Nabonidus, who spends these years at Tayma in Arabia.",SRC_JPS1917;SRC_LIVIUS_NABONIDUS,medium
+-546,R_IN,On the short chronology the Buddha is not yet born.,SRC_BECHERT1991,low
+-536,R_CN,"Zichan casts the penal code of Zheng in bronze, and Shuxiang writes from Jin to tell him he has ruined the state.",SRC_LEGGE_ZUO,high
+-536,R_IL,The first returnees are back in Jerusalem; the altar stands again and the foundation of the Temple is being laid.,SRC_JPS1917,medium
+-536,R_PE,Cyrus rules from Babylon to the Aegean.,SRC_LIVIUS_NABONIDUS,medium
+-536,R_GR,The Ionian cities have been Persian subjects for a decade.,SRC_GODLEY_HDT,medium
+-536,R_IN,On the short chronology the Buddha is not yet born.,SRC_BECHERT1991,low
+-490,R_GR,"The Athenians beat the Persians at Marathon; Aeschylus is in the battle, thirty-five years old.",SRC_GODLEY_HDT;SRC_PARIAN1788,high
+-490,R_PE,Darius's expedition against Eretria and Athens ends on the plain at Marathon.,SRC_GODLEY_HDT,high
+-490,R_CN,"Confucius is in his sixties, in the middle of his years of wandering between the states.",SRC_SHIJI_47,medium
+-490,R_IL,Yehud is a Persian province; the Second Temple is about twenty-five years old.,SRC_JPS1917,medium
+-490,R_IN,On the short chronology the Buddha is a child or a young man.,SRC_BECHERT1991,low
+-480,R_GR,Thermopylae and Salamis: the Persian fleet is broken in the strait off Salamis.,SRC_GODLEY_HDT,high
+-480,R_PE,"Xerxes bridges the Hellespont, cuts a canal through Athos, and invades Greece.",SRC_GODLEY_HDT;SRC_PARIAN1788,high
+-480,R_CN,Confucius is about seventy and has returned to Lu.,SRC_SHIJI_47,medium
+-480,R_IL,"Yehud is a small Persian province, a generation after the Temple was finished.",SRC_JPS1917,low
+-480,R_IN,On the short chronology the Buddha is a young man; nothing in the Indian record is dated to this year.,SRC_BECHERT1991,low
+-431,R_GR,"The Peloponnesian War breaks out, and Thucydides begins writing at the moment it does.",SRC_CRAWLEY_THUC,high
+-431,R_CN,Confucius has been dead nearly fifty years and his disciples' schools are scattered among the states.,SRC_SHIJI_67,medium
+-431,R_PE,Artaxerxes I still reigns; he will die in the seventh winter of the Greek war.,SRC_CRAWLEY_THUC,medium
+-431,R_IL,Yehud under Persian rule; the Hebrew books that cover this period date themselves only by unidentified regnal years.,SRC_JPS1917,low
+-431,R_IN,Within the Buddha's teaching life on the short chronology.,SRC_BECHERT1991,low
+-404,R_GR,"Athens surrenders, the long walls come down, and the Thirty are installed.",SRC_XEN_HELL,high
+-404,R_CN,The Warring States: Mozi's school is active and the Mohist canon is being assembled.,SRC_LOEWE1993,medium
+-404,R_IL,"Yehud under Persian rule, between the Temple's completion and whatever date is right for Ezra.",SRC_JPS1917,low
+-404,R_IN,Within the range of the Buddha's death on the short chronology.,SRC_BECHERT1991,low
+-404,R_PE,"Darius II has died; Artaxerxes II is king, and his brother Cyrus, accused of plotting, has been arrested and sent back to his province.",SRC_BROWNSON_ANAB;SRC_PD1942,medium

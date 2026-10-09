@@ -1,0 +1,1829 @@
+[
+ {
+  "id": "IL_001",
+  "idea_id": "I_REN",
+  "target_type": "passage",
+  "target_id": "Q_001",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_002",
+  "idea_id": "I_REN",
+  "target_type": "person",
+  "target_id": "P_CONFUCIUS",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_003",
+  "idea_id": "I_REN",
+  "target_type": "person",
+  "target_id": "P_MENCIUS",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Grounds ren in innate human nature."
+ },
+ {
+  "id": "IL_004",
+  "idea_id": "I_SHU",
+  "target_type": "passage",
+  "target_id": "Q_002",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_005",
+  "idea_id": "I_SHU",
+  "target_type": "idea",
+  "target_id": "I_AHIMSA",
+  "link_type": "parallels",
+  "reliability": "medium",
+  "note": "Both restrain the self for the sake of others; different metaphysics."
+ },
+ {
+  "id": "IL_006",
+  "idea_id": "I_WUWEI",
+  "target_type": "passage",
+  "target_id": "Q_003",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_007",
+  "idea_id": "I_WUWEI",
+  "target_type": "idea",
+  "target_id": "I_REN",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "The Daodejing's polemic against Confucian virtue-talk. Stratum recorded per ruling L-19: ch. 18 is attested in the Guodian bamboo slips, c. 300 BCE (bundle C), while ch. 38 is received-text only, first attested at Mawangdui c. 200 BCE - so this refutes edge is strongest on ch. 18. Chapter list for the three Guodian bundles read 2026-09-07 in Russell Kirkland, 'The Laozi Debris from Guodian', Religious Studies Review 27 (2001), p. 314 (terebess.hu/english/tao/guodian.pdf): ch. 18 present, ch. 38 absent, as is the whole of chs 67-81."
+ },
+ {
+  "id": "IL_008",
+  "idea_id": "I_MIDDLE_WAY",
+  "target_type": "person",
+  "target_id": "P_BUDDHA",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_009",
+  "idea_id": "I_MIDDLE_WAY",
+  "target_type": "passage",
+  "target_id": "Q_005",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Last words summarise the path as diligence."
+ },
+ {
+  "id": "IL_010",
+  "idea_id": "I_AHIMSA",
+  "target_type": "person",
+  "target_id": "P_MAHAVIRA",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_026",
+  "idea_id": "I_AHIMSA",
+  "target_type": "passage",
+  "target_id": "Q_014",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Text postdates Mahavira by generations."
+ },
+ {
+  "id": "IL_011",
+  "idea_id": "I_AHIMSA",
+  "target_type": "person",
+  "target_id": "P_BUDDHA",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_012",
+  "idea_id": "I_INDIV_RESP",
+  "target_type": "passage",
+  "target_id": "Q_006",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_013",
+  "idea_id": "I_INDIV_RESP",
+  "target_type": "event",
+  "target_id": "E_IL_002",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The exile is the setting that makes collective guilt unbearable."
+ },
+ {
+  "id": "IL_014",
+  "idea_id": "I_MONOTHEISM",
+  "target_type": "passage",
+  "target_id": "Q_007",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_015",
+  "idea_id": "I_MONOTHEISM",
+  "target_type": "event",
+  "target_id": "E_PE_001",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Cyrus's conquest is read as the one God moving a foreign king."
+ },
+ {
+  "id": "IL_016",
+  "idea_id": "I_ASHA",
+  "target_type": "passage",
+  "target_id": "Q_009",
+  "link_type": "originates",
+  "reliability": "low",
+  "note": "Dating of the Gathas uncertain."
+ },
+ {
+  "id": "IL_017",
+  "idea_id": "I_ASHA",
+  "target_type": "passage",
+  "target_id": "Q_008",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Darius turns a religious dualism into a political theology of legitimacy."
+ },
+ {
+  "id": "IL_018",
+  "idea_id": "I_ASHA",
+  "target_type": "event",
+  "target_id": "E_PE_003",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_019",
+  "idea_id": "I_LOGOS",
+  "target_type": "passage",
+  "target_id": "Q_010",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_020",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_002",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_021",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_011",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Herodotus puts the word in a Persian's mouth in 522: an anachronism worth showing."
+ },
+ {
+  "id": "IL_022",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_012",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_023",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_005",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "The democracy executes its own questioner."
+ },
+ {
+  "id": "IL_024",
+  "idea_id": "I_EXAMINED_LIFE",
+  "target_type": "passage",
+  "target_id": "Q_013",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_025",
+  "idea_id": "I_EXAMINED_LIFE",
+  "target_type": "person",
+  "target_id": "P_PLATO",
+  "link_type": "transmits",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_027",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "passage",
+  "target_id": "Q_017",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Herodotus 3.38 poses the question without the technical pair: every nation thinks its own customs best, and Pindar's line makes nomos king. The word physis is not used here, so this is where the problem is first set, not where the antithesis is named."
+ },
+ {
+  "id": "IL_028",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "passage",
+  "target_id": "Q_026",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Democritus states the antithesis in its sharpest form and in the two words themselves: qualities exist nomōi, atoms and void physei."
+ },
+ {
+  "id": "IL_029",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "passage",
+  "target_id": "Q_029",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Xenophanes, two generations earlier, applies the same argument to the gods: what people take for the divine turns out to be their own colouring."
+ },
+ {
+  "id": "IL_030",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "passage",
+  "target_id": "Q_022",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Thucydides on the plague: when neither fear of gods nor law of man restrains anyone, what is left is what people are like by nature. The idea tested by an epidemic."
+ },
+ {
+  "id": "IL_031",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "passage",
+  "target_id": "Q_021",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "The Corcyra chapter: under civil war the words themselves change sides, which is the political form of the same problem."
+ },
+ {
+  "id": "IL_032",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "idea",
+  "target_id": "I_RELATIVISM",
+  "link_type": "parallels",
+  "reliability": "high",
+  "note": "Two faces of the same fifth-century move: if nothing is by nature, the measure has to be human."
+ },
+ {
+  "id": "IL_033",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "idea",
+  "target_id": "I_XINGSHU",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "An independent cross-pillar pairing, not a borrowing: Shuxiang's objection to publishing the law and the Greek argument about nomos both ask whether rules are natural or made. Reliability low because the two traditions share no contact and the resemblance is at the level of the question, not the answer."
+ },
+ {
+  "id": "IL_034",
+  "idea_id": "I_ARETE",
+  "target_type": "passage",
+  "target_id": "Q_028",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Xenophanes disputes the honour a city gives the athlete and claims it for wisdom — the earliest surviving argument in this dataset about what excellence is for."
+ },
+ {
+  "id": "IL_035",
+  "idea_id": "I_ARETE",
+  "target_type": "person",
+  "target_id": "P_XENOPHANES",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_036",
+  "idea_id": "I_HUBRIS",
+  "target_type": "passage",
+  "target_id": "Q_016",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Artabanus's warning to Xerxes is the fullest statement of the doctrine in Herodotus, and it is put in a Persian's mouth on the eve of the invasion it explains."
+ },
+ {
+  "id": "IL_037",
+  "idea_id": "I_HUBRIS",
+  "target_type": "event",
+  "target_id": "E_GR_021",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Salamis is the outcome Herodotus's whole structure is built to explain."
+ },
+ {
+  "id": "IL_038",
+  "idea_id": "I_HUBRIS",
+  "target_type": "idea",
+  "target_id": "I_TIANMING",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "Wu Zixu's 'what is full must be broken: that is the way of heaven' (Q_042, 484 BCE) and Artabanus's 'the god loves to bring low all things of surpassing greatness' (Q_016) are the same thought in two traditions with no contact. Reliability low: the parallel is real, the connection is not."
+ },
+ {
+  "id": "IL_039",
+  "idea_id": "I_ATOMISM",
+  "target_type": "passage",
+  "target_id": "Q_026",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Diogenes Laertius's summary of the doctrine; a testimonium, not Democritus's own words — see the passage note."
+ },
+ {
+  "id": "IL_040",
+  "idea_id": "I_ATOMISM",
+  "target_type": "person",
+  "target_id": "P_DEMOCRITUS",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Diogenes Laertius 9.34 makes Leucippus his teacher, so the attribution of the doctrine to Democritus alone is the tradition's simplification."
+ },
+ {
+  "id": "IL_041",
+  "idea_id": "I_RELATIVISM",
+  "target_type": "passage",
+  "target_id": "Q_024",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_042",
+  "idea_id": "I_RELATIVISM",
+  "target_type": "passage",
+  "target_id": "Q_025",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "The agnosticism about the gods follows from the same premise and is what got him expelled."
+ },
+ {
+  "id": "IL_043",
+  "idea_id": "I_RELATIVISM",
+  "target_type": "person",
+  "target_id": "P_PROTAGORAS",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_044",
+  "idea_id": "I_RELATIVISM",
+  "target_type": "event",
+  "target_id": "E_GR_028",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "A man who taught that every question has two sides is asked to write a city's laws."
+ },
+ {
+  "id": "IL_045",
+  "idea_id": "I_DIKE",
+  "target_type": "passage",
+  "target_id": "Q_027",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Anaximander uses the vocabulary of a lawsuit — reparation, satisfaction, injustice — of the elements themselves. Reliability medium because the words reach us inside Theophrastus and the extent of the quotation is disputed."
+ },
+ {
+  "id": "IL_046",
+  "idea_id": "I_DIKE",
+  "target_type": "person",
+  "target_id": "P_ANAXIMANDER",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_047",
+  "idea_id": "I_DIKE",
+  "target_type": "passage",
+  "target_id": "Q_020",
+  "link_type": "refutes",
+  "reliability": "high",
+  "note": "The Athenians at Melos deny exactly this: right is only in question between equals in power. Dike as the order of things, contradicted in the plainest words in Greek."
+ },
+ {
+  "id": "IL_048",
+  "idea_id": "I_DIKE",
+  "target_type": "idea",
+  "target_id": "I_ASHA",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "Cross-pillar: the Iranian order of truth against the Lie and the Greek dike both make justice a property of the cosmos before it is a property of courts. No contact is claimed."
+ },
+ {
+  "id": "IL_049",
+  "idea_id": "I_LOGOS",
+  "target_type": "passage",
+  "target_id": "Q_030",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Parmenides' identification of what can be thought with what can be pushes Heraclitus's logos towards a claim about being itself."
+ },
+ {
+  "id": "IL_050",
+  "idea_id": "I_XINGSHU",
+  "target_type": "passage",
+  "target_id": "Q_036",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "The casting of the code in Zheng in 536, with the objection to it, in the same entry."
+ },
+ {
+  "id": "IL_051",
+  "idea_id": "I_XINGSHU",
+  "target_type": "person",
+  "target_id": "P_ZICHAN",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_052",
+  "idea_id": "I_XINGSHU",
+  "target_type": "event",
+  "target_id": "E_CN_008",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_053",
+  "idea_id": "I_XINGSHU",
+  "target_type": "passage",
+  "target_id": "Q_037",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Jin does the same thing twenty-three years later and Confucius objects in the same terms Shuxiang had used — so the practice spread and the argument against it hardened."
+ },
+ {
+  "id": "IL_054",
+  "idea_id": "I_XINGSHU",
+  "target_type": "person",
+  "target_id": "P_SHUXIANG",
+  "link_type": "refutes",
+  "reliability": "high",
+  "note": "Shuxiang's letter is the classic statement of the case against publishing law."
+ },
+ {
+  "id": "IL_055",
+  "idea_id": "I_ZHENGMING",
+  "target_type": "passage",
+  "target_id": "Q_032",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_056",
+  "idea_id": "I_ZHENGMING",
+  "target_type": "person",
+  "target_id": "P_CONFUCIUS",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_057",
+  "idea_id": "I_ZHENGMING",
+  "target_type": "passage",
+  "target_id": "Q_043",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Zigong applies the test to a living duke over Confucius's own grave, within days of his death."
+ },
+ {
+  "id": "IL_058",
+  "idea_id": "I_ZHENGMING",
+  "target_type": "idea",
+  "target_id": "I_NOMOS_PHYSIS",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "Thucydides 3.82 (Q_021) and Analects 13.3 (Q_032) both make the corruption of language the symptom of political collapse. Independent; no contact is claimed."
+ },
+ {
+  "id": "IL_059",
+  "idea_id": "I_JIANAI",
+  "target_type": "passage",
+  "target_id": "Q_046",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_060",
+  "idea_id": "I_JIANAI",
+  "target_type": "person",
+  "target_id": "P_MOZI",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The Mozi is a school compilation; the attribution to Mo Di personally is the tradition's, and Sima Qian could not even date him (Shiji 74)."
+ },
+ {
+  "id": "IL_061",
+  "idea_id": "I_JIANAI",
+  "target_type": "idea",
+  "target_id": "I_REN",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "Mohist impartial care is aimed squarely at the graded affection that Confucian ren and xiao build on: the Mohists held that starting from your own family is the cause of the disorder, not the cure."
+ },
+ {
+  "id": "IL_062",
+  "idea_id": "I_JIANAI",
+  "target_type": "idea",
+  "target_id": "I_XIAO",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "The sharper form of the same quarrel: Q_035 makes filial duty the root of virtue, Q_046 makes partiality the root of disorder. The Mozi answers the objection by arguing that impartial care produces better filial sons."
+ },
+ {
+  "id": "IL_063",
+  "idea_id": "I_LI",
+  "target_type": "passage",
+  "target_id": "Q_038",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Zi Taishu quoting Zichan, 517 BCE: ritual is the constant of heaven, the rightness of earth, the conduct of the people. The earliest passage in this dataset that makes li cosmic rather than ceremonial."
+ },
+ {
+  "id": "IL_064",
+  "idea_id": "I_LI",
+  "target_type": "passage",
+  "target_id": "Q_033",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Confucius turns it inward: subdue the self and return to ritual, and that is humaneness."
+ },
+ {
+  "id": "IL_065",
+  "idea_id": "I_LI",
+  "target_type": "passage",
+  "target_id": "Q_043",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Ritual used as a public standard against a ruler."
+ },
+ {
+  "id": "IL_066",
+  "idea_id": "I_LI",
+  "target_type": "event",
+  "target_id": "E_CN_015",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "At Jiagu, Confucius stops an armed ambush by naming it a breach of ritual — and it works."
+ },
+ {
+  "id": "IL_067",
+  "idea_id": "I_LI",
+  "target_type": "idea",
+  "target_id": "I_XINGSHU",
+  "link_type": "refutes",
+  "reliability": "high",
+  "note": "The central Chinese political argument of the period: order by ritual and rank, or order by published rule. Shuxiang and Confucius state it as an opposition in Q_036 and Q_037."
+ },
+ {
+  "id": "IL_068",
+  "idea_id": "I_TIANMING",
+  "target_type": "passage",
+  "target_id": "Q_034",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "The Analects' use: something the noble person stands in awe of and the mean person does not even know."
+ },
+ {
+  "id": "IL_069",
+  "idea_id": "I_TIANMING",
+  "target_type": "passage",
+  "target_id": "Q_042",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Wu Zixu, under sentence of death in 484: what is full must be broken, that is the way of heaven. The same vocabulary used of an impersonal regularity rather than a charge to rule."
+ },
+ {
+  "id": "IL_070",
+  "idea_id": "I_TIANMING",
+  "target_type": "passage",
+  "target_id": "Q_040",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Yan Ying and Shuxiang in 539 describe the mandate being lost in the only way it is ever visible: the people go over to whoever feeds them."
+ },
+ {
+  "id": "IL_071",
+  "idea_id": "I_TIANMING",
+  "target_type": "event",
+  "target_id": "E_CN_023",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Fifty-eight years after Yan Ying's prediction, the Chen house takes Qi by killing its ruler."
+ },
+ {
+  "id": "IL_072",
+  "idea_id": "I_XIAO",
+  "target_type": "passage",
+  "target_id": "Q_035",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_073",
+  "idea_id": "I_XIAO",
+  "target_type": "person",
+  "target_id": "P_ZENGZI",
+  "link_type": "transmits",
+  "reliability": "medium",
+  "note": "The later tradition attaches the classic of filial duty to Zengzi's name; that attribution is not evidence that he wrote it, and the link records transmission by a school, not authorship."
+ },
+ {
+  "id": "IL_074",
+  "idea_id": "I_XIAO",
+  "target_type": "idea",
+  "target_id": "I_REN",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Analects 1.2 makes filial and fraternal duty the root of ren; the two ideas are joined at the first chapter of the collection."
+ },
+ {
+  "id": "IL_075",
+  "idea_id": "I_COVENANT",
+  "target_type": "passage",
+  "target_id": "Q_062",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Jeremiah 31:31-33: a NEW covenant, not according to the covenant made with their fathers, with the law put in their inward parts. The idea of covenant is older than anything this batch dates; what is new here, and what this link records, is a covenant deliberately rewritten."
+ },
+ {
+  "id": "IL_076",
+  "idea_id": "I_COVENANT",
+  "target_type": "person",
+  "target_id": "P_JEREMIAH",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_077",
+  "idea_id": "I_COVENANT",
+  "target_type": "event",
+  "target_id": "E_IL_003",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The destruction of the Temple is what makes a broken covenant a fact rather than a threat."
+ },
+ {
+  "id": "IL_078",
+  "idea_id": "I_COVENANT",
+  "target_type": "idea",
+  "target_id": "I_EXILE_PRESENCE",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "If the relationship survives the loss of the land, it has to be re-described; the two ideas do that work from different directions."
+ },
+ {
+  "id": "IL_079",
+  "idea_id": "I_MESSIAH",
+  "target_type": "passage",
+  "target_id": "Q_058",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Isaiah 45:1: thus saith the LORD to His anointed, to Cyrus."
+ },
+ {
+  "id": "IL_080",
+  "idea_id": "I_MESSIAH",
+  "target_type": "passage",
+  "target_id": "Q_057",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Isaiah 44:28 prepares it: he is My shepherd, and shall perform all My pleasure."
+ },
+ {
+  "id": "IL_081",
+  "idea_id": "I_MESSIAH",
+  "target_type": "person",
+  "target_id": "P_CYRUS",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The title is given to him; there is no evidence he knew of it."
+ },
+ {
+  "id": "IL_082",
+  "idea_id": "I_MESSIAH",
+  "target_type": "event",
+  "target_id": "E_IL_004",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Cyrus's decree is what the oracle is taken to have anticipated."
+ },
+ {
+  "id": "IL_083",
+  "idea_id": "I_EXILE_PRESENCE",
+  "target_type": "passage",
+  "target_id": "Q_053",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Ezekiel 11:16: yet have I been to them as a little sanctuary in the countries where they are come."
+ },
+ {
+  "id": "IL_084",
+  "idea_id": "I_EXILE_PRESENCE",
+  "target_type": "passage",
+  "target_id": "Q_061",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Jeremiah 29:5-7 takes the practical consequence: build houses there, and pray for the city."
+ },
+ {
+  "id": "IL_085",
+  "idea_id": "I_EXILE_PRESENCE",
+  "target_type": "passage",
+  "target_id": "Q_054",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Ezekiel 37:11-14 turns the same conviction forward into a promised return."
+ },
+ {
+  "id": "IL_086",
+  "idea_id": "I_EXILE_PRESENCE",
+  "target_type": "person",
+  "target_id": "P_EZEKIEL",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_087",
+  "idea_id": "I_EXILE_PRESENCE",
+  "target_type": "event",
+  "target_id": "E_IL_002",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The vision by the Chebar canal is the idea in its first form: the throne is mobile."
+ },
+ {
+  "id": "IL_088",
+  "idea_id": "I_EXILE_PRESENCE",
+  "target_type": "event",
+  "target_id": "E_IL_019",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The news that the city is smitten is the moment the idea stops being consolation and becomes the only thing left."
+ },
+ {
+  "id": "IL_089",
+  "idea_id": "I_SERVANT",
+  "target_type": "passage",
+  "target_id": "Q_060",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Isaiah 53:4-5: surely our diseases he did bear; he was wounded because of our transgressions."
+ },
+ {
+  "id": "IL_090",
+  "idea_id": "I_SERVANT",
+  "target_type": "person",
+  "target_id": "P_DEUTERO_ISAIAH",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_091",
+  "idea_id": "I_SERVANT",
+  "target_type": "idea",
+  "target_id": "I_INDIV_RESP",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "Recorded as a tension inside the same corpus, not as a debate between people: Ezekiel 18:20 (Q_006) says flatly that the soul that sins shall die and the son shall not bear the father's iniquity, while Isaiah 53 has one bear what belongs to many. Both are in the exile's own century and neither answers the other."
+ },
+ {
+  "id": "IL_092",
+  "idea_id": "I_TORAH_PUBLIC",
+  "target_type": "passage",
+  "target_id": "Q_065",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Nehemiah 8:8: they read in the book distinctly, and gave the sense, and caused them to understand the reading."
+ },
+ {
+  "id": "IL_093",
+  "idea_id": "I_TORAH_PUBLIC",
+  "target_type": "person",
+  "target_id": "P_EZRA",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_094",
+  "idea_id": "I_TORAH_PUBLIC",
+  "target_type": "event",
+  "target_id": "E_IL_035",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The reading at the Water Gate. Its year depends on which Artaxerxes the book means; see the event's dating_basis."
+ },
+ {
+  "id": "IL_095",
+  "idea_id": "I_TORAH_PUBLIC",
+  "target_type": "idea",
+  "target_id": "I_XINGSHU",
+  "link_type": "parallels",
+  "reliability": "medium",
+  "note": "A cross-pillar edge, and a real one: within a century and a half, in two places that had not heard of each other, a community put its law where the people it governed could get at it - Zichan casting the penal code in bronze at Zheng in 536, and Ezra reading the Law aloud in Jerusalem. The purposes differ (one is state law, one is a covenant document) and the row does not claim they are the same idea."
+ },
+ {
+  "id": "IL_096",
+  "idea_id": "I_SABBATH",
+  "target_type": "passage",
+  "target_id": "Q_055",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Ezekiel 20:12: I gave them My sabbaths, to be a sign between Me and them."
+ },
+ {
+  "id": "IL_097",
+  "idea_id": "I_SABBATH",
+  "target_type": "person",
+  "target_id": "P_EZEKIEL",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_098",
+  "idea_id": "I_SABBATH",
+  "target_type": "event",
+  "target_id": "E_IL_006",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Spoken to the elders who came to inquire, in the seventh year of the captivity."
+ },
+ {
+  "id": "IL_099",
+  "idea_id": "I_SABBATH",
+  "target_type": "idea",
+  "target_id": "I_EXILE_PRESENCE",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "A weekly observance is the practical form of a God who is not tied to a place."
+ },
+ {
+  "id": "IL_100",
+  "idea_id": "I_MONOTHEISM",
+  "target_type": "passage",
+  "target_id": "Q_059",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Isaiah 45:7 takes the consequence the merged Q_007 (45:5) leaves open: if there is no other god, then the one who forms light and creates darkness also makes peace and creates evil."
+ },
+ {
+  "id": "IL_101",
+  "idea_id": "I_MONOTHEISM",
+  "target_type": "passage",
+  "target_id": "Q_063",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Ezra 1:2-3 has a Persian king say it in the first person - the LORD, the God of heaven, has given me all the kingdoms of the earth - which is the claim of a universal god in an official mouth."
+ },
+ {
+  "id": "IL_102",
+  "idea_id": "I_INDIV_RESP",
+  "target_type": "event",
+  "target_id": "E_IL_019",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Ezekiel 33, in which the news of the fall arrives, is also the chapter that restates the watchman's individual responsibility; the two sit in the same place in the book."
+ },
+ {
+  "id": "IL_103",
+  "idea_id": "I_KARMA",
+  "target_type": "passage",
+  "target_id": "Q_083",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Brihadaranyaka III, 2, 13: what they said was karman, that a man becomes good by good work. The text presents it as something too dangerous to discuss in a full hall, which is a good sign that it was new. NOTE ON DATE: Mueller places the ancient prose Upanishads before 600 BCE, so this attestation is EARLIER than the pilot slice; the idea's range starts at -800 for that reason and the straddle is flagged in the batch note."
+ },
+ {
+  "id": "IL_104",
+  "idea_id": "I_KARMA",
+  "target_type": "passage",
+  "target_id": "Q_077",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "MN 135: beings are the owners of their deeds and heirs to their deeds; it is deeds that divide them into inferior and superior. The Buddhist formulation, inside the pilot slice, and given as the answer to a question about social inequality."
+ },
+ {
+  "id": "IL_105",
+  "idea_id": "I_KARMA",
+  "target_type": "person",
+  "target_id": "P_YAJNAVALKYA",
+  "link_type": "originates",
+  "reliability": "low",
+  "note": "The Brihadaranyaka gives him the exchange; the person is traditional and no date attaches to him."
+ },
+ {
+  "id": "IL_106",
+  "idea_id": "I_KARMA",
+  "target_type": "person",
+  "target_id": "P_BUDDHA",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_107",
+  "idea_id": "I_KARMA",
+  "target_type": "idea",
+  "target_id": "I_SAMSARA",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Karma without rebirth has nowhere to land; the two ideas only work as a pair, and the sources state them as one."
+ },
+ {
+  "id": "IL_108",
+  "idea_id": "I_SAMSARA",
+  "target_type": "passage",
+  "target_id": "Q_083",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The same exchange: what a person becomes by good and bad work presupposes a becoming that outlasts the person."
+ },
+ {
+  "id": "IL_109",
+  "idea_id": "I_SAMSARA",
+  "target_type": "passage",
+  "target_id": "Q_079",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "DN 2's report of the bamboo-staffed ascetic Gosala: transmigration lasts only for a limited period, and after transmigrating the foolish and the astute alike will make an end of suffering. A rival school taking the same premise to the opposite conclusion - that nothing you do shortens it."
+ },
+ {
+  "id": "IL_110",
+  "idea_id": "I_SAMSARA",
+  "target_type": "passage",
+  "target_id": "Q_078",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "DN 2's report of Ajita of the hair blanket: there is no afterlife, no fruit of good and bad deeds, and both the foolish and the astute are annihilated at death. The premise denied outright, inside the same generation."
+ },
+ {
+  "id": "IL_111",
+  "idea_id": "I_SAMSARA",
+  "target_type": "event",
+  "target_id": "E_IN_013",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Six orders in one kingdom disagreeing about it is what makes it visible as an idea rather than an assumption."
+ },
+ {
+  "id": "IL_112",
+  "idea_id": "I_ANATTA",
+  "target_type": "passage",
+  "target_id": "Q_076",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "SN 22.59: form is not-self, and if it were self it would not lead to affliction and you could compel it."
+ },
+ {
+  "id": "IL_113",
+  "idea_id": "I_ANATTA",
+  "target_type": "passage",
+  "target_id": "Q_082",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "Chandogya VI, 8, 7: it is the Self, and thou art it. The two sentences are as close to a head-on contradiction as this atlas contains, and the corpus holds both. Reliability is medium and not high because neither text names the other."
+ },
+ {
+  "id": "IL_114",
+  "idea_id": "I_ANATTA",
+  "target_type": "person",
+  "target_id": "P_BUDDHA",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_115",
+  "idea_id": "I_ANATTA",
+  "target_type": "event",
+  "target_id": "E_IN_006",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_116",
+  "idea_id": "I_ANATTA",
+  "target_type": "idea",
+  "target_id": "I_MIDDLE_WAY",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The not-self analysis is what the middle way is a middle between, on the canon's own ordering: SN 56.11 and SN 22.59 are given to the same five people, in that order."
+ },
+ {
+  "id": "IL_117",
+  "idea_id": "I_DHAMMA",
+  "target_type": "passage",
+  "target_id": "Q_074",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "SN 56.11: the middle way of practice that the Realized One understood, which gives vision and knowledge."
+ },
+ {
+  "id": "IL_118",
+  "idea_id": "I_DHAMMA",
+  "target_type": "passage",
+  "target_id": "Q_073",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "DN 16:6.1.5: the teaching and the training that I have taught and pointed out for you shall be your Teacher after my passing. A founder naming a text and a discipline as his own successor."
+ },
+ {
+  "id": "IL_119",
+  "idea_id": "I_DHAMMA",
+  "target_type": "passage",
+  "target_id": "Q_075",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "The four truths, as the content of it."
+ },
+ {
+  "id": "IL_120",
+  "idea_id": "I_DHAMMA",
+  "target_type": "person",
+  "target_id": "P_BUDDHA",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_121",
+  "idea_id": "I_DHAMMA",
+  "target_type": "event",
+  "target_id": "E_IN_030",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_122",
+  "idea_id": "I_DHAMMA",
+  "target_type": "idea",
+  "target_id": "I_ZHENGMING",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "A weak parallel, kept because it is the kind of edge this atlas exists to show and because it is labelled low: both traditions place the survival of an order in getting the words right and keeping them right, one by rectifying names, the other by reciting a fixed text together. No contact of any kind is implied."
+ },
+ {
+  "id": "IL_123",
+  "idea_id": "I_SRAMANA",
+  "target_type": "passage",
+  "target_id": "Q_078",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The doctrines DN 2 attributes to the six teachers are the movement's range, from materialism to fatalism, reported by a rival."
+ },
+ {
+  "id": "IL_124",
+  "idea_id": "I_SRAMANA",
+  "target_type": "passage",
+  "target_id": "Q_079",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_125",
+  "idea_id": "I_SRAMANA",
+  "target_type": "passage",
+  "target_id": "Q_072",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "DN 16:5.27.5-6: I was twenty-nine years of age when I went forth. Going forth is the movement's defining act and this is its one dated instance."
+ },
+ {
+  "id": "IL_126",
+  "idea_id": "I_SRAMANA",
+  "target_type": "event",
+  "target_id": "E_IN_013",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Six orders, in one kingdom, in one generation."
+ },
+ {
+  "id": "IL_127",
+  "idea_id": "I_SRAMANA",
+  "target_type": "event",
+  "target_id": "E_IN_002",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_128",
+  "idea_id": "I_SRAMANA",
+  "target_type": "person",
+  "target_id": "P_MAHAVIRA",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_129",
+  "idea_id": "I_SRAMANA",
+  "target_type": "person",
+  "target_id": "P_MAKKHALI",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_130",
+  "idea_id": "I_SRAMANA",
+  "target_type": "idea",
+  "target_id": "I_AHIMSA",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Ahimsa is the ethic that the renouncer life makes practicable: a person who owns nothing, farms nothing and fights for nothing can take non-harm much further than a householder can. Recorded as the development the r2-5 block asked for."
+ },
+ {
+  "id": "IL_131",
+  "idea_id": "I_SANGHA",
+  "target_type": "passage",
+  "target_id": "Q_081",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Vinaya kd1:22.18: the gift of the Bamboo Grove, and the ruling that follows it - I allow monasteries. The moment a movement becomes something that can hold property."
+ },
+ {
+  "id": "IL_132",
+  "idea_id": "I_SANGHA",
+  "target_type": "passage",
+  "target_id": "Q_080",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "kd1:11.1: go wandering, and each go a different way. The dispersal that makes a common rule necessary."
+ },
+ {
+  "id": "IL_133",
+  "idea_id": "I_SANGHA",
+  "target_type": "passage",
+  "target_id": "Q_067",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "DN 16:1.4: the principles that prevent decline, given first for the Vajjian republic - meet frequently, meet in harmony, do not alter the ancient decrees - and then, in the section that follows at 1.6, restated for the mendicants. The canon says in its own arrangement that the order is modelled on an assembly."
+ },
+ {
+  "id": "IL_134",
+  "idea_id": "I_SANGHA",
+  "target_type": "event",
+  "target_id": "E_IN_008",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_135",
+  "idea_id": "I_SANGHA",
+  "target_type": "event",
+  "target_id": "E_IN_034",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The first recitation: a community deciding in common what its own text is."
+ },
+ {
+  "id": "IL_136",
+  "idea_id": "I_SANGHA",
+  "target_type": "person",
+  "target_id": "P_BUDDHA",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_137",
+  "idea_id": "I_SANGHA",
+  "target_type": "person",
+  "target_id": "P_MAHAKASSAPA",
+  "link_type": "transmits",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_138",
+  "idea_id": "I_SANGHA",
+  "target_type": "idea",
+  "target_id": "I_ISONOMIA",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "Another deliberately low cross-pillar edge: an assembly that meets frequently, decides in common and binds itself by rules it does not let one man change, appearing independently in Attica and on the Ganges plain within a century. Different institutions, no contact, and the row says so."
+ },
+ {
+  "id": "IL_139",
+  "idea_id": "I_MIDDLE_WAY",
+  "target_type": "passage",
+  "target_id": "Q_074",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "The middle way in its own words, which the merged IL_009 could only reach through the last words at Q_005."
+ },
+ {
+  "id": "IL_140",
+  "idea_id": "I_MIDDLE_WAY",
+  "target_type": "passage",
+  "target_id": "Q_075",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "The four truths."
+ },
+ {
+  "id": "IL_141",
+  "idea_id": "I_AHIMSA",
+  "target_type": "person",
+  "target_id": "P_MAKKHALI",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "The Ajivikas are the third renouncer movement and are lost; DN 2's report does not attribute non-harm to Gosala, and this link records only that he belongs to the same movement, at low reliability. Remove it if the lead thinks it claims more than that."
+ },
+ {
+  "id": "IL_142",
+  "idea_id": "I_VASHNA",
+  "target_type": "passage",
+  "target_id": "Q_088",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Behistun DB §5: by the grace of Ahura Mazda I am king."
+ },
+ {
+  "id": "IL_143",
+  "idea_id": "I_VASHNA",
+  "target_type": "passage",
+  "target_id": "Q_090",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The god's help is what turns a killing by seven conspirators into a restoration: nobody dared speak against Gaumata until Darius asked Ahura Mazda for help."
+ },
+ {
+  "id": "IL_144",
+  "idea_id": "I_VASHNA",
+  "target_type": "passage",
+  "target_id": "Q_093",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The favour works both ways: the god who made Darius king is asked to keep hostile armies, famine and the Lie away from the country."
+ },
+ {
+  "id": "IL_145",
+  "idea_id": "I_VASHNA",
+  "target_type": "passage",
+  "target_id": "Q_099",
+  "link_type": "parallels",
+  "reliability": "medium",
+  "note": "Twenty years earlier the Cyrus Cylinder has Marduk search all lands for a righteous prince and call Cyrus by name. Written in Akkadian for Babylon and naming a different god; recorded as a parallel, not as the source of the Old Persian formula."
+ },
+ {
+  "id": "IL_146",
+  "idea_id": "I_VASHNA",
+  "target_type": "idea",
+  "target_id": "I_MESSIAH",
+  "link_type": "parallels",
+  "reliability": "medium",
+  "note": "In the same years three gods are credited with choosing the same king: Marduk on the Cyrus Cylinder, the LORD in Isaiah 45:1 (Q_058), and - for Cyrus's successors - Ahura Mazda."
+ },
+ {
+  "id": "IL_147",
+  "idea_id": "I_VASHNA",
+  "target_type": "event",
+  "target_id": "E_PE_002",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The coup of 522 is the event the formula is first used to justify."
+ },
+ {
+  "id": "IL_148",
+  "idea_id": "I_DATA",
+  "target_type": "passage",
+  "target_id": "Q_089",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Behistun DB §8: these countries respected my laws (data)."
+ },
+ {
+  "id": "IL_149",
+  "idea_id": "I_DATA",
+  "target_type": "passage",
+  "target_id": "Q_096",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "On his tomb Darius extends the claim to every province 'seized afar from Persia': the law which is mine was established for them."
+ },
+ {
+  "id": "IL_150",
+  "idea_id": "I_DATA",
+  "target_type": "event",
+  "target_id": "E_PE_014",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "A fixed tribute and twenty governorships: the royal ordinance applied as administration (Herodotus 3.89)."
+ },
+ {
+  "id": "IL_151",
+  "idea_id": "I_DATA",
+  "target_type": "passage",
+  "target_id": "Q_102",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "How the ordinances looked from below, as Herodotus reports the Persians' own joke: Darius the shopkeeper."
+ },
+ {
+  "id": "IL_152",
+  "idea_id": "I_DATA",
+  "target_type": "passage",
+  "target_id": "Q_104",
+  "link_type": "transmits",
+  "reliability": "medium",
+  "note": "A Persian king's letter in Ezra sets 'the law of thy God, and the law of the king' side by side over one community, with the same penalties for breaking either. The link records the pairing in the text; no etymological claim about the Aramaic word is made."
+ },
+ {
+  "id": "IL_153",
+  "idea_id": "I_DATA",
+  "target_type": "idea",
+  "target_id": "I_TORAH_PUBLIC",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "In Ezra 7:26 (Q_104) the imperial law and a community's own written law are enforced together - the setting in which I_TORAH_PUBLIC's public reading is dated."
+ },
+ {
+  "id": "IL_154",
+  "idea_id": "I_RECTITUDE",
+  "target_type": "passage",
+  "target_id": "Q_092",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Behistun DB §63: because I was not a deceiver, not a wrongdoer; the translator marks the objects of the oppression clause as doubtful."
+ },
+ {
+  "id": "IL_155",
+  "idea_id": "I_RECTITUDE",
+  "target_type": "idea",
+  "target_id": "I_DIKE",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "Justice claimed as the ground of order, in Persia by a king and in Ionia by a natural philosopher; no contact is claimed."
+ },
+ {
+  "id": "IL_156",
+  "idea_id": "I_RECTITUDE",
+  "target_type": "idea",
+  "target_id": "I_ASHA",
+  "link_type": "parallels",
+  "reliability": "medium",
+  "note": "The same vocabulary as the Lie of I_ASHA, turned on the king himself: his claim to divine help rests on not being a deceiver."
+ },
+ {
+  "id": "IL_157",
+  "idea_id": "I_RESTORATION",
+  "target_type": "passage",
+  "target_id": "Q_098",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Cyrus Cylinder line 32: the gods brought back to their places, the inhabitants restored to their dwellings."
+ },
+ {
+  "id": "IL_158",
+  "idea_id": "I_RESTORATION",
+  "target_type": "event",
+  "target_id": "E_PE_035",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The proclamation itself."
+ },
+ {
+  "id": "IL_159",
+  "idea_id": "I_RESTORATION",
+  "target_type": "event",
+  "target_id": "E_IL_004",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Ezra's decree of Cyrus sending the Judeans home is the same policy as the Judean text tells it. The cylinder does not name Judah; the connection is the reader's, and the reliability says so."
+ },
+ {
+  "id": "IL_160",
+  "idea_id": "I_RESTORATION",
+  "target_type": "passage",
+  "target_id": "Q_063",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Ezra 1:2-3 has Cyrus say that the God of heaven charged him to build a house in Jerusalem - restoration in a Judean god's name instead of Marduk's."
+ },
+ {
+  "id": "IL_161",
+  "idea_id": "I_RESTORATION",
+  "target_type": "idea",
+  "target_id": "I_MESSIAH",
+  "link_type": "parallels",
+  "reliability": "medium",
+  "note": "The Cylinder and Isaiah 45:1 give the same conqueror the same role from inside two different religions."
+ },
+ {
+  "id": "IL_162",
+  "idea_id": "I_CREATOR_WELFARE",
+  "target_type": "passage",
+  "target_id": "Q_094",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Suez c §1: a great god who created heaven, earth, man, and welfare for man."
+ },
+ {
+  "id": "IL_163",
+  "idea_id": "I_CREATOR_WELFARE",
+  "target_type": "passage",
+  "target_id": "Q_095",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Naqsh-i Rustam a §1: the same creation, and the king made 'one king of many, one lord of many'."
+ },
+ {
+  "id": "IL_164",
+  "idea_id": "I_CREATOR_WELFARE",
+  "target_type": "passage",
+  "target_id": "Q_097",
+  "link_type": "transmits",
+  "reliability": "high",
+  "note": "Xerxes carries his father's formula unchanged onto the Gate of All Lands."
+ },
+ {
+  "id": "IL_165",
+  "idea_id": "I_CREATOR_WELFARE",
+  "target_type": "idea",
+  "target_id": "I_MONOTHEISM",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "Within a generation of Second Isaiah's single creator who makes peace and creates evil (Q_059), the Persian formula has one great god create welfare, with the Lie set against it. Parallel and contrast; no contact is claimed."
+ },
+ {
+  "id": "IL_166",
+  "idea_id": "I_JUDGE_BRIDGE",
+  "target_type": "passage",
+  "target_id": "Q_101",
+  "link_type": "originates",
+  "reliability": "low",
+  "note": "Yasna 46.10-11. Dating of the Gathas uncertain."
+ },
+ {
+  "id": "IL_167",
+  "idea_id": "I_JUDGE_BRIDGE",
+  "target_type": "idea",
+  "target_id": "I_INDIV_RESP",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "Each person answers for his own deeds, in Ezekiel 18:20 before a God who judges, in the Gathas at a bridge. Independent; no contact is claimed."
+ },
+ {
+  "id": "IL_168",
+  "idea_id": "I_ASHA",
+  "target_type": "passage",
+  "target_id": "Q_091",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Behistun DB §54: 'the Lie made them rebellious' - rebellion explained as the Lie at work in the provinces."
+ },
+ {
+  "id": "IL_169",
+  "idea_id": "I_ASHA",
+  "target_type": "passage",
+  "target_id": "Q_100",
+  "link_type": "develops",
+  "reliability": "low",
+  "note": "Yasna 30.2, the verse before Q_009: the choice between the two spirits is made 'man and man, each individually for himself'. Dating of the Gathas uncertain."
+ },
+ {
+  "id": "IL_170",
+  "idea_id": "I_MINBEN",
+  "target_type": "passage",
+  "target_id": "Q_113",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Shi Kuang, 559 BCE: Heaven gave birth to the people and set up rulers to shepherd them; a ruler who ruins them may be removed. The earliest passage in this dataset that makes the people the purpose of rule."
+ },
+ {
+  "id": "IL_171",
+  "idea_id": "I_MINBEN",
+  "target_type": "person",
+  "target_id": "P_SHIKUANG",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The speech is reported in a fourth-century compilation (W_ZUOZHUAN -400/-300); the attribution to Shi Kuang is the chronicle's."
+ },
+ {
+  "id": "IL_172",
+  "idea_id": "I_MINBEN",
+  "target_type": "passage",
+  "target_id": "Q_116",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Han Xuanzi, 546 BCE: war is the ruin of the people. The people's welfare is used as an argument of state, but beside an argument of power (Jin must not lose the leadership to Chu), which is why this is medium."
+ },
+ {
+  "id": "IL_173",
+  "idea_id": "I_SHANGXIAN",
+  "target_type": "passage",
+  "target_id": "Q_114",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": null
+ },
+ {
+  "id": "IL_174",
+  "idea_id": "I_SHANGXIAN",
+  "target_type": "person",
+  "target_id": "P_MOZI",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The Mozi is a school compilation; the attribution to Mo Di personally is the tradition's (IL_060 precedent)."
+ },
+ {
+  "id": "IL_175",
+  "idea_id": "I_LI",
+  "target_type": "passage",
+  "target_id": "Q_109",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Analects 2.3: lead by virtue and order by ritual, and the people gain a sense of shame; lead by regulations and order by punishment, and they only avoid the penalty. The Ru side of the contest with I_XINGSHU (IL_067) in one saying."
+ },
+ {
+  "id": "IL_176",
+  "idea_id": "I_LI",
+  "target_type": "passage",
+  "target_id": "Q_107",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Confucius on the field levy, 484 BCE: a gentleman is measured by ritual, and in levies takes the lightest. Ritual as a limit on state extraction; medium because it is a private remark, reported."
+ },
+ {
+  "id": "IL_177",
+  "idea_id": "I_XINGSHU",
+  "target_type": "passage",
+  "target_id": "Q_112",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "501 BCE: a private man's code, written on bamboo, adopted by the state that killed him. Thirty-five years after Zichan's bronze code (Q_036), law has become a text anyone can write."
+ },
+ {
+  "id": "IL_178",
+  "idea_id": "I_XINGSHU",
+  "target_type": "person",
+  "target_id": "P_DENGXI",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Deng Xi's bamboo code (竹刑) is the step after Zichan's bronze code: Zuozhuan, Ding 9."
+ },
+ {
+  "id": "IL_179",
+  "idea_id": "I_XINGSHU",
+  "target_type": "event",
+  "target_id": "E_CN_042",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Zheng puts Deng Xi's code into use."
+ },
+ {
+  "id": "IL_180",
+  "idea_id": "I_REN",
+  "target_type": "passage",
+  "target_id": "Q_110",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Confucius allows Guan Zhong ren (or 'beneficence', Legge) for uniting the states without war chariots, though he broke faith with his first lord: ren judged by public result. medium because 如其仁 is read two ways."
+ },
+ {
+  "id": "IL_181",
+  "idea_id": "I_FA",
+  "target_type": "passage",
+  "target_id": "Q_122",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Uniform punishment without grades of rank: the doctrine in its plainest form. Medium: a school text whose chapter cannot be dated more closely than W_SHANGJUNSHU's range."
+ },
+ {
+  "id": "IL_182",
+  "idea_id": "I_FA",
+  "target_type": "person",
+  "target_id": "P_SHANGYANG",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The tradition (Shiji 68; Han Feizi 定法 and 和氏) makes Shang Yang the founder of rule by law in Qin; the book under his name is his school's (W_SHANGJUNSHU), so the attribution of the doctrine to the man is the tradition's (the IL_174 precedent)."
+ },
+ {
+  "id": "IL_183",
+  "idea_id": "I_FA",
+  "target_type": "passage",
+  "target_id": "Q_121",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Laws and rites are made for their times: the argument that licenses changing them."
+ },
+ {
+  "id": "IL_184",
+  "idea_id": "I_FA",
+  "target_type": "passage",
+  "target_id": "Q_123",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Law (法) distinguished from technique (術): two halves of administration named and defined."
+ },
+ {
+  "id": "IL_185",
+  "idea_id": "I_FA",
+  "target_type": "passage",
+  "target_id": "Q_124",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "When the age changes its affairs change; in the enlightened state the law is the teaching. Dated by -233 (Shiji 63)."
+ },
+ {
+  "id": "IL_186",
+  "idea_id": "I_FA",
+  "target_type": "passage",
+  "target_id": "Q_125",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "A state is as strong as those who uphold its law. Medium: the chapter's authorship is in doubt (Q_125.note)."
+ },
+ {
+  "id": "IL_187",
+  "idea_id": "I_FA",
+  "target_type": "person",
+  "target_id": "P_HANFEI",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Han Fei's synthesis of law, technique and the ruler's position (Q_123, Q_124)."
+ },
+ {
+  "id": "IL_188",
+  "idea_id": "I_FA",
+  "target_type": "event",
+  "target_id": "E_CN_051",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Shang Yang's first laws in Qin put rule by law into practice."
+ },
+ {
+  "id": "IL_189",
+  "idea_id": "I_FA",
+  "target_type": "event",
+  "target_id": "E_CN_060",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Shiji 6 on the new empire: 事皆決於法, 'all affairs were decided by law'."
+ },
+ {
+  "id": "IL_190",
+  "idea_id": "I_XINGSHU",
+  "target_type": "idea",
+  "target_id": "I_FA",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Read as every passage and person link in this table is read: the target develops this row's idea. Publishing the law (Zheng 536, Jin 513) becomes, in Qin, a theory of the state. Medium: a line of development the sources read do not themselves draw; 定法 says nothing of Zichan."
+ },
+ {
+  "id": "IL_191",
+  "idea_id": "I_FA",
+  "target_type": "event",
+  "target_id": "E_CN_049",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Wu Qi in Chu: 明法審令 (Shiji 65), 'made the laws clear and the orders exact'. Medium: the Shiji's phrase, for a reform cut short."
+ },
+ {
+  "id": "IL_192",
+  "idea_id": "I_MINBEN",
+  "target_type": "passage",
+  "target_id": "Q_120",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Mencius: the people first, the altars next, the ruler least; an offending lord is replaced."
+ },
+ {
+  "id": "IL_193",
+  "idea_id": "I_DAYITONG",
+  "target_type": "passage",
+  "target_id": "Q_119",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The world settled 'in one' under a ruler who has no taste for killing. Medium: the aspiration without the name, which the Gongyang supplies only in its Han-era text."
+ },
+ {
+  "id": "IL_194",
+  "idea_id": "I_DAYITONG",
+  "target_type": "passage",
+  "target_id": "Q_130",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The name, 大一統. THIN: a text written down under Emperor Jing (W_GONGYANG)."
+ },
+ {
+  "id": "IL_195",
+  "idea_id": "I_DAYITONG",
+  "target_type": "event",
+  "target_id": "E_CN_060",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Qin conquers the six states and governs the whole realm through appointed commanderies."
+ },
+ {
+  "id": "IL_196",
+  "idea_id": "I_DAYITONG",
+  "target_type": "person",
+  "target_id": "P_MENCIUS",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Mencius's answer to King Xiang (Q_119)."
+ },
+ {
+  "id": "IL_197",
+  "idea_id": "I_MINBEN",
+  "target_type": "person",
+  "target_id": "P_MENCIUS",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Q_120; beside IL_003, his link to humaneness."
+ },
+ {
+  "id": "IL_198",
+  "idea_id": "I_MINBEN",
+  "target_type": "passage",
+  "target_id": "Q_128",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Xunzi quotes the boat-and-water saying (傳曰) and builds the ruler's safety on the people's: develops, not originates (r8-3)."
+ },
+ {
+  "id": "IL_199",
+  "idea_id": "I_SHANGXIAN",
+  "target_type": "passage",
+  "target_id": "Q_128",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Xunzi: to achieve great things, promote the worthy and employ the able (尚賢使能)."
+ },
+ {
+  "id": "IL_200",
+  "idea_id": "I_LI",
+  "target_type": "passage",
+  "target_id": "Q_129",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Xunzi: human nature is bad, and ritual and rightness are what make people good."
+ },
+ {
+  "id": "IL_201",
+  "idea_id": "I_LI",
+  "target_type": "person",
+  "target_id": "P_XUNZI",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Xunzi's theory of ritual as formation (Q_129)."
+ },
+ {
+  "id": "IL_202",
+  "idea_id": "I_LI",
+  "target_type": "passage",
+  "target_id": "Q_126",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "Han Fei: the appeal to the former kings cannot be verified, and three years' mourning ruins families. Medium: the chapter attacks the Ru generally, not one doctrine."
+ },
+ {
+  "id": "IL_203",
+  "idea_id": "I_REN",
+  "target_type": "passage",
+  "target_id": "Q_118",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Mencius to King Hui: humaneness and rightness, not profit, are the whole of policy."
+ }
+]

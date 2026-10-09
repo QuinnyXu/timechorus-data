@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/regions.schema.json",
+  "title": "regions",
+  "description": "Regions of the axial corpus; the top-level geographic and cultural division.",
+  "type": "object",
+  "required": [
+    "id",
+    "name_en",
+    "pillar",
+    "colour",
+    "description"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name_en": {
+      "type": "string"
+    },
+    "pillar": {
+      "type": "string"
+    },
+    "colour": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "regions",
+    "idField": "id",
+    "keyFields": null,
+    "checks": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/calendars.schema.json",
+  "title": "calendars",
+  "description": "Calendar systems and conversion notes.",
+  "type": "object",
+  "required": [
+    "id",
+    "system",
+    "region_id",
+    "epoch_year_bce",
+    "year_start",
+    "conversion_rule",
+    "note"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "system": {
+      "type": "string"
+    },
+    "region_id": {
+      "type": "string"
+    },
+    "epoch_year_bce": {
+      "type": "string"
+    },
+    "year_start": {
+      "type": "string"
+    },
+    "conversion_rule": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "calendars",
+    "idField": "id",
+    "keyFields": null,
+    "checks": []
+  }
+}

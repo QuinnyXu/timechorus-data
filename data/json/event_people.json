@@ -1,0 +1,2158 @@
+[
+ {
+  "event_id": "E_CN_001",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "subject (born)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_002",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "departs",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_003",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "returns",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_004",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "subject (dies)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_005",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "visitor",
+  "presence": "present",
+  "note": "Presence itself is the doubtful fact; inherits event reliability low."
+ },
+ {
+  "event_id": "E_CN_005",
+  "person_id": "P_LAOZI",
+  "role_in_event": "consulted",
+  "presence": "present",
+  "note": "See above."
+ },
+ {
+  "event_id": "E_IN_001",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "subject (dies)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_001",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "deported",
+  "presence": "related",
+  "note": "Ezekiel 1:2 places him among the 597 deportees; not named in 2 Kings."
+ },
+ {
+  "event_id": "E_IL_002",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "visionary",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_004",
+  "person_id": "P_CYRUS",
+  "role_in_event": "issues decree",
+  "presence": "related",
+  "note": "Cyrus was at Babylon in 538 but the decree's own location is not stated."
+ },
+ {
+  "event_id": "E_IL_004",
+  "person_id": "P_DEUTERO_ISAIAH",
+  "role_in_event": "anticipates (Isa 45:1)",
+  "presence": "related",
+  "note": "Anonymous author; textual link only."
+ },
+ {
+  "event_id": "E_PE_001",
+  "person_id": "P_CYRUS",
+  "role_in_event": "conqueror",
+  "presence": "present",
+  "note": "Chronicle: Cyrus enters Babylon 3 Arahsamnu."
+ },
+ {
+  "event_id": "E_PE_002",
+  "person_id": "P_DARIUS",
+  "role_in_event": "leads conspiracy",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_PE_003",
+  "person_id": "P_DARIUS",
+  "role_in_event": "commissions",
+  "presence": "related",
+  "note": "Commissioned; personal presence at the cliff not attested."
+ },
+ {
+  "event_id": "E_GR_001",
+  "person_id": "P_SOLON",
+  "role_in_event": "archon / lawgiver",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_002",
+  "person_id": "P_CLEISTHENES",
+  "role_in_event": "reformer",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_003",
+  "person_id": "P_HERACLITUS",
+  "role_in_event": "subject",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_004",
+  "person_id": "P_PERICLES",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_005",
+  "person_id": "P_SOCRATES",
+  "role_in_event": "defendant",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_005",
+  "person_id": "P_PLATO",
+  "role_in_event": "witness at trial (Apology 34a, 38b)",
+  "presence": "present",
+  "note": "Plato names himself as present."
+ },
+ {
+  "event_id": "E_GR_006",
+  "person_id": "P_THALES",
+  "role_in_event": "predicted the eclipse",
+  "presence": "related",
+  "note": "Herodotus 1.74.2 places the prediction, not the man, at the battle; presence at the peace is not attested."
+ },
+ {
+  "event_id": "E_GR_007",
+  "person_id": "P_ANAXIMANDER",
+  "role_in_event": "subject (floruit)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_008",
+  "person_id": "P_CYRUS",
+  "role_in_event": "conqueror",
+  "presence": "related",
+  "note": "Herodotus 1.84-86 has Cyrus take Sardis; the subjection of the Ionian cities at 1.141-176 is carried out by Harpagus."
+ },
+ {
+  "event_id": "E_GR_009",
+  "person_id": "P_PYTHAGORAS",
+  "role_in_event": "emigrates",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_010",
+  "person_id": "P_XENOPHANES",
+  "role_in_event": "exiled",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_013",
+  "person_id": "P_DARIUS",
+  "role_in_event": "the king revolted from",
+  "presence": "related",
+  "note": "Herodotus 5.37.1: 'Aristagoras revolted openly, devising all he could to harm Darius.' Darius is not present."
+ },
+ {
+  "event_id": "E_GR_015",
+  "person_id": "P_DARIUS",
+  "role_in_event": "king whose forces took the city",
+  "presence": "related",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_017",
+  "person_id": "P_DARIUS",
+  "role_in_event": "sent the expedition",
+  "presence": "related",
+  "note": "Herodotus 6.94-95: the fleet is sent by Darius, who is not present."
+ },
+ {
+  "event_id": "E_GR_018",
+  "person_id": "P_THEMISTOCLES",
+  "role_in_event": "proposer",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_013",
+  "person_id": "P_ARISTAGORAS",
+  "role_in_event": "renounces his tyranny and raises the revolt",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_014",
+  "person_id": "P_ARISTAGORAS",
+  "role_in_event": "planned the march on Sardis",
+  "presence": "related",
+  "note": "Herodotus 5.99-100: Aristagoras planned the march; the force went inland from Ephesus and he is not named as present at the burning."
+ },
+ {
+  "event_id": "E_GR_015",
+  "person_id": "P_ARISTAGORAS",
+  "role_in_event": "the revolt is dated by his name",
+  "presence": "related",
+  "note": "Herodotus 6.18 dates the fall 'in the sixth year after the revolt of Aristagoras'; he had already left Ionia and died in Thrace (5.126)."
+ },
+ {
+  "event_id": "E_GR_031",
+  "person_id": "P_CLEON",
+  "role_in_event": "speaker for the death sentence",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_027",
+  "person_id": "P_CLEON",
+  "role_in_event": "prosecutor (one version)",
+  "presence": "present",
+  "note": "Diogenes Laertius 2.12 attributes the indictment to Cleon on Sotion's authority; Satyrus names Thucydides son of Melesias instead. The row inherits the event's low reliability."
+ },
+ {
+  "event_id": "E_GR_021",
+  "person_id": "P_THEMISTOCLES",
+  "role_in_event": "commander",
+  "presence": "present",
+  "note": "Herodotus 8.83 has him address the Athenians before the battle."
+ },
+ {
+  "event_id": "E_GR_023",
+  "person_id": "P_THEMISTOCLES",
+  "role_in_event": "leader of the people in the period",
+  "presence": "related",
+  "note": "Aristotle, Constitution of the Athenians 23 names Aristides and Themistocles as the leaders of the people after the Persian wars; the assessment of the tribute is credited to Aristides, who has no row in this dataset yet."
+ },
+ {
+  "event_id": "E_GR_024",
+  "person_id": "P_EPHIALTES",
+  "role_in_event": "reformer",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_025",
+  "person_id": "P_EPHIALTES",
+  "role_in_event": "subject (assassinated)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_026",
+  "person_id": "P_PERICLES",
+  "role_in_event": "proposer",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_027",
+  "person_id": "P_ANAXAGORAS",
+  "role_in_event": "defendant",
+  "presence": "present",
+  "note": "One of Diogenes's three versions (2.13) has him condemned in absence, so presence is itself disputed; the row inherits the event's low reliability."
+ },
+ {
+  "event_id": "E_GR_027",
+  "person_id": "P_PERICLES",
+  "role_in_event": "defender",
+  "presence": "present",
+  "note": "Two of the three versions in Diogenes Laertius 2.12-14 have Pericles speak for him."
+ },
+ {
+  "event_id": "E_GR_028",
+  "person_id": "P_PROTAGORAS",
+  "role_in_event": "lawgiver",
+  "presence": "related",
+  "note": "Diogenes Laertius 9.50 says only that he made laws for Thurii; it does not say he went there."
+ },
+ {
+  "event_id": "E_GR_030",
+  "person_id": "P_PERICLES",
+  "role_in_event": "subject (dies)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_033",
+  "person_id": "P_ALCIBIADES",
+  "role_in_event": "accused",
+  "presence": "related",
+  "note": "Thucydides 6.53: the Salaminia was sent to Sicily for him, so he was not at Athens when the charge was brought."
+ },
+ {
+  "event_id": "E_GR_034",
+  "person_id": "P_ALCIBIADES",
+  "role_in_event": "proposer and first commander",
+  "presence": "related",
+  "note": "Thucydides 6.15 on his advocacy; he was recalled early in the campaign and did not share the defeat."
+ },
+ {
+  "event_id": "E_GR_036",
+  "person_id": "P_XENOPHON",
+  "role_in_event": "narrator",
+  "presence": "related",
+  "note": "Xenophon reports the trial in Hellenica 1.7 but does not place himself at it."
+ },
+ {
+  "event_id": "E_GR_036",
+  "person_id": "P_SOCRATES",
+  "role_in_event": "presiding councillor who opposed the single vote",
+  "presence": "present",
+  "note": "Plato, Apology 32 (Fowler): 'it happened that my tribe held the presidency when you wished to judge collectively, not severally, the ten generals ... At that time I was the only one of the prytanes who opposed doing anything contrary to the laws.' Read 2026-09-08 in the PerseusDL TEI file."
+ },
+ {
+  "event_id": "E_GR_038",
+  "person_id": "P_SOCRATES",
+  "role_in_event": "refused an order of the Thirty",
+  "presence": "present",
+  "note": "Plato, Apology 32 (Fowler): 'the Thirty sent for me with four others to come to the rotunda and ordered us to bring Leon the Salaminian from Salamis to be put to death'; he went home instead. Read 2026-09-08 in the PerseusDL TEI file. Presence is at the rotunda in Athens, which is the place of the event row."
+ },
+ {
+  "event_id": "E_GR_039",
+  "person_id": "P_SOCRATES",
+  "role_in_event": "citizen under the amnesty",
+  "presence": "related",
+  "note": "The amnesty of 403 is the legal setting of his trial in 399 (E_GR_005)."
+ },
+ {
+  "event_id": "E_GR_040",
+  "person_id": "P_XENOPHON",
+  "role_in_event": "participant and later narrator",
+  "presence": "present",
+  "note": "Xenophon, Hellenica 3.1.2 refers the reader to another account; his own participation is the premise of that cross-reference."
+ },
+ {
+  "event_id": "E_GR_012",
+  "person_id": "P_CLEISTHENES",
+  "role_in_event": "returning exile",
+  "presence": "related",
+  "note": "Herodotus 5.62-65 makes the Alcmaeonids, Cleisthenes' clan, the movers of the expulsion; Herodotus does not place Cleisthenes personally in the city at the moment."
+ },
+ {
+  "event_id": "E_GR_029",
+  "person_id": "P_PERICLES",
+  "role_in_event": "Athenian leader at the outbreak",
+  "presence": "related",
+  "note": "Thucydides 1.139-145 gives him the speech that decided Athens against concession; the attack on Plataea itself is Theban."
+ },
+ {
+  "event_id": "E_CN_006",
+  "person_id": "P_ZICHAN",
+  "role_in_event": "chief minister",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_007",
+  "person_id": "P_ZICHAN",
+  "role_in_event": "imposes the levy",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_008",
+  "person_id": "P_ZICHAN",
+  "role_in_event": "orders the casting",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_008",
+  "person_id": "P_SHUXIANG",
+  "role_in_event": "writes against it",
+  "presence": "related",
+  "note": "Zuozhuan, Zhao 6: Shuxiang sends a letter from Jin; he is not in Zheng."
+ },
+ {
+  "event_id": "E_CN_009",
+  "person_id": "P_YANYING",
+  "role_in_event": "envoy of Qi",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_009",
+  "person_id": "P_SHUXIANG",
+  "role_in_event": "host at the Jin court",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_010",
+  "person_id": "P_ZICHAN",
+  "role_in_event": "subject (dies)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_010",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "mourner",
+  "presence": "related",
+  "note": "Zuozhuan, Zhao 20: 仲尼聞之 — Confucius heard of it. He was about thirty and in Lu, not in Zheng."
+ },
+ {
+  "event_id": "E_CN_011",
+  "person_id": "P_ZICHAN",
+  "role_in_event": "quoted authority",
+  "presence": "related",
+  "note": "Zichan had been dead five years; Zi Taishu quotes him by name."
+ },
+ {
+  "event_id": "E_CN_012",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "critic",
+  "presence": "related",
+  "note": "Zuozhuan, Zhao 29 gives Confucius's judgement on the casting; he was in Lu, not Jin."
+ },
+ {
+  "event_id": "E_CN_013",
+  "person_id": "P_HELU",
+  "role_in_event": "commander",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_013",
+  "person_id": "P_WUZIXU",
+  "role_in_event": "planner",
+  "presence": "present",
+  "note": "Zuozhuan, Ding 4: 伍員為吳行人以謀楚 — Wu Yun was Wu's envoy and planned against Chu."
+ },
+ {
+  "event_id": "E_CN_013",
+  "person_id": "P_SUNWU",
+  "role_in_event": "credited by the Shiji",
+  "presence": "related",
+  "note": "Recorded as related, not present: Shiji 65 credits him with the campaign, the Zuozhuan does not mention him. This row is the disagreement, and inherits the low reliability of E_CN_026."
+ },
+ {
+  "event_id": "E_CN_015",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "master of ceremonies",
+  "presence": "present",
+  "note": "Zuozhuan, Ding 10: 孔丘相 — Kong Qiu assisted, i.e. acted as master of ceremonies."
+ },
+ {
+  "event_id": "E_CN_016",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "gives a battlefield order",
+  "presence": "present",
+  "note": "Zuozhuan, Ding 12: 仲尼命申句須，樂頎，下伐之 — Zhongni ordered Shen Goxu and Yue Qi down against the men of Bi."
+ },
+ {
+  "event_id": "E_CN_017",
+  "person_id": "P_GOUJIAN",
+  "role_in_event": "commander",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_017",
+  "person_id": "P_HELU",
+  "role_in_event": "subject (dies of the wound)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_018",
+  "person_id": "P_FUCHAI",
+  "role_in_event": "victor; spares Yue",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_018",
+  "person_id": "P_GOUJIAN",
+  "role_in_event": "besieged; sues for terms",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_018",
+  "person_id": "P_WUZIXU",
+  "role_in_event": "argues against sparing Yue",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_019",
+  "person_id": "P_WUZIXU",
+  "role_in_event": "subject (dies)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_019",
+  "person_id": "P_FUCHAI",
+  "role_in_event": "orders the death",
+  "presence": "related",
+  "note": "Zuozhuan, Ai 11: the king sent the sword on Wu Zixu's return from Qi; the Zuozhuan does not place him at the death."
+ },
+ {
+  "event_id": "E_CN_020",
+  "person_id": "P_FUCHAI",
+  "role_in_event": "commander",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_021",
+  "person_id": "P_RANQIU",
+  "role_in_event": "commander of the left wing",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_022",
+  "person_id": "P_FUCHAI",
+  "role_in_event": "claimant to the leadership",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_022",
+  "person_id": "P_GOUJIAN",
+  "role_in_event": "attacks the Wu capital",
+  "presence": "present",
+  "note": "Present at the attack on Wu, not at the meeting at Huangchi; the two halves of the event are hundreds of miles apart."
+ },
+ {
+  "event_id": "E_CN_023",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "asks the duke to punish the crime",
+  "presence": "related",
+  "note": "Zuozhuan, Ai 14: Confucius fasted three days and made the request three times, in Lu; the murder was in Qi. PRESENCE RE-READ 2026-10-04 (Sophia r9-0, ruling L-107(2)), at zh.wikisource.org page 春秋左氏傳/哀公 (revision 7908334, fetched whole via action=raw on 2026-10-04, this session): 'related' confirmed — he fasts and makes his request in Lu (孔丘三日齊．而請伐齊．三), and the murder is at 舒州 in Qi."
+ },
+ {
+  "event_id": "E_CN_023",
+  "person_id": "P_DUKE_AI_LU",
+  "role_in_event": "receives the request and defers",
+  "presence": "related",
+  "note": "PRESENCE RE-READ 2026-10-04 (Sophia r9-0, ruling L-107(2)), at zh.wikisource.org page 春秋左氏傳/哀公 (revision 7908334, fetched whole via action=raw on 2026-10-04, this session), 哀公十四年 經 and 傳: the murder is placed by both at 舒州 (經: 齊人弒其君壬于舒州; 傳: 庚辰．陳恆執公于舒州 ... 甲午．齊陳恆弒其君壬于舒州), and Duke Ai receives Confucius's request in Lu: 孔丘三日齊．而請伐齊．三．公曰．魯為齊弱久矣 ... 公曰．子告季孫. The source never puts the duke at the place of the murder, so presence is 'related', not 'present' (was 'present'; conventions §4: being addressed is 'related'). Confucius's row on this event was already 'related' and is confirmed by the same reading."
+ },
+ {
+  "event_id": "E_CN_024",
+  "person_id": "P_DUKE_AI_LU",
+  "role_in_event": "speaks the eulogy",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_024",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "subject (the dead man)",
+  "presence": "related",
+  "note": "Presence is not meaningful for the subject of a funeral eulogy; recorded as related."
+ },
+ {
+  "event_id": "E_CN_025",
+  "person_id": "P_GOUJIAN",
+  "role_in_event": "conqueror",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_025",
+  "person_id": "P_FUCHAI",
+  "role_in_event": "subject (dies)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_026",
+  "person_id": "P_SUNWU",
+  "role_in_event": "subject",
+  "presence": "present",
+  "note": "Presence is itself the doubtful fact; the row inherits the event's low reliability."
+ },
+ {
+  "event_id": "E_CN_026",
+  "person_id": "P_HELU",
+  "role_in_event": "receives him",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_027",
+  "person_id": "P_FANLI",
+  "role_in_event": "adviser",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_027",
+  "person_id": "P_GOUJIAN",
+  "role_in_event": "king served",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_028",
+  "person_id": "P_ZIXIA",
+  "role_in_event": "subject (born)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_029",
+  "person_id": "P_ZENGZI",
+  "role_in_event": "subject (born)",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_CN_030",
+  "person_id": "P_MOZI",
+  "role_in_event": "founder",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_GR_041",
+  "person_id": "P_PERICLES",
+  "role_in_event": "defended his strategy during it",
+  "presence": "present",
+  "note": "Thucydides 2.59-64 places him in the city addressing the assembly during the epidemic; at 2.64.1 he calls it 'the only point indeed at which our calculation has been at fault'. His own death is E_GR_030, and Thucydides does not connect the two — see that row's dating_basis."
+ },
+ {
+  "event_id": "E_GR_041",
+  "person_id": "P_CLEON",
+  "role_in_event": "rose against Pericles in the same months",
+  "presence": "present",
+  "note": "Thucydides 2.59 has the Athenians turn on Pericles under the pressure of the plague and 3.36 shows Cleon leading them soon after; Thucydides does not name him at 2.59, so this row records the political setting, not a named appearance. reliability of the connection is the reader's to weigh."
+ },
+ {
+  "event_id": "E_CN_031",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "identifies the animal",
+  "presence": "present",
+  "note": "Zuozhuan, Ai 14: 仲尼觀之，曰：「麟也。」— Zhongni went and looked at it. The source places him at the viewing, not at the hunt."
+ },
+ {
+  "event_id": "E_IL_003",
+  "person_id": "P_NEBUCHADNEZZAR",
+  "role_in_event": "besieging king",
+  "presence": "related",
+  "note": "Ruling L-9, closed here. 2 Kings 25:8-9 (read this session) names not the king himself at Jerusalem but Nebuzaradan the captain of the guard, a servant of the king of Babylon, as the man who came to the city and burned it; 25:6 has Zedekiah carried up to the king at Riblah, which is where the king was. presence=related, strictly per conventions section 4: the source does not place him at the place of this event."
+ },
+ {
+  "event_id": "E_IL_003",
+  "person_id": "P_ZEDEKIAH",
+  "role_in_event": "king of the besieged city",
+  "presence": "related",
+  "note": "Ruling L-9, closed here. presence=related and not present, and the reason is on the row: 2 Kings 25:4-7 (read this session) has him break out of the city by night before it fell and be captured in the plains of Jericho, so at the burning of the Temple in the fifth month he was already a prisoner at Riblah. His own presence event is E_IL_010."
+ },
+ {
+  "event_id": "E_IL_003",
+  "person_id": "P_JEREMIAH",
+  "role_in_event": "prophet in the city",
+  "presence": "related",
+  "note": "Jeremiah 32:2 (read this session) has him shut up in the court of the guard in the king's house during the siege, and Jeremiah 39-40 has him in the land afterwards; the chapter that narrates the burning does not place him at it, so related rather than present."
+ },
+ {
+  "event_id": "E_IL_005",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "visionary",
+  "presence": "present",
+  "note": "Ezekiel 8:1: as I sat in my house."
+ },
+ {
+  "event_id": "E_IL_006",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "prophet consulted",
+  "presence": "present",
+  "note": "Ezekiel 20:1: they sat before me."
+ },
+ {
+  "event_id": "E_IL_007",
+  "person_id": "P_NEBUCHADNEZZAR",
+  "role_in_event": "besieging king",
+  "presence": "present",
+  "note": "2 Kings 25:1: Nebuchadnezzar came, he and all his army, against Jerusalem, and encamped against it - the source places him at the place."
+ },
+ {
+  "event_id": "E_IL_007",
+  "person_id": "P_ZEDEKIAH",
+  "role_in_event": "king under siege",
+  "presence": "present",
+  "note": "The siege of his own capital, in the ninth year of his reign."
+ },
+ {
+  "event_id": "E_IL_008",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_009",
+  "person_id": "P_JEREMIAH",
+  "role_in_event": "buyer",
+  "presence": "present",
+  "note": "Jeremiah 32:9: and I bought the field that was in Anathoth."
+ },
+ {
+  "event_id": "E_IL_010",
+  "person_id": "P_ZEDEKIAH",
+  "role_in_event": "sentenced",
+  "presence": "present",
+  "note": "2 Kings 25:6: they took the king and carried him up to the king of Babylon to Riblah."
+ },
+ {
+  "event_id": "E_IL_010",
+  "person_id": "P_NEBUCHADNEZZAR",
+  "role_in_event": "judge",
+  "presence": "present",
+  "note": "2 Kings 25:6: carried him up unto the king of Babylon to Riblah, and they gave judgment upon him."
+ },
+ {
+  "event_id": "E_IL_011",
+  "person_id": "P_GEDALIAH",
+  "role_in_event": "appointed governor",
+  "presence": "related",
+  "note": "The appointment is made by Nebuchadnezzar and reported without a scene; the source does not place either man at a named place for the act itself."
+ },
+ {
+  "event_id": "E_IL_011",
+  "person_id": "P_NEBUCHADNEZZAR",
+  "role_in_event": "appointing king",
+  "presence": "related",
+  "note": "2 Kings 25:22: over them he made Gedaliah governor."
+ },
+ {
+  "event_id": "E_IL_012",
+  "person_id": "P_GEDALIAH",
+  "role_in_event": "murdered",
+  "presence": "present",
+  "note": "Jeremiah 41:1-2: at Mizpah, where they ate bread together."
+ },
+ {
+  "event_id": "E_IL_012",
+  "person_id": "P_ISHMAEL_NETHANIAH",
+  "role_in_event": "assassin",
+  "presence": "present",
+  "note": "Jeremiah 41:1-2: came unto Gedaliah to Mizpah, and there they did eat bread together."
+ },
+ {
+  "event_id": "E_IL_013",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_014",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_015",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_016",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_017",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_018",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_019",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "hears the news",
+  "presence": "present",
+  "note": "Ezekiel 33:21: one that had escaped out of Jerusalem came unto me."
+ },
+ {
+  "event_id": "E_IL_020",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "visionary",
+  "presence": "present",
+  "note": "Ezekiel 40:1: the hand of the LORD was upon me, and He brought me thither."
+ },
+ {
+  "event_id": "E_IL_021",
+  "person_id": "P_EZEKIEL",
+  "role_in_event": "recipient of the oracle",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IL_021",
+  "person_id": "P_NEBUCHADNEZZAR",
+  "role_in_event": "subject of the oracle",
+  "presence": "related",
+  "note": "Ezekiel 29:17-20 speaks about him and to him only through the prophet."
+ },
+ {
+  "event_id": "E_IL_022",
+  "person_id": "P_JEHOIACHIN",
+  "role_in_event": "released prisoner",
+  "presence": "present",
+  "note": "2 Kings 25:27-28: lifted up the head of Jehoiachin out of prison at Babylon."
+ },
+ {
+  "event_id": "E_IL_022",
+  "person_id": "P_EVIL_MERODACH",
+  "role_in_event": "releasing king",
+  "presence": "present",
+  "note": "2 Kings 25:27-28: he spoke kindly to him and set his throne above the thrones of the other kings."
+ },
+ {
+  "event_id": "E_IL_023",
+  "person_id": "P_JEREMIAH",
+  "role_in_event": "writer of the letter",
+  "presence": "present",
+  "note": "Jeremiah 29:1: the words of the letter that Jeremiah the prophet sent from Jerusalem."
+ },
+ {
+  "event_id": "E_IL_023",
+  "person_id": "P_JEHOIACHIN",
+  "role_in_event": "dating reference",
+  "presence": "related",
+  "note": "Jeremiah 29:2 dates the letter by his departure from Jerusalem; he is in Babylon, not at the place of the writing."
+ },
+ {
+  "event_id": "E_IL_024",
+  "person_id": "P_DEUTERO_ISAIAH",
+  "role_in_event": "prophet",
+  "presence": "present",
+  "note": "Anonymous author of Isaiah 40-55; the oracles are placed among the exiles, which is the place this row uses Babylon to stand for."
+ },
+ {
+  "event_id": "E_IL_024",
+  "person_id": "P_CYRUS",
+  "role_in_event": "named in the oracle",
+  "presence": "related",
+  "note": "Isaiah 44:28 and 45:1 name him; nothing suggests he ever heard of it."
+ },
+ {
+  "event_id": "E_IL_025",
+  "person_id": "P_SHESHBAZZAR",
+  "role_in_event": "leader of the return",
+  "presence": "present",
+  "note": "Ezra 1:11: all these did Sheshbazzar bring up."
+ },
+ {
+  "event_id": "E_IL_025",
+  "person_id": "P_CYRUS",
+  "role_in_event": "authorising king",
+  "presence": "related",
+  "note": "Ezra 1:8: Cyrus brought them forth by the hand of Mithredath the treasurer."
+ },
+ {
+  "event_id": "E_IL_026",
+  "person_id": "P_JESHUA",
+  "role_in_event": "priest",
+  "presence": "present",
+  "note": "Ezra 3:2: then stood up Jeshua the son of Jozadak, and his brethren the priests."
+ },
+ {
+  "event_id": "E_IL_026",
+  "person_id": "P_ZERUBBABEL",
+  "role_in_event": "governor",
+  "presence": "present",
+  "note": "Ezra 3:2: and Zerubbabel the son of Shealtiel, and his brethren."
+ },
+ {
+  "event_id": "E_IL_027",
+  "person_id": "P_ZERUBBABEL",
+  "role_in_event": "director of the work",
+  "presence": "present",
+  "note": "Ezra 3:8."
+ },
+ {
+  "event_id": "E_IL_027",
+  "person_id": "P_JESHUA",
+  "role_in_event": "director of the work",
+  "presence": "present",
+  "note": "Ezra 3:8."
+ },
+ {
+  "event_id": "E_IL_029",
+  "person_id": "P_HAGGAI",
+  "role_in_event": "prophet",
+  "presence": "present",
+  "note": "Haggai 1:1: came the word of the LORD by Haggai the prophet."
+ },
+ {
+  "event_id": "E_IL_029",
+  "person_id": "P_ZERUBBABEL",
+  "role_in_event": "addressed",
+  "presence": "present",
+  "note": "Haggai 1:1 addresses him by name and office."
+ },
+ {
+  "event_id": "E_IL_029",
+  "person_id": "P_JESHUA",
+  "role_in_event": "addressed",
+  "presence": "present",
+  "note": "Haggai 1:1 addresses him by name and office."
+ },
+ {
+  "event_id": "E_IL_030",
+  "person_id": "P_ZERUBBABEL",
+  "role_in_event": "builder",
+  "presence": "present",
+  "note": "Haggai 1:14: they came and did work in the house of the LORD."
+ },
+ {
+  "event_id": "E_IL_030",
+  "person_id": "P_JESHUA",
+  "role_in_event": "builder",
+  "presence": "present",
+  "note": "Haggai 1:14."
+ },
+ {
+  "event_id": "E_IL_030",
+  "person_id": "P_HAGGAI",
+  "role_in_event": "prophet whose word started it",
+  "presence": "related",
+  "note": "The verse names the LORD as stirring up the spirits and does not place the prophet at the work."
+ },
+ {
+  "event_id": "E_IL_031",
+  "person_id": "P_ZECHARIAH",
+  "role_in_event": "visionary",
+  "presence": "present",
+  "note": "Zechariah 1:7: came the word of the LORD unto Zechariah."
+ },
+ {
+  "event_id": "E_IL_032",
+  "person_id": "P_ZECHARIAH",
+  "role_in_event": "prophet consulted",
+  "presence": "present",
+  "note": "Zechariah 7:1."
+ },
+ {
+  "event_id": "E_IL_033",
+  "person_id": "P_ZERUBBABEL",
+  "role_in_event": "builder",
+  "presence": "related",
+  "note": "Ezra 6:14-16 credits the elders of the Jews and names Haggai and Zechariah, but does not name Zerubbabel at the finishing; related rather than present, strictly."
+ },
+ {
+  "event_id": "E_IL_033",
+  "person_id": "P_HAGGAI",
+  "role_in_event": "prophet of the rebuilding",
+  "presence": "related",
+  "note": "Ezra 6:14 names him as one of the two through whose prophesying they built and finished."
+ },
+ {
+  "event_id": "E_IL_033",
+  "person_id": "P_ZECHARIAH",
+  "role_in_event": "prophet of the rebuilding",
+  "presence": "related",
+  "note": "Ezra 6:14 names him as the son of Iddo."
+ },
+ {
+  "event_id": "E_IL_033",
+  "person_id": "P_DARIUS",
+  "role_in_event": "authorising king",
+  "presence": "related",
+  "note": "Ezra 6:14-15 dates the finishing by his sixth year and names his decree."
+ },
+ {
+  "event_id": "E_IL_034",
+  "person_id": "P_EZRA",
+  "role_in_event": "traveller",
+  "presence": "present",
+  "note": "Ezra 7:6-9: this Ezra went up from Babylon and came to Jerusalem."
+ },
+ {
+  "event_id": "E_IL_034",
+  "person_id": "P_ARTAXERXES_I",
+  "role_in_event": "granting king",
+  "presence": "related",
+  "note": "Ezra 7:6-7 has the king grant him all his request; the book does not say which Artaxerxes, and E_IL_034's dating_basis carries that."
+ },
+ {
+  "event_id": "E_IL_035",
+  "person_id": "P_EZRA",
+  "role_in_event": "reader of the Law",
+  "presence": "present",
+  "note": "Nehemiah 8:2-3: Ezra the priest brought the Law before the congregation and read therein."
+ },
+ {
+  "event_id": "E_IL_035",
+  "person_id": "P_NEHEMIAH",
+  "role_in_event": "governor",
+  "presence": "related",
+  "note": "Nehemiah 8:9 belongs to the same scene but was NOT read at its locator this session; only 8:1-8 was, and those verses do not name him. Recorded as related rather than present for that reason, and the reason is written here rather than left as a judgement call."
+ },
+ {
+  "event_id": "E_IL_036",
+  "person_id": "P_NEHEMIAH",
+  "role_in_event": "petitioner",
+  "presence": "present",
+  "note": "Nehemiah 2:1: I took up the wine and gave it unto the king."
+ },
+ {
+  "event_id": "E_IL_036",
+  "person_id": "P_ARTAXERXES_I",
+  "role_in_event": "king petitioned",
+  "presence": "present",
+  "note": "Nehemiah 2:1: when wine was before him."
+ },
+ {
+  "event_id": "E_IL_037",
+  "person_id": "P_NEBUCHADNEZZAR",
+  "role_in_event": "deporting king",
+  "presence": "related",
+  "note": "Jeremiah 52:28-30 counts the deportations by his regnal years and names Nebuzaradan as the officer for the third; the king himself is not placed at Jerusalem by these verses."
+ },
+ {
+  "event_id": "E_IL_037",
+  "person_id": "P_JEHOIACHIN",
+  "role_in_event": "deportee of the first count",
+  "presence": "related",
+  "note": "The seventh-year deportation is the one that took him (ABC 5 Rev. 11-13; 2 Kings 24:12-15)."
+ },
+ {
+  "event_id": "E_IN_002",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "the one who goes forth",
+  "presence": "present",
+  "note": "DN 16:5.27.5-6, his own statement."
+ },
+ {
+  "event_id": "E_IN_002",
+  "person_id": "P_SUBHADDA",
+  "role_in_event": "the person told",
+  "presence": "present",
+  "note": "The statement is made to him, on the last night; DN 16:5.27.5."
+ },
+ {
+  "event_id": "E_IN_003",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "subject",
+  "presence": "present",
+  "note": "pli-tv-kd1:1.1.1-2."
+ },
+ {
+  "event_id": "E_IN_004",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "subject",
+  "presence": "present",
+  "note": "pli-tv-kd1:5.12-5.13."
+ },
+ {
+  "event_id": "E_IN_005",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "SN 56.11:1.1-1.2; pli-tv-kd1:6.10.1."
+ },
+ {
+  "event_id": "E_IN_005",
+  "person_id": "P_KONDANNA",
+  "role_in_event": "one of the group of five",
+  "presence": "present",
+  "note": "The group of five is named as a group at SN 56.11:1.2; the segments read this session name Kondanna as the one who understood, and this row records him as one of the five."
+ },
+ {
+  "event_id": "E_IN_006",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "SN 22.59:1.1-1.5."
+ },
+ {
+  "event_id": "E_IN_006",
+  "person_id": "P_KONDANNA",
+  "role_in_event": "hearer",
+  "presence": "present",
+  "note": "One of the same group of five, SN 22.59:1.2."
+ },
+ {
+  "event_id": "E_IN_007",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "pli-tv-kd1:11.1.1."
+ },
+ {
+  "event_id": "E_IN_008",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "recipient of the gift",
+  "presence": "present",
+  "note": "pli-tv-kd1:22.1.1-22.18.3."
+ },
+ {
+  "event_id": "E_IN_008",
+  "person_id": "P_BIMBISARA",
+  "role_in_event": "donor",
+  "presence": "present",
+  "note": "pli-tv-kd1:22.18.1: the king took hold of a golden ceremonial vessel and dedicated the park."
+ },
+ {
+  "event_id": "E_IN_009",
+  "person_id": "P_SARIPUTTA",
+  "role_in_event": "goes forth",
+  "presence": "present",
+  "note": "pli-tv-kd1:23-24.7."
+ },
+ {
+  "event_id": "E_IN_009",
+  "person_id": "P_MOGGALLANA",
+  "role_in_event": "goes forth",
+  "presence": "present",
+  "note": "pli-tv-kd1:23-24.7."
+ },
+ {
+  "event_id": "E_IN_009",
+  "person_id": "P_SANJAYA",
+  "role_in_event": "teacher left behind",
+  "presence": "related",
+  "note": "kd1:24.5.3 records the complaint that his two hundred and fifty wanderers went over; he is not placed at the scene."
+ },
+ {
+  "event_id": "E_IN_009",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "receives them",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IN_010",
+  "person_id": "P_DEVADATTA",
+  "role_in_event": "wins the prince",
+  "presence": "present",
+  "note": "pli-tv-kd17:2.1.12-2.1.21."
+ },
+ {
+  "event_id": "E_IN_010",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "prince won over",
+  "presence": "present",
+  "note": "pli-tv-kd17:2.1.21: attended on him morning and evening."
+ },
+ {
+  "event_id": "E_IN_011",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "kills his father",
+  "presence": "present",
+  "note": "pli-tv-kd17:3.4.13 and dn2:99.6."
+ },
+ {
+  "event_id": "E_IN_011",
+  "person_id": "P_BIMBISARA",
+  "role_in_event": "the father killed",
+  "presence": "present",
+  "note": "pli-tv-kd17:3.5.33-34: and he said to Ajatasattu, why do you want to kill me?"
+ },
+ {
+  "event_id": "E_IN_011",
+  "person_id": "P_DEVADATTA",
+  "role_in_event": "instigator",
+  "presence": "related",
+  "note": "kd17:3.4.1-5: he proposes the plan and is not placed at the act."
+ },
+ {
+  "event_id": "E_IN_012",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "questioner",
+  "presence": "present",
+  "note": "dn2:14.1-15.5 and 99.6."
+ },
+ {
+  "event_id": "E_IN_012",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "answers",
+  "presence": "present",
+  "note": "dn2:15.1-102.4."
+ },
+ {
+  "event_id": "E_IN_013",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "asks the six teachers in turn",
+  "presence": "related",
+  "note": "dn2:16.1-24.2 reports his visits to them as past events recounted to the Buddha, not as a scene at this row's place."
+ },
+ {
+  "event_id": "E_IN_013",
+  "person_id": "P_PURANA_KASSAPA",
+  "role_in_event": "one of the six",
+  "presence": "related",
+  "note": "dn2:2.2 and 17.2."
+ },
+ {
+  "event_id": "E_IN_013",
+  "person_id": "P_MAKKHALI",
+  "role_in_event": "one of the six",
+  "presence": "related",
+  "note": "dn2:3.2 and 20.2."
+ },
+ {
+  "event_id": "E_IN_013",
+  "person_id": "P_AJITA",
+  "role_in_event": "one of the six",
+  "presence": "related",
+  "note": "dn2:4.2 and 23.2."
+ },
+ {
+  "event_id": "E_IN_013",
+  "person_id": "P_PAKUDHA",
+  "role_in_event": "one of the six",
+  "presence": "related",
+  "note": "dn2:5.2; his doctrine is not in the segments read this session."
+ },
+ {
+  "event_id": "E_IN_013",
+  "person_id": "P_SANJAYA",
+  "role_in_event": "one of the six",
+  "presence": "related",
+  "note": "Named in the list at dn16:5.26.3."
+ },
+ {
+  "event_id": "E_IN_013",
+  "person_id": "P_MAHAVIRA",
+  "role_in_event": "one of the six",
+  "presence": "related",
+  "note": "Named in the canon as the Jain ascetic of the Natika clan, dn16:5.26.3; the Buddhist texts do not use the title Mahavira."
+ },
+ {
+  "event_id": "E_IN_014",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "MN 135:4.1-4.3."
+ },
+ {
+  "event_id": "E_IN_015",
+  "person_id": "P_MAHAVIRA",
+  "role_in_event": "the one who dies",
+  "presence": "present",
+  "note": "MN 104:2.1: had recently passed away at Pava."
+ },
+ {
+  "event_id": "E_IN_016",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "sends the minister",
+  "presence": "related",
+  "note": "dn16:1.1.3-1.2.9: he is in Rajagaha, not on the Vulture's Peak."
+ },
+ {
+  "event_id": "E_IN_016",
+  "person_id": "P_VASSAKARA",
+  "role_in_event": "envoy",
+  "presence": "present",
+  "note": "dn16:1.3.1-1.3.7: he went by carriage as far as the terrain allowed and approached the Buddha on foot."
+ },
+ {
+  "event_id": "E_IN_016",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "answers",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IN_016",
+  "person_id": "P_ANANDA",
+  "role_in_event": "questioned in the minister's hearing",
+  "presence": "present",
+  "note": "dn16:1.4.1: standing behind the Buddha, fanning him."
+ },
+ {
+  "event_id": "E_IN_017",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "traveller",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IN_017",
+  "person_id": "P_ANANDA",
+  "role_in_event": "companion",
+  "presence": "present",
+  "note": "dn16:1.13.2."
+ },
+ {
+  "event_id": "E_IN_018",
+  "person_id": "P_SARIPUTTA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "dn16:1.16."
+ },
+ {
+  "event_id": "E_IN_018",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "hearer",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IN_019",
+  "person_id": "P_VASSAKARA",
+  "role_in_event": "builder of the fort",
+  "presence": "present",
+  "note": "dn16:1.26.1 and 1.29.1."
+ },
+ {
+  "event_id": "E_IN_019",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "makes the prophecy",
+  "presence": "present",
+  "note": "dn16:1.27.4-1.28.9."
+ },
+ {
+  "event_id": "E_IN_019",
+  "person_id": "P_ANANDA",
+  "role_in_event": "companion",
+  "presence": "present",
+  "note": "dn16:1.27.4-1.27.6."
+ },
+ {
+  "event_id": "E_IN_020",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "traveller",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IN_020",
+  "person_id": "P_ANANDA",
+  "role_in_event": "companion",
+  "presence": "present",
+  "note": "dn16:2.1.2 and 2.5.2."
+ },
+ {
+  "event_id": "E_IN_021",
+  "person_id": "P_AMBAPALI",
+  "role_in_event": "host and donor",
+  "presence": "present",
+  "note": "dn16:2.19.1-2.19.8."
+ },
+ {
+  "event_id": "E_IN_021",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "guest",
+  "presence": "present",
+  "note": null
+ },
+ {
+  "event_id": "E_IN_022",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "observer",
+  "presence": "present",
+  "note": "dn16:2.17.1-2.17.6."
+ },
+ {
+  "event_id": "E_IN_022",
+  "person_id": "P_AMBAPALI",
+  "role_in_event": "collides with them on the road",
+  "presence": "present",
+  "note": "dn16:2.16.1."
+ },
+ {
+  "event_id": "E_IN_023",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "the one who falls ill",
+  "presence": "present",
+  "note": "dn16:2.23.1."
+ },
+ {
+  "event_id": "E_IN_023",
+  "person_id": "P_ANANDA",
+  "role_in_event": "attendant",
+  "presence": "present",
+  "note": "dn16:2.24.4-2.26.8."
+ },
+ {
+  "event_id": "E_IN_024",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "subject",
+  "presence": "present",
+  "note": "dn16:3.10.1."
+ },
+ {
+  "event_id": "E_IN_025",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "dn16:4.5-4.12."
+ },
+ {
+  "event_id": "E_IN_025",
+  "person_id": "P_ANANDA",
+  "role_in_event": "companion",
+  "presence": "present",
+  "note": "dn16:4.1.4 and 4.5.2."
+ },
+ {
+  "event_id": "E_IN_026",
+  "person_id": "P_CUNDA",
+  "role_in_event": "host",
+  "presence": "present",
+  "note": "dn16:4.17.1-4.19.5."
+ },
+ {
+  "event_id": "E_IN_026",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "guest, then patient",
+  "presence": "present",
+  "note": "dn16:4.18.1 and 4.20.1."
+ },
+ {
+  "event_id": "E_IN_027",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "traveller",
+  "presence": "present",
+  "note": "dn16:4.39.1 and 5.1.4-5.1.7."
+ },
+ {
+  "event_id": "E_IN_027",
+  "person_id": "P_ANANDA",
+  "role_in_event": "companion",
+  "presence": "present",
+  "note": "dn16:5.1.5-5.1.6."
+ },
+ {
+  "event_id": "E_IN_028",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "dn16:5.8.1."
+ },
+ {
+  "event_id": "E_IN_028",
+  "person_id": "P_ANANDA",
+  "role_in_event": "the person addressed",
+  "presence": "present",
+  "note": "dn16:5.8.1."
+ },
+ {
+  "event_id": "E_IN_029",
+  "person_id": "P_SUBHADDA",
+  "role_in_event": "last convert",
+  "presence": "present",
+  "note": "dn16:5.26.1."
+ },
+ {
+  "event_id": "E_IN_029",
+  "person_id": "P_ANANDA",
+  "role_in_event": "gatekeeper",
+  "presence": "present",
+  "note": "dn16:5.24.8-5.25.7: refuses him three times, then lets him in."
+ },
+ {
+  "event_id": "E_IN_029",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "teacher",
+  "presence": "present",
+  "note": "dn16:5.25.1-5.27.9."
+ },
+ {
+  "event_id": "E_IN_030",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "dn16:6.1.1-6.7.4."
+ },
+ {
+  "event_id": "E_IN_030",
+  "person_id": "P_ANANDA",
+  "role_in_event": "the person addressed",
+  "presence": "present",
+  "note": "dn16:6.1.1 and 6.6.9-6.6.11."
+ },
+ {
+  "event_id": "E_IN_031",
+  "person_id": "P_ANANDA",
+  "role_in_event": "instructs the Mallas on the rites",
+  "presence": "present",
+  "note": "dn16:6.17.1-6.17.11."
+ },
+ {
+  "event_id": "E_IN_031",
+  "person_id": "P_ANURUDDHA",
+  "role_in_event": "explains the delay",
+  "presence": "present",
+  "note": "dn16:6.14.5-6.15.6."
+ },
+ {
+  "event_id": "E_IN_031",
+  "person_id": "P_MAHAKASSAPA",
+  "role_in_event": "arrives at the pyre",
+  "presence": "present",
+  "note": "dn16:6.22.1: he approached the Buddha's funeral pyre and bowed with his head to the Buddha's feet."
+ },
+ {
+  "event_id": "E_IN_032",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "claimant",
+  "presence": "related",
+  "note": "dn16:6.24.1-4: he sends an envoy; he does not come."
+ },
+ {
+  "event_id": "E_IN_033",
+  "person_id": "P_MAHAKASSAPA",
+  "role_in_event": "traveller who hears the news",
+  "presence": "present",
+  "note": "pli-tv-kd21:1.1.2-1.1.10, his own account."
+ },
+ {
+  "event_id": "E_IN_034",
+  "person_id": "P_MAHAKASSAPA",
+  "role_in_event": "proposer",
+  "presence": "present",
+  "note": "pli-tv-kd21:1.1.1 and 1.1.22-26."
+ },
+ {
+  "event_id": "E_IN_035",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "subject",
+  "presence": "present",
+  "note": "pli-tv-kd1:6.1-6.4."
+ },
+ {
+  "event_id": "E_IN_001",
+  "person_id": "P_ANANDA",
+  "role_in_event": "attendant at the death",
+  "presence": "present",
+  "note": "dn16:6.8.2-6.10.28 and 6.12.5, read this session: he asks Anuruddha whether the Buddha has been fully quenched, speaks a verse when he has, and in the morning goes into Kusinara to tell the Mallas."
+ },
+ {
+  "event_id": "E_IN_001",
+  "person_id": "P_ANURUDDHA",
+  "role_in_event": "senior monk present",
+  "presence": "present",
+  "note": "dn16:6.8.3-6.11.14: it is he who tells Ananda that the Buddha has entered cessation and is not yet extinguished, and he who addresses the monks afterwards."
+ },
+ {
+  "event_id": "E_IN_001",
+  "person_id": "P_SUBHADDA",
+  "role_in_event": "ordained the same night",
+  "presence": "present",
+  "note": "dn16:5.23.3: on that very day, in the last watch of the night, will be the full extinguishment of the ascetic Gotama."
+ },
+ {
+  "event_id": "E_GR_042",
+  "person_id": "P_PARMENIDES",
+  "role_in_event": "visiting philosopher",
+  "presence": "present",
+  "note": "Plato, Parmenides 127b. The presence is presence in a scene Plato composed, and E_GR_042 says so in its own summary; the row records what the source states."
+ },
+ {
+  "event_id": "E_GR_042",
+  "person_id": "P_SOCRATES",
+  "role_in_event": "very young listener",
+  "presence": "present",
+  "note": "Plato, Parmenides 127c: Socrates was then very young."
+ },
+ {
+  "event_id": "E_GR_042",
+  "person_id": "P_PLATO",
+  "role_in_event": "author of the scene",
+  "presence": "related",
+  "note": "He was not born when the meeting is set; he is on the row because the scene is his."
+ },
+ {
+  "event_id": "E_GR_043",
+  "person_id": "P_HERODOTUS",
+  "role_in_event": "author",
+  "presence": "present",
+  "note": "The composition is his; the row is his working window."
+ },
+ {
+  "event_id": "E_PE_004",
+  "person_id": "P_CYRUS",
+  "role_in_event": "victor; enters Ecbatana",
+  "presence": "present",
+  "note": "Nabonidus Chronicle ii 3: Cyrus marched to Ecbatana, the royal city."
+ },
+ {
+  "event_id": "E_PE_004",
+  "person_id": "P_ASTYAGES",
+  "role_in_event": "defeated king",
+  "presence": "related",
+  "note": "Chronicle ii 1-2: taken prisoner when his army rebelled, on campaign against Cyrus; not placed at Ecbatana."
+ },
+ {
+  "event_id": "E_PE_005",
+  "person_id": "P_CYRUS",
+  "role_in_event": "dies",
+  "presence": "present",
+  "note": "The event is his death; its place is not located."
+ },
+ {
+  "event_id": "E_PE_005",
+  "person_id": "P_CAMBYSES",
+  "role_in_event": "successor",
+  "presence": "related",
+  "note": "Parker & Dubberstein 1942 p. 12: sole king in Babylonia from 31 August 530."
+ },
+ {
+  "event_id": "E_PE_006",
+  "person_id": "P_CAMBYSES",
+  "role_in_event": "conqueror",
+  "presence": "present",
+  "note": "Herodotus 3.13-14: at Memphis, where he took Psammenitus."
+ },
+ {
+  "event_id": "E_PE_007",
+  "person_id": "P_GAUMATA",
+  "role_in_event": "usurper",
+  "presence": "present",
+  "note": "Behistun col. I §11. Place not located."
+ },
+ {
+  "event_id": "E_PE_007",
+  "person_id": "P_CAMBYSES",
+  "role_in_event": "king deposed",
+  "presence": "related",
+  "note": "Absent in Egypt (Behistun col. I §10)."
+ },
+ {
+  "event_id": "E_PE_008",
+  "person_id": "P_CAMBYSES",
+  "role_in_event": "dies",
+  "presence": "present",
+  "note": "Behistun col. I §11; Herodotus 3.64-66."
+ },
+ {
+  "event_id": "E_PE_009",
+  "person_id": "P_OTANES",
+  "role_in_event": "speaks for rule by the people",
+  "presence": "present",
+  "note": "Herodotus 3.80."
+ },
+ {
+  "event_id": "E_PE_009",
+  "person_id": "P_DARIUS",
+  "role_in_event": "speaks for monarchy",
+  "presence": "present",
+  "note": "Herodotus 3.82."
+ },
+ {
+  "event_id": "E_PE_010",
+  "person_id": "P_DARIUS",
+  "role_in_event": "chosen king",
+  "presence": "present",
+  "note": "Herodotus 3.86."
+ },
+ {
+  "event_id": "E_PE_010",
+  "person_id": "P_OTANES",
+  "role_in_event": "withdraws from the contest",
+  "presence": "related",
+  "note": "Herodotus 3.83.3: Otanes took no part and stood aside."
+ },
+ {
+  "event_id": "E_PE_011",
+  "person_id": "P_DARIUS",
+  "role_in_event": "commander; takes Babylon",
+  "presence": "present",
+  "note": "Behistun col. II §1: 'afterwards I went to Babylon; by the grace of Ahura Mazda I both seized Babylon and seized that Nidintu-Bel'."
+ },
+ {
+  "event_id": "E_PE_012",
+  "person_id": "P_PHRAORTES",
+  "role_in_event": "rebel; executed",
+  "presence": "present",
+  "note": "Behistun col. II §13: put on a cross at Ecbatana."
+ },
+ {
+  "event_id": "E_PE_012",
+  "person_id": "P_DARIUS",
+  "role_in_event": "king who ordered the execution",
+  "presence": "related",
+  "note": "col. II §13 says Phraortes was 'led to me' and held at 'my court' but does not say the court was at Ecbatana."
+ },
+ {
+  "event_id": "E_PE_013",
+  "person_id": "P_DARIUS",
+  "role_in_event": "king whose general retook the city",
+  "presence": "related",
+  "note": "Behistun col. III §14: Darius was in Persia and Media; Intaphernes led the army."
+ },
+ {
+  "event_id": "E_PE_014",
+  "person_id": "P_DARIUS",
+  "role_in_event": "reformer",
+  "presence": "related",
+  "note": "No place is stated for the reform."
+ },
+ {
+  "event_id": "E_PE_015",
+  "person_id": "P_DARIUS",
+  "role_in_event": "sends the voyage; conquers the Indians",
+  "presence": "related",
+  "note": "Herodotus 4.44: he sent Scylax and others; he did not sail."
+ },
+ {
+  "event_id": "E_PE_016",
+  "person_id": "P_DARIUS",
+  "role_in_event": "leads the expedition",
+  "presence": "present",
+  "note": "Herodotus 4.87-89: Darius crossed the Bosporus bridge himself. No place row is written for the Bosporus."
+ },
+ {
+  "event_id": "E_PE_017",
+  "person_id": "P_DARIUS",
+  "role_in_event": "commissions the canal",
+  "presence": "related",
+  "note": "Suez c §3: 'I commanded to dig this canal'."
+ },
+ {
+  "event_id": "E_PE_018",
+  "person_id": "P_DARIUS",
+  "role_in_event": "author of the inscription",
+  "presence": "related",
+  "note": "Presence at the building not attested."
+ },
+ {
+  "event_id": "E_PE_019",
+  "person_id": "P_DARIUS",
+  "role_in_event": "author of the tomb inscription",
+  "presence": "related",
+  "note": "The inscription is his; presence at its carving is not attested."
+ },
+ {
+  "event_id": "E_PE_020",
+  "person_id": "P_MARDONIUS",
+  "role_in_event": "commander",
+  "presence": "related",
+  "note": "Herodotus 6.45: Mardonius was with the land army in Macedonia when the fleet was wrecked off Athos."
+ },
+ {
+  "event_id": "E_PE_021",
+  "person_id": "P_DARIUS",
+  "role_in_event": "dies",
+  "presence": "present",
+  "note": "Herodotus 7.4; place not stated."
+ },
+ {
+  "event_id": "E_PE_021",
+  "person_id": "P_XERXES",
+  "role_in_event": "successor",
+  "presence": "related",
+  "note": "Herodotus 7.2-5; Parker & Dubberstein 1942 p. 14."
+ },
+ {
+  "event_id": "E_PE_021",
+  "person_id": "P_ATOSSA",
+  "role_in_event": "mother of the heir",
+  "presence": "related",
+  "note": "Herodotus 7.3.4: 'Atossa held complete sway'."
+ },
+ {
+  "event_id": "E_PE_022",
+  "person_id": "P_XERXES",
+  "role_in_event": "leads the campaign",
+  "presence": "present",
+  "note": "Herodotus 7.7: Xerxes marched against the rebels."
+ },
+ {
+  "event_id": "E_PE_023",
+  "person_id": "P_XERXES",
+  "role_in_event": "orders the canal",
+  "presence": "related",
+  "note": "Herodotus 7.24: Xerxes gave the command; he was not at the digging."
+ },
+ {
+  "event_id": "E_PE_024",
+  "person_id": "P_XERXES",
+  "role_in_event": "orders the bridges and the punishment",
+  "presence": "related",
+  "note": "Herodotus 7.35: 'when Xerxes heard of this'; he marched to Abydos only later (7.37)."
+ },
+ {
+  "event_id": "E_PE_025",
+  "person_id": "P_XERXES",
+  "role_in_event": "retreats",
+  "presence": "present",
+  "note": "Herodotus 8.117.2: the rest came with Xerxes to Sardis."
+ },
+ {
+  "event_id": "E_PE_025",
+  "person_id": "P_MARDONIUS",
+  "role_in_event": "left in command in Greece",
+  "presence": "related",
+  "note": "Herodotus 8.115.1: Xerxes left Mardonius in Thessaly."
+ },
+ {
+  "event_id": "E_PE_026",
+  "person_id": "P_XERXES",
+  "role_in_event": "murdered",
+  "presence": "present",
+  "note": "Diodorus 11.69.2; place not stated."
+ },
+ {
+  "event_id": "E_PE_026",
+  "person_id": "P_ARTAXERXES_I",
+  "role_in_event": "successor; kills Artabanus",
+  "presence": "present",
+  "note": "Diodorus 11.69.6."
+ },
+ {
+  "event_id": "E_PE_027",
+  "person_id": "P_THEMISTOCLES",
+  "role_in_event": "exile; governor of Magnesia",
+  "presence": "present",
+  "note": "Thucydides 1.138: governor of the district; his monument is in the marketplace of Asiatic Magnesia."
+ },
+ {
+  "event_id": "E_PE_027",
+  "person_id": "P_ARTAXERXES_I",
+  "role_in_event": "king who receives him",
+  "presence": "related",
+  "note": "Thucydides 1.137-138: at court, not at Magnesia."
+ },
+ {
+  "event_id": "E_PE_028",
+  "person_id": "P_ARTAXERXES_I",
+  "role_in_event": "king revolted from",
+  "presence": "related",
+  "note": "Thucydides 1.104; Diodorus 11.71."
+ },
+ {
+  "event_id": "E_PE_029",
+  "person_id": "P_MEGABYZUS",
+  "role_in_event": "commander",
+  "presence": "present",
+  "note": "Thucydides 1.109: arrived by land, defeated the Egyptians, besieged Prosopitis."
+ },
+ {
+  "event_id": "E_PE_029",
+  "person_id": "P_ARTAXERXES_I",
+  "role_in_event": "king who sent the army",
+  "presence": "related",
+  "note": "Thucydides 1.109."
+ },
+ {
+  "event_id": "E_PE_030",
+  "person_id": "P_ARTAXERXES_I",
+  "role_in_event": "dies",
+  "presence": "present",
+  "note": "Place not stated."
+ },
+ {
+  "event_id": "E_PE_030",
+  "person_id": "P_DARIUS_II",
+  "role_in_event": "successor",
+  "presence": "related",
+  "note": "Parker & Dubberstein 1942 p. 16."
+ },
+ {
+  "event_id": "E_PE_031",
+  "person_id": "P_TISSAPHERNES",
+  "role_in_event": "party to the alliance",
+  "presence": "related",
+  "note": "Thucydides 8.17.4 names him as party; that he was at Miletus is not stated."
+ },
+ {
+  "event_id": "E_PE_031",
+  "person_id": "P_DARIUS_II",
+  "role_in_event": "the king in whose name it is made",
+  "presence": "related",
+  "note": "Thucydides 8.18: 'the king'; 8.5 identifies him as Darius son of Artaxerxes."
+ },
+ {
+  "event_id": "E_PE_032",
+  "person_id": "P_TISSAPHERNES",
+  "role_in_event": "party to the convention",
+  "presence": "related",
+  "note": "Thucydides 8.58.1; place (plain of the Maeander) not located in this dataset."
+ },
+ {
+  "event_id": "E_PE_032",
+  "person_id": "P_DARIUS_II",
+  "role_in_event": "the king by whose regnal year it is dated",
+  "presence": "related",
+  "note": "Thucydides 8.58.1."
+ },
+ {
+  "event_id": "E_PE_033",
+  "person_id": "P_DARIUS_II",
+  "role_in_event": "dies",
+  "presence": "present",
+  "note": "Anabasis 1.1.1-3; place not stated."
+ },
+ {
+  "event_id": "E_PE_033",
+  "person_id": "P_ARTAXERXES_II",
+  "role_in_event": "successor",
+  "presence": "related",
+  "note": "Anabasis 1.1.3."
+ },
+ {
+  "event_id": "E_PE_033",
+  "person_id": "P_CYRUS_YOUNGER",
+  "role_in_event": "summoned, accused, arrested and released",
+  "presence": "related",
+  "note": "Anabasis 1.1.2-3."
+ },
+ {
+  "event_id": "E_PE_033",
+  "person_id": "P_TISSAPHERNES",
+  "role_in_event": "accuser",
+  "presence": "related",
+  "note": "Anabasis 1.1.3."
+ },
+ {
+  "event_id": "E_PE_034",
+  "person_id": "P_CYRUS_YOUNGER",
+  "role_in_event": "killed",
+  "presence": "present",
+  "note": "Anabasis 1.8.26-27."
+ },
+ {
+  "event_id": "E_PE_034",
+  "person_id": "P_ARTAXERXES_II",
+  "role_in_event": "opposing king; wounded",
+  "presence": "present",
+  "note": "Anabasis 1.8.26: Cyrus struck him in the breast."
+ },
+ {
+  "event_id": "E_PE_035",
+  "person_id": "P_CYRUS",
+  "role_in_event": "issues the proclamation",
+  "presence": "present",
+  "note": "Cylinder lines 22-23: he took up residence in the royal palace at Babylon."
+ },
+ {
+  "event_id": "E_PE_035",
+  "person_id": "P_CAMBYSES",
+  "role_in_event": "named as the king's son",
+  "presence": "related",
+  "note": "Cylinder lines 27 and 35."
+ },
+ {
+  "event_id": "E_PE_036",
+  "person_id": "P_XERXES",
+  "role_in_event": "builder named in the inscription",
+  "presence": "related",
+  "note": "Presence at the building not attested."
+ },
+ {
+  "event_id": "E_GR_044",
+  "person_id": "P_ARISTOPHANES",
+  "role_in_event": "poet",
+  "presence": "related",
+  "note": "The Hypothesis names the production, not the poet's presence in the theatre."
+ },
+ {
+  "event_id": "E_GR_044",
+  "person_id": "P_SOCRATES",
+  "role_in_event": "caricatured on stage",
+  "presence": "related",
+  "note": "Plato, Apology 19c (Fowler, read 2026-09-13): 'you yourselves saw these things in Aristophanes' comedy, a Socrates being carried about there'. Whether Socrates attended is not stated."
+ },
+ {
+  "event_id": "E_CN_036",
+  "person_id": "P_ZIXIA",
+  "role_in_event": "teacher named in the cell",
+  "presence": "related",
+  "note": "Shiji 15, the 魏 column at the line labelled 407: 文侯受經子夏. presence is 'related', not 'present': the cell names no place, the event carries no place_id, and conventions §4 allows 'present' only where the source puts the person at the event's place."
+ },
+ {
+  "event_id": "E_CN_041",
+  "person_id": "P_RANQIU",
+  "role_in_event": "carries the Ji family's question to Confucius",
+  "presence": "related",
+  "note": "Zuozhuan, Ai 11 傳: 季孫欲以田賦．使冉有訪諸仲尼. The source places the consultation in Lu but not at a named place, so 'related' (conventions §4)."
+ },
+ {
+  "event_id": "E_CN_041",
+  "person_id": "P_CONFUCIUS",
+  "role_in_event": "consulted; refuses in public, objects in private",
+  "presence": "related",
+  "note": "Zuozhuan, Ai 11 傳: 仲尼不對．而私於冉有曰 ... 弗聽. Confucius had returned to Lu the same year (魯人以幣召之．乃歸); no place is named for the conversation."
+ },
+ {
+  "event_id": "E_CN_042",
+  "person_id": "P_DENGXI",
+  "role_in_event": "author of the code; killed",
+  "presence": "related",
+  "note": "Zuozhuan, Ding 9 傳: 鄭駟歂殺鄧析．而用其竹刑. The source names no place for the killing; the event's place is the Zheng capital as a stated stand-in, so 'related'."
+ },
+ {
+  "event_id": "E_CN_043",
+  "person_id": "P_HUAYUAN",
+  "role_in_event": "brokers the covenant",
+  "presence": "related",
+  "note": "Zuozhuan, Cheng 12 傳: 宋華元克合晉楚之成. The covenant is sworn outside the west gate of Song, but the source does not say Hua Yuan was there; the swearers named are 晉士燮, 楚公子罷 and 許偃."
+ },
+ {
+  "event_id": "E_CN_044",
+  "person_id": "P_XIANGXU",
+  "role_in_event": "convenes the conference",
+  "presence": "present",
+  "note": "Zuozhuan, Xiang 27 傳: 戊寅．左師至 — the Commander of the Left (Xiang Xu) arrives at Song for the covenant, sworn three days later outside the west gate (辛巳．將盟於宋西門之外)."
+ },
+ {
+  "event_id": "E_CN_044",
+  "person_id": "P_SHUXIANG",
+  "role_in_event": "second to Zhao Wenzi of Jin; advises him",
+  "presence": "present",
+  "note": "Zuozhuan, Xiang 27 傳: 宋人享趙文子．叔向為介 at Song, and later 趙孟患楚衷甲．以告叔向 — Shuxiang is with the Jin delegation at Song."
+ },
+ {
+  "event_id": "E_CN_045",
+  "person_id": "P_LIKUI",
+  "role_in_event": "devises the policy",
+  "presence": "related",
+  "note": "Hanshu 24: 李悝為魏文侯作盡地力之教. No place: the event carries no place_id."
+ },
+ {
+  "event_id": "E_CN_045",
+  "person_id": "P_MARQUIS_WEN_WEI",
+  "role_in_event": "the ruler the policy is made for",
+  "presence": "related",
+  "note": "Hanshu 24: 李悝為魏文侯作. No place: the event carries no place_id."
+ },
+ {
+  "event_id": "E_CN_046",
+  "person_id": "P_LIKUI",
+  "role_in_event": "compiler of the code (late tradition)",
+  "presence": "related",
+  "note": "晉書 刑法志: 魏文侯師李悝。悝撰次諸國法，著《法經》. No place."
+ },
+ {
+  "event_id": "E_CN_036",
+  "person_id": "P_MARQUIS_WEN_WEI",
+  "role_in_event": "receives the classics",
+  "presence": "related",
+  "note": "Shiji 15, the 魏 column at the line labelled 407 (十八。文侯受經子夏。), re-read this session at the wikisource edition (SRC_WS_SHIJI_15), and Shiji 44 文侯受子夏經藝 (SRC_WS_SHIJI_44). 'related', not 'present': the event carries no place_id (same reasoning as P_ZIXIA's row on this event)."
+ },
+ {
+  "event_id": "E_CN_049",
+  "person_id": "P_WUQI",
+  "role_in_event": "devises and carries out the reform as chief minister",
+  "presence": "related",
+  "note": "Shiji 65: 楚悼王素聞起賢，至則相楚. The event carries no place_id, so 'related' (conventions §4)."
+ },
+ {
+  "event_id": "E_CN_050",
+  "person_id": "P_WUQI",
+  "role_in_event": "killed by the nobles he had reformed against",
+  "presence": "related",
+  "note": "Shiji 65: 吳起走之王尸而伏之. The event carries no place_id, so 'related'."
+ },
+ {
+  "event_id": "E_CN_051",
+  "person_id": "P_SHANGYANG",
+  "role_in_event": "argues for the new laws and drafts them",
+  "presence": "related",
+  "note": "Shiji 5: 三年，衛鞅說孝公變法修刑; Shiji 68: 以衛鞅為左庶長，卒定變法之令. The event carries no place_id, so 'related'."
+ },
+ {
+  "event_id": "E_CN_052",
+  "person_id": "P_SHANGYANG",
+  "role_in_event": "the minister the biography credits with the measures",
+  "presence": "related",
+  "note": "Shiji 68 attributes the measures to him (於是以鞅為大良造 … 居三年，作為筑冀闕宮庭於咸陽); Shiji 5's entry for the year does not name him. No source says in so many words that he was at Xianyang, so 'related'."
+ },
+ {
+  "event_id": "E_CN_053",
+  "person_id": "P_SHENBUHAI",
+  "role_in_event": "chancellor",
+  "presence": "related",
+  "note": "Shiji 63: 昭侯用為相. The event carries no place_id, so 'related'."
+ },
+ {
+  "event_id": "E_CN_054",
+  "person_id": "P_SHANGYANG",
+  "role_in_event": "accused of rebellion and killed",
+  "presence": "related",
+  "note": "Shiji 15 and Shiji 68 name different places; the event carries no place_id, so 'related'."
+ },
+ {
+  "event_id": "E_CN_055",
+  "person_id": "P_MENCIUS",
+  "role_in_event": "visitor who answers the king",
+  "presence": "present",
+  "note": "Shiji 44: 孟軻皆至梁 … 辱幸至獘邑之廷 — he is at the king's court, which Shiji 44 places at Daliang from Hui's 31st year (E_CN_055.note). 'present' rests on that reading; Mencius 1A1: 孟子見梁惠王."
+ },
+ {
+  "event_id": "E_CN_056",
+  "person_id": "P_SUQIN",
+  "role_in_event": "persuades the marquis",
+  "presence": "related",
+  "note": "Shiji 69: 說燕文侯曰. The event carries no place_id, so 'related'."
+ },
+ {
+  "event_id": "E_CN_057",
+  "person_id": "P_ZHANGYI",
+  "role_in_event": "chancellor",
+  "presence": "related",
+  "note": "Shiji 15: 張儀相. The event carries no place_id, so 'related'."
+ },
+ {
+  "event_id": "E_CN_058",
+  "person_id": "P_XUNZI",
+  "role_in_event": "scholar and magistrate",
+  "presence": "related",
+  "note": "Shiji 74: 春申君以為蘭陵令. The event carries no place_id, so 'related'."
+ },
+ {
+  "event_id": "E_CN_059",
+  "person_id": "P_HANFEI",
+  "role_in_event": "envoy of Han, imprisoned and poisoned",
+  "presence": "related",
+  "note": "Shiji 6: 非死雲陽; no place row for 雲陽, so the event carries no place_id and the presence is 'related'."
+ },
+ {
+  "event_id": "E_CN_059",
+  "person_id": "P_LISI",
+  "role_in_event": "contrives his death",
+  "presence": "related",
+  "note": "Shiji 63: 李斯使人遺非藥，使自殺; Shiji 6: 秦用李斯謀. Not placed by either source."
+ },
+ {
+  "event_id": "E_CN_060",
+  "person_id": "P_LISI",
+  "role_in_event": "commandant of justice whose argument decides the commandery system",
+  "presence": "related",
+  "note": "Shiji 6: 廷尉李斯議曰 … 今海內賴陛下神靈一統，皆為郡縣. The source does not place the debate, so 'related'."
+ }
+]

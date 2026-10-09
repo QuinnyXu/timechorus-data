@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/idea_links.schema.json",
+  "title": "idea_links",
+  "description": "Polymorphic links from an idea to a person/passage/event/idea/work.",
+  "type": "object",
+  "required": [
+    "id",
+    "idea_id",
+    "target_type",
+    "target_id",
+    "link_type",
+    "reliability",
+    "note"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "idea_id": {
+      "type": "string"
+    },
+    "target_type": {
+      "type": "string",
+      "enum": [
+        "person",
+        "passage",
+        "event",
+        "idea",
+        "work"
+      ]
+    },
+    "target_id": {
+      "type": "string"
+    },
+    "link_type": {
+      "type": "string",
+      "enum": [
+        "originates",
+        "develops",
+        "refutes",
+        "transmits",
+        "parallels",
+        "enacts"
+      ]
+    },
+    "reliability": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "idea_links",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "idea_id",
+        "target": "ideas",
+        "allowBlank": false
+      },
+      {
+        "rule": "enum",
+        "field": "target_type"
+      },
+      {
+        "rule": "enum",
+        "field": "link_type"
+      },
+      {
+        "rule": "enum",
+        "field": "reliability"
+      },
+      {
+        "rule": "procedural",
+        "name": "idea_links_polymorphic_target"
+      }
+    ]
+  }
+}

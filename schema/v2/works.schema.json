@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/works.schema.json",
+  "title": "works",
+  "description": "Works (texts) with a range-dated composition window.",
+  "type": "object",
+  "required": [
+    "id",
+    "title_en",
+    "title_original",
+    "language",
+    "region_id",
+    "genre",
+    "author_person_id",
+    "composition_year_min",
+    "composition_year_max",
+    "composition_basis",
+    "open_translation_source_id",
+    "wikidata_qid",
+    "note",
+    "review_status"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "title_original": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "region_id": {
+      "type": "string"
+    },
+    "genre": {
+      "type": "string"
+    },
+    "author_person_id": {
+      "type": "string"
+    },
+    "composition_year_min": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "composition_year_max": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "composition_basis": {
+      "type": "string"
+    },
+    "open_translation_source_id": {
+      "type": "string"
+    },
+    "wikidata_qid": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed"
+      ]
+    }
+  },
+  "x-timechorus": {
+    "table": "works",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "region_id",
+        "target": "regions",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "author_person_id",
+        "target": "people"
+      },
+      {
+        "rule": "ref",
+        "field": "open_translation_source_id",
+        "target": "sources"
+      },
+      {
+        "rule": "yearRange",
+        "min": "composition_year_min",
+        "max": "composition_year_max",
+        "required": true
+      },
+      {
+        "rule": "procedural",
+        "name": "works_composition_basis"
+      },
+      {
+        "rule": "enum",
+        "field": "review_status"
+      }
+    ]
+  }
+}

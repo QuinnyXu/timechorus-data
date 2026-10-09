@@ -1,0 +1,445 @@
+[
+ {
+  "id": "REL_001",
+  "person_a": "P_CLEISTHENES",
+  "person_b": "P_PERICLES",
+  "rel_type": "kin",
+  "rel_label_en": "great-uncle (Pericles's mother Agariste was Cleisthenes's niece)",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "note": "Herodotus 6.131."
+ },
+ {
+  "id": "REL_002",
+  "person_a": "P_CONFUCIUS",
+  "person_b": "P_LAOZI",
+  "rel_type": "teacher",
+  "rel_label_en": "asked Laozi about the rites (traditional)",
+  "reliability": "low",
+  "source_ids": [
+   "SRC_SHIJI_63"
+  ],
+  "note": "Legendary layer; see E_CN_005."
+ },
+ {
+  "id": "REL_003",
+  "person_a": "P_BUDDHA",
+  "person_b": "P_MAHAVIRA",
+  "rel_type": "rival",
+  "rel_label_en": "contemporary rival teachers in Magadha",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SUTTACENTRAL_DN29"
+  ],
+  "note": "Source corrected 2026-09-07 (finding 3.15): the sutta that reports Nigantha Nataputta's death during the Buddha's lifetime is DN 29 (Pasadika), segment dn29:1.3 — 'Now at that time the Jain ascetic of the Natika clan had recently passed away at Pava.' — with an exact parallel at MN 104 (Samagama), segment mn104:2.1. Both read this session in suttacentral/bilara-data (published branch). DN 16, cited by the seed, does not carry this notice and has been removed from source_ids."
+ },
+ {
+  "id": "REL_004",
+  "person_a": "P_CYRUS",
+  "person_b": "P_DARIUS",
+  "rel_type": "kin",
+  "rel_label_en": "Darius married Cyrus's daughter Atossa and claimed the Achaemenid line",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_GODLEY_HDT",
+   "SRC_LIVIUS_BEHISTUN"
+  ],
+  "note": "Herodotus 3.88; Behistun DB I 1-11 genealogy."
+ },
+ {
+  "id": "REL_005",
+  "person_a": "P_ZICHAN",
+  "person_b": "P_SHUXIANG",
+  "rel_type": "associate",
+  "rel_label_en": "exchanged letters over the publication of the penal code",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "note": "Zuozhuan, Zhao 6 (= -536) carries Shuxiang's long letter of protest and Zichan's two-sentence reply in full; Zhao 3 shows them dealing with each other again over Jin-Zheng relations. Read at ctext.org 2026-09-08."
+ },
+ {
+  "id": "REL_006",
+  "person_a": "P_YANYING",
+  "person_b": "P_SHUXIANG",
+  "rel_type": "associate",
+  "rel_label_en": "ministers of Qi and Jin who agreed that both their ruling houses were finished",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "note": "Zuozhuan, Zhao 3 (= -539). The conversation is the passage Q_040."
+ },
+ {
+  "id": "REL_007",
+  "person_a": "P_HELU",
+  "person_b": "P_FUCHAI",
+  "rel_type": "kin",
+  "rel_label_en": "father and son, successive kings of Wu",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "note": "Zuozhuan, Ding 14 (= -496): after Helü's death from the wound at Zuili, 夫差使人立於庭 — Fuchai had a man stand in the courtyard to ask him daily whether he had forgotten that the king of Yue killed his father."
+ },
+ {
+  "id": "REL_008",
+  "person_a": "P_FUCHAI",
+  "person_b": "P_GOUJIAN",
+  "rel_type": "enemy",
+  "rel_label_en": "each spared or destroyed the other in turn across twenty-one years",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "note": "Zuozhuan, Ai 1 (= -494), Fuchai spares Goujian at Kuaiji; Ai 13 (= -482), Yue takes the Wu capital while Fuchai is at Huangchi; Ai 22 (= -473), Yue extinguishes Wu and Fuchai hangs himself."
+ },
+ {
+  "id": "REL_009",
+  "person_a": "P_WUZIXU",
+  "person_b": "P_FUCHAI",
+  "rel_type": "service",
+  "rel_label_en": "warned him not to spare Yue and was ordered to kill himself",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "note": "Zuozhuan, Ai 1 (the speech against sparing Yue) and Ai 11 (the sword)."
+ },
+ {
+  "id": "REL_010",
+  "person_a": "P_FANLI",
+  "person_b": "P_GOUJIAN",
+  "rel_type": "service",
+  "rel_label_en": "planned with him for twenty years and left when it succeeded",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SHIJI_41"
+  ],
+  "note": "Shiji 41: 與句踐深謀二十餘年，竟滅吳. reliability medium because the Zuozhuan years covering the same war do not name Fan Li; the relation rests on Sima Qian four centuries later."
+ },
+ {
+  "id": "REL_011",
+  "person_a": "P_SUNWU",
+  "person_b": "P_HELU",
+  "rel_type": "service",
+  "rel_label_en": "presented himself to Helü with his art of war (traditional)",
+  "reliability": "low",
+  "source_ids": [
+   "SRC_SHIJI_65"
+  ],
+  "note": "Shiji 65. reliability low for the reason recorded on P_SUNWU: the Zuozhuan narrative of Helü's wars never mentions Sun Wu."
+ },
+ {
+  "id": "REL_012",
+  "person_a": "P_ANAXAGORAS",
+  "person_b": "P_PERICLES",
+  "rel_type": "associate",
+  "rel_label_en": "Pericles spoke for him at his trial for impiety",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_DL9"
+  ],
+  "note": "Diogenes Laertius 2.12-14 (Hicks). Two of his three versions have Pericles intervene; in one Pericles asks the assembly whether they have any complaint of his own career and then says 'I am a pupil of Anaxagoras'. reliability medium because the three accounts disagree on everything else."
+ },
+ {
+  "id": "REL_013",
+  "person_a": "P_XENOPHANES",
+  "person_b": "P_PARMENIDES",
+  "rel_type": "teacher",
+  "rel_label_en": "Parmenides was called his pupil but did not follow him",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_DL9"
+  ],
+  "note": "Diogenes Laertius 9.21 (Hicks): 'Parmenides, a native of Elea, son of Pyres, was a pupil of Xenophanes (Theophrastus in his Epitome makes him a pupil of Anaximander). Parmenides, however, though he was instructed by Xenophanes, was no follower of his.' The source records the succession and denies the influence in the same breath, which is why this is a relation rather than a lineage."
+ },
+ {
+  "id": "REL_014",
+  "person_a": "P_BIMBISARA",
+  "person_b": "P_AJATASATTU",
+  "rel_type": "kin",
+  "rel_label_en": "father and son; the son killed the father for the throne",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA",
+   "SRC_SC_DN2"
+  ],
+  "note": "pli-tv-kd17:3.4-3.5 and dn2:99.6, both read this session."
+ },
+ {
+  "id": "REL_015",
+  "person_a": "P_DEVADATTA",
+  "person_b": "P_AJATASATTU",
+  "rel_type": "patron",
+  "rel_label_en": "attended on morning and evening with five hundred carriages",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd17:2.1.21, read this session."
+ },
+ {
+  "id": "REL_016",
+  "person_a": "P_SARIPUTTA",
+  "person_b": "P_MOGGALLANA",
+  "rel_type": "associate",
+  "rel_label_en": "went forth together out of the same rival school",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "note": "pli-tv-kd1:23-24.7, read this session."
+ },
+ {
+  "id": "REL_017",
+  "person_a": "P_BUDDHA",
+  "person_b": "P_AJATASATTU",
+  "rel_type": "teacher",
+  "rel_label_en": "the king who killed his father came to ask what renunciation is for",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_SC_DN2"
+  ],
+  "note": "DN 2 in full, read this session."
+ },
+ {
+  "id": "REL_018",
+  "person_a": "P_ZEDEKIAH",
+  "person_b": "P_JEHOIACHIN",
+  "rel_type": "kin",
+  "rel_label_en": "uncle and nephew: his father's brother, renamed by Nebuchadnezzar",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "note": "2 Kings 24:17, read this session: the king of Babylon made Mattaniah his father's brother king in his stead, and changed his name to Zedekiah."
+ },
+ {
+  "id": "REL_019",
+  "person_a": "P_NEBUCHADNEZZAR",
+  "person_b": "P_ZEDEKIAH",
+  "rel_type": "service",
+  "rel_label_en": "put him on the throne, then blinded him for rebelling",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_JPS1917",
+   "SRC_ABC5"
+  ],
+  "note": "2 Kings 24:17 and 25:6-7, read this session; ABC 5 Rev. 13 has the king of Babylon appoint there a king of his own choice."
+ },
+ {
+  "id": "REL_020",
+  "person_a": "P_ZERUBBABEL",
+  "person_b": "P_JESHUA",
+  "rel_type": "associate",
+  "rel_label_en": "the pair addressed together in every dated oracle of Haggai",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "note": "Haggai 1:1 and 1:14, and Ezra 3:8, all read this session. After the monarchy, authority in Judah is a pair and not a person."
+ },
+ {
+  "id": "REL_021",
+  "person_a": "P_HAGGAI",
+  "person_b": "P_ZECHARIAH",
+  "rel_type": "associate",
+  "rel_label_en": "the two prophets Ezra names as the reason the building got finished",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "note": "Ezra 6:14, read this session: the elders builded and prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. Their own date stamps overlap in the second year of Darius."
+ },
+ {
+  "id": "REL_022",
+  "person_a": "P_JEREMIAH",
+  "person_b": "P_GEDALIAH",
+  "rel_type": "associate",
+  "rel_label_en": "left in the land together after the fall",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "note": "Jeremiah 39-41, read this session, places the prophet with the governor at Mizpah. The chapters were read whole; no single verse is cited because the association runs through them."
+ },
+ {
+  "id": "REL_023",
+  "person_a": "P_CYRUS",
+  "person_b": "P_CAMBYSES",
+  "rel_type": "kin",
+  "rel_label_en": "father and son",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_TOLMAN1908",
+   "SRC_GODLEY_HDT"
+  ],
+  "note": "Behistun col. I §10 (Tolman, read 2026-09-13): 'Cambyses by name, the son of Cyrus'; Herodotus 3.61.1 likewise."
+ },
+ {
+  "id": "REL_024",
+  "person_a": "P_HYSTASPES",
+  "person_b": "P_DARIUS",
+  "rel_type": "kin",
+  "rel_label_en": "father and son",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_TOLMAN1908"
+  ],
+  "note": "Behistun col. I §§1-2 (Tolman, read 2026-09-13): 'My father (is) Hystaspes'."
+ },
+ {
+  "id": "REL_025",
+  "person_a": "P_DARIUS",
+  "person_b": "P_XERXES",
+  "rel_type": "kin",
+  "rel_label_en": "father and son; Xerxes chosen heir over his elder half-brother",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_GODLEY_HDT",
+   "SRC_TOLMAN1908"
+  ],
+  "note": "Herodotus 7.2-4 (read 2026-09-13); Xerxes Persepolis a §2 (Tolman, read 2026-09-13): 'the son of Darius the king'."
+ },
+ {
+  "id": "REL_026",
+  "person_a": "P_DARIUS",
+  "person_b": "P_ATOSSA",
+  "rel_type": "kin",
+  "rel_label_en": "husband and wife",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "note": "Herodotus 3.88.2 (read 2026-09-13): Darius married Cyrus's daughters Atossa and Artystone; Atossa had been the wife of Cambyses and of the Magus."
+ },
+ {
+  "id": "REL_027",
+  "person_a": "P_XERXES",
+  "person_b": "P_ARTAXERXES_I",
+  "rel_type": "kin",
+  "rel_label_en": "father and son",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_CRAWLEY_THUC",
+   "SRC_OLDFATHER_DIOD"
+  ],
+  "note": "Thucydides 1.137.3 and 4.50.3 (read 2026-09-13 in two files): 'Artaxerxes, Xerxes' son'; Diodorus 11.69 (read 2026-09-13)."
+ },
+ {
+  "id": "REL_028",
+  "person_a": "P_ARTAXERXES_I",
+  "person_b": "P_DARIUS_II",
+  "rel_type": "kin",
+  "rel_label_en": "father and son",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_CRAWLEY_THUC_BK8"
+  ],
+  "note": "Thucydides 8.5 (Crawley, read 2026-09-13): 'King Darius, son of Artaxerxes'. Parker & Dubberstein 1942 p. 16 show Darius II's reign following directly on Artaxerxes I's in Babylonia; Xerxes II, whom Wikidata lists, is not acknowledged there and has no row."
+ },
+ {
+  "id": "REL_029",
+  "person_a": "P_ARTAXERXES_II",
+  "person_b": "P_CYRUS_YOUNGER",
+  "rel_type": "kin",
+  "rel_label_en": "brothers and rivals for the throne",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_BROWNSON_ANAB"
+  ],
+  "note": "Xenophon, Anabasis 1.1.1-4 (read 2026-09-13): the two sons of Darius and Parysatis; Cyrus arrested on Tissaphernes's accusation, released at his mother's plea, and plots to be king in his brother's stead."
+ },
+ {
+  "id": "REL_030",
+  "person_a": "P_DARIUS",
+  "person_b": "P_OTANES",
+  "rel_type": "associate",
+  "rel_label_en": "fellow conspirators against Gaumata",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_TOLMAN1908",
+   "SRC_GODLEY_HDT"
+  ],
+  "note": "Behistun col. IV §18 (Tolman, read 2026-09-13) lists Otanes among the six men with Darius; Herodotus 3.70-83 (read 2026-09-13)."
+ },
+ {
+  "id": "REL_031",
+  "person_a": "P_CYRUS",
+  "person_b": "P_ASTYAGES",
+  "rel_type": "enemy",
+  "rel_label_en": "the Persian who overthrew the Median king",
+  "reliability": "high",
+  "source_ids": [
+   "SRC_LIVIUS_NABONIDUS",
+   "SRC_GODLEY_HDT"
+  ],
+  "note": "Nabonidus Chronicle ii 1-4 (livius.org, read 2026-09-13); Herodotus 1.127-130 (read 2026-09-13). Herodotus also makes Cyrus Astyages's grandson; that story (1.107-122) was not read this session and is not asserted."
+ },
+ {
+  "id": "REL_032",
+  "person_a": "P_TISSAPHERNES",
+  "person_b": "P_CYRUS_YOUNGER",
+  "rel_type": "rival",
+  "rel_label_en": "accuser and accused",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_BROWNSON_ANAB"
+  ],
+  "note": "Xenophon, Anabasis 1.1.2-3 (read 2026-09-13): Cyrus took Tissaphernes up with him as a friend, and Tissaphernes falsely accused him to Artaxerxes. 'falsely' is Xenophon's word."
+ },
+ {
+  "id": "REL_033",
+  "person_a": "P_LIKUI",
+  "person_b": "P_MARQUIS_WEN_WEI",
+  "rel_type": "service",
+  "rel_label_en": "devised policy for the marquis (the Jinshu calls him the marquis's teacher)",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_WS_HANSHU_24",
+   "SRC_WS_JINSHU_30"
+  ],
+  "note": "Hanshu 24: 李悝為魏文侯作盡地力之教; 晉書 刑法志: 魏文侯師李悝 (both read 2026-10-04, this session). service rather than teacher: the earlier witness (Hanshu) makes him the marquis's policy-maker; only the Tang compilation calls him 師. The Li Ke of Shiji 44 and Shiji 15 is NOT used for this relation (the identification is contested; see P_LIKUI)."
+ },
+ {
+  "id": "REL_034",
+  "person_a": "P_WUQI",
+  "person_b": "P_MARQUIS_WEN_WEI",
+  "rel_type": "service",
+  "rel_label_en": "general and frontier governor for the marquis",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_WS_SHIJI_65"
+  ],
+  "note": "Shiji 65: 於是魏文侯以為將，擊秦，拔五城。 … 乃以為西河守，以拒秦、韓 (read 2026-10-04, this session). The 李克 whom the marquis consults about Wu Qi in the same passage (文侯問李克曰) is not used: the 李悝/李克 identification is contested (P_LIKUI)."
+ },
+ {
+  "id": "REL_035",
+  "person_a": "P_HANFEI",
+  "person_b": "P_LISI",
+  "rel_type": "rival",
+  "rel_label_en": "fellow students of Xunzi; Li Si contrived Han Fei's death",
+  "reliability": "medium",
+  "source_ids": [
+   "SRC_WS_SHIJI_63",
+   "SRC_WS_SHIJI_6"
+  ],
+  "note": "Shiji 63: 與李斯俱事荀卿，斯自以為不如非 … 李斯、姚賈害之 … 李斯使人遺非藥，使自殺; Shiji 6: 秦用李斯謀，留非，非死雲陽 (read 2026-10-04, this session)."
+ },
+ {
+  "id": "REL_036",
+  "person_a": "P_SUQIN",
+  "person_b": "P_ZHANGYI",
+  "rel_type": "rival",
+  "rel_label_en": "fellow students and rival strategists of alliance and counter-alliance (traditional)",
+  "reliability": "low",
+  "source_ids": [
+   "SRC_WS_SHIJI_70",
+   "SRC_WS_SHIJI_69"
+  ],
+  "note": "Shiji 70: 張儀者，魏人也。始嘗與蘇秦俱事鬼谷先生，學術，蘇秦自以不及張儀。; Shiji 69: 蘇秦者，東周雒陽人也。東事師於齊，而習之於鬼谷先生。 (read 2026-10-04, this session). reliability low and the label marked traditional: Shiji 69's own closing judgement warns that stories were attached to Su Qin's name (P_SUQIN), and the two rows enter together for that reason."
+ }
+]

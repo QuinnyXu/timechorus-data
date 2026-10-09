@@ -1,0 +1,95 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/ideas.schema.json",
+  "title": "ideas",
+  "description": "Ideas, each anchored to at least one passage.",
+  "type": "object",
+  "required": [
+    "id",
+    "name_en",
+    "name_original",
+    "region_of_origin",
+    "category",
+    "one_line_en",
+    "first_attested_year_min",
+    "first_attested_year_max",
+    "review_status"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name_en": {
+      "type": "string"
+    },
+    "name_original": {
+      "type": "string"
+    },
+    "region_of_origin": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "one_line_en": {
+      "type": "string"
+    },
+    "first_attested_year_min": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "first_attested_year_max": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "first_attestation_basis": {
+      "type": "string",
+      "description": "Why the first-attested range is what it is (conventions §2's dating_basis, for ideas). Blank on a row is a warning, not an error, added by ruling L-51(5): red line 5 could not be satisfied for this table until the column existed; the pre-existing rows earn their warning as the backlog marker for the Round-3 backfill."
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed"
+      ]
+    }
+  },
+  "x-timechorus": {
+    "table": "ideas",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "region_of_origin",
+        "target": "regions",
+        "allowBlank": false
+      },
+      {
+        "rule": "yearRange",
+        "min": "first_attested_year_min",
+        "max": "first_attested_year_max"
+      },
+      {
+        "rule": "enum",
+        "field": "review_status"
+      },
+      {
+        "rule": "procedural",
+        "name": "ideas_one_line_en"
+      },
+      {
+        "rule": "procedural",
+        "name": "ideas_need_passage_link"
+      },
+      {
+        "rule": "procedural",
+        "name": "ideas_first_attestation_basis"
+      }
+    ]
+  }
+}

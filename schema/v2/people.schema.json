@@ -1,0 +1,180 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/people.schema.json",
+  "title": "people",
+  "description": "Persons, with range-dated birth/death and a historicity grade.",
+  "type": "object",
+  "required": [
+    "id",
+    "name_en",
+    "name_original",
+    "name_alt",
+    "region_id",
+    "polity_id",
+    "role_tag_en",
+    "historicity",
+    "birth_year_min",
+    "birth_year_max",
+    "death_year_min",
+    "death_year_max",
+    "dating_basis",
+    "wikidata_qid",
+    "is_protagonist",
+    "short_bio_en",
+    "map_place_id",
+    "map_place_basis",
+    "map_place_reason",
+    "review_status"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name_en": {
+      "type": "string"
+    },
+    "name_original": {
+      "type": "string"
+    },
+    "name_alt": {
+      "type": "string"
+    },
+    "region_id": {
+      "type": "string"
+    },
+    "polity_id": {
+      "type": "string"
+    },
+    "role_tag_en": {
+      "type": "string"
+    },
+    "historicity": {
+      "type": "string",
+      "enum": [
+        "attested",
+        "probable",
+        "traditional",
+        "legendary",
+        "anonymous"
+      ]
+    },
+    "birth_year_min": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "birth_year_max": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "death_year_min": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "death_year_max": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "dating_basis": {
+      "type": "string"
+    },
+    "wikidata_qid": {
+      "type": "string"
+    },
+    "is_protagonist": {
+      "type": "string"
+    },
+    "short_bio_en": {
+      "type": "string"
+    },
+    "map_place_id": {
+      "type": "string",
+      "description": "Nullable FK to places: an explicit display anchor overriding anchorOf()'s computed choice. Requires map_place_basis (schema v2.1, r6-0)."
+    },
+    "map_place_basis": {
+      "type": "string",
+      "description": "Why the map_place_id override was made. No reason, no override (conventions.md §1): a non-blank map_place_id with a blank map_place_basis is a validate.py error."
+    },
+    "map_place_reason": {
+      "type": "string",
+      "description": "Reader-register reason for the map_place_id override, shown to readers on the person record line (schema v2.2, r9-2, L-104(2)). Required non-blank wherever map_place_id is set once the column is in use; 60-450 characters, no ruling ids, no file paths. map_place_basis stays the reviewers' working log in the CSV."
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed"
+      ]
+    }
+  },
+  "x-timechorus": {
+    "table": "people",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "region_id",
+        "target": "regions",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "polity_id",
+        "target": "polities"
+      },
+      {
+        "rule": "enum",
+        "field": "historicity"
+      },
+      {
+        "rule": "enum",
+        "field": "review_status"
+      },
+      {
+        "rule": "yearRange",
+        "min": "birth_year_min",
+        "max": "birth_year_max"
+      },
+      {
+        "rule": "yearRange",
+        "min": "death_year_min",
+        "max": "death_year_max"
+      },
+      {
+        "rule": "procedural",
+        "name": "people_dating_basis"
+      },
+      {
+        "rule": "procedural",
+        "name": "people_role_tag_en"
+      },
+      {
+        "rule": "procedural",
+        "name": "people_traditional_birth_range"
+      },
+      {
+        "rule": "ref",
+        "field": "map_place_id",
+        "target": "places"
+      },
+      {
+        "rule": "procedural",
+        "name": "people_map_place_override"
+      },
+      {
+        "rule": "procedural",
+        "name": "people_map_place_reason"
+      },
+      {
+        "rule": "procedural",
+        "name": "people_is_protagonist_enum"
+      }
+    ]
+  }
+}

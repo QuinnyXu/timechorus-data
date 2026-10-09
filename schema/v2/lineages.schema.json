@@ -1,0 +1,86 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/lineages.schema.json",
+  "title": "lineages",
+  "description": "Teacher-to-student transmission links.",
+  "type": "object",
+  "required": [
+    "id",
+    "teacher_id",
+    "student_id",
+    "lineage_type",
+    "reliability",
+    "source_ids",
+    "note"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "teacher_id": {
+      "type": "string"
+    },
+    "student_id": {
+      "type": "string"
+    },
+    "lineage_type": {
+      "type": "string",
+      "enum": [
+        "direct",
+        "claimed",
+        "school"
+      ]
+    },
+    "reliability": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "source_ids": {
+      "type": "string",
+      "description": "Semicolon-separated id list."
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "lineages",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "teacher_id",
+        "target": "people",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "student_id",
+        "target": "people",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "source_ids",
+        "target": "sources",
+        "allowBlank": false,
+        "multi": true
+      },
+      {
+        "rule": "enum",
+        "field": "lineage_type"
+      },
+      {
+        "rule": "enum",
+        "field": "reliability"
+      }
+    ]
+  }
+}

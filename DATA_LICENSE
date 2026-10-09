@@ -1,0 +1,332 @@
+TimeChorus data licence
+=======================
+
+Dataset: TimeChorus (axial corpus), exported from source commit 08b58c9b7ead2fc4ebdd9639349b9367deb58e21.
+Site: https://timechorus.com
+
+1. The compilation and the project's own words
+
+Copyright (c) 2026 Quinny Xu.
+Licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+This covers the selection and arrangement of the records, and the text the project
+wrote itself (summaries, notes, dating bases, readings and the like). It does NOT
+cover third-party text. Where a row quotes a translation or an original-language
+edition (passages.quote_translation, passages.quote_original), that text stays under
+the licence of the source the row names (passages.translation_source_id,
+passages.original_source_id, passages.source_id -> sources.licence), and section 2
+applies to it.
+
+2. Third-party sources
+
+sources.csv records, for every source, one licence from a closed vocabulary:
+public domain, CC0, CC BY 4.0, CC BY 3.0, CC BY-SA 4.0, CC BY-SA 3.0, copyright,
+unconfirmed. The value is the most restrictive established reading across the
+jurisdictions the project serves; per-jurisdiction detail is in sources.licence_note.
+A passage is quoted verbatim only from a source whose licence is one of the first six.
+Sources marked 'copyright' or 'unconfirmed' are cited and paraphrased, never quoted at
+length. Share-alike (CC BY-SA) constrains what a reuser of that quoted text must do
+downstream; it does not alter the licence of the rest of the dataset.
+
+Sources by licence:
+  public domain  63
+  CC0            7
+  CC BY 4.0      2
+  CC BY 3.0      1
+  CC BY-SA 4.0   4
+  CC BY-SA 3.0   1
+  copyright      11
+  unconfirmed    1
+
+3. Attribution clauses (CC BY and CC BY-SA sources)
+
+These are the texts the TimeChorus site shows verbatim on its credits page; they are
+generated from sources.credit_clause (or, where a row predates that column, the
+labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
+
+* Achaemenid Royal Inscriptions online (ARIo), Oracc: lemmatised edition after Schmitt 2009 [CC BY-SA 3.0] (SRC_ARIO)
+    Used for: Supplies 11 Old Persian transliterations (Behistun, Persepolis, Naqsh-i Rustam, the Suez stela).
+    Shown as: On the site these lines are signed "Tolman, Ancient Persian Lexicon and the Texts of the Achaemenidan Inscriptions" — that is the translator; the original script above it is this edition's.
+    Attribution: ARIo / MOCCI, LMU Munich; Heitmann-Gordon; Schmitt 2009.
+
+* Diogenes Laertius, Lives of Eminent Philosophers, ed. Hicks (Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_DL_GRC)
+    Used for: Supplies the Greek original of three quoted passages of Diogenes Laertius: 9.45 (Democritus) and 9.51 (Protagoras, twice).
+    Shown as: On the site these passages are signed "Diogenes Laertius, Lives of the Eminent Philosophers, tr. Hicks (Loeb)" — that is the translation beside them. The Greek above it is the Perseus Digital Library's digital text of the same Loeb edition, which this licence covers.
+    Attribution: Diogenes Laertius, Lives of Eminent Philosophers, edited by R. D. Hicks (Loeb Classical Library: Cambridge, MA, Harvard University Press; London, William Heinemann, 1925), in the digital edition of the Perseus Digital Library: Greek text tlg0004.tlg001.perseus-grc2, published by the Trustees of Tufts University with Cultural Heritage Language Technologies. Principal Gregory Crane; prepared under the supervision of Bridget Almas, Lisa Cerrato and Rashmi Singhal. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* Herodotus, tr. Godley (Loeb) [CC BY-SA 4.0] (SRC_GODLEY_HDT)
+    Used for: Supplies seven quoted passages of Herodotus — the Greek original and the English translation of each: 1.74.2, 3.38.4, 3.80.6, 3.89.3, 5.37.2, 6.21.2 and 7.10ε.
+    Shown as: On the site these passages are signed "Herodotus, tr. Godley (Loeb)" — that is the printed translation underneath. What is quoted here is the Perseus Digital Library's digital edition of it: the Greek text perseus-grc2 and the English text perseus-eng2, whose own title page reads "Modernized by Perseus". Godley's Loeb of 1920–1925 is itself public domain; the Perseus edition quoted here is what this licence covers. Confirmed by the licensor 2026-10-05: Perseus maintainer (lcerrato, collaborator) on PerseusDL/canonical-greekLit issue #2002 — 'I've applied the CC BY SA 4.0 license to the Herodotus files specifically'; headers added in PR #2003 (tlg0016). Reading A stands confirmed; the header lag was lag, not a different grant.
+    Attribution: Herodotus, Histories, edited and translated by A. D. Godley (Loeb Classical Library, Harvard University Press and William Heinemann, 1920–1925), in the digital edition of the Perseus Digital Library: Greek text tlg0016.tlg001.perseus-grc2, English text tlg0016.tlg001.perseus-eng2, the English modernised by Steven Ott and reviewed by John Marincola. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes and gazetteer annotations interleaved with the text are removed, and the words are otherwise unchanged.
+
+* Multimedia Yasna (MUYA) / Corpus Avesticum: digital edition and manuscript transcriptions of the Yasna [CC BY 4.0] (SRC_MUYA)
+    Used for: Supplies 2 Avestan stanzas of the Gathas (Yasna 30.2, 30.3).
+    Shown as: On the site these lines are signed "Mills, Sacred Books of the East vol. 31: The Zend-Avesta part III (Yasna)" — that is the translator; the original script above it is this edition's.
+    Attribution: Corpus Avesticum - The Multimedia Yasna (MUYA), SOAS University of London, funded by the European Research Council; principal investigator Almut Hintze; the Yasna 28-30 edition and the TEI transcriptions by Benedikt Peschl.
+
+* Plato, Apology, ed. Burnet (Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_APOLOGY_GRC)
+    Used for: Supplies the Greek original of one quoted passage of Plato's Apology: 38a.
+    Shown as: On the site this passage carries Fowler's Loeb translation beside it. The Greek above it is the Perseus Digital Library's digital text of John Burnet's Oxford edition, which this licence covers.
+    Attribution: Plato, Apology, in Platonis Opera, vol. 1, edited by John Burnet (Oxford: Clarendon Press, 1905), in the digital edition of the Perseus Digital Library: Greek text tlg0059.tlg002.perseus-grc2. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* Pleiades gazetteer of ancient places [CC BY 3.0] (SRC_PLEIADES)
+    Used for: Supplies the coordinate basis of 35 of this atlas's 56 places — every located place except the Indian and Chinese ones. Each of those rows carries its Pleiades id, so any point can be checked against the gazetteer record it was taken from.
+    Attribution: Pleiades, pleiades.stoa.org — a joint project of the Institute for the Study of the Ancient World at New York University and the Ancient World Mapping Center at the University of North Carolina at Chapel Hill; senior editors Roger Bagnall and Richard Talbert, managing editor Tom Elliott, with the associate editors, reviewers and individual contributors named at pleiades.stoa.org/credits, who hold copyright in the content together with the participating institutions. Copyright © Ancient World Mapping Center and Institute for the Study of the Ancient World. Used under the Creative Commons Attribution 3.0 License (cc-by), creativecommons.org/licenses/by/3.0/, whose text carries the disclaimer of warranties. Individual place points are used, each recorded in this atlas against its Pleiades id and reachable at pleiades.stoa.org/places/<id>; no Pleiades dataset or extract is redistributed.
+
+* Thucydides, Historiae, ed. H. Stuart Jones (Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_THUC_GRC)
+    Used for: Supplies the Greek original of five quoted passages of Thucydides: 1.22.4, 2.37.1, 2.53.4, 3.82.4 and 5.89.1.
+    Shown as: On the site these passages are signed "Thucydides, tr. Crawley" — that is the translation beside them. The Greek above it is the Perseus Digital Library's digital text of Henry Stuart Jones's Oxford edition, which this licence covers.
+    Attribution: Thucydides, Historiae, edited by Henry Stuart Jones (Oxford: Oxford University Press, 1910; 1942 printing), in the digital edition of the Perseus Digital Library: Greek text tlg0003.tlg001.perseus-grc2. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* 经纬春秋 (chunqiu) — a sourced database of the Chinese Spring and Autumn period [CC BY 4.0] (SRC_CHUNQIU)
+    Used for: Supplies the coordinates of nine Chinese places: the capitals of Zheng, Qi, Jin, Chu, Wu and Song, Kuaiji, and the covenant grounds of Kuiqiu and Jiantu.
+    Shown as: On the site each of these nine points is shown with the authority underneath it — Tan Qixiang's Zhongguo lishi dituji for six of them, Yang Bojun's Chunqiu Zuozhuan zhu checked against Tan Qixiang's sheet for Kuiqiu and Jiantu, a modern-site identification for Kuaiji — because that is what the coordinate rests on. chunqiu is where this atlas read them, and the licence is chunqiu's; each of the nine coordinate bases names the chunqiu row, the file and the commit as well as the authority.
+    Attribution: 经纬春秋 · chunqiu.timechorus.com — a sourced database of Chunqiu-era (Chinese Spring and Autumn period, 8th–5th c. BCE) historical figures. Data from its `data/csv` tables, published under the Creative Commons Attribution 4.0 International License, creativecommons.org/licenses/by/4.0/; its code is separately licensed. Nine place points were taken, row by row with each source row's own identifier, from `data/csv/places.csv` at commit `6beb833294fa535b874e3d640fa80fa7101cfce1`: six read on 2026-09-20 and three on 2026-10-04. Changes made: the coordinate values and their certainty grades are carried over unchanged; the basis text is restated in English and the authority underneath each point named. What chunqiu licenses is its own editorial work — its collation, chronology, coordinate determination and layered annotation — not the classical texts underneath it, which are in the public domain.
+
+4. Other sources (public domain, CC0, copyright, unconfirmed)
+
+* SRC_KENYON_ATHPOL | public domain | translator F.G. Kenyon 1891
+    Aristotle, Constitution of the Athenians, tr. Kenyon
+    https://classics.mit.edu/Aristotle/athenian_const.html
+* SRC_ABC5 | copyright | translator A.K. Grayson / J.-J. Glassner (via livius.org) 1975
+    Babylonian Chronicle ABC 5 (Chronicle Concerning the Early Years of Nebuchadnezzar II; the 'Jerusalem Chronicle'), Livius.org edition
+    https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/
+* SRC_BECHERT1991 | copyright
+    Bechert (ed.), The Dating of the Historical Buddha, 3 vols
+* SRC_LIVIUS_BEHISTUN | copyright | translator L. W. King & R. C. Thompson (1907), adapted by Livius.org 1907
+    Behistun inscription, Livius.org edition (adapted from King & Thompson 1907)
+    https://www.livius.org/sources/content/behistun-persian-text/
+* SRC_BURNET_EGP | public domain | translator John Burnet 1920
+    Burnet, Early Greek Philosophy (3rd ed.)
+    https://en.wikisource.org/wiki/Early_Greek_Philosophy
+* SRC_CHGIS | copyright
+    China Historical GIS (Harvard)
+    https://chgis.fas.harvard.edu
+* SRC_CTEXT | unconfirmed
+    Chinese Text Project (ctext.org): the Chinese base texts read there
+    https://ctext.org/
+* SRC_OLDFATHER_DIOD | public domain | translator C. H. Oldfather (vols I, IV, V) 1933-1950
+    Diodorus Siculus, Library of History, tr. Oldfather et al. (Loeb), via LacusCurtius
+    https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/11D*.html
+* SRC_DL9 | public domain | translator R.D. Hicks 1925
+    Diogenes Laertius, Lives of the Eminent Philosophers, tr. Hicks (Loeb)
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml
+* SRC_GONGYANG | public domain
+    Gongyang Commentary on the Spring and Autumn Annals (Chunqiu Gongyang zhuan)
+* SRC_GULIANG | public domain
+    Guliang Commentary on the Spring and Autumn Annals (Chunqiu Guliang zhuan)
+* SRC_SBE22 | public domain | translator Hermann Jacobi 1884
+    Jacobi, Sacred Books of the East vol. 22: Jaina Sutras part I (Acaranga, Kalpa Sutra)
+    https://sacred-texts.com/jai/sbe22/
+* SRC_JPS1917 | public domain | translator Jewish Publication Society 1917
+    JPS 1917 Tanakh
+    https://www.sefaria.org/api/texts/{ref}?ven=The_Holy_Scriptures:_A_New_Translation_(JPS_1917)
+* SRC_KT1907 | public domain | translator L. W. King & R. C. Thompson 1907
+    King & Thompson, The Sculptures and Inscription of Darius the Great on the Rock of Behistûn in Persia: a New Collation of the Persian, Susian and Babylonian Texts
+    https://archive.org/details/sculpturesinscri00brituoft
+* SRC_KUHRT2007 | copyright
+    Kuhrt, The Persian Empire: A Corpus of Sources
+* SRC_LEGGE_DDJ | public domain | translator James Legge 1891
+    Legge, Sacred Books of the East vol. 39: Tao Te Ching
+    https://ctext.org/dao-de-jing
+* SRC_LEGGE_ANALECTS | public domain | translator James Legge 1861
+    Legge, The Chinese Classics vol. 1: Confucian Analects
+    https://ctext.org/analects
+* SRC_LEGGE_MENCIUS | public domain | translator James Legge 1861
+    Legge, The Chinese Classics vol. 2: The Works of Mencius
+    https://ctext.org/mengzi
+* SRC_LEGGE_ZUO | public domain | translator James Legge 1872
+    Legge, The Chinese Classics vol. 5: The Ch'un Ts'ew with the Tso Chuen
+    https://ctext.org/chun-qiu-zuo-zhuan
+* SRC_LOEWE1993 | copyright
+    Loewe (ed.), Early Chinese Texts: A Bibliographical Guide
+* SRC_MEI_MOZI | copyright | translator W. P. Mei (Mei Yi-pao) 1929
+    Mei, The Ethical and Political Works of Motse
+    https://ctext.org/mozi/universal-love-i/ens
+* SRC_SBE31 | public domain | translator L.H. Mills 1887
+    Mills, Sacred Books of the East vol. 31: The Zend-Avesta part III (Yasna)
+    https://sacred-texts.com/zor/sbe31/
+* SRC_MOZI | public domain
+    Mozi (Chinese text, Zhengtong Daozang recension, via ctext.org)
+    https://ctext.org/mozi
+* SRC_SBE15 | public domain | translator F. Max Mueller 1884
+    Mueller, Sacred Books of the East vol. 15: The Upanishads part II
+    https://archive.org/details/upanishads02ml
+* SRC_SBE01 | public domain | translator F. Max Mueller 1879
+    Mueller, Sacred Books of the East vol. 1: The Upanishads part I
+    https://archive.org/details/upanishads01mluoft
+* SRC_LIVIUS_NABONIDUS | copyright | translator A.K. Grayson (via livius.org) 1975
+    Nabonidus Chronicle (ABC 7)
+    https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/
+* SRC_PD1942 | copyright
+    Parker & Dubberstein, Babylonian Chronology 626 B.C. - A.D. 45 (Studies in Ancient Oriental Civilization 24)
+    https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc24.pdf
+* SRC_FOWLER_APOLOGY | public domain | translator Harold North Fowler 1914
+    Plato, Apology, tr. Fowler (Loeb Classical Library, Plato vol. 1)
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0059/tlg002/tlg0059.tlg002.perseus-eng2.xml
+* SRC_JOWETT_APOLOGY | public domain | translator Benjamin Jowett 1871
+    Plato, Apology, tr. Jowett
+    http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0170
+* SRC_FOWLER_PARMENIDES | public domain | translator Harold North Fowler 1926
+    Plato, Parmenides, tr. Fowler (Loeb Classical Library, Plato vol. 4)
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0059/tlg009/tlg0059.tlg009.perseus-eng2.xml
+* SRC_ROGERS1912 | public domain | translator Robert William Rogers 1912
+    Rogers, Cuneiform Parallels to the Old Testament
+    https://archive.org/details/cuneiformparalle00rogeuoft
+* SRC_SCHWARTZBERG | copyright
+    Schwartzberg (ed.), A Historical Atlas of South Asia (second impression, with additional material, 1992), Digital South Asia Library edition
+    https://dsal.uchicago.edu/reference/schwartzberg/
+* SRC_SHIJI_15 | public domain
+    Shiji 15, Chronological Table of the Six States (六國年表)
+    https://ctext.org/shiji/liu-guo-nian-biao
+* SRC_SHIJI_41 | public domain
+    Shiji 41, Hereditary House of King Goujian of Yue
+    https://ctext.org/shiji/yue-wang-ju-jian-shi-jia
+* SRC_SHIJI_47 | public domain
+    Shiji 47, Hereditary House of Confucius
+    https://ctext.org/shiji/kong-zi-shi-jia
+* SRC_SHIJI_63 | public domain
+    Shiji 63, Biographies of Laozi and Han Fei
+    https://ctext.org/shiji/lao-zi-han-fei-lie-zhuan
+* SRC_SHIJI_65 | public domain
+    Shiji 65, Biographies of Sun Zi and Wu Qi
+    https://ctext.org/shiji/sun-zi-wu-qi-lie-zhuan
+* SRC_SHIJI_67 | public domain
+    Shiji 67, Biographies of the Disciples of Confucius
+    https://ctext.org/shiji/zhong-ni-di-zi-lie-zhuan
+* SRC_SHIJI_74 | public domain
+    Shiji 74, Biographies of Mencius and Xun Qing
+    https://ctext.org/shiji/meng-zi-xun-qing-lie-zhuan
+* SRC_STARKIE1911 | public domain | translator W. J. M. Starkie 1911
+    Starkie, The Clouds of Aristophanes (text, translation and commentary)
+    https://archive.org/details/cloudsofaristoph00aris_0
+* SRC_SC_ROOT_PLI | public domain
+    SuttaCentral root Pali text (bilara-data root/pli/ms, the Mahāsaṅgīti edition)
+    https://github.com/suttacentral/bilara-data/tree/published/root/pli/ms
+* SRC_SUTTACENTRAL_DN16 | CC0 | translator Bhikkhu Sujato 2018
+    SuttaCentral: DN 16 Mahaparinibbana Sutta, tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/blob/published/translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json
+* SRC_SC_DN2 | CC0 | translator Bhikkhu Sujato 2018
+    SuttaCentral: DN 2 Samannaphala Sutta, tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/blob/published/translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json
+* SRC_SUTTACENTRAL_DN29 | CC0 | translator Bhikkhu Sujato 2018
+    SuttaCentral: DN 29 Pāsādika Sutta, tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/blob/published/translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json
+* SRC_SC_MN | CC0 | translator Bhikkhu Sujato 2018
+    SuttaCentral: Majjhima Nikaya (Middle Discourses), tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/mn
+* SRC_SC_SN | CC0 | translator Bhikkhu Sujato 2018
+    SuttaCentral: Samyutta Nikaya (Linked Discourses), tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/sn
+* SRC_SC_VINAYA | CC0 | translator Bhikkhu Brahmali 2021
+    SuttaCentral: Theravada Vinaya Pitaka, tr. Bhikkhu Brahmali
+    https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya
+* SRC_SEFARIA_TTO | public domain
+    Tanach with Text Only (Sefaria): the consonantal Hebrew and Aramaic of the Hebrew Bible, from the Unicode/XML Leningrad Codex
+    https://storage.googleapis.com/sefaria-export/json/Tanakh/Prophets/Ezekiel/Hebrew/Tanach%20with%20Text%20Only.json
+* SRC_PARIAN1788 | public domain | translator J. (Joseph) Robertson 1788
+    The Parian Chronicle, or the Chronicle of the Arundelian Marbles (Greek, Latin and English)
+    https://archive.org/details/parianchronicle00robegoog
+* SRC_CRAWLEY_THUC | public domain | translator Richard Crawley 1874
+    Thucydides, tr. Crawley
+    https://classics.mit.edu/Thucydides/pelopwar.mb.txt
+* SRC_CRAWLEY_THUC_BK8 | public domain | translator Richard Crawley 1874 (1914 reprint)
+    Thucydides, tr. Crawley, book 8 (PerseusDL canonical-greekLit eng6 reprint)
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0003/tlg001/tlg0003.tlg001.perseus-eng6.xml
+* SRC_TOLMAN1908 | public domain | translator Herbert Cushing Tolman 1908
+    Tolman, Ancient Persian Lexicon and the Texts of the Achaemenidan Inscriptions
+    https://archive.org/details/ancientpersianle00tolm_0
+* SRC_WIKIDATA | CC0
+    Wikidata
+    https://www.wikidata.org/wiki/Special:EntityData/Q11089408.json
+* SRC_BROWNSON_ANAB | public domain | translator Carleton L. Brownson 1921-1922
+    Xenophon, Anabasis, tr. Brownson (Loeb), PerseusDL canonical-greekLit edition
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0032/tlg006/tlg0032.tlg006.perseus-eng2.xml
+* SRC_XEN_HELL | public domain
+    Xenophon, Hellenica (PerseusDL canonical-greekLit edition)
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0032/tlg001/tlg0032.tlg001.perseus-eng2.xml
+* SRC_GUWENDAO | copyright
+    古文岛 (guwendao.net): the Chinese text read there for Q_004
+    https://www.guwendao.net/
+* SRC_WS_SHIJI_130 | public domain
+    史記 卷一百三十 太史公自序 (Shiji 130, Postface of the Grand Historian), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7130
+* SRC_WS_SHIJI_70 | public domain
+    史記 卷七十 張儀列傳 (Shiji 70, Biography of Zhang Yi), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7070
+* SRC_WS_SHIJI_74 | public domain
+    史記 卷七十四 孟子荀卿列傳 (Shiji 74, Biographies of Mencius and Xun Qing), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7074
+* SRC_WS_SHIJI_22 | public domain
+    史記 卷二十二 漢興以來將相名臣年表 (Shiji 22, Table of Generals, Chancellors and Eminent Ministers since the Rise of Han), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7022
+* SRC_WS_SHIJI_5 | public domain
+    史記 卷五 秦本紀 (Shiji 5, Basic Annals of Qin), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7005
+* SRC_WS_SHIJI_87 | public domain
+    史記 卷八十七 李斯列傳 (Shiji 87, Biography of Li Si), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7087
+* SRC_WS_SHIJI_6 | public domain
+    史記 卷六 秦始皇本紀 (Shiji 6, Basic Annals of the First Emperor of Qin), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7006
+* SRC_WS_SHIJI_63 | public domain
+    史記 卷六十三 老子韓非列傳 (Shiji 63, Biographies of Laozi and Han Fei), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7063
+* SRC_WS_SHIJI_69 | public domain
+    史記 卷六十九 蘇秦列傳 (Shiji 69, Biography of Su Qin), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7069
+* SRC_WS_SHIJI_65 | public domain
+    史記 卷六十五 孫子吳起列傳 (Shiji 65, Biographies of Sun Zi and Wu Qi), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7065
+* SRC_WS_SHIJI_68 | public domain
+    史記 卷六十八 商君列傳 (Shiji 68, Biography of Lord Shang), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7068
+* SRC_WS_SHIJI_15 | public domain
+    史記 卷十五 六國年表 (Shiji 15, Chronological Table of the Six States), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7015
+* SRC_WS_SHIJI_44 | public domain
+    史記 卷四十四 魏世家 (Shiji 44, Hereditary House of Wei), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7044
+* SRC_WS_SHANGJUNSHU | public domain
+    商君書 (Book of Lord Shang, the 指海 edition), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%95%86%E5%90%9B%E6%9B%B8
+* SRC_WS_MOZI_JIANGU | public domain
+    墨子閒詁 (Sun Yirang's collated Mozi), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%A2%A8%E5%AD%90%E9%96%92%E8%A9%81/%E5%8D%B7%E5%9B%9B
+* SRC_WS_MENGZI | public domain
+    孟子 (Mencius), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90
+* SRC_WS_GONGYANG | public domain
+    春秋公羊傳 (Gongyang Commentary), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E5%85%AC%E7%BE%8A%E5%82%B3
+* SRC_WS_GONGYANG_ZHUSHU | public domain
+    春秋公羊傳註疏 (the Gongyang with He Xiu's commentary and Xu Yan's subcommentary), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E5%85%AC%E7%BE%8A%E5%82%B3%E8%A8%BB%E7%96%8F
+* SRC_WS_ZUOZHUAN | public domain
+    春秋左氏傳 (Zuozhuan, with the Chunqiu classic entries), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E5%B7%A6%E6%B0%8F%E5%82%B3
+* SRC_WS_JINSHU_30 | public domain
+    晉書 卷三十 刑法志 (Jinshu 30, Treatise on Punishments and Law), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E6%99%89%E6%9B%B8/%E5%8D%B7030
+* SRC_WS_HANSHU_30 | public domain
+    漢書 卷三十 藝文志 (Hanshu 30, Treatise on Literature), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7030
+* SRC_WS_HANSHU_24 | public domain
+    漢書 卷二十四 食貨志 (Hanshu 24, Treatise on Food and Money), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7024
+* SRC_WS_XUNZI | public domain
+    荀子 (Xunzi, with Yang Liang's commentary), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E8%8D%80%E5%AD%90
+* SRC_WS_LUNYU | public domain
+    論語 (Analects), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E8%AB%96%E8%AA%9E
+* SRC_WS_DDJ_WANGBI | public domain
+    道德經 (王弼本): the Laozi with Wang Bi's commentary, Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93_(%E7%8E%8B%E5%BC%BC%E6%9C%AC)
+* SRC_WS_HANFEIZI | public domain
+    韓非子 (Han Feizi), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E9%9F%93%E9%9D%9E%E5%AD%90
+
+The full per-source reasoning (read dates, jurisdictions, upstream terms) is in
+data/csv/sources.csv, columns licence_note and note.

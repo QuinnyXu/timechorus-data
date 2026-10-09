@@ -1,0 +1,504 @@
+[
+ {
+  "year": -586,
+  "region_id": "R_IL",
+  "one_line_en": "Jerusalem falls to Nebuchadnezzar; the Temple is burned.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -586,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius is not yet born; Lu is ruled by Duke Cheng (r. 590–573; 586 is his fifth year); the Zhou king is a figurehead.",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -586,
+  "region_id": "R_GR",
+  "one_line_en": "Solon's laws are eight years old; Athens is drifting toward the tyranny of Peisistratus.",
+  "source_ids": [
+   "SRC_KENYON_ATHPOL"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -586,
+  "region_id": "R_PE",
+  "one_line_en": "Persia is still a vassal of the Medes; Cyrus is a child or not yet born.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -586,
+  "region_id": "R_IN",
+  "one_line_en": "Late Vedic ritual culture; the Buddha is not yet born on the short chronology.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -539,
+  "region_id": "R_PE",
+  "one_line_en": "Cyrus enters Babylon without a battle.",
+  "source_ids": [
+   "SRC_LIVIUS_NABONIDUS"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -539,
+  "region_id": "R_IL",
+  "one_line_en": "The exiles hear Second Isaiah name Cyrus as the LORD's anointed.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -539,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius is about twelve years old in Lu.",
+  "source_ids": [
+   "SRC_SHIJI_47"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -539,
+  "region_id": "R_GR",
+  "one_line_en": "The Ionian cities have been under Persian rule for some years: Harpagus subdued the mainland Ionians after the fall of Sardis.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -500,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius, about fifty, serves briefly in the government of Lu.",
+  "source_ids": [
+   "SRC_SHIJI_47"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -500,
+  "region_id": "R_IN",
+  "one_line_en": "The Buddha teaches in Magadha and Kosala (short chronology).",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -500,
+  "region_id": "R_IL",
+  "one_line_en": "Yehud is a small Persian province; the Second Temple is fifteen years old.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -500,
+  "region_id": "R_GR",
+  "one_line_en": "Cleisthenes's democracy is eight years old; Heraclitus writes at Ephesus; the Ionian revolt is about to begin.",
+  "source_ids": [
+   "SRC_GODLEY_HDT",
+   "SRC_DL9"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -500,
+  "region_id": "R_PE",
+  "one_line_en": "Darius rules from Susa and Persepolis over the largest empire yet seen.",
+  "source_ids": [
+   "SRC_LIVIUS_BEHISTUN"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -479,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius dies in Lu.",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -479,
+  "region_id": "R_GR",
+  "one_line_en": "The Greeks defeat the Persians at Plataea and Mycale; the Persian Wars end.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -479,
+  "region_id": "R_PE",
+  "one_line_en": "Xerxes withdraws from Greece.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -399,
+  "region_id": "R_GR",
+  "one_line_en": "Socrates is executed in Athens.",
+  "source_ids": [
+   "SRC_JOWETT_APOLOGY"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -399,
+  "region_id": "R_CN",
+  "one_line_en": "The Warring States era: Mozi's school is active; Mencius not yet born.",
+  "source_ids": [
+   "SRC_LOEWE1993"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -399,
+  "region_id": "R_IN",
+  "one_line_en": "Within the range of the Buddha's death (short chronology).",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -539,
+  "region_id": "R_IN",
+  "one_line_en": "On the short chronology the Buddha is not yet born; the oldest Upanishads are already behind the Ganges plain.",
+  "source_ids": [
+   "SRC_BECHERT1991",
+   "SRC_SBE01"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -479,
+  "region_id": "R_IL",
+  "one_line_en": "Yehud is a small Persian province and the Second Temple is about thirty-seven years old; no Hebrew text in this corpus is dated to this year.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -479,
+  "region_id": "R_IN",
+  "one_line_en": "On the short chronology the Buddha is somewhere between unborn and about twenty; the sources will not say which.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -399,
+  "region_id": "R_IL",
+  "one_line_en": "Yehud is a Persian province; the missions of Ezra and Nehemiah are dated by the regnal years of an Artaxerxes the books never identify, and may be just past or still to come.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -399,
+  "region_id": "R_PE",
+  "one_line_en": "The Achaemenid empire continues; Darius's inscription at Behistun is more than a century old.",
+  "source_ids": [
+   "SRC_LIVIUS_BEHISTUN"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -546,
+  "region_id": "R_GR",
+  "one_line_en": "Sardis falls to Cyrus and the Ionian cities pass under Persian rule; Thales's Miletus is now a subject city.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -546,
+  "region_id": "R_PE",
+  "one_line_en": "Cyrus takes Lydia and Persia reaches the Aegean.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -546,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius is about five years old in Lu.",
+  "source_ids": [
+   "SRC_SHIJI_47",
+   "SRC_GONGYANG"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -546,
+  "region_id": "R_IL",
+  "one_line_en": "The Judeans are fifty years into the exile; Babylon is ruled by Nabonidus, who spends these years at Tayma in Arabia.",
+  "source_ids": [
+   "SRC_JPS1917",
+   "SRC_LIVIUS_NABONIDUS"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -546,
+  "region_id": "R_IN",
+  "one_line_en": "On the short chronology the Buddha is not yet born.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -536,
+  "region_id": "R_CN",
+  "one_line_en": "Zichan casts the penal code of Zheng in bronze, and Shuxiang writes from Jin to tell him he has ruined the state.",
+  "source_ids": [
+   "SRC_LEGGE_ZUO"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -536,
+  "region_id": "R_IL",
+  "one_line_en": "The first returnees are back in Jerusalem; the altar stands again and the foundation of the Temple is being laid.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -536,
+  "region_id": "R_PE",
+  "one_line_en": "Cyrus rules from Babylon to the Aegean.",
+  "source_ids": [
+   "SRC_LIVIUS_NABONIDUS"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -536,
+  "region_id": "R_GR",
+  "one_line_en": "The Ionian cities have been Persian subjects for a decade.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -536,
+  "region_id": "R_IN",
+  "one_line_en": "On the short chronology the Buddha is not yet born.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -490,
+  "region_id": "R_GR",
+  "one_line_en": "The Athenians beat the Persians at Marathon; Aeschylus is in the battle, thirty-five years old.",
+  "source_ids": [
+   "SRC_GODLEY_HDT",
+   "SRC_PARIAN1788"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -490,
+  "region_id": "R_PE",
+  "one_line_en": "Darius's expedition against Eretria and Athens ends on the plain at Marathon.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -490,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius is in his sixties, in the middle of his years of wandering between the states.",
+  "source_ids": [
+   "SRC_SHIJI_47"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -490,
+  "region_id": "R_IL",
+  "one_line_en": "Yehud is a Persian province; the Second Temple is about twenty-five years old.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -490,
+  "region_id": "R_IN",
+  "one_line_en": "On the short chronology the Buddha is a child or a young man.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -480,
+  "region_id": "R_GR",
+  "one_line_en": "Thermopylae and Salamis: the Persian fleet is broken in the strait off Salamis.",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -480,
+  "region_id": "R_PE",
+  "one_line_en": "Xerxes bridges the Hellespont, cuts a canal through Athos, and invades Greece.",
+  "source_ids": [
+   "SRC_GODLEY_HDT",
+   "SRC_PARIAN1788"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -480,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius is about seventy and has returned to Lu.",
+  "source_ids": [
+   "SRC_SHIJI_47"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -480,
+  "region_id": "R_IL",
+  "one_line_en": "Yehud is a small Persian province, a generation after the Temple was finished.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -480,
+  "region_id": "R_IN",
+  "one_line_en": "On the short chronology the Buddha is a young man; nothing in the Indian record is dated to this year.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -431,
+  "region_id": "R_GR",
+  "one_line_en": "The Peloponnesian War breaks out, and Thucydides begins writing at the moment it does.",
+  "source_ids": [
+   "SRC_CRAWLEY_THUC"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -431,
+  "region_id": "R_CN",
+  "one_line_en": "Confucius has been dead nearly fifty years and his disciples' schools are scattered among the states.",
+  "source_ids": [
+   "SRC_SHIJI_67"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -431,
+  "region_id": "R_PE",
+  "one_line_en": "Artaxerxes I still reigns; he will die in the seventh winter of the Greek war.",
+  "source_ids": [
+   "SRC_CRAWLEY_THUC"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -431,
+  "region_id": "R_IL",
+  "one_line_en": "Yehud under Persian rule; the Hebrew books that cover this period date themselves only by unidentified regnal years.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -431,
+  "region_id": "R_IN",
+  "one_line_en": "Within the Buddha's teaching life on the short chronology.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -404,
+  "region_id": "R_GR",
+  "one_line_en": "Athens surrenders, the long walls come down, and the Thirty are installed.",
+  "source_ids": [
+   "SRC_XEN_HELL"
+  ],
+  "reliability": "high"
+ },
+ {
+  "year": -404,
+  "region_id": "R_CN",
+  "one_line_en": "The Warring States: Mozi's school is active and the Mohist canon is being assembled.",
+  "source_ids": [
+   "SRC_LOEWE1993"
+  ],
+  "reliability": "medium"
+ },
+ {
+  "year": -404,
+  "region_id": "R_IL",
+  "one_line_en": "Yehud under Persian rule, between the Temple's completion and whatever date is right for Ezra.",
+  "source_ids": [
+   "SRC_JPS1917"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -404,
+  "region_id": "R_IN",
+  "one_line_en": "Within the range of the Buddha's death on the short chronology.",
+  "source_ids": [
+   "SRC_BECHERT1991"
+  ],
+  "reliability": "low"
+ },
+ {
+  "year": -404,
+  "region_id": "R_PE",
+  "one_line_en": "Darius II has died; Artaxerxes II is king, and his brother Cyrus, accused of plotting, has been arrested and sent back to his province.",
+  "source_ids": [
+   "SRC_BROWNSON_ANAB",
+   "SRC_PD1942"
+  ],
+  "reliability": "medium"
+ }
+]

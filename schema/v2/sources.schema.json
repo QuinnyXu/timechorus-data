@@ -1,0 +1,114 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/sources.schema.json",
+  "title": "sources",
+  "description": "Bibliographic sources, with layer and licence.",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "work_id",
+    "section",
+    "source_layer",
+    "source_type",
+    "language",
+    "translator",
+    "translation_year",
+    "licence",
+    "licence_note",
+    "credit_clause",
+    "url",
+    "note"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string"
+    },
+    "work_id": {
+      "type": "string"
+    },
+    "section": {
+      "type": "string"
+    },
+    "source_layer": {
+      "type": "string",
+      "enum": [
+        "inscription",
+        "contemporary_text",
+        "near_contemporary",
+        "later_compilation",
+        "hagiography",
+        "scripture_final_form",
+        "modern_scholarship",
+        "gazetteer"
+      ]
+    },
+    "source_type": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    },
+    "translator": {
+      "type": "string"
+    },
+    "translation_year": {
+      "type": "string"
+    },
+    "licence": {
+      "type": "string",
+      "enum": [
+        "public domain",
+        "CC0",
+        "CC BY 4.0",
+        "CC BY 3.0",
+        "CC BY-SA 4.0",
+        "CC BY-SA 3.0",
+        "copyright",
+        "unconfirmed"
+      ]
+    },
+    "licence_note": {
+      "type": "string"
+    },
+    "credit_clause": {
+      "type": "string",
+      "description": "The labelled-segment convention (§6) as a column: the attribution the /about credits generator shows verbatim for a CC BY* source. The generator reads this column first, the labelled ATTRIBUTION CLAUSE segment in licence_note as fallback (schema v2.1, r6-0, L-82/L-88). Blank on a CC BY* row is a validate.py warning (backlog), not an error, until migrated."
+    },
+    "url": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "sources",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "work_id",
+        "target": "works"
+      },
+      {
+        "rule": "enum",
+        "field": "source_layer"
+      },
+      {
+        "rule": "procedural",
+        "name": "sources_licence_vocabulary"
+      },
+      {
+        "rule": "procedural",
+        "name": "sources_credit_clause_backlog_warn"
+      }
+    ]
+  }
+}

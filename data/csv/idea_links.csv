@@ -1,0 +1,204 @@
+id,idea_id,target_type,target_id,link_type,reliability,note
+IL_001,I_REN,passage,Q_001,originates,high,
+IL_002,I_REN,person,P_CONFUCIUS,originates,high,
+IL_003,I_REN,person,P_MENCIUS,develops,high,Grounds ren in innate human nature.
+IL_004,I_SHU,passage,Q_002,originates,high,
+IL_005,I_SHU,idea,I_AHIMSA,parallels,medium,Both restrain the self for the sake of others; different metaphysics.
+IL_006,I_WUWEI,passage,Q_003,originates,high,
+IL_007,I_WUWEI,idea,I_REN,refutes,medium,"The Daodejing's polemic against Confucian virtue-talk. Stratum recorded per ruling L-19: ch. 18 is attested in the Guodian bamboo slips, c. 300 BCE (bundle C), while ch. 38 is received-text only, first attested at Mawangdui c. 200 BCE - so this refutes edge is strongest on ch. 18. Chapter list for the three Guodian bundles read 2026-09-07 in Russell Kirkland, 'The Laozi Debris from Guodian', Religious Studies Review 27 (2001), p. 314 (terebess.hu/english/tao/guodian.pdf): ch. 18 present, ch. 38 absent, as is the whole of chs 67-81."
+IL_008,I_MIDDLE_WAY,person,P_BUDDHA,originates,medium,
+IL_009,I_MIDDLE_WAY,passage,Q_005,develops,medium,Last words summarise the path as diligence.
+IL_010,I_AHIMSA,person,P_MAHAVIRA,originates,medium,
+IL_026,I_AHIMSA,passage,Q_014,originates,medium,Text postdates Mahavira by generations.
+IL_011,I_AHIMSA,person,P_BUDDHA,develops,medium,
+IL_012,I_INDIV_RESP,passage,Q_006,originates,high,
+IL_013,I_INDIV_RESP,event,E_IL_002,enacts,medium,The exile is the setting that makes collective guilt unbearable.
+IL_014,I_MONOTHEISM,passage,Q_007,originates,high,
+IL_015,I_MONOTHEISM,event,E_PE_001,enacts,medium,Cyrus's conquest is read as the one God moving a foreign king.
+IL_016,I_ASHA,passage,Q_009,originates,low,Dating of the Gathas uncertain.
+IL_017,I_ASHA,passage,Q_008,develops,high,Darius turns a religious dualism into a political theology of legitimacy.
+IL_018,I_ASHA,event,E_PE_003,enacts,high,
+IL_019,I_LOGOS,passage,Q_010,originates,high,
+IL_020,I_ISONOMIA,event,E_GR_002,enacts,high,
+IL_021,I_ISONOMIA,passage,Q_011,develops,medium,Herodotus puts the word in a Persian's mouth in 522: an anachronism worth showing.
+IL_022,I_ISONOMIA,passage,Q_012,develops,high,
+IL_023,I_ISONOMIA,event,E_GR_005,refutes,medium,The democracy executes its own questioner.
+IL_024,I_EXAMINED_LIFE,passage,Q_013,originates,high,
+IL_025,I_EXAMINED_LIFE,person,P_PLATO,transmits,high,
+IL_027,I_NOMOS_PHYSIS,passage,Q_017,originates,medium,"Herodotus 3.38 poses the question without the technical pair: every nation thinks its own customs best, and Pindar's line makes nomos king. The word physis is not used here, so this is where the problem is first set, not where the antithesis is named."
+IL_028,I_NOMOS_PHYSIS,passage,Q_026,develops,high,"Democritus states the antithesis in its sharpest form and in the two words themselves: qualities exist nomōi, atoms and void physei."
+IL_029,I_NOMOS_PHYSIS,passage,Q_029,develops,medium,"Xenophanes, two generations earlier, applies the same argument to the gods: what people take for the divine turns out to be their own colouring."
+IL_030,I_NOMOS_PHYSIS,passage,Q_022,enacts,high,"Thucydides on the plague: when neither fear of gods nor law of man restrains anyone, what is left is what people are like by nature. The idea tested by an epidemic."
+IL_031,I_NOMOS_PHYSIS,passage,Q_021,develops,high,"The Corcyra chapter: under civil war the words themselves change sides, which is the political form of the same problem."
+IL_032,I_NOMOS_PHYSIS,idea,I_RELATIVISM,parallels,high,"Two faces of the same fifth-century move: if nothing is by nature, the measure has to be human."
+IL_033,I_NOMOS_PHYSIS,idea,I_XINGSHU,parallels,low,"An independent cross-pillar pairing, not a borrowing: Shuxiang's objection to publishing the law and the Greek argument about nomos both ask whether rules are natural or made. Reliability low because the two traditions share no contact and the resemblance is at the level of the question, not the answer."
+IL_034,I_ARETE,passage,Q_028,originates,medium,Xenophanes disputes the honour a city gives the athlete and claims it for wisdom — the earliest surviving argument in this dataset about what excellence is for.
+IL_035,I_ARETE,person,P_XENOPHANES,originates,medium,
+IL_036,I_HUBRIS,passage,Q_016,originates,high,"Artabanus's warning to Xerxes is the fullest statement of the doctrine in Herodotus, and it is put in a Persian's mouth on the eve of the invasion it explains."
+IL_037,I_HUBRIS,event,E_GR_021,enacts,medium,Salamis is the outcome Herodotus's whole structure is built to explain.
+IL_038,I_HUBRIS,idea,I_TIANMING,parallels,low,"Wu Zixu's 'what is full must be broken: that is the way of heaven' (Q_042, 484 BCE) and Artabanus's 'the god loves to bring low all things of surpassing greatness' (Q_016) are the same thought in two traditions with no contact. Reliability low: the parallel is real, the connection is not."
+IL_039,I_ATOMISM,passage,Q_026,originates,high,"Diogenes Laertius's summary of the doctrine; a testimonium, not Democritus's own words — see the passage note."
+IL_040,I_ATOMISM,person,P_DEMOCRITUS,originates,medium,"Diogenes Laertius 9.34 makes Leucippus his teacher, so the attribution of the doctrine to Democritus alone is the tradition's simplification."
+IL_041,I_RELATIVISM,passage,Q_024,originates,high,
+IL_042,I_RELATIVISM,passage,Q_025,develops,high,The agnosticism about the gods follows from the same premise and is what got him expelled.
+IL_043,I_RELATIVISM,person,P_PROTAGORAS,originates,high,
+IL_044,I_RELATIVISM,event,E_GR_028,enacts,medium,A man who taught that every question has two sides is asked to write a city's laws.
+IL_045,I_DIKE,passage,Q_027,originates,medium,"Anaximander uses the vocabulary of a lawsuit — reparation, satisfaction, injustice — of the elements themselves. Reliability medium because the words reach us inside Theophrastus and the extent of the quotation is disputed."
+IL_046,I_DIKE,person,P_ANAXIMANDER,originates,medium,
+IL_047,I_DIKE,passage,Q_020,refutes,high,"The Athenians at Melos deny exactly this: right is only in question between equals in power. Dike as the order of things, contradicted in the plainest words in Greek."
+IL_048,I_DIKE,idea,I_ASHA,parallels,low,Cross-pillar: the Iranian order of truth against the Lie and the Greek dike both make justice a property of the cosmos before it is a property of courts. No contact is claimed.
+IL_049,I_LOGOS,passage,Q_030,develops,medium,Parmenides' identification of what can be thought with what can be pushes Heraclitus's logos towards a claim about being itself.
+IL_050,I_XINGSHU,passage,Q_036,originates,high,"The casting of the code in Zheng in 536, with the objection to it, in the same entry."
+IL_051,I_XINGSHU,person,P_ZICHAN,originates,high,
+IL_052,I_XINGSHU,event,E_CN_008,enacts,high,
+IL_053,I_XINGSHU,passage,Q_037,develops,high,Jin does the same thing twenty-three years later and Confucius objects in the same terms Shuxiang had used — so the practice spread and the argument against it hardened.
+IL_054,I_XINGSHU,person,P_SHUXIANG,refutes,high,Shuxiang's letter is the classic statement of the case against publishing law.
+IL_055,I_ZHENGMING,passage,Q_032,originates,high,
+IL_056,I_ZHENGMING,person,P_CONFUCIUS,originates,high,
+IL_057,I_ZHENGMING,passage,Q_043,develops,high,"Zigong applies the test to a living duke over Confucius's own grave, within days of his death."
+IL_058,I_ZHENGMING,idea,I_NOMOS_PHYSIS,parallels,low,Thucydides 3.82 (Q_021) and Analects 13.3 (Q_032) both make the corruption of language the symptom of political collapse. Independent; no contact is claimed.
+IL_059,I_JIANAI,passage,Q_046,originates,high,
+IL_060,I_JIANAI,person,P_MOZI,originates,medium,"The Mozi is a school compilation; the attribution to Mo Di personally is the tradition's, and Sima Qian could not even date him (Shiji 74)."
+IL_061,I_JIANAI,idea,I_REN,refutes,medium,"Mohist impartial care is aimed squarely at the graded affection that Confucian ren and xiao build on: the Mohists held that starting from your own family is the cause of the disorder, not the cure."
+IL_062,I_JIANAI,idea,I_XIAO,refutes,medium,"The sharper form of the same quarrel: Q_035 makes filial duty the root of virtue, Q_046 makes partiality the root of disorder. The Mozi answers the objection by arguing that impartial care produces better filial sons."
+IL_063,I_LI,passage,Q_038,originates,high,"Zi Taishu quoting Zichan, 517 BCE: ritual is the constant of heaven, the rightness of earth, the conduct of the people. The earliest passage in this dataset that makes li cosmic rather than ceremonial."
+IL_064,I_LI,passage,Q_033,develops,high,"Confucius turns it inward: subdue the self and return to ritual, and that is humaneness."
+IL_065,I_LI,passage,Q_043,enacts,high,Ritual used as a public standard against a ruler.
+IL_066,I_LI,event,E_CN_015,enacts,high,"At Jiagu, Confucius stops an armed ambush by naming it a breach of ritual — and it works."
+IL_067,I_LI,idea,I_XINGSHU,refutes,high,"The central Chinese political argument of the period: order by ritual and rank, or order by published rule. Shuxiang and Confucius state it as an opposition in Q_036 and Q_037."
+IL_068,I_TIANMING,passage,Q_034,originates,high,The Analects' use: something the noble person stands in awe of and the mean person does not even know.
+IL_069,I_TIANMING,passage,Q_042,develops,high,"Wu Zixu, under sentence of death in 484: what is full must be broken, that is the way of heaven. The same vocabulary used of an impersonal regularity rather than a charge to rule."
+IL_070,I_TIANMING,passage,Q_040,enacts,medium,Yan Ying and Shuxiang in 539 describe the mandate being lost in the only way it is ever visible: the people go over to whoever feeds them.
+IL_071,I_TIANMING,event,E_CN_023,enacts,high,"Fifty-eight years after Yan Ying's prediction, the Chen house takes Qi by killing its ruler."
+IL_072,I_XIAO,passage,Q_035,originates,high,
+IL_073,I_XIAO,person,P_ZENGZI,transmits,medium,"The later tradition attaches the classic of filial duty to Zengzi's name; that attribution is not evidence that he wrote it, and the link records transmission by a school, not authorship."
+IL_074,I_XIAO,idea,I_REN,develops,high,Analects 1.2 makes filial and fraternal duty the root of ren; the two ideas are joined at the first chapter of the collection.
+IL_075,I_COVENANT,passage,Q_062,originates,high,"Jeremiah 31:31-33: a NEW covenant, not according to the covenant made with their fathers, with the law put in their inward parts. The idea of covenant is older than anything this batch dates; what is new here, and what this link records, is a covenant deliberately rewritten."
+IL_076,I_COVENANT,person,P_JEREMIAH,originates,medium,
+IL_077,I_COVENANT,event,E_IL_003,enacts,high,The destruction of the Temple is what makes a broken covenant a fact rather than a threat.
+IL_078,I_COVENANT,idea,I_EXILE_PRESENCE,develops,medium,"If the relationship survives the loss of the land, it has to be re-described; the two ideas do that work from different directions."
+IL_079,I_MESSIAH,passage,Q_058,originates,high,"Isaiah 45:1: thus saith the LORD to His anointed, to Cyrus."
+IL_080,I_MESSIAH,passage,Q_057,develops,high,"Isaiah 44:28 prepares it: he is My shepherd, and shall perform all My pleasure."
+IL_081,I_MESSIAH,person,P_CYRUS,originates,medium,The title is given to him; there is no evidence he knew of it.
+IL_082,I_MESSIAH,event,E_IL_004,enacts,medium,Cyrus's decree is what the oracle is taken to have anticipated.
+IL_083,I_EXILE_PRESENCE,passage,Q_053,originates,high,Ezekiel 11:16: yet have I been to them as a little sanctuary in the countries where they are come.
+IL_084,I_EXILE_PRESENCE,passage,Q_061,develops,high,"Jeremiah 29:5-7 takes the practical consequence: build houses there, and pray for the city."
+IL_085,I_EXILE_PRESENCE,passage,Q_054,develops,medium,Ezekiel 37:11-14 turns the same conviction forward into a promised return.
+IL_086,I_EXILE_PRESENCE,person,P_EZEKIEL,originates,high,
+IL_087,I_EXILE_PRESENCE,event,E_IL_002,enacts,high,The vision by the Chebar canal is the idea in its first form: the throne is mobile.
+IL_088,I_EXILE_PRESENCE,event,E_IL_019,enacts,medium,The news that the city is smitten is the moment the idea stops being consolation and becomes the only thing left.
+IL_089,I_SERVANT,passage,Q_060,originates,high,Isaiah 53:4-5: surely our diseases he did bear; he was wounded because of our transgressions.
+IL_090,I_SERVANT,person,P_DEUTERO_ISAIAH,originates,medium,
+IL_091,I_SERVANT,idea,I_INDIV_RESP,refutes,medium,"Recorded as a tension inside the same corpus, not as a debate between people: Ezekiel 18:20 (Q_006) says flatly that the soul that sins shall die and the son shall not bear the father's iniquity, while Isaiah 53 has one bear what belongs to many. Both are in the exile's own century and neither answers the other."
+IL_092,I_TORAH_PUBLIC,passage,Q_065,originates,high,"Nehemiah 8:8: they read in the book distinctly, and gave the sense, and caused them to understand the reading."
+IL_093,I_TORAH_PUBLIC,person,P_EZRA,originates,medium,
+IL_094,I_TORAH_PUBLIC,event,E_IL_035,enacts,medium,The reading at the Water Gate. Its year depends on which Artaxerxes the book means; see the event's dating_basis.
+IL_095,I_TORAH_PUBLIC,idea,I_XINGSHU,parallels,medium,"A cross-pillar edge, and a real one: within a century and a half, in two places that had not heard of each other, a community put its law where the people it governed could get at it - Zichan casting the penal code in bronze at Zheng in 536, and Ezra reading the Law aloud in Jerusalem. The purposes differ (one is state law, one is a covenant document) and the row does not claim they are the same idea."
+IL_096,I_SABBATH,passage,Q_055,originates,high,"Ezekiel 20:12: I gave them My sabbaths, to be a sign between Me and them."
+IL_097,I_SABBATH,person,P_EZEKIEL,originates,medium,
+IL_098,I_SABBATH,event,E_IL_006,enacts,medium,"Spoken to the elders who came to inquire, in the seventh year of the captivity."
+IL_099,I_SABBATH,idea,I_EXILE_PRESENCE,develops,medium,A weekly observance is the practical form of a God who is not tied to a place.
+IL_100,I_MONOTHEISM,passage,Q_059,develops,high,"Isaiah 45:7 takes the consequence the merged Q_007 (45:5) leaves open: if there is no other god, then the one who forms light and creates darkness also makes peace and creates evil."
+IL_101,I_MONOTHEISM,passage,Q_063,develops,medium,"Ezra 1:2-3 has a Persian king say it in the first person - the LORD, the God of heaven, has given me all the kingdoms of the earth - which is the claim of a universal god in an official mouth."
+IL_102,I_INDIV_RESP,event,E_IL_019,enacts,medium,"Ezekiel 33, in which the news of the fall arrives, is also the chapter that restates the watchman's individual responsibility; the two sit in the same place in the book."
+IL_103,I_KARMA,passage,Q_083,originates,medium,"Brihadaranyaka III, 2, 13: what they said was karman, that a man becomes good by good work. The text presents it as something too dangerous to discuss in a full hall, which is a good sign that it was new. NOTE ON DATE: Mueller places the ancient prose Upanishads before 600 BCE, so this attestation is EARLIER than the pilot slice; the idea's range starts at -800 for that reason and the straddle is flagged in the batch note."
+IL_104,I_KARMA,passage,Q_077,develops,high,"MN 135: beings are the owners of their deeds and heirs to their deeds; it is deeds that divide them into inferior and superior. The Buddhist formulation, inside the pilot slice, and given as the answer to a question about social inequality."
+IL_105,I_KARMA,person,P_YAJNAVALKYA,originates,low,The Brihadaranyaka gives him the exchange; the person is traditional and no date attaches to him.
+IL_106,I_KARMA,person,P_BUDDHA,develops,medium,
+IL_107,I_KARMA,idea,I_SAMSARA,develops,high,"Karma without rebirth has nowhere to land; the two ideas only work as a pair, and the sources state them as one."
+IL_108,I_SAMSARA,passage,Q_083,originates,medium,The same exchange: what a person becomes by good and bad work presupposes a becoming that outlasts the person.
+IL_109,I_SAMSARA,passage,Q_079,develops,medium,"DN 2's report of the bamboo-staffed ascetic Gosala: transmigration lasts only for a limited period, and after transmigrating the foolish and the astute alike will make an end of suffering. A rival school taking the same premise to the opposite conclusion - that nothing you do shortens it."
+IL_110,I_SAMSARA,passage,Q_078,refutes,medium,"DN 2's report of Ajita of the hair blanket: there is no afterlife, no fruit of good and bad deeds, and both the foolish and the astute are annihilated at death. The premise denied outright, inside the same generation."
+IL_111,I_SAMSARA,event,E_IN_013,enacts,medium,Six orders in one kingdom disagreeing about it is what makes it visible as an idea rather than an assumption.
+IL_112,I_ANATTA,passage,Q_076,originates,high,"SN 22.59: form is not-self, and if it were self it would not lead to affliction and you could compel it."
+IL_113,I_ANATTA,passage,Q_082,refutes,medium,"Chandogya VI, 8, 7: it is the Self, and thou art it. The two sentences are as close to a head-on contradiction as this atlas contains, and the corpus holds both. Reliability is medium and not high because neither text names the other."
+IL_114,I_ANATTA,person,P_BUDDHA,originates,medium,
+IL_115,I_ANATTA,event,E_IN_006,enacts,medium,
+IL_116,I_ANATTA,idea,I_MIDDLE_WAY,develops,medium,"The not-self analysis is what the middle way is a middle between, on the canon's own ordering: SN 56.11 and SN 22.59 are given to the same five people, in that order."
+IL_117,I_DHAMMA,passage,Q_074,originates,high,"SN 56.11: the middle way of practice that the Realized One understood, which gives vision and knowledge."
+IL_118,I_DHAMMA,passage,Q_073,develops,high,DN 16:6.1.5: the teaching and the training that I have taught and pointed out for you shall be your Teacher after my passing. A founder naming a text and a discipline as his own successor.
+IL_119,I_DHAMMA,passage,Q_075,develops,high,"The four truths, as the content of it."
+IL_120,I_DHAMMA,person,P_BUDDHA,originates,medium,
+IL_121,I_DHAMMA,event,E_IN_030,enacts,medium,
+IL_122,I_DHAMMA,idea,I_ZHENGMING,parallels,low,"A weak parallel, kept because it is the kind of edge this atlas exists to show and because it is labelled low: both traditions place the survival of an order in getting the words right and keeping them right, one by rectifying names, the other by reciting a fixed text together. No contact of any kind is implied."
+IL_123,I_SRAMANA,passage,Q_078,originates,medium,"The doctrines DN 2 attributes to the six teachers are the movement's range, from materialism to fatalism, reported by a rival."
+IL_124,I_SRAMANA,passage,Q_079,develops,medium,
+IL_125,I_SRAMANA,passage,Q_072,develops,high,DN 16:5.27.5-6: I was twenty-nine years of age when I went forth. Going forth is the movement's defining act and this is its one dated instance.
+IL_126,I_SRAMANA,event,E_IN_013,originates,medium,"Six orders, in one kingdom, in one generation."
+IL_127,I_SRAMANA,event,E_IN_002,enacts,medium,
+IL_128,I_SRAMANA,person,P_MAHAVIRA,develops,medium,
+IL_129,I_SRAMANA,person,P_MAKKHALI,develops,medium,
+IL_130,I_SRAMANA,idea,I_AHIMSA,develops,medium,"Ahimsa is the ethic that the renouncer life makes practicable: a person who owns nothing, farms nothing and fights for nothing can take non-harm much further than a householder can. Recorded as the development the r2-5 block asked for."
+IL_131,I_SANGHA,passage,Q_081,originates,high,"Vinaya kd1:22.18: the gift of the Bamboo Grove, and the ruling that follows it - I allow monasteries. The moment a movement becomes something that can hold property."
+IL_132,I_SANGHA,passage,Q_080,develops,high,"kd1:11.1: go wandering, and each go a different way. The dispersal that makes a common rule necessary."
+IL_133,I_SANGHA,passage,Q_067,develops,high,"DN 16:1.4: the principles that prevent decline, given first for the Vajjian republic - meet frequently, meet in harmony, do not alter the ancient decrees - and then, in the section that follows at 1.6, restated for the mendicants. The canon says in its own arrangement that the order is modelled on an assembly."
+IL_134,I_SANGHA,event,E_IN_008,enacts,high,
+IL_135,I_SANGHA,event,E_IN_034,enacts,medium,The first recitation: a community deciding in common what its own text is.
+IL_136,I_SANGHA,person,P_BUDDHA,originates,medium,
+IL_137,I_SANGHA,person,P_MAHAKASSAPA,transmits,medium,
+IL_138,I_SANGHA,idea,I_ISONOMIA,parallels,low,"Another deliberately low cross-pillar edge: an assembly that meets frequently, decides in common and binds itself by rules it does not let one man change, appearing independently in Attica and on the Ganges plain within a century. Different institutions, no contact, and the row says so."
+IL_139,I_MIDDLE_WAY,passage,Q_074,originates,high,"The middle way in its own words, which the merged IL_009 could only reach through the last words at Q_005."
+IL_140,I_MIDDLE_WAY,passage,Q_075,develops,high,The four truths.
+IL_141,I_AHIMSA,person,P_MAKKHALI,parallels,low,"The Ajivikas are the third renouncer movement and are lost; DN 2's report does not attribute non-harm to Gosala, and this link records only that he belongs to the same movement, at low reliability. Remove it if the lead thinks it claims more than that."
+IL_142,I_VASHNA,passage,Q_088,originates,high,Behistun DB §5: by the grace of Ahura Mazda I am king.
+IL_143,I_VASHNA,passage,Q_090,develops,medium,The god's help is what turns a killing by seven conspirators into a restoration: nobody dared speak against Gaumata until Darius asked Ahura Mazda for help.
+IL_144,I_VASHNA,passage,Q_093,develops,medium,"The favour works both ways: the god who made Darius king is asked to keep hostile armies, famine and the Lie away from the country."
+IL_145,I_VASHNA,passage,Q_099,parallels,medium,"Twenty years earlier the Cyrus Cylinder has Marduk search all lands for a righteous prince and call Cyrus by name. Written in Akkadian for Babylon and naming a different god; recorded as a parallel, not as the source of the Old Persian formula."
+IL_146,I_VASHNA,idea,I_MESSIAH,parallels,medium,"In the same years three gods are credited with choosing the same king: Marduk on the Cyrus Cylinder, the LORD in Isaiah 45:1 (Q_058), and - for Cyrus's successors - Ahura Mazda."
+IL_147,I_VASHNA,event,E_PE_002,enacts,high,The coup of 522 is the event the formula is first used to justify.
+IL_148,I_DATA,passage,Q_089,originates,high,Behistun DB §8: these countries respected my laws (data).
+IL_149,I_DATA,passage,Q_096,develops,high,On his tomb Darius extends the claim to every province 'seized afar from Persia': the law which is mine was established for them.
+IL_150,I_DATA,event,E_PE_014,enacts,medium,A fixed tribute and twenty governorships: the royal ordinance applied as administration (Herodotus 3.89).
+IL_151,I_DATA,passage,Q_102,develops,medium,"How the ordinances looked from below, as Herodotus reports the Persians' own joke: Darius the shopkeeper."
+IL_152,I_DATA,passage,Q_104,transmits,medium,"A Persian king's letter in Ezra sets 'the law of thy God, and the law of the king' side by side over one community, with the same penalties for breaking either. The link records the pairing in the text; no etymological claim about the Aramaic word is made."
+IL_153,I_DATA,idea,I_TORAH_PUBLIC,parallels,low,In Ezra 7:26 (Q_104) the imperial law and a community's own written law are enforced together - the setting in which I_TORAH_PUBLIC's public reading is dated.
+IL_154,I_RECTITUDE,passage,Q_092,originates,medium,"Behistun DB §63: because I was not a deceiver, not a wrongdoer; the translator marks the objects of the oppression clause as doubtful."
+IL_155,I_RECTITUDE,idea,I_DIKE,parallels,low,"Justice claimed as the ground of order, in Persia by a king and in Ionia by a natural philosopher; no contact is claimed."
+IL_156,I_RECTITUDE,idea,I_ASHA,parallels,medium,"The same vocabulary as the Lie of I_ASHA, turned on the king himself: his claim to divine help rests on not being a deceiver."
+IL_157,I_RESTORATION,passage,Q_098,originates,high,"Cyrus Cylinder line 32: the gods brought back to their places, the inhabitants restored to their dwellings."
+IL_158,I_RESTORATION,event,E_PE_035,enacts,high,The proclamation itself.
+IL_159,I_RESTORATION,event,E_IL_004,enacts,medium,"Ezra's decree of Cyrus sending the Judeans home is the same policy as the Judean text tells it. The cylinder does not name Judah; the connection is the reader's, and the reliability says so."
+IL_160,I_RESTORATION,passage,Q_063,develops,medium,Ezra 1:2-3 has Cyrus say that the God of heaven charged him to build a house in Jerusalem - restoration in a Judean god's name instead of Marduk's.
+IL_161,I_RESTORATION,idea,I_MESSIAH,parallels,medium,The Cylinder and Isaiah 45:1 give the same conqueror the same role from inside two different religions.
+IL_162,I_CREATOR_WELFARE,passage,Q_094,originates,high,"Suez c §1: a great god who created heaven, earth, man, and welfare for man."
+IL_163,I_CREATOR_WELFARE,passage,Q_095,develops,high,"Naqsh-i Rustam a §1: the same creation, and the king made 'one king of many, one lord of many'."
+IL_164,I_CREATOR_WELFARE,passage,Q_097,transmits,high,Xerxes carries his father's formula unchanged onto the Gate of All Lands.
+IL_165,I_CREATOR_WELFARE,idea,I_MONOTHEISM,parallels,low,"Within a generation of Second Isaiah's single creator who makes peace and creates evil (Q_059), the Persian formula has one great god create welfare, with the Lie set against it. Parallel and contrast; no contact is claimed."
+IL_166,I_JUDGE_BRIDGE,passage,Q_101,originates,low,Yasna 46.10-11. Dating of the Gathas uncertain.
+IL_167,I_JUDGE_BRIDGE,idea,I_INDIV_RESP,parallels,low,"Each person answers for his own deeds, in Ezekiel 18:20 before a God who judges, in the Gathas at a bridge. Independent; no contact is claimed."
+IL_168,I_ASHA,passage,Q_091,develops,high,Behistun DB §54: 'the Lie made them rebellious' - rebellion explained as the Lie at work in the provinces.
+IL_169,I_ASHA,passage,Q_100,develops,low,"Yasna 30.2, the verse before Q_009: the choice between the two spirits is made 'man and man, each individually for himself'. Dating of the Gathas uncertain."
+IL_170,I_MINBEN,passage,Q_113,originates,high,"Shi Kuang, 559 BCE: Heaven gave birth to the people and set up rulers to shepherd them; a ruler who ruins them may be removed. The earliest passage in this dataset that makes the people the purpose of rule."
+IL_171,I_MINBEN,person,P_SHIKUANG,originates,medium,The speech is reported in a fourth-century compilation (W_ZUOZHUAN -400/-300); the attribution to Shi Kuang is the chronicle's.
+IL_172,I_MINBEN,passage,Q_116,develops,medium,"Han Xuanzi, 546 BCE: war is the ruin of the people. The people's welfare is used as an argument of state, but beside an argument of power (Jin must not lose the leadership to Chu), which is why this is medium."
+IL_173,I_SHANGXIAN,passage,Q_114,originates,high,
+IL_174,I_SHANGXIAN,person,P_MOZI,originates,medium,The Mozi is a school compilation; the attribution to Mo Di personally is the tradition's (IL_060 precedent).
+IL_175,I_LI,passage,Q_109,develops,high,"Analects 2.3: lead by virtue and order by ritual, and the people gain a sense of shame; lead by regulations and order by punishment, and they only avoid the penalty. The Ru side of the contest with I_XINGSHU (IL_067) in one saying."
+IL_176,I_LI,passage,Q_107,develops,medium,"Confucius on the field levy, 484 BCE: a gentleman is measured by ritual, and in levies takes the lightest. Ritual as a limit on state extraction; medium because it is a private remark, reported."
+IL_177,I_XINGSHU,passage,Q_112,develops,high,"501 BCE: a private man's code, written on bamboo, adopted by the state that killed him. Thirty-five years after Zichan's bronze code (Q_036), law has become a text anyone can write."
+IL_178,I_XINGSHU,person,P_DENGXI,develops,high,"Deng Xi's bamboo code (竹刑) is the step after Zichan's bronze code: Zuozhuan, Ding 9."
+IL_179,I_XINGSHU,event,E_CN_042,enacts,high,Zheng puts Deng Xi's code into use.
+IL_180,I_REN,passage,Q_110,develops,medium,"Confucius allows Guan Zhong ren (or 'beneficence', Legge) for uniting the states without war chariots, though he broke faith with his first lord: ren judged by public result. medium because 如其仁 is read two ways."
+IL_181,I_FA,passage,Q_122,originates,medium,Uniform punishment without grades of rank: the doctrine in its plainest form. Medium: a school text whose chapter cannot be dated more closely than W_SHANGJUNSHU's range.
+IL_182,I_FA,person,P_SHANGYANG,originates,medium,"The tradition (Shiji 68; Han Feizi 定法 and 和氏) makes Shang Yang the founder of rule by law in Qin; the book under his name is his school's (W_SHANGJUNSHU), so the attribution of the doctrine to the man is the tradition's (the IL_174 precedent)."
+IL_183,I_FA,passage,Q_121,develops,medium,Laws and rites are made for their times: the argument that licenses changing them.
+IL_184,I_FA,passage,Q_123,develops,high,Law (法) distinguished from technique (術): two halves of administration named and defined.
+IL_185,I_FA,passage,Q_124,develops,high,When the age changes its affairs change; in the enlightened state the law is the teaching. Dated by -233 (Shiji 63).
+IL_186,I_FA,passage,Q_125,develops,medium,A state is as strong as those who uphold its law. Medium: the chapter's authorship is in doubt (Q_125.note).
+IL_187,I_FA,person,P_HANFEI,develops,high,"Han Fei's synthesis of law, technique and the ruler's position (Q_123, Q_124)."
+IL_188,I_FA,event,E_CN_051,enacts,high,Shang Yang's first laws in Qin put rule by law into practice.
+IL_189,I_FA,event,E_CN_060,enacts,high,"Shiji 6 on the new empire: 事皆決於法, 'all affairs were decided by law'."
+IL_190,I_XINGSHU,idea,I_FA,develops,medium,"Read as every passage and person link in this table is read: the target develops this row's idea. Publishing the law (Zheng 536, Jin 513) becomes, in Qin, a theory of the state. Medium: a line of development the sources read do not themselves draw; 定法 says nothing of Zichan."
+IL_191,I_FA,event,E_CN_049,enacts,medium,"Wu Qi in Chu: 明法審令 (Shiji 65), 'made the laws clear and the orders exact'. Medium: the Shiji's phrase, for a reform cut short."
+IL_192,I_MINBEN,passage,Q_120,develops,high,"Mencius: the people first, the altars next, the ruler least; an offending lord is replaced."
+IL_193,I_DAYITONG,passage,Q_119,originates,medium,"The world settled 'in one' under a ruler who has no taste for killing. Medium: the aspiration without the name, which the Gongyang supplies only in its Han-era text."
+IL_194,I_DAYITONG,passage,Q_130,develops,medium,"The name, 大一統. THIN: a text written down under Emperor Jing (W_GONGYANG)."
+IL_195,I_DAYITONG,event,E_CN_060,enacts,high,Qin conquers the six states and governs the whole realm through appointed commanderies.
+IL_196,I_DAYITONG,person,P_MENCIUS,originates,medium,Mencius's answer to King Xiang (Q_119).
+IL_197,I_MINBEN,person,P_MENCIUS,develops,high,"Q_120; beside IL_003, his link to humaneness."
+IL_198,I_MINBEN,passage,Q_128,develops,high,"Xunzi quotes the boat-and-water saying (傳曰) and builds the ruler's safety on the people's: develops, not originates (r8-3)."
+IL_199,I_SHANGXIAN,passage,Q_128,develops,high,"Xunzi: to achieve great things, promote the worthy and employ the able (尚賢使能)."
+IL_200,I_LI,passage,Q_129,develops,high,"Xunzi: human nature is bad, and ritual and rightness are what make people good."
+IL_201,I_LI,person,P_XUNZI,develops,high,Xunzi's theory of ritual as formation (Q_129).
+IL_202,I_LI,passage,Q_126,refutes,medium,"Han Fei: the appeal to the former kings cannot be verified, and three years' mourning ruins families. Medium: the chapter attacks the Ru generally, not one doctrine."
+IL_203,I_REN,passage,Q_118,develops,medium,"Mencius to King Hui: humaneness and rightness, not profit, are the whole of policy."

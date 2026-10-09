@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "2",
+  "corpus": "axial",
+  "title": "TimeChorus axial rule set",
+  "status": "complete",
+  "description": "Generated from the columns in axial data/csv/ and the rules in axial tools/validate.py. Behaviour-preserving as of ENGINE_VERSION 0.1.0: the generalised validator reproduces the axial validator's output byte for byte. v2.1 (r6-0, 2026-09-25): the five schema-v2-boundary columns land (people.map_place_id + map_place_basis, events.note, passages.original_source_id, places.source_ids, sources.credit_clause), all empty on landing; schemaVersion stays \"2\" (schema/v2's directory name and pick_schema_dir's v\\d+ match do not admit a dotted directory) -- \"v2.1\" is this round's own label for the addition, recorded here, not a second schema/ directory. v2.2 (r9-2, 2026-10-04): people.map_place_reason lands (the reader-register reason behind map_place_id; map_place_basis stays the reviewers' working log), empty on landing, label recorded the same way.",
+  "tables": [
+    "regions",
+    "polities",
+    "places",
+    "people",
+    "works",
+    "sources",
+    "events",
+    "event_people",
+    "relations",
+    "lineages",
+    "ideas",
+    "idea_links",
+    "passages",
+    "calendars",
+    "sync_slices"
+  ],
+  "vocabularies": {
+    "OPEN_LICENCE": [
+      "public domain",
+      "CC0",
+      "CC BY 4.0",
+      "CC BY 3.0",
+      "CC BY-SA 4.0",
+      "CC BY-SA 3.0"
+    ],
+    "UNSOURCED_QUOTE_TYPES": [
+      "annal",
+      "paraphrase"
+    ]
+  },
+  "csvToJson": {
+    "intFields": [
+      "year",
+      "year_min",
+      "year_max",
+      "birth_year_min",
+      "birth_year_max",
+      "death_year_min",
+      "death_year_max",
+      "composition_year_min",
+      "composition_year_max",
+      "first_attested_year_min",
+      "first_attested_year_max",
+      "epoch_year_bce",
+      "importance"
+    ],
+    "floatFields": [
+      "lat",
+      "lng"
+    ],
+    "listFields": [
+      "source_ids",
+      "name_alt"
+    ],
+    "boolFields": [
+      "is_protagonist"
+    ],
+    "yearRangeFrom": {
+      "table": "events",
+      "fields": [
+        "year_min",
+        "year_max"
+      ]
+    },
+    "metaSchemaVersion": "2.0",
+    "reviewCoverage": true,
+    "indent": 1,
+    "trailingNewline": false,
+    "lineEnding": "lf",
+    "encodingBom": false
+  }
+}

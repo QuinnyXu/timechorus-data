@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/sync_slices.schema.json",
+  "title": "sync_slices",
+  "description": "One-line 'what was happening here that year' rows, per (year, region).",
+  "type": "object",
+  "required": [
+    "year",
+    "region_id",
+    "one_line_en",
+    "source_ids",
+    "reliability"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "year": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "region_id": {
+      "type": "string"
+    },
+    "one_line_en": {
+      "type": "string"
+    },
+    "source_ids": {
+      "type": "string",
+      "description": "Semicolon-separated id list."
+    },
+    "reliability": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    }
+  },
+  "x-timechorus": {
+    "table": "sync_slices",
+    "idField": null,
+    "keyFields": [
+      "year",
+      "region_id"
+    ],
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "region_id",
+        "target": "regions",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "source_ids",
+        "target": "sources",
+        "allowBlank": false,
+        "multi": true
+      },
+      {
+        "rule": "enum",
+        "field": "reliability"
+      },
+      {
+        "rule": "year",
+        "field": "year",
+        "required": true
+      }
+    ]
+  }
+}

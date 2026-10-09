@@ -1,0 +1,190 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/events.schema.json",
+  "title": "events",
+  "description": "Range-dated events; the spine of the timeline and chronicle.",
+  "type": "object",
+  "required": [
+    "id",
+    "year_min",
+    "year_max",
+    "year_display",
+    "dating_basis",
+    "region_id",
+    "polity_id",
+    "place_id",
+    "title_en",
+    "summary_en",
+    "category",
+    "source_ids",
+    "reliability",
+    "importance",
+    "note",
+    "review_status"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "year_min": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "year_max": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "year_display": {
+      "type": "string"
+    },
+    "dating_basis": {
+      "type": "string"
+    },
+    "region_id": {
+      "type": "string"
+    },
+    "polity_id": {
+      "type": "string"
+    },
+    "place_id": {
+      "type": "string"
+    },
+    "title_en": {
+      "type": "string"
+    },
+    "summary_en": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "activity",
+        "battle",
+        "birth",
+        "conquest",
+        "coup",
+        "death",
+        "decree",
+        "disaster",
+        "encounter",
+        "journey",
+        "meeting",
+        "monument",
+        "omen",
+        "ordination",
+        "performance",
+        "reform",
+        "speech",
+        "transaction",
+        "treaty",
+        "trial",
+        "vision"
+      ]
+    },
+    "source_ids": {
+      "type": "string",
+      "description": "Semicolon-separated id list."
+    },
+    "reliability": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "importance": {
+      "type": "string",
+      "enum": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "note": {
+      "type": "string",
+      "description": "Free-text caveat home (ruling L-28, schema v2.1 / r6-0): a caveat about a row's category, an agentless actor, a locator apparatus note, never reader-facing prose (that is summary_en)."
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed"
+      ]
+    }
+  },
+  "x-timechorus": {
+    "table": "events",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "region_id",
+        "target": "regions",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "polity_id",
+        "target": "polities"
+      },
+      {
+        "rule": "ref",
+        "field": "place_id",
+        "target": "places"
+      },
+      {
+        "rule": "ref",
+        "field": "source_ids",
+        "target": "sources",
+        "allowBlank": false,
+        "multi": true
+      },
+      {
+        "rule": "yearRange",
+        "min": "year_min",
+        "max": "year_max",
+        "required": true
+      },
+      {
+        "rule": "enum",
+        "field": "reliability"
+      },
+      {
+        "rule": "enum",
+        "field": "review_status"
+      },
+      {
+        "rule": "enum",
+        "field": "category"
+      },
+      {
+        "rule": "enum",
+        "field": "importance"
+      },
+      {
+        "rule": "procedural",
+        "name": "events_required_prose"
+      },
+      {
+        "rule": "procedural",
+        "name": "events_reliability_vs_range"
+      },
+      {
+        "rule": "procedural",
+        "name": "events_place_warn"
+      },
+      {
+        "rule": "procedural",
+        "name": "events_people_warn"
+      }
+    ]
+  }
+}

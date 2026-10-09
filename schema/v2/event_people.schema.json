@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/event_people.schema.json",
+  "title": "event_people",
+  "description": "Join table: which people took part in which event.",
+  "type": "object",
+  "required": [
+    "event_id",
+    "person_id",
+    "role_in_event",
+    "presence",
+    "note"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "event_id": {
+      "type": "string"
+    },
+    "person_id": {
+      "type": "string"
+    },
+    "role_in_event": {
+      "type": "string"
+    },
+    "presence": {
+      "type": "string",
+      "enum": [
+        "present",
+        "related"
+      ]
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "event_people",
+    "idField": null,
+    "keyFields": [
+      "event_id",
+      "person_id"
+    ],
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "event_id",
+        "target": "events",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "person_id",
+        "target": "people",
+        "allowBlank": false
+      },
+      {
+        "rule": "enum",
+        "field": "presence"
+      }
+    ]
+  }
+}

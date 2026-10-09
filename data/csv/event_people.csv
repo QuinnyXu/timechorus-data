@@ -1,0 +1,309 @@
+event_id,person_id,role_in_event,presence,note
+E_CN_001,P_CONFUCIUS,subject (born),present,
+E_CN_002,P_CONFUCIUS,departs,present,
+E_CN_003,P_CONFUCIUS,returns,present,
+E_CN_004,P_CONFUCIUS,subject (dies),present,
+E_CN_005,P_CONFUCIUS,visitor,present,Presence itself is the doubtful fact; inherits event reliability low.
+E_CN_005,P_LAOZI,consulted,present,See above.
+E_IN_001,P_BUDDHA,subject (dies),present,
+E_IL_001,P_EZEKIEL,deported,related,Ezekiel 1:2 places him among the 597 deportees; not named in 2 Kings.
+E_IL_002,P_EZEKIEL,visionary,present,
+E_IL_004,P_CYRUS,issues decree,related,Cyrus was at Babylon in 538 but the decree's own location is not stated.
+E_IL_004,P_DEUTERO_ISAIAH,anticipates (Isa 45:1),related,Anonymous author; textual link only.
+E_PE_001,P_CYRUS,conqueror,present,Chronicle: Cyrus enters Babylon 3 Arahsamnu.
+E_PE_002,P_DARIUS,leads conspiracy,present,
+E_PE_003,P_DARIUS,commissions,related,Commissioned; personal presence at the cliff not attested.
+E_GR_001,P_SOLON,archon / lawgiver,present,
+E_GR_002,P_CLEISTHENES,reformer,present,
+E_GR_003,P_HERACLITUS,subject,present,
+E_GR_004,P_PERICLES,speaker,present,
+E_GR_005,P_SOCRATES,defendant,present,
+E_GR_005,P_PLATO,"witness at trial (Apology 34a, 38b)",present,Plato names himself as present.
+E_GR_006,P_THALES,predicted the eclipse,related,"Herodotus 1.74.2 places the prediction, not the man, at the battle; presence at the peace is not attested."
+E_GR_007,P_ANAXIMANDER,subject (floruit),present,
+E_GR_008,P_CYRUS,conqueror,related,Herodotus 1.84-86 has Cyrus take Sardis; the subjection of the Ionian cities at 1.141-176 is carried out by Harpagus.
+E_GR_009,P_PYTHAGORAS,emigrates,present,
+E_GR_010,P_XENOPHANES,exiled,present,
+E_GR_013,P_DARIUS,the king revolted from,related,"Herodotus 5.37.1: 'Aristagoras revolted openly, devising all he could to harm Darius.' Darius is not present."
+E_GR_015,P_DARIUS,king whose forces took the city,related,
+E_GR_017,P_DARIUS,sent the expedition,related,"Herodotus 6.94-95: the fleet is sent by Darius, who is not present."
+E_GR_018,P_THEMISTOCLES,proposer,present,
+E_GR_013,P_ARISTAGORAS,renounces his tyranny and raises the revolt,present,
+E_GR_014,P_ARISTAGORAS,planned the march on Sardis,related,Herodotus 5.99-100: Aristagoras planned the march; the force went inland from Ephesus and he is not named as present at the burning.
+E_GR_015,P_ARISTAGORAS,the revolt is dated by his name,related,Herodotus 6.18 dates the fall 'in the sixth year after the revolt of Aristagoras'; he had already left Ionia and died in Thrace (5.126).
+E_GR_031,P_CLEON,speaker for the death sentence,present,
+E_GR_027,P_CLEON,prosecutor (one version),present,Diogenes Laertius 2.12 attributes the indictment to Cleon on Sotion's authority; Satyrus names Thucydides son of Melesias instead. The row inherits the event's low reliability.
+E_GR_021,P_THEMISTOCLES,commander,present,Herodotus 8.83 has him address the Athenians before the battle.
+E_GR_023,P_THEMISTOCLES,leader of the people in the period,related,"Aristotle, Constitution of the Athenians 23 names Aristides and Themistocles as the leaders of the people after the Persian wars; the assessment of the tribute is credited to Aristides, who has no row in this dataset yet."
+E_GR_024,P_EPHIALTES,reformer,present,
+E_GR_025,P_EPHIALTES,subject (assassinated),present,
+E_GR_026,P_PERICLES,proposer,present,
+E_GR_027,P_ANAXAGORAS,defendant,present,"One of Diogenes's three versions (2.13) has him condemned in absence, so presence is itself disputed; the row inherits the event's low reliability."
+E_GR_027,P_PERICLES,defender,present,Two of the three versions in Diogenes Laertius 2.12-14 have Pericles speak for him.
+E_GR_028,P_PROTAGORAS,lawgiver,related,Diogenes Laertius 9.50 says only that he made laws for Thurii; it does not say he went there.
+E_GR_030,P_PERICLES,subject (dies),present,
+E_GR_033,P_ALCIBIADES,accused,related,"Thucydides 6.53: the Salaminia was sent to Sicily for him, so he was not at Athens when the charge was brought."
+E_GR_034,P_ALCIBIADES,proposer and first commander,related,Thucydides 6.15 on his advocacy; he was recalled early in the campaign and did not share the defeat.
+E_GR_036,P_XENOPHON,narrator,related,Xenophon reports the trial in Hellenica 1.7 but does not place himself at it.
+E_GR_036,P_SOCRATES,presiding councillor who opposed the single vote,present,"Plato, Apology 32 (Fowler): 'it happened that my tribe held the presidency when you wished to judge collectively, not severally, the ten generals ... At that time I was the only one of the prytanes who opposed doing anything contrary to the laws.' Read 2026-09-08 in the PerseusDL TEI file."
+E_GR_038,P_SOCRATES,refused an order of the Thirty,present,"Plato, Apology 32 (Fowler): 'the Thirty sent for me with four others to come to the rotunda and ordered us to bring Leon the Salaminian from Salamis to be put to death'; he went home instead. Read 2026-09-08 in the PerseusDL TEI file. Presence is at the rotunda in Athens, which is the place of the event row."
+E_GR_039,P_SOCRATES,citizen under the amnesty,related,The amnesty of 403 is the legal setting of his trial in 399 (E_GR_005).
+E_GR_040,P_XENOPHON,participant and later narrator,present,"Xenophon, Hellenica 3.1.2 refers the reader to another account; his own participation is the premise of that cross-reference."
+E_GR_012,P_CLEISTHENES,returning exile,related,"Herodotus 5.62-65 makes the Alcmaeonids, Cleisthenes' clan, the movers of the expulsion; Herodotus does not place Cleisthenes personally in the city at the moment."
+E_GR_029,P_PERICLES,Athenian leader at the outbreak,related,Thucydides 1.139-145 gives him the speech that decided Athens against concession; the attack on Plataea itself is Theban.
+E_CN_006,P_ZICHAN,chief minister,present,
+E_CN_007,P_ZICHAN,imposes the levy,present,
+E_CN_008,P_ZICHAN,orders the casting,present,
+E_CN_008,P_SHUXIANG,writes against it,related,"Zuozhuan, Zhao 6: Shuxiang sends a letter from Jin; he is not in Zheng."
+E_CN_009,P_YANYING,envoy of Qi,present,
+E_CN_009,P_SHUXIANG,host at the Jin court,present,
+E_CN_010,P_ZICHAN,subject (dies),present,
+E_CN_010,P_CONFUCIUS,mourner,related,"Zuozhuan, Zhao 20: 仲尼聞之 — Confucius heard of it. He was about thirty and in Lu, not in Zheng."
+E_CN_011,P_ZICHAN,quoted authority,related,Zichan had been dead five years; Zi Taishu quotes him by name.
+E_CN_012,P_CONFUCIUS,critic,related,"Zuozhuan, Zhao 29 gives Confucius's judgement on the casting; he was in Lu, not Jin."
+E_CN_013,P_HELU,commander,present,
+E_CN_013,P_WUZIXU,planner,present,"Zuozhuan, Ding 4: 伍員為吳行人以謀楚 — Wu Yun was Wu's envoy and planned against Chu."
+E_CN_013,P_SUNWU,credited by the Shiji,related,"Recorded as related, not present: Shiji 65 credits him with the campaign, the Zuozhuan does not mention him. This row is the disagreement, and inherits the low reliability of E_CN_026."
+E_CN_015,P_CONFUCIUS,master of ceremonies,present,"Zuozhuan, Ding 10: 孔丘相 — Kong Qiu assisted, i.e. acted as master of ceremonies."
+E_CN_016,P_CONFUCIUS,gives a battlefield order,present,"Zuozhuan, Ding 12: 仲尼命申句須，樂頎，下伐之 — Zhongni ordered Shen Goxu and Yue Qi down against the men of Bi."
+E_CN_017,P_GOUJIAN,commander,present,
+E_CN_017,P_HELU,subject (dies of the wound),present,
+E_CN_018,P_FUCHAI,victor; spares Yue,present,
+E_CN_018,P_GOUJIAN,besieged; sues for terms,present,
+E_CN_018,P_WUZIXU,argues against sparing Yue,present,
+E_CN_019,P_WUZIXU,subject (dies),present,
+E_CN_019,P_FUCHAI,orders the death,related,"Zuozhuan, Ai 11: the king sent the sword on Wu Zixu's return from Qi; the Zuozhuan does not place him at the death."
+E_CN_020,P_FUCHAI,commander,present,
+E_CN_021,P_RANQIU,commander of the left wing,present,
+E_CN_022,P_FUCHAI,claimant to the leadership,present,
+E_CN_022,P_GOUJIAN,attacks the Wu capital,present,"Present at the attack on Wu, not at the meeting at Huangchi; the two halves of the event are hundreds of miles apart."
+E_CN_023,P_CONFUCIUS,asks the duke to punish the crime,related,"Zuozhuan, Ai 14: Confucius fasted three days and made the request three times, in Lu; the murder was in Qi. PRESENCE RE-READ 2026-10-04 (Sophia r9-0, ruling L-107(2)), at zh.wikisource.org page 春秋左氏傳/哀公 (revision 7908334, fetched whole via action=raw on 2026-10-04, this session): 'related' confirmed — he fasts and makes his request in Lu (孔丘三日齊．而請伐齊．三), and the murder is at 舒州 in Qi."
+E_CN_023,P_DUKE_AI_LU,receives the request and defers,related,"PRESENCE RE-READ 2026-10-04 (Sophia r9-0, ruling L-107(2)), at zh.wikisource.org page 春秋左氏傳/哀公 (revision 7908334, fetched whole via action=raw on 2026-10-04, this session), 哀公十四年 經 and 傳: the murder is placed by both at 舒州 (經: 齊人弒其君壬于舒州; 傳: 庚辰．陳恆執公于舒州 ... 甲午．齊陳恆弒其君壬于舒州), and Duke Ai receives Confucius's request in Lu: 孔丘三日齊．而請伐齊．三．公曰．魯為齊弱久矣 ... 公曰．子告季孫. The source never puts the duke at the place of the murder, so presence is 'related', not 'present' (was 'present'; conventions §4: being addressed is 'related'). Confucius's row on this event was already 'related' and is confirmed by the same reading."
+E_CN_024,P_DUKE_AI_LU,speaks the eulogy,present,
+E_CN_024,P_CONFUCIUS,subject (the dead man),related,Presence is not meaningful for the subject of a funeral eulogy; recorded as related.
+E_CN_025,P_GOUJIAN,conqueror,present,
+E_CN_025,P_FUCHAI,subject (dies),present,
+E_CN_026,P_SUNWU,subject,present,Presence is itself the doubtful fact; the row inherits the event's low reliability.
+E_CN_026,P_HELU,receives him,present,
+E_CN_027,P_FANLI,adviser,present,
+E_CN_027,P_GOUJIAN,king served,present,
+E_CN_028,P_ZIXIA,subject (born),present,
+E_CN_029,P_ZENGZI,subject (born),present,
+E_CN_030,P_MOZI,founder,present,
+E_GR_041,P_PERICLES,defended his strategy during it,present,"Thucydides 2.59-64 places him in the city addressing the assembly during the epidemic; at 2.64.1 he calls it 'the only point indeed at which our calculation has been at fault'. His own death is E_GR_030, and Thucydides does not connect the two — see that row's dating_basis."
+E_GR_041,P_CLEON,rose against Pericles in the same months,present,"Thucydides 2.59 has the Athenians turn on Pericles under the pressure of the plague and 3.36 shows Cleon leading them soon after; Thucydides does not name him at 2.59, so this row records the political setting, not a named appearance. reliability of the connection is the reader's to weigh."
+E_CN_031,P_CONFUCIUS,identifies the animal,present,"Zuozhuan, Ai 14: 仲尼觀之，曰：「麟也。」— Zhongni went and looked at it. The source places him at the viewing, not at the hunt."
+E_IL_003,P_NEBUCHADNEZZAR,besieging king,related,"Ruling L-9, closed here. 2 Kings 25:8-9 (read this session) names not the king himself at Jerusalem but Nebuzaradan the captain of the guard, a servant of the king of Babylon, as the man who came to the city and burned it; 25:6 has Zedekiah carried up to the king at Riblah, which is where the king was. presence=related, strictly per conventions section 4: the source does not place him at the place of this event."
+E_IL_003,P_ZEDEKIAH,king of the besieged city,related,"Ruling L-9, closed here. presence=related and not present, and the reason is on the row: 2 Kings 25:4-7 (read this session) has him break out of the city by night before it fell and be captured in the plains of Jericho, so at the burning of the Temple in the fifth month he was already a prisoner at Riblah. His own presence event is E_IL_010."
+E_IL_003,P_JEREMIAH,prophet in the city,related,"Jeremiah 32:2 (read this session) has him shut up in the court of the guard in the king's house during the siege, and Jeremiah 39-40 has him in the land afterwards; the chapter that narrates the burning does not place him at it, so related rather than present."
+E_IL_005,P_EZEKIEL,visionary,present,Ezekiel 8:1: as I sat in my house.
+E_IL_006,P_EZEKIEL,prophet consulted,present,Ezekiel 20:1: they sat before me.
+E_IL_007,P_NEBUCHADNEZZAR,besieging king,present,"2 Kings 25:1: Nebuchadnezzar came, he and all his army, against Jerusalem, and encamped against it - the source places him at the place."
+E_IL_007,P_ZEDEKIAH,king under siege,present,"The siege of his own capital, in the ninth year of his reign."
+E_IL_008,P_EZEKIEL,recipient of the oracle,present,
+E_IL_009,P_JEREMIAH,buyer,present,Jeremiah 32:9: and I bought the field that was in Anathoth.
+E_IL_010,P_ZEDEKIAH,sentenced,present,2 Kings 25:6: they took the king and carried him up to the king of Babylon to Riblah.
+E_IL_010,P_NEBUCHADNEZZAR,judge,present,"2 Kings 25:6: carried him up unto the king of Babylon to Riblah, and they gave judgment upon him."
+E_IL_011,P_GEDALIAH,appointed governor,related,The appointment is made by Nebuchadnezzar and reported without a scene; the source does not place either man at a named place for the act itself.
+E_IL_011,P_NEBUCHADNEZZAR,appointing king,related,2 Kings 25:22: over them he made Gedaliah governor.
+E_IL_012,P_GEDALIAH,murdered,present,"Jeremiah 41:1-2: at Mizpah, where they ate bread together."
+E_IL_012,P_ISHMAEL_NETHANIAH,assassin,present,"Jeremiah 41:1-2: came unto Gedaliah to Mizpah, and there they did eat bread together."
+E_IL_013,P_EZEKIEL,recipient of the oracle,present,
+E_IL_014,P_EZEKIEL,recipient of the oracle,present,
+E_IL_015,P_EZEKIEL,recipient of the oracle,present,
+E_IL_016,P_EZEKIEL,recipient of the oracle,present,
+E_IL_017,P_EZEKIEL,recipient of the oracle,present,
+E_IL_018,P_EZEKIEL,recipient of the oracle,present,
+E_IL_019,P_EZEKIEL,hears the news,present,Ezekiel 33:21: one that had escaped out of Jerusalem came unto me.
+E_IL_020,P_EZEKIEL,visionary,present,"Ezekiel 40:1: the hand of the LORD was upon me, and He brought me thither."
+E_IL_021,P_EZEKIEL,recipient of the oracle,present,
+E_IL_021,P_NEBUCHADNEZZAR,subject of the oracle,related,Ezekiel 29:17-20 speaks about him and to him only through the prophet.
+E_IL_022,P_JEHOIACHIN,released prisoner,present,2 Kings 25:27-28: lifted up the head of Jehoiachin out of prison at Babylon.
+E_IL_022,P_EVIL_MERODACH,releasing king,present,2 Kings 25:27-28: he spoke kindly to him and set his throne above the thrones of the other kings.
+E_IL_023,P_JEREMIAH,writer of the letter,present,Jeremiah 29:1: the words of the letter that Jeremiah the prophet sent from Jerusalem.
+E_IL_023,P_JEHOIACHIN,dating reference,related,"Jeremiah 29:2 dates the letter by his departure from Jerusalem; he is in Babylon, not at the place of the writing."
+E_IL_024,P_DEUTERO_ISAIAH,prophet,present,"Anonymous author of Isaiah 40-55; the oracles are placed among the exiles, which is the place this row uses Babylon to stand for."
+E_IL_024,P_CYRUS,named in the oracle,related,Isaiah 44:28 and 45:1 name him; nothing suggests he ever heard of it.
+E_IL_025,P_SHESHBAZZAR,leader of the return,present,Ezra 1:11: all these did Sheshbazzar bring up.
+E_IL_025,P_CYRUS,authorising king,related,Ezra 1:8: Cyrus brought them forth by the hand of Mithredath the treasurer.
+E_IL_026,P_JESHUA,priest,present,"Ezra 3:2: then stood up Jeshua the son of Jozadak, and his brethren the priests."
+E_IL_026,P_ZERUBBABEL,governor,present,"Ezra 3:2: and Zerubbabel the son of Shealtiel, and his brethren."
+E_IL_027,P_ZERUBBABEL,director of the work,present,Ezra 3:8.
+E_IL_027,P_JESHUA,director of the work,present,Ezra 3:8.
+E_IL_029,P_HAGGAI,prophet,present,Haggai 1:1: came the word of the LORD by Haggai the prophet.
+E_IL_029,P_ZERUBBABEL,addressed,present,Haggai 1:1 addresses him by name and office.
+E_IL_029,P_JESHUA,addressed,present,Haggai 1:1 addresses him by name and office.
+E_IL_030,P_ZERUBBABEL,builder,present,Haggai 1:14: they came and did work in the house of the LORD.
+E_IL_030,P_JESHUA,builder,present,Haggai 1:14.
+E_IL_030,P_HAGGAI,prophet whose word started it,related,The verse names the LORD as stirring up the spirits and does not place the prophet at the work.
+E_IL_031,P_ZECHARIAH,visionary,present,Zechariah 1:7: came the word of the LORD unto Zechariah.
+E_IL_032,P_ZECHARIAH,prophet consulted,present,Zechariah 7:1.
+E_IL_033,P_ZERUBBABEL,builder,related,"Ezra 6:14-16 credits the elders of the Jews and names Haggai and Zechariah, but does not name Zerubbabel at the finishing; related rather than present, strictly."
+E_IL_033,P_HAGGAI,prophet of the rebuilding,related,Ezra 6:14 names him as one of the two through whose prophesying they built and finished.
+E_IL_033,P_ZECHARIAH,prophet of the rebuilding,related,Ezra 6:14 names him as the son of Iddo.
+E_IL_033,P_DARIUS,authorising king,related,Ezra 6:14-15 dates the finishing by his sixth year and names his decree.
+E_IL_034,P_EZRA,traveller,present,Ezra 7:6-9: this Ezra went up from Babylon and came to Jerusalem.
+E_IL_034,P_ARTAXERXES_I,granting king,related,"Ezra 7:6-7 has the king grant him all his request; the book does not say which Artaxerxes, and E_IL_034's dating_basis carries that."
+E_IL_035,P_EZRA,reader of the Law,present,Nehemiah 8:2-3: Ezra the priest brought the Law before the congregation and read therein.
+E_IL_035,P_NEHEMIAH,governor,related,"Nehemiah 8:9 belongs to the same scene but was NOT read at its locator this session; only 8:1-8 was, and those verses do not name him. Recorded as related rather than present for that reason, and the reason is written here rather than left as a judgement call."
+E_IL_036,P_NEHEMIAH,petitioner,present,Nehemiah 2:1: I took up the wine and gave it unto the king.
+E_IL_036,P_ARTAXERXES_I,king petitioned,present,Nehemiah 2:1: when wine was before him.
+E_IL_037,P_NEBUCHADNEZZAR,deporting king,related,Jeremiah 52:28-30 counts the deportations by his regnal years and names Nebuzaradan as the officer for the third; the king himself is not placed at Jerusalem by these verses.
+E_IL_037,P_JEHOIACHIN,deportee of the first count,related,The seventh-year deportation is the one that took him (ABC 5 Rev. 11-13; 2 Kings 24:12-15).
+E_IN_002,P_BUDDHA,the one who goes forth,present,"DN 16:5.27.5-6, his own statement."
+E_IN_002,P_SUBHADDA,the person told,present,"The statement is made to him, on the last night; DN 16:5.27.5."
+E_IN_003,P_BUDDHA,subject,present,pli-tv-kd1:1.1.1-2.
+E_IN_004,P_BUDDHA,subject,present,pli-tv-kd1:5.12-5.13.
+E_IN_005,P_BUDDHA,speaker,present,SN 56.11:1.1-1.2; pli-tv-kd1:6.10.1.
+E_IN_005,P_KONDANNA,one of the group of five,present,"The group of five is named as a group at SN 56.11:1.2; the segments read this session name Kondanna as the one who understood, and this row records him as one of the five."
+E_IN_006,P_BUDDHA,speaker,present,SN 22.59:1.1-1.5.
+E_IN_006,P_KONDANNA,hearer,present,"One of the same group of five, SN 22.59:1.2."
+E_IN_007,P_BUDDHA,speaker,present,pli-tv-kd1:11.1.1.
+E_IN_008,P_BUDDHA,recipient of the gift,present,pli-tv-kd1:22.1.1-22.18.3.
+E_IN_008,P_BIMBISARA,donor,present,pli-tv-kd1:22.18.1: the king took hold of a golden ceremonial vessel and dedicated the park.
+E_IN_009,P_SARIPUTTA,goes forth,present,pli-tv-kd1:23-24.7.
+E_IN_009,P_MOGGALLANA,goes forth,present,pli-tv-kd1:23-24.7.
+E_IN_009,P_SANJAYA,teacher left behind,related,kd1:24.5.3 records the complaint that his two hundred and fifty wanderers went over; he is not placed at the scene.
+E_IN_009,P_BUDDHA,receives them,present,
+E_IN_010,P_DEVADATTA,wins the prince,present,pli-tv-kd17:2.1.12-2.1.21.
+E_IN_010,P_AJATASATTU,prince won over,present,pli-tv-kd17:2.1.21: attended on him morning and evening.
+E_IN_011,P_AJATASATTU,kills his father,present,pli-tv-kd17:3.4.13 and dn2:99.6.
+E_IN_011,P_BIMBISARA,the father killed,present,"pli-tv-kd17:3.5.33-34: and he said to Ajatasattu, why do you want to kill me?"
+E_IN_011,P_DEVADATTA,instigator,related,kd17:3.4.1-5: he proposes the plan and is not placed at the act.
+E_IN_012,P_AJATASATTU,questioner,present,dn2:14.1-15.5 and 99.6.
+E_IN_012,P_BUDDHA,answers,present,dn2:15.1-102.4.
+E_IN_013,P_AJATASATTU,asks the six teachers in turn,related,"dn2:16.1-24.2 reports his visits to them as past events recounted to the Buddha, not as a scene at this row's place."
+E_IN_013,P_PURANA_KASSAPA,one of the six,related,dn2:2.2 and 17.2.
+E_IN_013,P_MAKKHALI,one of the six,related,dn2:3.2 and 20.2.
+E_IN_013,P_AJITA,one of the six,related,dn2:4.2 and 23.2.
+E_IN_013,P_PAKUDHA,one of the six,related,dn2:5.2; his doctrine is not in the segments read this session.
+E_IN_013,P_SANJAYA,one of the six,related,Named in the list at dn16:5.26.3.
+E_IN_013,P_MAHAVIRA,one of the six,related,"Named in the canon as the Jain ascetic of the Natika clan, dn16:5.26.3; the Buddhist texts do not use the title Mahavira."
+E_IN_014,P_BUDDHA,speaker,present,MN 135:4.1-4.3.
+E_IN_015,P_MAHAVIRA,the one who dies,present,MN 104:2.1: had recently passed away at Pava.
+E_IN_016,P_AJATASATTU,sends the minister,related,"dn16:1.1.3-1.2.9: he is in Rajagaha, not on the Vulture's Peak."
+E_IN_016,P_VASSAKARA,envoy,present,dn16:1.3.1-1.3.7: he went by carriage as far as the terrain allowed and approached the Buddha on foot.
+E_IN_016,P_BUDDHA,answers,present,
+E_IN_016,P_ANANDA,questioned in the minister's hearing,present,"dn16:1.4.1: standing behind the Buddha, fanning him."
+E_IN_017,P_BUDDHA,traveller,present,
+E_IN_017,P_ANANDA,companion,present,dn16:1.13.2.
+E_IN_018,P_SARIPUTTA,speaker,present,dn16:1.16.
+E_IN_018,P_BUDDHA,hearer,present,
+E_IN_019,P_VASSAKARA,builder of the fort,present,dn16:1.26.1 and 1.29.1.
+E_IN_019,P_BUDDHA,makes the prophecy,present,dn16:1.27.4-1.28.9.
+E_IN_019,P_ANANDA,companion,present,dn16:1.27.4-1.27.6.
+E_IN_020,P_BUDDHA,traveller,present,
+E_IN_020,P_ANANDA,companion,present,dn16:2.1.2 and 2.5.2.
+E_IN_021,P_AMBAPALI,host and donor,present,dn16:2.19.1-2.19.8.
+E_IN_021,P_BUDDHA,guest,present,
+E_IN_022,P_BUDDHA,observer,present,dn16:2.17.1-2.17.6.
+E_IN_022,P_AMBAPALI,collides with them on the road,present,dn16:2.16.1.
+E_IN_023,P_BUDDHA,the one who falls ill,present,dn16:2.23.1.
+E_IN_023,P_ANANDA,attendant,present,dn16:2.24.4-2.26.8.
+E_IN_024,P_BUDDHA,subject,present,dn16:3.10.1.
+E_IN_025,P_BUDDHA,speaker,present,dn16:4.5-4.12.
+E_IN_025,P_ANANDA,companion,present,dn16:4.1.4 and 4.5.2.
+E_IN_026,P_CUNDA,host,present,dn16:4.17.1-4.19.5.
+E_IN_026,P_BUDDHA,"guest, then patient",present,dn16:4.18.1 and 4.20.1.
+E_IN_027,P_BUDDHA,traveller,present,dn16:4.39.1 and 5.1.4-5.1.7.
+E_IN_027,P_ANANDA,companion,present,dn16:5.1.5-5.1.6.
+E_IN_028,P_BUDDHA,speaker,present,dn16:5.8.1.
+E_IN_028,P_ANANDA,the person addressed,present,dn16:5.8.1.
+E_IN_029,P_SUBHADDA,last convert,present,dn16:5.26.1.
+E_IN_029,P_ANANDA,gatekeeper,present,"dn16:5.24.8-5.25.7: refuses him three times, then lets him in."
+E_IN_029,P_BUDDHA,teacher,present,dn16:5.25.1-5.27.9.
+E_IN_030,P_BUDDHA,speaker,present,dn16:6.1.1-6.7.4.
+E_IN_030,P_ANANDA,the person addressed,present,dn16:6.1.1 and 6.6.9-6.6.11.
+E_IN_031,P_ANANDA,instructs the Mallas on the rites,present,dn16:6.17.1-6.17.11.
+E_IN_031,P_ANURUDDHA,explains the delay,present,dn16:6.14.5-6.15.6.
+E_IN_031,P_MAHAKASSAPA,arrives at the pyre,present,dn16:6.22.1: he approached the Buddha's funeral pyre and bowed with his head to the Buddha's feet.
+E_IN_032,P_AJATASATTU,claimant,related,dn16:6.24.1-4: he sends an envoy; he does not come.
+E_IN_033,P_MAHAKASSAPA,traveller who hears the news,present,"pli-tv-kd21:1.1.2-1.1.10, his own account."
+E_IN_034,P_MAHAKASSAPA,proposer,present,pli-tv-kd21:1.1.1 and 1.1.22-26.
+E_IN_035,P_BUDDHA,subject,present,pli-tv-kd1:6.1-6.4.
+E_IN_001,P_ANANDA,attendant at the death,present,"dn16:6.8.2-6.10.28 and 6.12.5, read this session: he asks Anuruddha whether the Buddha has been fully quenched, speaks a verse when he has, and in the morning goes into Kusinara to tell the Mallas."
+E_IN_001,P_ANURUDDHA,senior monk present,present,"dn16:6.8.3-6.11.14: it is he who tells Ananda that the Buddha has entered cessation and is not yet extinguished, and he who addresses the monks afterwards."
+E_IN_001,P_SUBHADDA,ordained the same night,present,"dn16:5.23.3: on that very day, in the last watch of the night, will be the full extinguishment of the ascetic Gotama."
+E_GR_042,P_PARMENIDES,visiting philosopher,present,"Plato, Parmenides 127b. The presence is presence in a scene Plato composed, and E_GR_042 says so in its own summary; the row records what the source states."
+E_GR_042,P_SOCRATES,very young listener,present,"Plato, Parmenides 127c: Socrates was then very young."
+E_GR_042,P_PLATO,author of the scene,related,He was not born when the meeting is set; he is on the row because the scene is his.
+E_GR_043,P_HERODOTUS,author,present,The composition is his; the row is his working window.
+E_PE_004,P_CYRUS,victor; enters Ecbatana,present,"Nabonidus Chronicle ii 3: Cyrus marched to Ecbatana, the royal city."
+E_PE_004,P_ASTYAGES,defeated king,related,"Chronicle ii 1-2: taken prisoner when his army rebelled, on campaign against Cyrus; not placed at Ecbatana."
+E_PE_005,P_CYRUS,dies,present,The event is his death; its place is not located.
+E_PE_005,P_CAMBYSES,successor,related,Parker & Dubberstein 1942 p. 12: sole king in Babylonia from 31 August 530.
+E_PE_006,P_CAMBYSES,conqueror,present,"Herodotus 3.13-14: at Memphis, where he took Psammenitus."
+E_PE_007,P_GAUMATA,usurper,present,Behistun col. I §11. Place not located.
+E_PE_007,P_CAMBYSES,king deposed,related,Absent in Egypt (Behistun col. I §10).
+E_PE_008,P_CAMBYSES,dies,present,Behistun col. I §11; Herodotus 3.64-66.
+E_PE_009,P_OTANES,speaks for rule by the people,present,Herodotus 3.80.
+E_PE_009,P_DARIUS,speaks for monarchy,present,Herodotus 3.82.
+E_PE_010,P_DARIUS,chosen king,present,Herodotus 3.86.
+E_PE_010,P_OTANES,withdraws from the contest,related,Herodotus 3.83.3: Otanes took no part and stood aside.
+E_PE_011,P_DARIUS,commander; takes Babylon,present,Behistun col. II §1: 'afterwards I went to Babylon; by the grace of Ahura Mazda I both seized Babylon and seized that Nidintu-Bel'.
+E_PE_012,P_PHRAORTES,rebel; executed,present,Behistun col. II §13: put on a cross at Ecbatana.
+E_PE_012,P_DARIUS,king who ordered the execution,related,col. II §13 says Phraortes was 'led to me' and held at 'my court' but does not say the court was at Ecbatana.
+E_PE_013,P_DARIUS,king whose general retook the city,related,Behistun col. III §14: Darius was in Persia and Media; Intaphernes led the army.
+E_PE_014,P_DARIUS,reformer,related,No place is stated for the reform.
+E_PE_015,P_DARIUS,sends the voyage; conquers the Indians,related,Herodotus 4.44: he sent Scylax and others; he did not sail.
+E_PE_016,P_DARIUS,leads the expedition,present,Herodotus 4.87-89: Darius crossed the Bosporus bridge himself. No place row is written for the Bosporus.
+E_PE_017,P_DARIUS,commissions the canal,related,Suez c §3: 'I commanded to dig this canal'.
+E_PE_018,P_DARIUS,author of the inscription,related,Presence at the building not attested.
+E_PE_019,P_DARIUS,author of the tomb inscription,related,The inscription is his; presence at its carving is not attested.
+E_PE_020,P_MARDONIUS,commander,related,Herodotus 6.45: Mardonius was with the land army in Macedonia when the fleet was wrecked off Athos.
+E_PE_021,P_DARIUS,dies,present,Herodotus 7.4; place not stated.
+E_PE_021,P_XERXES,successor,related,Herodotus 7.2-5; Parker & Dubberstein 1942 p. 14.
+E_PE_021,P_ATOSSA,mother of the heir,related,Herodotus 7.3.4: 'Atossa held complete sway'.
+E_PE_022,P_XERXES,leads the campaign,present,Herodotus 7.7: Xerxes marched against the rebels.
+E_PE_023,P_XERXES,orders the canal,related,Herodotus 7.24: Xerxes gave the command; he was not at the digging.
+E_PE_024,P_XERXES,orders the bridges and the punishment,related,Herodotus 7.35: 'when Xerxes heard of this'; he marched to Abydos only later (7.37).
+E_PE_025,P_XERXES,retreats,present,Herodotus 8.117.2: the rest came with Xerxes to Sardis.
+E_PE_025,P_MARDONIUS,left in command in Greece,related,Herodotus 8.115.1: Xerxes left Mardonius in Thessaly.
+E_PE_026,P_XERXES,murdered,present,Diodorus 11.69.2; place not stated.
+E_PE_026,P_ARTAXERXES_I,successor; kills Artabanus,present,Diodorus 11.69.6.
+E_PE_027,P_THEMISTOCLES,exile; governor of Magnesia,present,Thucydides 1.138: governor of the district; his monument is in the marketplace of Asiatic Magnesia.
+E_PE_027,P_ARTAXERXES_I,king who receives him,related,"Thucydides 1.137-138: at court, not at Magnesia."
+E_PE_028,P_ARTAXERXES_I,king revolted from,related,Thucydides 1.104; Diodorus 11.71.
+E_PE_029,P_MEGABYZUS,commander,present,"Thucydides 1.109: arrived by land, defeated the Egyptians, besieged Prosopitis."
+E_PE_029,P_ARTAXERXES_I,king who sent the army,related,Thucydides 1.109.
+E_PE_030,P_ARTAXERXES_I,dies,present,Place not stated.
+E_PE_030,P_DARIUS_II,successor,related,Parker & Dubberstein 1942 p. 16.
+E_PE_031,P_TISSAPHERNES,party to the alliance,related,Thucydides 8.17.4 names him as party; that he was at Miletus is not stated.
+E_PE_031,P_DARIUS_II,the king in whose name it is made,related,Thucydides 8.18: 'the king'; 8.5 identifies him as Darius son of Artaxerxes.
+E_PE_032,P_TISSAPHERNES,party to the convention,related,Thucydides 8.58.1; place (plain of the Maeander) not located in this dataset.
+E_PE_032,P_DARIUS_II,the king by whose regnal year it is dated,related,Thucydides 8.58.1.
+E_PE_033,P_DARIUS_II,dies,present,Anabasis 1.1.1-3; place not stated.
+E_PE_033,P_ARTAXERXES_II,successor,related,Anabasis 1.1.3.
+E_PE_033,P_CYRUS_YOUNGER,"summoned, accused, arrested and released",related,Anabasis 1.1.2-3.
+E_PE_033,P_TISSAPHERNES,accuser,related,Anabasis 1.1.3.
+E_PE_034,P_CYRUS_YOUNGER,killed,present,Anabasis 1.8.26-27.
+E_PE_034,P_ARTAXERXES_II,opposing king; wounded,present,Anabasis 1.8.26: Cyrus struck him in the breast.
+E_PE_035,P_CYRUS,issues the proclamation,present,Cylinder lines 22-23: he took up residence in the royal palace at Babylon.
+E_PE_035,P_CAMBYSES,named as the king's son,related,Cylinder lines 27 and 35.
+E_PE_036,P_XERXES,builder named in the inscription,related,Presence at the building not attested.
+E_GR_044,P_ARISTOPHANES,poet,related,"The Hypothesis names the production, not the poet's presence in the theatre."
+E_GR_044,P_SOCRATES,caricatured on stage,related,"Plato, Apology 19c (Fowler, read 2026-09-13): 'you yourselves saw these things in Aristophanes' comedy, a Socrates being carried about there'. Whether Socrates attended is not stated."
+E_CN_036,P_ZIXIA,teacher named in the cell,related,"Shiji 15, the 魏 column at the line labelled 407: 文侯受經子夏. presence is 'related', not 'present': the cell names no place, the event carries no place_id, and conventions §4 allows 'present' only where the source puts the person at the event's place."
+E_CN_041,P_RANQIU,carries the Ji family's question to Confucius,related,"Zuozhuan, Ai 11 傳: 季孫欲以田賦．使冉有訪諸仲尼. The source places the consultation in Lu but not at a named place, so 'related' (conventions §4)."
+E_CN_041,P_CONFUCIUS,"consulted; refuses in public, objects in private",related,"Zuozhuan, Ai 11 傳: 仲尼不對．而私於冉有曰 ... 弗聽. Confucius had returned to Lu the same year (魯人以幣召之．乃歸); no place is named for the conversation."
+E_CN_042,P_DENGXI,author of the code; killed,related,"Zuozhuan, Ding 9 傳: 鄭駟歂殺鄧析．而用其竹刑. The source names no place for the killing; the event's place is the Zheng capital as a stated stand-in, so 'related'."
+E_CN_043,P_HUAYUAN,brokers the covenant,related,"Zuozhuan, Cheng 12 傳: 宋華元克合晉楚之成. The covenant is sworn outside the west gate of Song, but the source does not say Hua Yuan was there; the swearers named are 晉士燮, 楚公子罷 and 許偃."
+E_CN_044,P_XIANGXU,convenes the conference,present,"Zuozhuan, Xiang 27 傳: 戊寅．左師至 — the Commander of the Left (Xiang Xu) arrives at Song for the covenant, sworn three days later outside the west gate (辛巳．將盟於宋西門之外)."
+E_CN_044,P_SHUXIANG,second to Zhao Wenzi of Jin; advises him,present,"Zuozhuan, Xiang 27 傳: 宋人享趙文子．叔向為介 at Song, and later 趙孟患楚衷甲．以告叔向 — Shuxiang is with the Jin delegation at Song."
+E_CN_045,P_LIKUI,devises the policy,related,Hanshu 24: 李悝為魏文侯作盡地力之教. No place: the event carries no place_id.
+E_CN_045,P_MARQUIS_WEN_WEI,the ruler the policy is made for,related,Hanshu 24: 李悝為魏文侯作. No place: the event carries no place_id.
+E_CN_046,P_LIKUI,compiler of the code (late tradition),related,晉書 刑法志: 魏文侯師李悝。悝撰次諸國法，著《法經》. No place.
+E_CN_036,P_MARQUIS_WEN_WEI,receives the classics,related,"Shiji 15, the 魏 column at the line labelled 407 (十八。文侯受經子夏。), re-read this session at the wikisource edition (SRC_WS_SHIJI_15), and Shiji 44 文侯受子夏經藝 (SRC_WS_SHIJI_44). 'related', not 'present': the event carries no place_id (same reasoning as P_ZIXIA's row on this event)."
+E_CN_049,P_WUQI,devises and carries out the reform as chief minister,related,"Shiji 65: 楚悼王素聞起賢，至則相楚. The event carries no place_id, so 'related' (conventions §4)."
+E_CN_050,P_WUQI,killed by the nobles he had reformed against,related,"Shiji 65: 吳起走之王尸而伏之. The event carries no place_id, so 'related'."
+E_CN_051,P_SHANGYANG,argues for the new laws and drafts them,related,"Shiji 5: 三年，衛鞅說孝公變法修刑; Shiji 68: 以衛鞅為左庶長，卒定變法之令. The event carries no place_id, so 'related'."
+E_CN_052,P_SHANGYANG,the minister the biography credits with the measures,related,"Shiji 68 attributes the measures to him (於是以鞅為大良造 … 居三年，作為筑冀闕宮庭於咸陽); Shiji 5's entry for the year does not name him. No source says in so many words that he was at Xianyang, so 'related'."
+E_CN_053,P_SHENBUHAI,chancellor,related,"Shiji 63: 昭侯用為相. The event carries no place_id, so 'related'."
+E_CN_054,P_SHANGYANG,accused of rebellion and killed,related,"Shiji 15 and Shiji 68 name different places; the event carries no place_id, so 'related'."
+E_CN_055,P_MENCIUS,visitor who answers the king,present,"Shiji 44: 孟軻皆至梁 … 辱幸至獘邑之廷 — he is at the king's court, which Shiji 44 places at Daliang from Hui's 31st year (E_CN_055.note). 'present' rests on that reading; Mencius 1A1: 孟子見梁惠王."
+E_CN_056,P_SUQIN,persuades the marquis,related,"Shiji 69: 說燕文侯曰. The event carries no place_id, so 'related'."
+E_CN_057,P_ZHANGYI,chancellor,related,"Shiji 15: 張儀相. The event carries no place_id, so 'related'."
+E_CN_058,P_XUNZI,scholar and magistrate,related,"Shiji 74: 春申君以為蘭陵令. The event carries no place_id, so 'related'."
+E_CN_059,P_HANFEI,"envoy of Han, imprisoned and poisoned",related,"Shiji 6: 非死雲陽; no place row for 雲陽, so the event carries no place_id and the presence is 'related'."
+E_CN_059,P_LISI,contrives his death,related,Shiji 63: 李斯使人遺非藥，使自殺; Shiji 6: 秦用李斯謀. Not placed by either source.
+E_CN_060,P_LISI,commandant of justice whose argument decides the commandery system,related,"Shiji 6: 廷尉李斯議曰 … 今海內賴陛下神靈一統，皆為郡縣. The source does not place the debate, so 'related'."

@@ -1,0 +1,122 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/places.schema.json",
+  "title": "places",
+  "description": "Located places, with coordinates and the basis for them.",
+  "type": "object",
+  "required": [
+    "id",
+    "name_en",
+    "name_original",
+    "region_id",
+    "polity_id",
+    "modern_location",
+    "place_type",
+    "lat",
+    "lng",
+    "coord_certainty",
+    "coord_basis",
+    "pleiades_id",
+    "wikidata_qid",
+    "source_ids",
+    "description"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name_en": {
+      "type": "string"
+    },
+    "name_original": {
+      "type": "string"
+    },
+    "region_id": {
+      "type": "string"
+    },
+    "polity_id": {
+      "type": "string"
+    },
+    "modern_location": {
+      "type": "string"
+    },
+    "place_type": {
+      "type": "string"
+    },
+    "lat": {
+      "type": "string",
+      "description": "Decimal degrees as written in the CSV; range-checked procedurally."
+    },
+    "lng": {
+      "type": "string",
+      "description": "Decimal degrees as written in the CSV; range-checked procedurally."
+    },
+    "coord_certainty": {
+      "type": "string",
+      "enum": [
+        "high",
+        "medium",
+        "low",
+        ""
+      ]
+    },
+    "coord_basis": {
+      "type": "string"
+    },
+    "pleiades_id": {
+      "type": "string"
+    },
+    "wikidata_qid": {
+      "type": "string"
+    },
+    "source_ids": {
+      "type": "string",
+      "description": "Semicolon-separated FK list to sources: the citation(s) behind this row's coordinates, companion to coord_basis's prose (schema v2.1, r6-0, L-86(1)). Blank is a validate.py warning (backlog), not an error, until the row is migrated."
+    },
+    "description": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "places",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "region_id",
+        "target": "regions",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "polity_id",
+        "target": "polities"
+      },
+      {
+        "rule": "enum",
+        "field": "coord_certainty"
+      },
+      {
+        "rule": "procedural",
+        "name": "places_pleiades_l8"
+      },
+      {
+        "rule": "procedural",
+        "name": "places_coords"
+      },
+      {
+        "rule": "ref",
+        "field": "source_ids",
+        "target": "sources",
+        "multi": true
+      },
+      {
+        "rule": "procedural",
+        "name": "places_source_ids_backlog_warn"
+      }
+    ]
+  }
+}

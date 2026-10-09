@@ -1,0 +1,92 @@
+[
+ {
+  "id": "CAL_LU",
+  "system": "Lu ducal reign years",
+  "region_id": "R_CN",
+  "epoch_year_bce": null,
+  "year_start": "spring (Zhou 1st month, c. Dec-Jan)",
+  "conversion_rule": "reign year n of Duke X = fixed table; see chunqiu conventions",
+  "note": "Reused from chunqiu."
+ },
+ {
+  "id": "CAL_OLYMPIAD",
+  "system": "Olympiads",
+  "region_id": "R_GR",
+  "epoch_year_bce": -776,
+  "year_start": "midsummer",
+  "conversion_rule": "Ol. n year k = -776 + 4(n-1) + (k-1), straddling two Julian years",
+  "note": "Used by Diogenes Laertius for floruits."
+ },
+ {
+  "id": "CAL_ARCHON",
+  "system": "Athenian archon years",
+  "region_id": "R_GR",
+  "epoch_year_bce": null,
+  "year_start": "midsummer (Hekatombaion)",
+  "conversion_rule": "archon list; each year straddles two Julian years (e.g. 508/7)",
+  "note": "Ath. Pol., Diodorus."
+ },
+ {
+  "id": "CAL_NABONASSAR",
+  "system": "Nabonassar era",
+  "region_id": "R_ME",
+  "epoch_year_bce": -747,
+  "year_start": "1 Thoth (Egyptian mobile year)",
+  "conversion_rule": "Ptolemy's Canon of Kings",
+  "note": "Anchors Babylonian regnal years to astronomy."
+ },
+ {
+  "id": "CAL_BAB_REGNAL",
+  "system": "Babylonian regnal years",
+  "region_id": "R_ME",
+  "epoch_year_bce": null,
+  "year_start": "1 Nisanu (spring)",
+  "conversion_rule": "accession year counted as 0; year 1 begins next Nisanu",
+  "note": "Used by chronicles and by Ezekiel/2 Kings for Nebuchadnezzar."
+ },
+ {
+  "id": "CAL_JUDAH_REGNAL",
+  "system": "Judahite regnal years",
+  "region_id": "R_IL",
+  "epoch_year_bce": null,
+  "year_start": "Tishri (autumn) or Nisan, disputed",
+  "conversion_rule": "Thiele's reconciliation; +/-1 year ambiguities are normal",
+  "note": "Basis for 2 Kings dates."
+ },
+ {
+  "id": "CAL_ACHAEMENID",
+  "system": "Achaemenid regnal years",
+  "region_id": "R_PE",
+  "epoch_year_bce": null,
+  "year_start": "1 Nisanu (Babylonian style)",
+  "conversion_rule": "as Babylonian; Old Persian month names in Behistun",
+  "note": "Kuhrt 2007 tables."
+ },
+ {
+  "id": "CAL_BUDDHIST",
+  "system": "Buddhist (Nirvana) era",
+  "region_id": "R_IN",
+  "epoch_year_bce": -543,
+  "year_start": "Vesak (April-May)",
+  "conversion_rule": "traditional Theravada epoch; not used for absolute dating in this project",
+  "note": "Recorded so that traditional dates can be displayed."
+ },
+ {
+  "id": "CAL_SELEUCID",
+  "system": "Seleucid era",
+  "region_id": "R_ME",
+  "epoch_year_bce": -312,
+  "year_start": "1 Nisanu (Babylonian) / autumn (Macedonian)",
+  "conversion_rule": "year 1 = 312/311",
+  "note": "Recorded so that Seleucid-era dates can be converted when the sources that use them are cited (1-2 Maccabees, the Babylonian astronomical diaries). The pilot slice constrains events and first attestations, not reference tables (ruling L-11), so this row belongs in data/csv even though its epoch falls outside 600-400."
+ },
+ {
+  "id": "CAL_ZHOU_REGNAL",
+  "system": "Zhou royal reign years (Warring States frame)",
+  "region_id": "R_CN",
+  "epoch_year_bce": null,
+  "year_start": null,
+  "conversion_rule": "reign year n of a Zhou king = the line the Shiji's Chronological Table of the Six States (Shiji 15, 六國年表) prints against it; the table sets Zhou, Qin, Wei, Han, Zhao, Chu, Yan and Qi side by side, one column each, one line per year",
+  "note": "Added r5-3 (2026-09-20) for the Warring States events read in Shiji 15. The table's own frame is the reign-year columns: its first data line names each column's ruler (周元王元年。/ 秦厲共公元年。/ 魏獻子。/ 韓宣子 / 趙簡子。四十二。/ 楚惠王章十三年。/ 燕獻公十七年。/ 齊平公驁五年。), and accessions are printed in the cells as they fall (定王元年 at the line the edition labels 468; 威烈王元年 at 425; 魏文侯斯元年 at 424; 韓景侯虔元年 and 趙烈侯籍元年 at 408). THE BCE COLUMN IS THE EDITION'S, NOT SIMA QIAN'S: the leftmost column of the ctext edition (https://ctext.org/shiji/liu-guo-nian-biao, read 2026-09-20, this session) supplies the western years, and rows citing this calendar say so. year_start was not established from the source read for this row and is deliberately blank; CAL_LU records the Zhou first month as c. Dec-Jan for the Lu ducal years."
+ }
+]

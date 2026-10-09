@@ -1,0 +1,76 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/polities.schema.json",
+  "title": "polities",
+  "description": "Polities (states, kingdoms, leagues) within a region.",
+  "type": "object",
+  "required": [
+    "id",
+    "name_en",
+    "region_id",
+    "polity_type",
+    "year_min",
+    "year_max",
+    "capital_place_id",
+    "wikidata_qid",
+    "note"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "name_en": {
+      "type": "string"
+    },
+    "region_id": {
+      "type": "string"
+    },
+    "polity_type": {
+      "type": "string"
+    },
+    "year_min": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "year_max": {
+      "type": "string",
+      "pattern": "^-?\\d{1,4}$",
+      "description": "Integer year, BCE negative; blank permitted where the range is optional."
+    },
+    "capital_place_id": {
+      "type": "string"
+    },
+    "wikidata_qid": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    }
+  },
+  "x-timechorus": {
+    "table": "polities",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "region_id",
+        "target": "regions",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "capital_place_id",
+        "target": "places"
+      },
+      {
+        "rule": "yearRange",
+        "min": "year_min",
+        "max": "year_max"
+      }
+    ]
+  }
+}

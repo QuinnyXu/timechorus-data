@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://timechorus.com/schema/v2/passages.schema.json",
+  "title": "passages",
+  "description": "Quoted passages, original and translation, with licence provenance.",
+  "type": "object",
+  "required": [
+    "id",
+    "work_id",
+    "source_id",
+    "original_source_id",
+    "locator",
+    "quote_original",
+    "quote_translation",
+    "translation_source_id",
+    "quote_type",
+    "note",
+    "review_status"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "work_id": {
+      "type": "string"
+    },
+    "source_id": {
+      "type": "string"
+    },
+    "original_source_id": {
+      "type": "string",
+      "description": "Nullable FK to sources: the licensed original's edition, distinct from source_id (the row's reading edition) and translation_source_id (the quoted translation's licence source). Schema v2.1, r6-0 (L-82/L-84(1)/L-86(1)/r5-4 Part 1 §9(4))."
+    },
+    "locator": {
+      "type": "string"
+    },
+    "quote_original": {
+      "type": "string"
+    },
+    "quote_translation": {
+      "type": "string"
+    },
+    "translation_source_id": {
+      "type": "string"
+    },
+    "quote_type": {
+      "type": "string",
+      "enum": [
+        "annal",
+        "chronicle",
+        "fragment",
+        "hymn",
+        "inscription",
+        "oracle",
+        "paraphrase",
+        "saying",
+        "scripture",
+        "speech",
+        "verse"
+      ]
+    },
+    "note": {
+      "type": "string"
+    },
+    "review_status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "reviewed"
+      ]
+    }
+  },
+  "x-timechorus": {
+    "table": "passages",
+    "idField": "id",
+    "keyFields": null,
+    "checks": [
+      {
+        "rule": "ref",
+        "field": "work_id",
+        "target": "works",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "source_id",
+        "target": "sources",
+        "allowBlank": false
+      },
+      {
+        "rule": "ref",
+        "field": "translation_source_id",
+        "target": "sources"
+      },
+      {
+        "rule": "ref",
+        "field": "original_source_id",
+        "target": "sources"
+      },
+      {
+        "rule": "enum",
+        "field": "review_status"
+      },
+      {
+        "rule": "enum",
+        "field": "quote_type"
+      },
+      {
+        "rule": "procedural",
+        "name": "passages_locator"
+      },
+      {
+        "rule": "procedural",
+        "name": "passages_not_empty"
+      },
+      {
+        "rule": "procedural",
+        "name": "passages_placeholder_translation"
+      },
+      {
+        "rule": "procedural",
+        "name": "passages_licence_join"
+      },
+      {
+        "rule": "procedural",
+        "name": "passages_original_licence_join"
+      },
+      {
+        "rule": "procedural",
+        "name": "passages_original_source_distinct"
+      }
+    ]
+  }
+}
