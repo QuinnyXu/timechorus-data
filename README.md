@@ -6,7 +6,7 @@ Every record is a range-dated, sourced claim; every quotation names the edition 
 in and the licence that lets it be quoted.
 
 This repository is exported by a build step from the project's working repository; it is
-never edited by hand. Source commit: `08b58c9b7ead2fc4ebdd9639349b9367deb58e21`.
+never edited by hand. Source commit: `3cabe5d90a7110041faa202300be763e8f2b1cb5`.
 
 ## Contents
 
@@ -57,7 +57,7 @@ their sources' licences. See `DATA_LICENSE`.
 
 ## How to cite
 
-Quinny Xu. *TimeChorus data* (axial corpus), source commit `08b58c9b7ead`. https://timechorus.com. DOI: 10.5281/zenodo.XXXXXXX (placeholder; assigned
+Quinny Xu. *TimeChorus data* (axial corpus), source commit `3cabe5d90a71`. https://timechorus.com. DOI: 10.5281/zenodo.XXXXXXX (placeholder; assigned
 at the first release).
 
 ## Contributing

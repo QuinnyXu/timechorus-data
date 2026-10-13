@@ -101,7 +101,7 @@
   "name_original": "λόγος",
   "region_of_origin": "R_GR",
   "category": "metaphysics",
-  "one_line_en": "A single rational principle underlies all change; Heraclitus's word became the West's word for reason.",
+  "one_line_en": "A single rational principle (logos) underlies all change.",
   "first_attested_year_min": -505,
   "first_attested_year_max": -480,
   "review_status": "draft",
@@ -126,10 +126,10 @@
   "region_of_origin": "R_GR",
   "category": "self",
   "one_line_en": "A life not subjected to questioning is not worth living; philosophy as a personal duty.",
-  "first_attested_year_min": -399,
+  "first_attested_year_min": -400,
   "first_attested_year_max": -380,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Apology 38a (Q_013, idea_link IL_024), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (Fowler, PerseusDL tlg0059.tlg002). Range -399/-380 = W_APOLOGY's composition window (written within a generation of the trial)."
+  "first_attestation_basis": "First attested at Apology 38a (Q_013, idea_link IL_024), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (Fowler, PerseusDL tlg0059.tlg002). Upper bound -380 = W_APOLOGY's composition ceiling (the full-window equation held until the lower bound was rederived, 2026-10-12, below) (written within a generation of the trial). Lower bound -400 (2026-10-12): the idea's anchor is the trial's utterance (Apology 38a), and the trial (E_GR_005) is -400/-399 on Diogenes Laertius 2.44 (Ol. 95.1), so the idea opens at the trial's earliest year; it touches the slice's inclusive -400 end."
  },
  {
   "id": "I_NOMOS_PHYSIS",
