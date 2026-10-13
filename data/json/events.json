@@ -188,15 +188,17 @@
   "year_min": -539,
   "year_max": -539,
   "year_display": "539 BCE",
-  "dating_basis": "Nabonidus Chronicle iii 15-16: 16 Tashritu the army enters Babylon without battle; 3 Arahsamnu Cyrus enters.",
+  "dating_basis": "Nabonidus Chronicle (ABC 7) at livius.org, A. K. Grayson's translation (read 2026-10-13; copyright, cited and paraphrased): iii 14-16, Sippar is captured without battle on the fourteenth day, and on the sixteenth Ugbaru, governor of Gutium, and the army of Cyrus enter Babylon without battle; iii 18, on the third day of the month Arahsamna Cyrus enters Babylon. Parker & Dubberstein 1942 (SRC_PD1942) p. 11 (read 2026-10-13) read the same chronicle lines as Sippar falling VII/14/17 (11 October 539), Babylon VII/16/17 (13 October) and Cyrus entering VIII/3/17 (29 October 539); the seventh month is Tashritu, which the livius translation does not name at these lines. The range is the single year -539. Cyrus's own account is the Cyrus Cylinder (Rogers 1912, p. 381, lines 12-17, read 2026-10-13): Marduk sought a righteous prince, called Cyrus by name, and 'Without battle and conflict he permitted him to enter Babylon'. (Until 2026-10-13 this basis cited iii 15-16 for both entries; Cyrus's own entry is at iii 18.)",
   "region_id": "R_PE",
   "polity_id": "POL_ACHAEMENID",
   "place_id": "PL_BABYLON",
   "title_en": "Cyrus takes Babylon",
-  "summary_en": "Persian forces entered Babylon without a fight; Cyrus presented himself as restorer of Marduk's order. The Neo-Babylonian empire ended and the Judean exiles gained a new overlord.",
+  "summary_en": "Persian forces entered Babylon without a fight, and Cyrus himself entered the city some days later. On his own cylinder he says that Marduk chose him and let him enter Babylon without battle. The Neo-Babylonian empire ended and the Judean exiles gained a new overlord.",
   "category": "conquest",
   "source_ids": [
-   "SRC_LIVIUS_NABONIDUS"
+   "SRC_LIVIUS_NABONIDUS",
+   "SRC_PD1942",
+   "SRC_ROGERS1912"
   ],
   "reliability": "high",
   "importance": 5,
@@ -228,20 +230,22 @@
   "year_min": -522,
   "year_max": -522,
   "year_display": "522 BCE",
-  "dating_basis": "Behistun DB I 11-15 (dates by Babylonian month); Herodotus 3.61-79 gives the narrative.",
+  "dating_basis": "Behistun DB I 11-15 (dates by Babylonian month); Herodotus 3.61-79 gives the narrative. The day: Behistun col. I §13 (Tolman 1908, read 2026-10-13) has Darius slay Gaumata when '10 days in the month Bagayadi were completing their course', at the stronghold Sikayauvati in the province Nisaya in Media; Parker & Dubberstein 1942 (SRC_PD1942) p. 12 (read 2026-10-13) convert this to 29 September 522 (VII/10).",
   "region_id": "R_PE",
   "polity_id": "POL_ACHAEMENID",
   "place_id": null,
   "title_en": "Darius kills Gaumata and seizes the throne",
-  "summary_en": "Darius and six conspirators killed the man ruling as Cyrus's son Bardiya, whom Darius branded an impostor and a Lie. Place: the fortress Sikayauvatish in Media, not securely located; coordinate left blank.",
+  "summary_en": "Darius and six conspirators killed, at a stronghold in Media, the man ruling as Cyrus's son Bardiya, whom Darius branded an impostor and a Lie.",
   "category": "coup",
   "source_ids": [
    "SRC_LIVIUS_BEHISTUN",
-   "SRC_GODLEY_HDT"
+   "SRC_GODLEY_HDT",
+   "SRC_TOLMAN1908",
+   "SRC_PD1942"
   ],
   "reliability": "high",
   "importance": 5,
-  "note": null,
+  "note": "Place: the fortress Sikayauvatish in Media, not securely located; coordinate left blank. (Moved here from the summary on 2026-10-13.)",
   "review_status": "draft"
  },
  {
@@ -249,7 +253,7 @@
   "year_min": -520,
   "year_max": -518,
   "year_display": "c. 519 BCE",
-  "dating_basis": "Composed after the rebellions of years 1-2; the Aramaic copy at Elephantine is later.",
+  "dating_basis": "Composed after the rebellions it records: Darius says he fought them 'in the same year after that I became king' (Behistun col. IV §2, Tolman 1908, read 2026-10-13), and Parker & Dubberstein 1942 (SRC_PD1942) p. 14 (read 2026-10-13) date the capture of the last Babylonian rebel, Nebuchadnezzar IV, to 27 November 521. Neither bound of -520/-518 is derived from these readings: they place the composition after late November 521, which the lower bound respects, and give no upper limit. The three languages are those of Tolman's headnote to the inscriptions of Behistan (read 2026-10-13): four columns of Persian text with a fifth to their right, three columns of the Elamite version, and the Babylonian version on a projecting block. (Until 2026-10-13 this basis also said that the Aramaic copy at Elephantine is later; no source read for this corpus carries that copy, and the clause is withdrawn.)",
   "region_id": "R_PE",
   "polity_id": "POL_ACHAEMENID",
   "place_id": "PL_BEHISTUN",
@@ -257,7 +261,9 @@
   "summary_en": "On a cliff above the road from Babylon to Ecbatana, Darius set out his year of victories in three languages, crediting Ahura Mazda and condemning his enemies as followers of the Lie.",
   "category": "monument",
   "source_ids": [
-   "SRC_LIVIUS_BEHISTUN"
+   "SRC_LIVIUS_BEHISTUN",
+   "SRC_TOLMAN1908",
+   "SRC_PD1942"
   ],
   "reliability": "high",
   "importance": 5,
@@ -3240,7 +3246,7 @@
   "polity_id": "POL_ACHAEMENID",
   "place_id": null,
   "title_en": "Darius divides the empire into twenty satrapies and fixes their tribute",
-  "summary_en": "Under Cyrus and Cambyses the provinces had sent gifts; Darius set each one a fixed annual payment in silver or gold and grouped the peoples into twenty governorships. Herodotus says this is why Persians called Cyrus a father, Cambyses a master and Darius a shopkeeper.",
+  "summary_en": "Under Cyrus and Cambyses the provinces had sent gifts; Darius set each one a fixed annual payment in silver or gold and grouped the peoples into twenty governorships. Herodotus says this is why the Persians called Darius the merchant, Cambyses the master and Cyrus the father.",
   "category": "reform",
   "source_ids": [
    "SRC_GODLEY_HDT",
@@ -3278,12 +3284,12 @@
   "year_min": -521,
   "year_max": -499,
   "year_display": "between Darius's accession and the Ionian revolt",
-  "dating_basis": "Herodotus 4.83-98 (read at 4.87, 4.89, 4.97 on 2026-09-13) gives no year. The range is the narrative's own frame: after Darius's accession (E_PE_002, 522) and before the Ionian revolt, which the merged E_GR_013 dates c. 499 from Herodotus 5.37 and 6.18. The Scythian campaign in Behistun col. V §4 (read this session) is against Asian Scythians and is not treated as the same war. reliability=low.",
+  "dating_basis": "Herodotus 4.83-98 (read at 4.87, 4.89, 4.97 on 2026-09-13) gives no year. The range is the narrative's own frame: after Darius's accession (E_PE_002, 522) and before the Ionian revolt, which the merged E_GR_013 dates c. 499 from Herodotus 5.37 and 6.18. The Scythian campaign in Behistun col. V §4 (read this session) is against Asian Scythians and is not treated as the same war. reliability=low. The order and its reversal: 4.97.1-6 and 4.98.1-3 (re-read 2026-10-13): Darius has the Ionians break the bridge, accepts Coes's advice, and tells them 'I take back the decision which I delivered before about the bridge' and to 'guard the bridge'.",
   "region_id": "R_PE",
   "polity_id": "POL_ACHAEMENID",
   "place_id": null,
   "title_en": "Darius bridges the Bosporus and marches against the Scythians of Europe",
-  "summary_en": "Darius had Mandrocles of Samos build a bridge of ships across the Bosporus, set up pillars listing the nations in his army, and crossed into Europe, while Ionian Greeks bridged the Danube for him. On reaching the Danube he had the Ionians break up that bridge and follow him across the mainland.",
+  "summary_en": "Darius had Mandrocles of Samos build a bridge of ships across the Bosporus, set up pillars listing the nations in his army, and crossed into Europe, while Ionian Greeks bridged the Danube for him. On reaching the Danube he ordered the Ionians to break up that bridge and follow him across the mainland, then, on the advice of Coes of Mytilene, took back the order and set them to guard it.",
   "category": "battle",
   "source_ids": [
    "SRC_GODLEY_HDT"
@@ -3415,7 +3421,7 @@
   ],
   "reliability": "medium",
   "importance": 3,
-  "note": null,
+  "note": "The quotation of Herodotus 7.7.1 in dating_basis supplies an apostrophe: the PerseusDL perseus-eng2 file reads 'in the year after Darius death' (re-read 2026-10-13).",
   "review_status": "draft"
  },
  {
@@ -3544,9 +3550,9 @@
  {
   "id": "E_PE_029",
   "year_min": -460,
-  "year_max": -454,
-  "year_display": "between c. 460 and 454 BCE",
-  "dating_basis": "Thucydides 1.109-110 (Crawley, read 2026-09-13): Megabyzus son of Zopyrus besieged the Greeks on the island of Prosopitis for a year and six months, drained the channel and took it, and 'the enterprise of the Hellenes came to ruin after six years of war'. Diodorus 11.77 (read this session) puts the end in the archonship of Phrasicleides, when the 80th Olympiad was celebrated (Ol. 80.1 = 460/459 by CAL_OLYMPIAD). Six years counted from a start in 460 would end in 454, so the two sources disagree by several years; the range holds both and reliability is low.",
+  "year_max": -453,
+  "year_display": "between c. 460 and 453 BCE",
+  "dating_basis": "Thucydides 1.109-110 (Crawley, read 2026-09-13): Megabyzus son of Zopyrus besieged the Greeks on the island of Prosopitis for a year and six months, drained the channel and took it, and 'the enterprise of the Hellenes came to ruin after six years of war'. Diodorus 11.77 (read this session) puts the end in the archonship of Phrasicleides, when the 80th Olympiad was celebrated (Ol. 80.1 = 460/459 by CAL_OLYMPIAD). Thucydides gives no starting year. The start is E_PE_028's range, -463/-459 (Diodorus 11.71's archonship of Tlepolemus, held open to Thucydides's order), and six years counted from it end in -457/-453; counted inclusively they end in -458/-454, which the same range holds. The range holds both sources: its lower bound is Diodorus's end-year, -460, and its upper bound is the later end of Thucydides's count, -453. The two disagree by several years, and reliability is low. (Until 2026-10-13 the upper bound was -454, counted from a start in 460, which is Diodorus's end-year and not E_PE_028's start. Thucydides 1.104 and 1.109-110 in the Crawley translation and Diodorus 11.71 and 11.77 re-read 2026-10-13.)",
   "region_id": "R_EG",
   "polity_id": "POL_ACHAEMENID",
   "place_id": "PL_PROSOPITIS",
@@ -3629,12 +3635,12 @@
   "year_min": -405,
   "year_max": -404,
   "year_display": "405/404 BCE",
-  "dating_basis": "Parker & Dubberstein 1942 (SRC_PD1942) p. 16 (read 2026-09-13): no dated business documents for Darius II's years 14-19; Artaxerxes II recognised before April 404. Ptolemy's Canon as tabulated at livius.org (read this session) gives Darius II nineteen years, 423-405, and Artaxerxes II's years from 404. Xenophon, Anabasis 1.1.1-3 (Brownson, read this session) narrates the deathbed and succession and gives no year.",
+  "dating_basis": "Parker & Dubberstein 1942 (SRC_PD1942) p. 16 (read 2026-09-13): no dated business documents for Darius II's years 14-19; Artaxerxes II recognised before April 404. The same work's conversion tables (pp. 31-32, read 2026-10-13) run Darius II's years 1 to 19 from spring 423 to spring 404 and begin Artaxerxes II's year 1 in April 404; p. 16, directly after the evidence for Darius II, says that from there on the lengths of reigns are established chiefly by the Ptolemaic Canon, and p. 8 that the Canon furnishes the general basis of the whole chronology. (The nineteen years, 423-405, were first read on 2026-09-13 in Ptolemy's Canon as tabulated at livius.org, which has no sources row; that page is named here only as the provenance of that reading.) Xenophon, Anabasis 1.1.1-3 (Brownson, read this session) narrates the deathbed and succession and gives no year.",
   "region_id": "R_PE",
   "polity_id": "POL_ACHAEMENID",
   "place_id": null,
   "title_en": "Darius II dies; Artaxerxes II succeeds and arrests his brother Cyrus",
-  "summary_en": "Darius summoned both his sons to his deathbed. After his death Tissaphernes accused the younger, Cyrus, of plotting against the new king; Artaxerxes arrested him, and only their mother's plea sent Cyrus back to his province — where, Xenophon says, he began planning to take the throne.",
+  "summary_en": "When Darius lay sick and expected to die, he wished to have both his sons with him: the elder, Artaxerxes, was already there, and he summoned the younger, Cyrus, from his province. After Darius's death Tissaphernes accused Cyrus of plotting against the new king; Artaxerxes arrested him, and only their mother's plea sent Cyrus back to his province — where, Xenophon says, he began planning to take the throne.",
   "category": "death",
   "source_ids": [
    "SRC_PD1942",
@@ -3655,7 +3661,7 @@
   "polity_id": "POL_ACHAEMENID",
   "place_id": null,
   "title_en": "Cyrus the Younger is killed fighting his brother's army",
-  "summary_en": "In the battle against his brother's army, Cyrus caught sight of the king, charged with a handful of attendants, and wounded him through his breastplate; then a javelin struck him below the eye and he was killed, with eight of his noblest companions dead around him. Xenophon calls him the most kingly Persian since Cyrus the Great.",
+  "summary_en": "In the battle against his brother's army, Cyrus caught sight of the king, charged with a handful of attendants, and, as Xenophon reports from Ctesias the physician, wounded him through his breastplate; then a javelin struck him below the eye and he was killed, with eight of his noblest companions dead around him. Xenophon calls him the most kingly Persian since Cyrus the Great.",
   "category": "battle",
   "source_ids": [
    "SRC_BROWNSON_ANAB",

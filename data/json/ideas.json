@@ -422,14 +422,14 @@
  {
   "id": "I_VASHNA",
   "name_en": "King by the favour of the god",
-  "name_original": "vasna Auramazdaha",
+  "name_original": "vašnā A.uramazdāha",
   "region_of_origin": "R_PE",
   "category": "politics",
   "one_line_en": "A king rules because a god chose him and helps him - so a rebel is not a rival but a liar against the order the god set up.",
   "first_attested_year_min": -520,
   "first_attested_year_max": -518,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Behistun DB §5 (Q_088, idea_link IL_142): 'By the grace of Ahura Mazda I am king; Ahura Mazda gave me the kingdom.' Range -520/-518 = W_BEHISTUN's composition window (merged row). name_original is Tolman's transliteration of the formula as the OCR prints it (diacritics lost), read this session in col. I. The Cyrus Cylinder (-539/-530) makes Marduk choose Cyrus (Q_099), which is earlier; it is linked as a parallel written in Akkadian for Babylon, not as this Old Persian formula's first attestation."
+  "first_attestation_basis": "First attested at Behistun DB §5 (Q_088, idea_link IL_142): 'By the grace of Ahura Mazda I am king; Ahura Mazda gave me the kingdom.' Range -520/-518 = W_BEHISTUN's composition window (merged row). name_original is Tolman's transliteration of the formula as the OCR prints it (diacritics lost), read this session in col. I. The Cyrus Cylinder (-539/-530) makes Marduk choose Cyrus (Q_099), which is earlier; it is linked as a parallel written in Akkadian for Babylon, not as this Old Persian formula's first attestation. NAME_ORIGINAL ALIGNED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the formula as Q_088 quotes it, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes; corpusjson/Q007134.json, refs Q007134.12.6-7, DB 'Persian i 11'): 'vašnā A.uramazdāha', whose first word the edition restores in part (Q_088's note lists it)."
  },
  {
   "id": "I_DATA",
@@ -446,14 +446,14 @@
  {
   "id": "I_RECTITUDE",
   "name_en": "Rule by rectitude: a king who says he lied to no one",
-  "name_original": null,
+  "name_original": "upari ṛštām upariyāyam",
   "region_of_origin": "R_PE",
   "category": "ethics",
   "one_line_en": "The god helped the king, the king says, because he was no liar and no wrongdoer and did not oppress those beneath him - kingship with a moral test attached to it.",
   "first_attested_year_min": -520,
   "first_attested_year_max": -518,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Behistun DB §63 (Q_092, idea_link IL_154). Range -520/-518 = W_BEHISTUN's composition window (merged row). The rendering of the people the king did not oppress is marked doubtful by the translator himself (Q_092 note). name_original left blank: the Old Persian of this paragraph was not read at a clean locator this session."
+  "first_attestation_basis": "First attested at Behistun DB §63 (Q_092, idea_link IL_154). Range -520/-518 = W_BEHISTUN's composition window (merged row). The rendering of the people the king did not oppress is marked doubtful by the translator himself (Q_092 note). name_original left blank: the Old Persian of this paragraph was not read at a clean locator this session. NAME_ORIGINAL FILLED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the rectitude clause inside Q_092's quotation, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes; corpusjson/Q007134.json, refs Q007134.354.8-10, DB 'Persian iv 64', guide words 'above' (sense 'in accordance with'), 'justice', 'behave in accordance with'): 'upari ṛštām upariyāyam', which Tolman renders 'according to rectitude [I ruled]' (Behistun col. IV §13, both scans, re-read 2026-10-13). None of the three words is restored by the edition."
  },
  {
   "id": "I_RESTORATION",
@@ -470,26 +470,26 @@
  {
   "id": "I_CREATOR_WELFARE",
   "name_en": "The god who created happiness for humankind",
-  "name_original": "siyati",
+  "name_original": "šiyātim",
   "region_of_origin": "R_PE",
   "category": "religion",
   "one_line_en": "One great god made earth, sky and people - and made happiness for people too; the king is the one he appointed to keep it.",
   "first_attested_year_min": -522,
   "first_attested_year_max": -486,
   "review_status": "draft",
-  "first_attestation_basis": "First attested in Darius's inscriptions: Suez stela c §1 (Q_094, idea_link IL_162) and Naqsh-i Rustam a §1 (Q_095), both undated within Darius's reign; range -522/-486 = that reign per Parker & Dubberstein 1942 pp. 13-14 (read this session), the composition window of both works. Xerxes repeats the formula (Q_097, W_XPA -486/-465). name_original is the word Tolman translates 'welfare', as the OCR of his transliteration prints it ('siyatim', accusative; diacritics lost) in NRa §1."
+  "first_attestation_basis": "First attested in Darius's inscriptions: Suez stela c §1 (Q_094, idea_link IL_162) and Naqsh-i Rustam a §1 (Q_095), both undated within Darius's reign; range -522/-486 = that reign per Parker & Dubberstein 1942 pp. 13-14 (read this session), the composition window of both works. Xerxes repeats the formula (Q_097, W_XPA -486/-465). name_original is the word Tolman translates 'welfare', as the OCR of his transliteration prints it ('siyatim', accusative; diacritics lost) in NRa §1. NAME_ORIGINAL ALIGNED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the same word, accusative as the formula has it and as Q_094, Q_095 and Q_097 quote it, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes): 'šiyātim' (guide word 'happiness') at DNa 'Persian 4' (Q007152.4.2), unrestored, and at DZc 'Persian 2' (Q007194.2.7), where the edition restores part of it."
  },
  {
   "id": "I_JUDGE_BRIDGE",
-  "name_en": "The Judge's Bridge: the soul answers for its choice after death",
+  "name_en": "The Judge's Bridge: the soul answers for its choice",
   "name_original": null,
   "region_of_origin": "R_PE",
   "category": "religion",
-  "one_line_en": "After death each soul comes to a bridge of judgement: those who followed the Lie miss their path and fall, and those who kept faith are led across.",
+  "one_line_en": "At the Judge's Bridge each soul's choice is settled: the prophet will lead those who stood with him on to it, and the evil-doers who come there will dwell in the Lie's abode for ever.",
   "first_attested_year_min": -1200,
   "first_attested_year_max": -550,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Yasna 46.10-11 (Q_101, idea_link IL_166). Range -1200/-550 = W_GATHAS's composition window (merged row), which holds open both the linguistic dating and the traditional one; reliability of the link is low for that reason, as for I_ASHA's IL_016. The range straddles the 600 boundary of the pilot slice and is not wholly outside it (L-51(3))."
+  "first_attestation_basis": "First attested at Yasna 46.10-11 (Q_101, idea_link IL_166). Range -1200/-550 = W_GATHAS's composition window (merged row), which holds open both the linguistic dating and the traditional one; reliability of the link is low for that reason, as for I_ASHA's IL_016. The range straddles the 600 boundary of the pilot slice and is not wholly outside it (L-51(3)). ONE-LINE RE-SAID 2026-10-13 (Sophia r12-1b): the one-line follows only words Mills prints as the Gathic line (Y. 46.10, 'forth to the Judge’s Bridge (itself) with all of them shall I lead on'; 46.11, 'and in the Lie’s abode for ever shall their habitation be'). It no longer uses 'those who followed the Lie miss their path and fall', which it carried until 2026-10-13: 'these shall miss their path and fall' sits inside the long parenthesis that Mills's footnote 7 marks as 'Inserted to shed light on the last line; so the later Parsism' (re-read 2026-10-13 in archive.org item sbe31zendavestapart3_202002, 859,507 bytes; Q_101's note records the same)."
  },
  {
   "id": "I_MINBEN",
