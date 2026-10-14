@@ -127,7 +127,7 @@
   "year_min": -597,
   "year_max": -597,
   "year_display": "597 BCE",
-  "dating_basis": "Babylonian Chronicle ABC 5 dates the capture of Jerusalem to 2 Adar, year 7 of Nebuchadnezzar (16 March 597); 2 Kings 24.",
+  "dating_basis": "Babylonian Chronicle ABC 5 Rev. 11'-13', re-read at livius.org on 2026-10-14 (Sophia r12-3): in the seventh year, in Kislimu, the king of Akkad marched to the Hatti-land, besieged the city of Judah, and on the second day of Addaru seized the city and captured the king; he appointed a king of his own choice and sent heavy tribute to Babylon. The page glosses the year as 598/597 and the month as February/March 597. The day-date is Parker & Dubberstein 1942, read this session: year 7 of Nebuchadnezzar II has a second Ululu (p. 4 lists 'Ululu II, 7th year'), so in their table (p. 25) Addaru of that year begins on 15 March 597 and its second day is 16 March 597 (the Babylonian day began at the preceding sunset). 2 Kings 24:10-17, read this session in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version, tells the same capture: the siege (24:10-11); Jehoiachin goes out to the king of Babylon, who 'took him in the eighth year of his reign' (24:12); the king, his household and 'ten thousand captives' are carried to Babylon (24:14-16); Mattaniah is made king as Zedekiah (24:17). Kings' eighth year against the Chronicle's seventh is recorded on E_IL_037 and not resolved here; the single year follows the Chronicle's dated day. The summary's Ezekiel: he names himself 'the priest' (Ezekiel 1:3) and counts his years by 'our captivity' (33:21, 40:1), which 1:2 calls king Jehoiachin's (all read this session).",
   "region_id": "R_IL",
   "polity_id": "POL_JUDAH",
   "place_id": "PL_JERUSALEM",
@@ -136,7 +136,8 @@
   "category": "conquest",
   "source_ids": [
    "SRC_JPS1917",
-   "SRC_ABC5"
+   "SRC_ABC5",
+   "SRC_PD1942"
   ],
   "reliability": "high",
   "importance": 4,
@@ -148,7 +149,7 @@
   "year_min": -593,
   "year_max": -593,
   "year_display": "593 BCE",
-  "dating_basis": "Ezekiel 1:1-3: fifth year of King Jehoiachin's exile. The summary's wording is Ezekiel 1:1 and 1:3, re-read at its locator on 2026-10-08 (Sophia r11-5) in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version.",
+  "dating_basis": "Ezekiel 1:1-2, re-read at its locator on 2026-10-14 (Sophia r12-3) in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version: 'in the fourth month, in the fifth day of the month' (1:1), 'which was the fifth year of king Jehoiachin's captivity' (1:2). The 'thirtieth year' of 1:1 has no stated era and is not used. The captivity begins with the capture ABC 5 Rev. 12' dates to 2 Addaru of Nebuchadnezzar's seventh year (16 March 597; E_IL_001). Counting Babylonian years from Nisan, a stamp in months 1-9 of captivity-year N falls in the Julian year 598 minus N, and one in months 10-12 in 597 minus N (the conversion every dated Ezekiel row carries); month 4 of year 5 gives 593. The summary's wording is Ezekiel 1:1 and 1:3, re-read at its locator on 2026-10-08 (Sophia r11-5) in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version.",
   "region_id": "R_IL",
   "polity_id": "POL_NEOBAB",
   "place_id": "PL_BABYLON",
@@ -168,7 +169,7 @@
   "year_min": -587,
   "year_max": -586,
   "year_display": "587/586 BCE",
-  "dating_basis": "2 Kings 25:8: 19th year of Nebuchadnezzar; the Babylonian Chronicle for this year is not preserved, hence the one-year ambiguity.",
+  "dating_basis": "2 Kings 25:8-9, re-read at its locator on 2026-10-14 (Sophia r12-3) in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version: 'in the fifth month, on the seventh day of the month, which was the nineteenth year of king Nebuchadnezzar', Nebuzaradan came to Jerusalem 'and he burnt the house of the LORD'. Jeremiah 52:12-13 (read this session) gives the same nineteenth year and fifth month, on the tenth day. The Babylonian Chronicle for this year is not preserved: the ABC 5 text at livius.org, re-read this session, breaks off in Nebuchadnezzar's eleventh year (594/593). WHY TWO YEARS: counted as the Chronicle counts (seventh year = 598/597, ABC 5 Rev. 11'), the fifth month of the nineteenth year begins on 9 August 586 in Parker & Dubberstein 1942's table (p. 26, read this session); but Kings puts the 597 capture in the eighth year (2 Kings 24:12) where the Chronicle has the seventh, and on that count Kings' nineteenth year is the Chronicle's eighteenth, whose fifth month begins on 20 August 587 (same page). Neither count is chosen; the range holds both. The summary rests on 2 Kings 25:1-4 (the siege from the ninth year, tenth month, tenth day (25:1), to the eleventh year of Zedekiah (25:2), when on the ninth day of the fourth month the famine was sore and the city was breached (25:3-4; JPS 1917 brackets 'fourth' as supplied there, and Jeremiah 52:6, read, has it in the text): about eighteen months on a year counted from the spring), 25:9 (the burning), and 25:7, 25:21 and 25:22 (Zedekiah blinded and taken to Babylon; 'So Judah was carried away captive out of his land'; Gedaliah made governor over those left), all read this session.",
   "region_id": "R_IL",
   "polity_id": "POL_JUDAH",
   "place_id": "PL_JERUSALEM",
@@ -176,7 +177,9 @@
   "summary_en": "After an eighteen-month siege the city fell, the Temple was burned and Judah ceased to exist as a kingdom.",
   "category": "conquest",
   "source_ids": [
-   "SRC_JPS1917"
+   "SRC_JPS1917",
+   "SRC_ABC5",
+   "SRC_PD1942"
   ],
   "reliability": "high",
   "importance": 5,
@@ -208,9 +211,9 @@
  {
   "id": "E_IL_004",
   "year_min": -538,
-  "year_max": -538,
-  "year_display": "538 BCE",
-  "dating_basis": "Ezra 1:1: first year of Cyrus (over Babylon).",
+  "year_max": -537,
+  "year_display": "538/537 BCE",
+  "dating_basis": "Ezra 1:1, re-read at its locator on 2026-10-14 (Sophia r12-3) in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version: 'in the first year of Cyrus king of Persia' the LORD stirred up his spirit, and he made a proclamation throughout all his kingdom and put it also in writing; the proclamation follows at 1:2-3 (Q_063). The first year is read, as this row always has, as the first year of Cyrus's rule in Babylon. Parker & Dubberstein 1942, read this session: Cyrus entered Babylon on VIII/3 of his accession year, 29 October 539 (p. 11, from the Nabonidus Chronicle), and his first year runs from 1 Nisanu, 24 March 538, to the end of Addaru, about 11 March 537 (table, p. 27). The range therefore holds both Julian years. The single year 538 first given here was the first part of that year only, and no derivation was recorded for it. The summary's 'Second Isaiah had already hailed him as God's anointed' is Isaiah 45:1, 'Thus saith the LORD to His anointed, to Cyrus' (read this session), inside W_ISAIAH_40_55's window (-550/-539).",
   "region_id": "R_IL",
   "polity_id": "POL_YEHUD",
   "place_id": "PL_BABYLON",
@@ -218,7 +221,8 @@
   "summary_en": "Per Ezra, Cyrus proclaimed that the exiles could go up to Jerusalem and rebuild; Second Isaiah had already hailed him as God's anointed.",
   "category": "decree",
   "source_ids": [
-   "SRC_JPS1917"
+   "SRC_JPS1917",
+   "SRC_PD1942"
   ],
   "reliability": "medium",
   "importance": 5,
@@ -2041,7 +2045,7 @@
   "year_min": -538,
   "year_max": -537,
   "year_display": "538/537 BCE",
-  "dating_basis": "Ezra 1:8-11, read at its locator this session: Cyrus brought the vessels forth by the hand of Mithredath the treasurer and numbered them to Sheshbazzar the prince of Judah, who brought them up from Babylon to Jerusalem when the captivity was brought up. The decree itself is dated to the first year of Cyrus (Ezra 1:1), which E_IL_004 already fixes at 538; the journey follows it, so the range allows the following year.",
+  "dating_basis": "Ezra 1:8-11, read at its locator this session: Cyrus brought the vessels forth by the hand of Mithredath the treasurer and numbered them to Sheshbazzar the prince of Judah, who brought them up from Babylon to Jerusalem when the captivity was brought up. The decree itself is dated to the first year of Cyrus (Ezra 1:1), which E_IL_004 now places in 538/537 (r12-3: Cyrus's first year spans both Julian years); the journey follows it, and this range is the same two years.",
   "region_id": "R_IL",
   "polity_id": "POL_YEHUD",
   "place_id": "PL_JERUSALEM",

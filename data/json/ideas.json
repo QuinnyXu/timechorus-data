@@ -306,10 +306,10 @@
   "region_of_origin": "R_IL",
   "category": "religion",
   "one_line_en": "Deported and told they had lost everything, the Judeans were told instead that God had gone with them and been a small sanctuary in the countries where they had come - the beginning of a religion that can travel.",
-  "first_attested_year_min": -597,
+  "first_attested_year_min": -592,
   "first_attested_year_max": -571,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Ezekiel 11:16 (Q_053, idea_link IL_083): ‘yet have I been to them as a little sanctuary in the countries where they are come.’ Range -597/-571 follows the batch's own Ezekiel year-stamp conversion (docs/changes/round02_batchB.md §5.1: captivity-year N -> Julian year, anchored to Jehoiachin's 597 deportation, ABC 5)."
+  "first_attestation_basis": "First attested at Ezekiel 11:16 (Q_053, idea_link IL_083): ‘yet have I been to them as a little sanctuary in the countries where they are come.’ THE STAMP, named 2026-10-14 (Sophia r12-3), Ezekiel 8-11 read in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version: 11:16 belongs to the vision dated at 8:1, 'in the sixth year, in the sixth month, in the fifth day of the month', which carries the prophet to Jerusalem (8:3) and ends when 'the vision that I had seen went up from Me' and he tells it to the exiles (11:24-25); no other date stands in chapters 8-11. On the batch's Ezekiel year-stamp conversion (docs/changes/round02_batchB.md §5.1: captivity-year N -> Julian year, anchored to Jehoiachin's 597 deportation, ABC 5), month 6 of year 6 gives 592, as on E_IL_005. So the lower bound is -592. The -597 first given here was the start of the captivity, which is not a stamp. The upper bound -571 is the latest stamp in the book (29:17, E_IL_021): the stamp dates the vision, not the writing down, and the range allows the oracle to have been written within the span of the dated oracles, as I_INDIV_RESP's does."
  },
  {
   "id": "I_SERVANT",
