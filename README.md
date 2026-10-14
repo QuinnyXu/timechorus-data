@@ -1,12 +1,14 @@
 # TimeChorus data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23354079.svg)](https://doi.org/10.5281/zenodo.23354079)
+
 The dataset behind **TimeChorus** (https://timechorus.com): an atlas of the centuries (c. 800-200 BCE) in which
 the major philosophical, religious and political systems of Eurasia were first written down.
 Every record is a range-dated, sourced claim; every quotation names the edition it was read
 in and the licence that lets it be quoted.
 
 This repository is exported by a build step from the project's working repository; it is
-never edited by hand. Source commit: `7be1b1dafbaaae5d63e6e6461cb0eefb0a57a842`.
+never edited by hand. Source commit: `22614a4e15b3e72e933e9cfc3a930764f2672633`.
 
 ## Contents
 
@@ -57,9 +59,12 @@ their sources' licences. See `DATA_LICENSE`.
 
 ## How to cite
 
-Quinny Xu. *TimeChorus data* (axial corpus), source commit `7be1b1dafbaa`. https://timechorus.com. DOI: 10.5281/zenodo.XXXXXXX (placeholder; assigned
-at the first release).
+Quinny Xu. *TimeChorus data* (axial corpus), source commit `22614a4e15b3`. https://timechorus.com. Concept DOI (all versions, always
+resolving to the latest release): [10.5281/zenodo.23354079](https://doi.org/10.5281/zenodo.23354079).
 
 ## Contributing
 
-See `CONTRIBUTING.md`.
+See `CONTRIBUTING.md`. GitHub issues are the preferred route for
+corrections and questions.
+
+Contact: xkxuqian@outlook.com
