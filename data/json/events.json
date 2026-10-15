@@ -142,7 +142,7 @@
   "reliability": "high",
   "importance": 4,
   "note": null,
-  "review_status": "draft"
+  "review_status": "reviewed"
  },
  {
   "id": "E_IL_002",
@@ -162,7 +162,7 @@
   "reliability": "medium",
   "importance": 4,
   "note": null,
-  "review_status": "draft"
+  "review_status": "reviewed"
  },
  {
   "id": "E_IL_003",
@@ -184,7 +184,7 @@
   "reliability": "high",
   "importance": 5,
   "note": null,
-  "review_status": "draft"
+  "review_status": "reviewed"
  },
  {
   "id": "E_PE_001",
@@ -227,7 +227,7 @@
   "reliability": "medium",
   "importance": 5,
   "note": null,
-  "review_status": "draft"
+  "review_status": "reviewed"
  },
  {
   "id": "E_PE_002",
