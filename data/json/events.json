@@ -4343,5 +4343,166 @@
   "importance": 5,
   "note": "CATEGORY: reform, for the settlement; the conquest that made it possible (得齊王建) is recorded in the same entry and not split into a second row. PLACE: the entry names 咸陽 for the melting of the weapons and the resettlement of the rich; the court debate itself is not placed, and PL_XIANYANG stands for the capital where the decisions were carried out, as stated here. polity_id blank: no Qin polity row. Shiji 6 adds of the new regime: 剛毅戾深，事皆決於法 (IL_189).",
   "review_status": "reviewed"
+ },
+ {
+  "id": "E_IN_036",
+  "year_min": -471,
+  "year_max": -380,
+  "year_display": "within the Buddha's teaching life, c. 471-380 BCE (short chronology)",
+  "dating_basis": "No source read in this session dates this by a calendar year; the Pali canon dates nothing that way. The range is the Buddha's teaching life on the corpus's own frame (conventions section 2, the constant -471/-380: the earliest going forth, birth -500 plus twenty-nine years, to the latest death), and the source places the event inside the teaching life and nowhere more exactly; reliability=low says so. pli-tv-kd1:40.1.1-40.4.10, read at its segments this session (Sophia r13-3, 2026-10-16): the scene is told while Bimbisara is king and the Buddha is teaching. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": "POL_MAGADHA",
+  "place_id": null,
+  "title_en": "Bimbisara asks the order not to ordain the king's soldiers",
+  "summary_en": "Unrest breaks out on Magadha's frontier, and soldiers ordered there go forth as monks instead, so as not to do evil in battle. The king's judges name the penalty for ordaining a royal servant: the preceptor's head, the proclaimer's tongue, and half the ribs of the group. Bimbisara takes the matter to the Buddha, and a rule follows: no one employed by a king is to be given the going forth.",
+  "category": "decree",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "reliability": "low",
+  "importance": 4,
+  "note": "place_id blank: pli-tv-kd1:40 names no place for the scene. The decree is the order's own rule, made at a king's request; category decree is used for the rule, not for a royal edict.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_037",
+  "year_min": -471,
+  "year_max": -380,
+  "year_display": "within the Buddha's teaching life, c. 471-380 BCE (short chronology)",
+  "dating_basis": "No source read in this session dates this by a calendar year; the Pali canon dates nothing that way. The range is the Buddha's teaching life on the corpus's own frame (conventions section 2, the constant -471/-380: the earliest going forth, birth -500 plus twenty-nine years, to the latest death), and the source places the event inside the teaching life and nowhere more exactly; reliability=low says so. pli-tv-kd2:1.1.1-1.4.4, read at its segments this session (Sophia r13-3, 2026-10-16): the Buddha is on the Vulture Peak at Rajagaha and Bimbisara is king. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": "POL_MAGADHA",
+  "place_id": "PL_RAJGIR",
+  "title_en": "Bimbisara proposes the fortnightly assembly, on the rival sects' model",
+  "summary_en": "Wanderers of other religions meet on the eighth, fourteenth and fifteenth days of the half-month to teach, and win supporters by it. King Bimbisara suggests that the Buddha's monks gather on the same days, and the Buddha allows it. One of the order's lasting institutions, the observance day, begins as a king's idea copied from the competition.",
+  "category": "reform",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "reliability": "low",
+  "importance": 4,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_038",
+  "year_min": -471,
+  "year_max": -380,
+  "year_display": "within the Buddha's teaching life, c. 471-380 BCE (short chronology)",
+  "dating_basis": "No source read in this session dates this by a calendar year; the Pali canon dates nothing that way. The range is the Buddha's teaching life on the corpus's own frame (conventions section 2, the constant -471/-380: the earliest going forth, birth -500 plus twenty-nine years, to the latest death), and the source places the event inside the teaching life and nowhere more exactly; reliability=low says so. pli-tv-kd20:1.1.1-1.6.6, read at its segments this session (Sophia r13-3, 2026-10-16): the request is made at Kapilavatthu and the ordination at Vesali, while the Buddha is teaching. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": null,
+  "place_id": "PL_VESALI",
+  "title_en": "Mahapajapati Gotami is ordained: the order of nuns begins",
+  "summary_en": "The Buddha's aunt asks three times at Kapilavatthu for women to be allowed to go forth and is refused. She cuts her hair, puts on ochre robes and walks to Vesali with a group of Sakyan women. Ananda pleads for them, and the Buddha agrees on condition that she accept eight important principles that subordinate nuns to monks. He then says that because women have gone forth the true teaching will last five hundred years instead of a thousand.",
+  "category": "ordination",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "reliability": "low",
+  "importance": 5,
+  "note": "place_id is Vesali, where the ordination is accepted (pli-tv-kd20:1.2.3-1.6.3); the first request was made at Kapilavatthu (1.1.1), which is unlocated in this dataset.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_039",
+  "year_min": -471,
+  "year_max": -380,
+  "year_display": "within the Buddha's teaching life, c. 471-380 BCE (short chronology)",
+  "dating_basis": "No source read in this session dates this by a calendar year; the Pali canon dates nothing that way. The range is the Buddha's teaching life on the corpus's own frame (conventions section 2, the constant -471/-380: the earliest going forth, birth -500 plus twenty-nine years, to the latest death), and the source places the event inside the teaching life and nowhere more exactly; reliability=low says so. SN 3.14:1.2-4.3, read at its segments this session (Sophia r13-3, 2026-10-16): the Buddha comments on the battle, so it falls in his lifetime, and Ajatasattu is already king. The Mahavamsa's interval (Ajatasattu reigned eight years before the Buddha's death, Mahavamsa 2.32, SRC_GEIGER_MHV p. 12) would narrow this to the last eight years of the teaching life; it is not applied, because it is a fifth-century-CE chronicle's interval and the corpus does not narrow a canonical range on it. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": null,
+  "place_id": "PL_KASI",
+  "title_en": "Ajatasattu defeats Pasenadi in Kasi",
+  "summary_en": "King Ajatasattu of Magadha marches on Kasi with an army of four divisions; King Pasenadi of Kosala marches out to defend it, is defeated, and withdraws to his capital Savatthi. Hearing of it, the Buddha says: Victory breeds enmity; the defeated sleep badly.",
+  "category": "battle",
+  "source_ids": [
+   "SRC_SC_SN"
+  ],
+  "reliability": "low",
+  "importance": 4,
+  "note": "polity_id blank: an interstate war has two sides, and the row does not choose one. place_id is Kasi, the contested country, which is unlocated in this dataset.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_040",
+  "year_min": -471,
+  "year_max": -380,
+  "year_display": "within the Buddha's teaching life, c. 471-380 BCE (short chronology)",
+  "dating_basis": "No source read in this session dates this by a calendar year; the Pali canon dates nothing that way. The range is the Buddha's teaching life on the corpus's own frame (conventions section 2, the constant -471/-380: the earliest going forth, birth -500 plus twenty-nine years, to the latest death), and the source places the event inside the teaching life and nowhere more exactly; reliability=low says so. SN 3.15:1.1-6.1, read at its segments this session (Sophia r13-3, 2026-10-16): the same war, reported to the Buddha in his lifetime. The narrowing noted on E_IN_039 is not applied here either. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": null,
+  "place_id": "PL_KASI",
+  "title_en": "Pasenadi defeats and captures Ajatasattu, then lets him go",
+  "summary_en": "In a second battle over Kasi, Pasenadi defeats Ajatasattu and takes him alive. Because Ajatasattu is his nephew, he confiscates his elephants, cavalry, chariots and infantry and lets him go with his life. The Buddha's verse: the plunderer is plundered.",
+  "category": "battle",
+  "source_ids": [
+   "SRC_SC_SN"
+  ],
+  "reliability": "low",
+  "importance": 4,
+  "note": "polity_id blank, as E_IN_039. The order of the two battles is the order of SN 3.14 and 3.15 in the collection; neither text says which came first.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_041",
+  "year_min": -420,
+  "year_max": -356,
+  "year_display": "soon after the Buddha's death, c. 420-356 BCE (short chronology)",
+  "dating_basis": "MN 108:1.2 and 2.1, read at their segments this session (Sophia r13-3, 2026-10-16): the scene is set 'not long after the Buddha had become fully quenched' (aciraparinibbute bhagavati), with Ajatasattu king. The lower bound is the earliest death on the corpus's frame (P_BUDDHA, -420). 'Not long after' gives no number, so the upper bound comes from the king: the Mahavamsa (2.32, SRC_GEIGER_MHV p. 12, read this session) has Ajatasattu reign twenty-four years after the death, and the latest death (-380) plus twenty-four gives -356. That interval is a fifth-century-CE chronicle's, used here only because the canon gives no closing bound at all; reliability=low says so. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": "POL_MAGADHA",
+  "place_id": "PL_RAJGIR",
+  "title_en": "Ajatasattu fortifies Rajagaha against King Pajjota",
+  "summary_en": "Not long after the Buddha's death, King Ajatasattu of Magadha, suspicious of King Pajjota, has his capital Rajagaha fortified, and his chief minister Vassakara is out supervising the work when he stops to question Ananda about who leads the order now.",
+  "category": "monument",
+  "source_ids": [
+   "SRC_SC_MN",
+   "SRC_GEIGER_MHV"
+  ],
+  "reliability": "low",
+  "importance": 3,
+  "note": "FLAG: 'fortified' renders paṭisaṅkhārāpeti, which can mean repaired or put in order. Pajjota's kingdom is not named in the segment read; the identification with Avanti is not made by this row.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_042",
+  "year_min": -420,
+  "year_max": -379,
+  "year_display": "the rains after the Buddha's death, c. 420-379 BCE (short chronology)",
+  "dating_basis": "pli-tv-kd21:1.1-1.11, read at its segments this session (Sophia r13-3, 2026-10-16): the chapter runs on from the news of the death (1.1) to the decision to spend the rains at Rajagaha reciting (1.3-1.4) and the recitation itself (1.7-1.8). The text does not say which rains; the row reads it as the first rains after the death, and the range is P_BUDDHA's death range with one year added at the late end so that a death in -380 still has its rains inside. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": null,
+  "place_id": "PL_RAJGIR",
+  "title_en": "The first communal recitation at Rajagaha",
+  "summary_en": "Five hundred senior monks spend the rains at Rajagaha to fix the teaching together. Mahakassapa questions Upali on the monastic law and Ananda on the discourses, and the monastic law's account says the five collections were recited. When the monk Purana arrives afterwards from the Southern Hills, he calls it well recited, and says he will nevertheless remember what he himself heard from the Buddha.",
+  "category": "meeting",
+  "source_ids": [
+   "SRC_SC_VINAYA"
+  ],
+  "reliability": "low",
+  "importance": 5,
+  "note": "E_IN_034 is the proposal of this recitation; this row is the recitation itself. The fivefold arrangement the text attributes to it is the text's claim (see Q_161).",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_043",
+  "year_min": -471,
+  "year_max": -380,
+  "year_display": "within the Buddha's teaching life, c. 471-380 BCE (short chronology)",
+  "dating_basis": "No source read in this session dates this by a calendar year; the Pali canon dates nothing that way. The range is the Buddha's teaching life on the corpus's own frame (conventions section 2, the constant -471/-380: the earliest going forth, birth -500 plus twenty-nine years, to the latest death), and the source places the event inside the teaching life and nowhere more exactly; reliability=low says so. DN 33:1.1.1-1.7.11 and 3.4.1-3.4.5, read at their segments this session (Sophia r13-3, 2026-10-16): the recitation is set at Pava while the Buddha is alive and teaching, just after the Jain teacher's death there (dn33:1.6.1), the event E_IN_015 dates on the same frame. BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": "POL_MALLA",
+  "place_id": "PL_PAVA",
+  "title_en": "Sariputta's recitation at Pava, after the Jain split",
+  "summary_en": "In the Mallas' new town hall at Pava, the Buddha's back is sore and he asks Sariputta to speak. The Jain teacher has just died at Pava and his followers have split into quarrelling factions. Sariputta draws the lesson: the monks should all recite the teaching in concert, without disputing, so that the path lasts, and he sets it out in numbered lists. The Buddha approves.",
+  "category": "speech",
+  "source_ids": [
+   "SRC_SC_DN"
+  ],
+  "reliability": "low",
+  "importance": 4,
+  "note": null,
+  "review_status": "draft"
  }
 ]

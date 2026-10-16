@@ -307,3 +307,21 @@ E_CN_058,P_XUNZI,scholar and magistrate,related,"Shiji 74: 春申君以為蘭陵
 E_CN_059,P_HANFEI,"envoy of Han, imprisoned and poisoned",related,"Shiji 6: 非死雲陽; no place row for 雲陽, so the event carries no place_id and the presence is 'related'."
 E_CN_059,P_LISI,contrives his death,related,Shiji 63: 李斯使人遺非藥，使自殺; Shiji 6: 秦用李斯謀. Not placed by either source.
 E_CN_060,P_LISI,commandant of justice whose argument decides the commandery system,related,"Shiji 6: 廷尉李斯議曰 … 今海內賴陛下神靈一統，皆為郡縣. The source does not place the debate, so 'related'."
+E_IN_036,P_BIMBISARA,king who asks for the rule,present,pli-tv-kd1:40.3.7-40.4.5.
+E_IN_036,P_BUDDHA,maker of the rule,present,pli-tv-kd1:40.4.6-40.4.10.
+E_IN_037,P_BIMBISARA,proposer,present,pli-tv-kd2:1.2.1-1.3.7: he goes to the Buddha on the Vulture Peak.
+E_IN_037,P_BUDDHA,allows the assembly,present,"pli-tv-kd2:1.1.1, 1.4.4."
+E_IN_038,P_MAHAPAJAPATI,first ordained nun,present,"pli-tv-kd20:1.2.4-1.2.6 (she comes to Vesali), 1.5.22-1.5.23 (she accepts)."
+E_IN_038,P_ANANDA,pleads for the women,present,pli-tv-kd20:1.2.7-1.3.19.
+E_IN_038,P_BUDDHA,sets the eight principles,present,"pli-tv-kd20:1.2.3, 1.4.1-1.4.21, 1.6.4-1.6.14."
+E_IN_039,P_AJATASATTU,victor,present,"sn3.14:1.2, 1.6-1.7."
+E_IN_039,P_PASENADI,defeated,present,sn3.14:1.5-1.8.
+E_IN_040,P_PASENADI,victor,present,sn3.15:1.4-2.1.
+E_IN_040,P_AJATASATTU,captured and released,present,"sn3.15:1.1, 1.6."
+E_IN_041,P_AJATASATTU,orders the works,related,mn108:2.1: he is having Rajagaha fortified; the text does not place him at the works.
+E_IN_041,P_VASSAKARA,supervises the works,present,mn108:6.2: supervising the work at Rajagaha.
+E_IN_042,P_MAHAKASSAPA,convener and questioner,present,"pli-tv-kd21:1.4.1-1.4.14, 1.7.1-1.8.18."
+E_IN_042,P_ANANDA,reciter of the discourses,present,pli-tv-kd21:1.8.4-1.8.19.
+E_IN_043,P_SARIPUTTA,speaker,present,dn33:1.5.1-1.7.11.
+E_IN_043,P_BUDDHA,"asks Sariputta to speak, then approves",present,"dn33:1.4.1, 1.5.1-1.5.7, 3.4.1-3.4.4."
+E_IN_043,P_MAHAVIRA,his death and his followers' split are the occasion,related,dn33:1.6.1-1.6.5.

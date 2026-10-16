@@ -2154,5 +2154,131 @@
   "role_in_event": "commandant of justice whose argument decides the commandery system",
   "presence": "related",
   "note": "Shiji 6: 廷尉李斯議曰 … 今海內賴陛下神靈一統，皆為郡縣. The source does not place the debate, so 'related'."
+ },
+ {
+  "event_id": "E_IN_036",
+  "person_id": "P_BIMBISARA",
+  "role_in_event": "king who asks for the rule",
+  "presence": "present",
+  "note": "pli-tv-kd1:40.3.7-40.4.5."
+ },
+ {
+  "event_id": "E_IN_036",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "maker of the rule",
+  "presence": "present",
+  "note": "pli-tv-kd1:40.4.6-40.4.10."
+ },
+ {
+  "event_id": "E_IN_037",
+  "person_id": "P_BIMBISARA",
+  "role_in_event": "proposer",
+  "presence": "present",
+  "note": "pli-tv-kd2:1.2.1-1.3.7: he goes to the Buddha on the Vulture Peak."
+ },
+ {
+  "event_id": "E_IN_037",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "allows the assembly",
+  "presence": "present",
+  "note": "pli-tv-kd2:1.1.1, 1.4.4."
+ },
+ {
+  "event_id": "E_IN_038",
+  "person_id": "P_MAHAPAJAPATI",
+  "role_in_event": "first ordained nun",
+  "presence": "present",
+  "note": "pli-tv-kd20:1.2.4-1.2.6 (she comes to Vesali), 1.5.22-1.5.23 (she accepts)."
+ },
+ {
+  "event_id": "E_IN_038",
+  "person_id": "P_ANANDA",
+  "role_in_event": "pleads for the women",
+  "presence": "present",
+  "note": "pli-tv-kd20:1.2.7-1.3.19."
+ },
+ {
+  "event_id": "E_IN_038",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "sets the eight principles",
+  "presence": "present",
+  "note": "pli-tv-kd20:1.2.3, 1.4.1-1.4.21, 1.6.4-1.6.14."
+ },
+ {
+  "event_id": "E_IN_039",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "victor",
+  "presence": "present",
+  "note": "sn3.14:1.2, 1.6-1.7."
+ },
+ {
+  "event_id": "E_IN_039",
+  "person_id": "P_PASENADI",
+  "role_in_event": "defeated",
+  "presence": "present",
+  "note": "sn3.14:1.5-1.8."
+ },
+ {
+  "event_id": "E_IN_040",
+  "person_id": "P_PASENADI",
+  "role_in_event": "victor",
+  "presence": "present",
+  "note": "sn3.15:1.4-2.1."
+ },
+ {
+  "event_id": "E_IN_040",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "captured and released",
+  "presence": "present",
+  "note": "sn3.15:1.1, 1.6."
+ },
+ {
+  "event_id": "E_IN_041",
+  "person_id": "P_AJATASATTU",
+  "role_in_event": "orders the works",
+  "presence": "related",
+  "note": "mn108:2.1: he is having Rajagaha fortified; the text does not place him at the works."
+ },
+ {
+  "event_id": "E_IN_041",
+  "person_id": "P_VASSAKARA",
+  "role_in_event": "supervises the works",
+  "presence": "present",
+  "note": "mn108:6.2: supervising the work at Rajagaha."
+ },
+ {
+  "event_id": "E_IN_042",
+  "person_id": "P_MAHAKASSAPA",
+  "role_in_event": "convener and questioner",
+  "presence": "present",
+  "note": "pli-tv-kd21:1.4.1-1.4.14, 1.7.1-1.8.18."
+ },
+ {
+  "event_id": "E_IN_042",
+  "person_id": "P_ANANDA",
+  "role_in_event": "reciter of the discourses",
+  "presence": "present",
+  "note": "pli-tv-kd21:1.8.4-1.8.19."
+ },
+ {
+  "event_id": "E_IN_043",
+  "person_id": "P_SARIPUTTA",
+  "role_in_event": "speaker",
+  "presence": "present",
+  "note": "dn33:1.5.1-1.7.11."
+ },
+ {
+  "event_id": "E_IN_043",
+  "person_id": "P_BUDDHA",
+  "role_in_event": "asks Sariputta to speak, then approves",
+  "presence": "present",
+  "note": "dn33:1.4.1, 1.5.1-1.5.7, 3.4.1-3.4.4."
+ },
+ {
+  "event_id": "E_IN_043",
+  "person_id": "P_MAHAVIRA",
+  "role_in_event": "his death and his followers' split are the occasion",
+  "presence": "related",
+  "note": "dn33:1.6.1-1.6.5."
  }
 ]

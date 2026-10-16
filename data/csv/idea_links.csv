@@ -202,3 +202,33 @@ IL_200,I_LI,passage,Q_129,develops,high,"Xunzi: human nature is bad, and ritual 
 IL_201,I_LI,person,P_XUNZI,develops,high,Xunzi's theory of ritual as formation (Q_129).
 IL_202,I_LI,passage,Q_126,refutes,medium,"Han Fei: the appeal to the former kings cannot be verified, and three years' mourning ruins families. Medium: the chapter attacks the Ru generally, not one doctrine."
 IL_203,I_REN,passage,Q_118,develops,medium,"Mencius to King Hui: humaneness and rightness, not profit, are the whole of policy."
+IL_204,I_ATMAN,passage,Q_082,originates,medium,"CU VI.8.7: 'It is the Self, and thou, O Svetaketu, art it.' The Self identified with the subtle essence of all that exists."
+IL_205,I_ATMAN,passage,Q_147,develops,high,"BAU II.4.5: the Self is to be seen, heard, perceived and marked; when it is known, all this is known."
+IL_206,I_ATMAN,person,P_UDDALAKA,originates,medium,The teacher of CU VI.8.7 (Q_082).
+IL_207,I_ATMAN,person,P_YAJNAVALKYA,develops,medium,The speaker of BAU II.4.5.
+IL_208,I_ANATTA,idea,I_ATMAN,refutes,low,"The corpus's comparison, as IL_113's: SN 22.59 (Q_076) denies of every constituent of a person what the Upanishads affirm of the Self, but no Pali text read names the Upanishadic doctrine."
+IL_209,I_SAMSARA,passage,Q_148,originates,high,BAU IV.4.3: the Self passes from this body to another as a caterpillar crosses from blade to blade. The first passage in the corpus that states rebirth outright; IL_108 (Q_083) stands beside it as the karma exchange that presupposes it.
+IL_210,I_KARMA,passage,Q_149,develops,high,"BAU IV.4.5: according as he acts, so will he be; a man of good acts becomes good."
+IL_211,I_SAMSARA,passage,Q_149,develops,high,"BAU IV.4.6: having reaped the end of his deed, he returns from that world to this world of action."
+IL_212,I_SAMSARA,passage,Q_151,develops,medium,CU V.3.7: the teaching of where the dead go and how they return is said to have belonged to the ruling class alone.
+IL_213,I_SAMSARA,passage,Q_150,develops,high,"CU V.10.7: good conduct leads quickly to a good birth, evil conduct to an evil one, ranked by class."
+IL_214,I_VARNA_CRITIQUE,passage,Q_153,originates,high,MN 84: the brahmins' claim stated and answered; 'these four classes are equal'.
+IL_215,I_VARNA_CRITIQUE,passage,Q_150,refutes,low,The corpus's comparison: MN 84 answers the brahmins' claim in general terms and does not cite the Chandogya; CU V.10.7 is the class-ranked rebirth the argument is set against.
+IL_216,I_SRAMANA,passage,Q_152,parallels,low,"BAU II.4.1-2: a brahmin householder leaves his house, the Brahmanical counterpart of the samana's going forth. Low: same region and broad period, different institutions, and no text read links them."
+IL_217,I_SRAMANA,passage,Q_154,develops,medium,DN 1:3.29: the speculations of ascetics and brahmins mapped onto sixty-two grounds.
+IL_218,I_SRAMANA,passage,Q_155,develops,medium,AN 3.65:3.1-3.2: rival ascetics each promote their own doctrine and disparage the others'.
+IL_219,I_DHAMMA,passage,Q_155,develops,medium,"AN 3.65:4.1: not by oral transmission, lineage, testament or canonical authority; a teaching to be checked for oneself."
+IL_220,I_MAHASAMMATA,passage,Q_137,originates,high,DN 27:20-21: the beings agree on one of themselves and pay him a share of rice; the three titles follow.
+IL_221,I_CAKKAVATTI,passage,Q_138,originates,high,"DN 26: the noble duty of a wheel-turning monarch, and the king who omits to give to the penniless."
+IL_222,I_CAKKAVATTI,passage,Q_139,develops,medium,"DN 5:11: provide seed, funding and wages rather than punish, and the realm is secure and the revenue great."
+IL_223,I_SANGHA,passage,Q_134,develops,high,"AN 7.21: the seven principles that prevent decline, told to the Licchavis themselves; the same principles DN 16 restates for the order (IL_133)."
+IL_224,I_SANGHA,event,E_IN_036,enacts,high,"The order makes a rule at a king's request, after his judges name the penalty: jurisdiction negotiated."
+IL_225,I_SANGHA,event,E_IN_037,enacts,high,"The fortnightly assembly, adopted on a king's suggestion."
+IL_226,I_SRAMANA,event,E_IN_037,enacts,medium,The assembly is modelled on the other wanderers' practice: one order borrowing from its rivals.
+IL_227,I_SANGHA,event,E_IN_038,enacts,high,"A second order founded, and bound to the first by eight rules."
+IL_228,I_SANGHA,event,E_IN_042,enacts,high,"A community deciding in common what its own text is, and the first dissent from that decision."
+IL_229,I_DHAMMA,passage,Q_143,develops,high,"MN 108:9.4: no successor appointed, none elected; 'The teaching is our refuge.' The teaching named as what takes the founder's place, beside Q_070 and Q_073."
+IL_230,I_SANGHA,passage,Q_143,develops,medium,"MN 108:7-9: asked by a minister of state who leads the order, Ananda answers that no one does."
+IL_231,I_DHAMMA,passage,Q_163,develops,medium,"DN 33:1.7.6: the teaching recited in concert, without disputing, so that the path lasts."
+IL_232,I_SANGHA,event,E_IN_043,enacts,medium,A recitation proposed as the remedy for the split that followed another founder's death.
+IL_233,I_KARMA,passage,Q_158,develops,medium,SN 3.15:9.5-9.6: 'And so as deeds unfold the plunderer is plundered' (kammavivaṭṭena): karma read in a war.

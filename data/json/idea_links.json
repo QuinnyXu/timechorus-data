@@ -1825,5 +1825,275 @@
   "link_type": "develops",
   "reliability": "medium",
   "note": "Mencius to King Hui: humaneness and rightness, not profit, are the whole of policy."
+ },
+ {
+  "id": "IL_204",
+  "idea_id": "I_ATMAN",
+  "target_type": "passage",
+  "target_id": "Q_082",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "CU VI.8.7: 'It is the Self, and thou, O Svetaketu, art it.' The Self identified with the subtle essence of all that exists."
+ },
+ {
+  "id": "IL_205",
+  "idea_id": "I_ATMAN",
+  "target_type": "passage",
+  "target_id": "Q_147",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "BAU II.4.5: the Self is to be seen, heard, perceived and marked; when it is known, all this is known."
+ },
+ {
+  "id": "IL_206",
+  "idea_id": "I_ATMAN",
+  "target_type": "person",
+  "target_id": "P_UDDALAKA",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "The teacher of CU VI.8.7 (Q_082)."
+ },
+ {
+  "id": "IL_207",
+  "idea_id": "I_ATMAN",
+  "target_type": "person",
+  "target_id": "P_YAJNAVALKYA",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The speaker of BAU II.4.5."
+ },
+ {
+  "id": "IL_208",
+  "idea_id": "I_ANATTA",
+  "target_type": "idea",
+  "target_id": "I_ATMAN",
+  "link_type": "refutes",
+  "reliability": "low",
+  "note": "The corpus's comparison, as IL_113's: SN 22.59 (Q_076) denies of every constituent of a person what the Upanishads affirm of the Self, but no Pali text read names the Upanishadic doctrine."
+ },
+ {
+  "id": "IL_209",
+  "idea_id": "I_SAMSARA",
+  "target_type": "passage",
+  "target_id": "Q_148",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "BAU IV.4.3: the Self passes from this body to another as a caterpillar crosses from blade to blade. The first passage in the corpus that states rebirth outright; IL_108 (Q_083) stands beside it as the karma exchange that presupposes it."
+ },
+ {
+  "id": "IL_210",
+  "idea_id": "I_KARMA",
+  "target_type": "passage",
+  "target_id": "Q_149",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "BAU IV.4.5: according as he acts, so will he be; a man of good acts becomes good."
+ },
+ {
+  "id": "IL_211",
+  "idea_id": "I_SAMSARA",
+  "target_type": "passage",
+  "target_id": "Q_149",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "BAU IV.4.6: having reaped the end of his deed, he returns from that world to this world of action."
+ },
+ {
+  "id": "IL_212",
+  "idea_id": "I_SAMSARA",
+  "target_type": "passage",
+  "target_id": "Q_151",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "CU V.3.7: the teaching of where the dead go and how they return is said to have belonged to the ruling class alone."
+ },
+ {
+  "id": "IL_213",
+  "idea_id": "I_SAMSARA",
+  "target_type": "passage",
+  "target_id": "Q_150",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "CU V.10.7: good conduct leads quickly to a good birth, evil conduct to an evil one, ranked by class."
+ },
+ {
+  "id": "IL_214",
+  "idea_id": "I_VARNA_CRITIQUE",
+  "target_type": "passage",
+  "target_id": "Q_153",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "MN 84: the brahmins' claim stated and answered; 'these four classes are equal'."
+ },
+ {
+  "id": "IL_215",
+  "idea_id": "I_VARNA_CRITIQUE",
+  "target_type": "passage",
+  "target_id": "Q_150",
+  "link_type": "refutes",
+  "reliability": "low",
+  "note": "The corpus's comparison: MN 84 answers the brahmins' claim in general terms and does not cite the Chandogya; CU V.10.7 is the class-ranked rebirth the argument is set against."
+ },
+ {
+  "id": "IL_216",
+  "idea_id": "I_SRAMANA",
+  "target_type": "passage",
+  "target_id": "Q_152",
+  "link_type": "parallels",
+  "reliability": "low",
+  "note": "BAU II.4.1-2: a brahmin householder leaves his house, the Brahmanical counterpart of the samana's going forth. Low: same region and broad period, different institutions, and no text read links them."
+ },
+ {
+  "id": "IL_217",
+  "idea_id": "I_SRAMANA",
+  "target_type": "passage",
+  "target_id": "Q_154",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "DN 1:3.29: the speculations of ascetics and brahmins mapped onto sixty-two grounds."
+ },
+ {
+  "id": "IL_218",
+  "idea_id": "I_SRAMANA",
+  "target_type": "passage",
+  "target_id": "Q_155",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "AN 3.65:3.1-3.2: rival ascetics each promote their own doctrine and disparage the others'."
+ },
+ {
+  "id": "IL_219",
+  "idea_id": "I_DHAMMA",
+  "target_type": "passage",
+  "target_id": "Q_155",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "AN 3.65:4.1: not by oral transmission, lineage, testament or canonical authority; a teaching to be checked for oneself."
+ },
+ {
+  "id": "IL_220",
+  "idea_id": "I_MAHASAMMATA",
+  "target_type": "passage",
+  "target_id": "Q_137",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "DN 27:20-21: the beings agree on one of themselves and pay him a share of rice; the three titles follow."
+ },
+ {
+  "id": "IL_221",
+  "idea_id": "I_CAKKAVATTI",
+  "target_type": "passage",
+  "target_id": "Q_138",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "DN 26: the noble duty of a wheel-turning monarch, and the king who omits to give to the penniless."
+ },
+ {
+  "id": "IL_222",
+  "idea_id": "I_CAKKAVATTI",
+  "target_type": "passage",
+  "target_id": "Q_139",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "DN 5:11: provide seed, funding and wages rather than punish, and the realm is secure and the revenue great."
+ },
+ {
+  "id": "IL_223",
+  "idea_id": "I_SANGHA",
+  "target_type": "passage",
+  "target_id": "Q_134",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "AN 7.21: the seven principles that prevent decline, told to the Licchavis themselves; the same principles DN 16 restates for the order (IL_133)."
+ },
+ {
+  "id": "IL_224",
+  "idea_id": "I_SANGHA",
+  "target_type": "event",
+  "target_id": "E_IN_036",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The order makes a rule at a king's request, after his judges name the penalty: jurisdiction negotiated."
+ },
+ {
+  "id": "IL_225",
+  "idea_id": "I_SANGHA",
+  "target_type": "event",
+  "target_id": "E_IN_037",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The fortnightly assembly, adopted on a king's suggestion."
+ },
+ {
+  "id": "IL_226",
+  "idea_id": "I_SRAMANA",
+  "target_type": "event",
+  "target_id": "E_IN_037",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The assembly is modelled on the other wanderers' practice: one order borrowing from its rivals."
+ },
+ {
+  "id": "IL_227",
+  "idea_id": "I_SANGHA",
+  "target_type": "event",
+  "target_id": "E_IN_038",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "A second order founded, and bound to the first by eight rules."
+ },
+ {
+  "id": "IL_228",
+  "idea_id": "I_SANGHA",
+  "target_type": "event",
+  "target_id": "E_IN_042",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "A community deciding in common what its own text is, and the first dissent from that decision."
+ },
+ {
+  "id": "IL_229",
+  "idea_id": "I_DHAMMA",
+  "target_type": "passage",
+  "target_id": "Q_143",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "MN 108:9.4: no successor appointed, none elected; 'The teaching is our refuge.' The teaching named as what takes the founder's place, beside Q_070 and Q_073."
+ },
+ {
+  "id": "IL_230",
+  "idea_id": "I_SANGHA",
+  "target_type": "passage",
+  "target_id": "Q_143",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "MN 108:7-9: asked by a minister of state who leads the order, Ananda answers that no one does."
+ },
+ {
+  "id": "IL_231",
+  "idea_id": "I_DHAMMA",
+  "target_type": "passage",
+  "target_id": "Q_163",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "DN 33:1.7.6: the teaching recited in concert, without disputing, so that the path lasts."
+ },
+ {
+  "id": "IL_232",
+  "idea_id": "I_SANGHA",
+  "target_type": "event",
+  "target_id": "E_IN_043",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "A recitation proposed as the remedy for the split that followed another founder's death."
+ },
+ {
+  "id": "IL_233",
+  "idea_id": "I_KARMA",
+  "target_type": "passage",
+  "target_id": "Q_158",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "SN 3.15:9.5-9.6: 'And so as deeds unfold the plunderer is plundered' (kammavivaṭṭena): karma read in a war."
  }
 ]

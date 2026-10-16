@@ -1,7 +1,7 @@
 TimeChorus data licence
 =======================
 
-Dataset: TimeChorus (axial corpus), exported from source commit 8832e2119215ac46a3f58db932a586cf24f0c601.
+Dataset: TimeChorus (axial corpus), exported from source commit c692f50daf8fda4eadafcc3c5ed749537ec3675e.
 Site: https://timechorus.com
 
 1. The compilation and the project's own words
@@ -30,14 +30,14 @@ length. Share-alike (CC BY-SA) constrains what a reuser of that quoted text must
 downstream; it does not alter the licence of the rest of the dataset.
 
 Sources by licence:
-  public domain  63
-  CC0            7
+  public domain  64
+  CC0            10
   CC BY 4.0      2
   CC BY 3.0      1
   CC BY-SA 4.0   4
   CC BY-SA 3.0   1
   copyright      11
-  unconfirmed    1
+  unconfirmed    2
 
 3. Attribution clauses (CC BY and CC BY-SA sources)
 
@@ -86,6 +86,9 @@ labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
 
 4. Other sources (public domain, CC0, copyright, unconfirmed)
 
+Where a source row carries a credit_clause, it is given in full under that source,
+whatever the licence family (r13-mergeA, L-162(1)); a source without one shows nothing.
+
 * SRC_KENYON_ATHPOL | public domain | translator F.G. Kenyon 1891
     Aristotle, Constitution of the Athenians, tr. Kenyon
     https://classics.mit.edu/Aristotle/athenian_const.html
@@ -112,6 +115,9 @@ labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
 * SRC_DL9 | public domain | translator R.D. Hicks 1925
     Diogenes Laertius, Lives of the Eminent Philosophers, tr. Hicks (Loeb)
     https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml
+* SRC_GEIGER_MHV | unconfirmed | translator Wilhelm Geiger; Mabel Haynes Bode 1912
+    Geiger (tr., assisted by Mabel Haynes Bode), The Mahavamsa or the Great Chronicle of Ceylon (Pali Text Society, London 1912)
+    https://archive.org/details/mahavamsaorgreat00maha
 * SRC_GONGYANG | public domain
     Gongyang Commentary on the Spring and Autumn Annals (Chunqiu Gongyang zhuan)
 * SRC_GULIANG | public domain
@@ -159,6 +165,9 @@ labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
 * SRC_LIVIUS_NABONIDUS | copyright | translator A.K. Grayson (via livius.org) 1975
     Nabonidus Chronicle (ABC 7)
     https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-7-nabonidus-chronicle/
+* SRC_OLDENBERG_DPV | public domain | translator Hermann Oldenberg 1879
+    Oldenberg (ed. and tr.), The Dipavamsa: an Ancient Buddhist Historical Record (Williams and Norgate, London 1879)
+    https://archive.org/details/dpavasaanancien00oldegoog
 * SRC_PD1942 | copyright
     Parker & Dubberstein, Babylonian Chronology 626 B.C. - A.D. 45 (Studies in Ancient Oriental Civilization 24)
     https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc24.pdf
@@ -204,24 +213,43 @@ labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
 * SRC_SC_ROOT_PLI | public domain
     SuttaCentral root Pali text (bilara-data root/pli/ms, the Mahāsaṅgīti edition)
     https://github.com/suttacentral/bilara-data/tree/published/root/pli/ms
+    Attribution: Root Pali text (the Mahasangiti edition) as published by SuttaCentral (suttacentral.net), which states that the original texts of Buddhism are in the public domain. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
+* SRC_SC_AN | CC0 | translator Bhikkhu Sujato 2018
+    SuttaCentral: Anguttara Nikaya (Numbered Discourses), tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/an
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
+* SRC_SC_DN | CC0 | translator Bhikkhu Sujato 2018
+    SuttaCentral: Digha Nikaya (Long Discourses), tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/dn
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SUTTACENTRAL_DN16 | CC0 | translator Bhikkhu Sujato 2018
     SuttaCentral: DN 16 Mahaparinibbana Sutta, tr. Bhikkhu Sujato
     https://github.com/suttacentral/bilara-data/blob/published/translation/en/sujato/sutta/dn/dn16_translation-en-sujato.json
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SC_DN2 | CC0 | translator Bhikkhu Sujato 2018
     SuttaCentral: DN 2 Samannaphala Sutta, tr. Bhikkhu Sujato
     https://github.com/suttacentral/bilara-data/blob/published/translation/en/sujato/sutta/dn/dn2_translation-en-sujato.json
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SUTTACENTRAL_DN29 | CC0 | translator Bhikkhu Sujato 2018
     SuttaCentral: DN 29 Pāsādika Sutta, tr. Bhikkhu Sujato
     https://github.com/suttacentral/bilara-data/blob/published/translation/en/sujato/sutta/dn/dn29_translation-en-sujato.json
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SC_MN | CC0 | translator Bhikkhu Sujato 2018
     SuttaCentral: Majjhima Nikaya (Middle Discourses), tr. Bhikkhu Sujato
     https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/mn
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SC_SN | CC0 | translator Bhikkhu Sujato 2018
     SuttaCentral: Samyutta Nikaya (Linked Discourses), tr. Bhikkhu Sujato
     https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/sn
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
+* SRC_SC_SNP | CC0 | translator Bhikkhu Sujato 2021
+    SuttaCentral: Sutta Nipata (Anthology of Discourses), tr. Bhikkhu Sujato
+    https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/kn/snp
+    Attribution: Translation by Bhikkhu Sujato, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SC_VINAYA | CC0 | translator Bhikkhu Brahmali 2021
     SuttaCentral: Theravada Vinaya Pitaka, tr. Bhikkhu Brahmali
     https://github.com/suttacentral/bilara-data/tree/published/translation/en/brahmali/vinaya
+    Attribution: Translation by Bhikkhu Brahmali, published by SuttaCentral (suttacentral.net) and dedicated to the public domain under CC0. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SEFARIA_TTO | public domain
     Tanach with Text Only (Sefaria): the consonantal Hebrew and Aramaic of the Hebrew Bible, from the Unicode/XML Leningrad Codex
     https://storage.googleapis.com/sefaria-export/json/Tanakh/Prophets/Ezekiel/Hebrew/Tanach%20with%20Text%20Only.json

@@ -538,5 +538,53 @@
   "first_attested_year_max": -319,
   "review_status": "reviewed",
   "first_attestation_basis": "Anchor: Mencius 1A6 (Q_119, IL_193 originates), read at zh.wikisource.org page 孟子/梁惠王上 (revision 2642991, fetched whole via action=raw on 2026-10-04, this session): asked how the world will be settled, Mencius answers 定於一, 'by unity', and that the one who has no taste for killing will unify it. The range is the reign of King Xiang of Liang, to whom the answer is given, on Shiji 15's chronology (魏襄王元年 at the line labelled 334, 魏哀王元年 at 318), read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session); that chronology is in tension with the Mencius's own text (E_CN_055.dating_basis), which is why the range is the whole reign and not a year. THIN DATING, STATED: the NAME 大一統 is not Mencius's. It is the Gongyang commentary's (Q_130, IL_194 develops: 何言乎王正月？大一統也), and that text was written down in the Han, under Emperor Jing (-156/-141), on the account the index note to 春秋公羊傳註疏 quotes from a Tang subcommentary (W_GONGYANG). The idea is dated by its earliest statement in this dataset and the name by its text, a century and a half apart; this row says so rather than dating the idea by the later name or the name by the earlier idea. r8-3 drafted Mencius as a 'develops' link; making him the anchor is this batch's change, argued in CHANGES.md. The unification of 221 enacts it (IL_195). Range wholly after the 600-400 slice; R_CN by D-20."
+ },
+ {
+  "id": "I_ATMAN",
+  "name_en": "Atman: the Self that is everything",
+  "name_original": "ātman",
+  "region_of_origin": "R_IN",
+  "category": "self",
+  "one_line_en": "There is a Self in each person that is one with all that exists, and to know it is to know everything - the Upanishadic teaching the Buddhist not-self argument was later set against.",
+  "first_attested_year_min": -1000,
+  "first_attested_year_max": -600,
+  "review_status": "draft",
+  "first_attestation_basis": "First attested at Chandogya Upanishad VI, 8, 7 (Q_082, IL_204): 'It is the Self, and thou, O Svetaketu, art it'; stated again at Brihadaranyaka II, 4, 5 (Q_147, IL_205), read at its locator 2026-10-16 (Sophia r13-3, this session). The range is the attesting works' composition window, W_CHANDOGYA and W_BRIHADARANYAKA -1000/-600 (Mueller, SBE 1 Introduction, per those rows; not re-read this session), on the L-60 rule that a first attestation closes at the attesting work's ceiling. Not affected by the Buddha chronology."
+ },
+ {
+  "id": "I_VARNA_CRITIQUE",
+  "name_en": "The four classes are equal",
+  "name_original": "cattāro vaṇṇā samasamā",
+  "region_of_origin": "R_IN",
+  "category": "ethics",
+  "one_line_en": "Birth into a class settles nothing about a person's worth: a rich man of any class is served by all four, and wrongdoers of any class are judged alike - argued against the brahmins' claim to be the best class.",
+  "first_attested_year_min": -420,
+  "first_attested_year_max": -100,
+  "review_status": "draft",
+  "first_attestation_basis": "First attested at MN 84 (Q_153, IL_214), read at its segments 2026-10-16 (Sophia r13-3, this session): 'these four classes are equal' (mn84:5.46). MN 84 sets itself after the Buddha's death (mn84:11.4), so the range opens at the earliest death on the corpus's frame, -420 (P_BUDDHA), not at the teaching-life constant -471, and closes at the attesting work's ceiling, -100 (W_MN84; the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier."
+ },
+ {
+  "id": "I_MAHASAMMATA",
+  "name_en": "The king agreed on and paid by the people",
+  "name_original": "mahāsammata",
+  "region_of_origin": "R_IN",
+  "category": "politics",
+  "one_line_en": "Kingship began when people who suffered theft and violence agreed on one of themselves to judge and punish, and paid him a share of their rice - a story of the state's origin as an agreement.",
+  "first_attested_year_min": -471,
+  "first_attested_year_max": -100,
+  "review_status": "draft",
+  "first_attestation_basis": "First attested at DN 27:20.1-21.4 (Q_137, IL_220), read at its segments 2026-10-16 (Sophia r13-3, this session), a teaching the text gives in the Buddha's mouth. Range: the teaching-life constant -471 to the attesting work's ceiling -100 (W_DN27; conventions section 2 and the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier."
+ },
+ {
+  "id": "I_CAKKAVATTI",
+  "name_en": "The righteous king provides for the poor",
+  "name_original": "cakkavattivatta",
+  "region_of_origin": "R_IN",
+  "category": "politics",
+  "one_line_en": "A king's duty is to rule by principle, protect everyone and give money to the penniless; a king who neglects the last makes poverty, and poverty makes thieves.",
+  "first_attested_year_min": -471,
+  "first_attested_year_max": -100,
+  "review_status": "draft",
+  "first_attestation_basis": "First attested at DN 26:5.2-5.4 and 10.3-10.5 (Q_138, IL_221), read at its segments 2026-10-16 (Sophia r13-3, this session), a story of past kings told in the Buddha's mouth. Range: the teaching-life constant -471 to the attesting work's ceiling -100 (W_DN26; conventions section 2 and the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier."
  }
 ]
