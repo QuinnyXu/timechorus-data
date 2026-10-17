@@ -1,3 +1,3 @@
-commit: c692f50daf8fda4eadafcc3c5ed749537ec3675e
+commit: 6cdd0fc40953e263a441530cd6a393f36448ca26
 exporter: tools/export_public_data.py v6
 reference_allowlist: sha256 507a6b50b98a642a (119 entries)

@@ -1,7 +1,7 @@
 id,name_en,name_original,region_id,polity_id,modern_location,place_type,lat,lng,coord_certainty,coord_basis,pleiades_id,wikidata_qid,source_ids,description
 PL_QUFU,Qufu,曲阜,R_CN,POL_LU,"Qufu, Shandong, China",capital,35.60,116.99,high,CHGIS / Tan Qixiang; Lu capital site,,Q210287,,Capital of Lu; birthplace and burial place of Confucius.
 PL_LUOYANG,Luoyi (Luoyang),洛邑,R_CN,POL_ZHOU,"Luoyang, Henan, China",capital,34.62,112.45,high,CHGIS / Tan Qixiang,,Q187136,,Eastern Zhou royal capital; traditional site of Confucius's meeting with Laozi.
-PL_RAJGIR,Rajagriha,Rājagṛha,R_IN,POL_MAGADHA,"Rajgir, Bihar, India",capital,25.03,85.42,high,Schwartzberg atlas; archaeological site,,Q863683,,Capital of Magadha in the Buddha's lifetime; site of the First Council (traditional).
+PL_RAJGIR,Rajagaha (Rajagriha),Rājagaha,R_IN,POL_MAGADHA,"Rajgir, Bihar, India",capital,25.03,85.42,high,Schwartzberg atlas; archaeological site,,Q863683,,Capital of Magadha in the Buddha's lifetime; site of the First Council (traditional).
 PL_KUSHINAGAR,Kusinara,Kusinārā,R_IN,,"Kushinagar, Uttar Pradesh, India",town,26.74,83.89,medium,Wikidata (modern site); identification with Kasia accepted since Cunningham/Vogel excavations,,Q825673,,Site of the Buddha's death (parinibbana) per DN 16.
 PL_JERUSALEM,Jerusalem,ירושלים,R_IL,POL_JUDAH,Jerusalem,capital,31.78,35.23,high,Pleiades,687928,Q1218,,"Capital of Judah; Temple destroyed 587/586, rebuilt 520-515."
 PL_BABYLON,Babylon,Bābili,R_ME,POL_NEOBAB,"Hillah, Iraq",capital,32.54,44.42,high,Pleiades,893951,Q5684,,Neo-Babylonian capital; place of the Judean exile; taken by Cyrus 539.

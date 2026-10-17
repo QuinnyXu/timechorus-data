@@ -4441,7 +4441,7 @@
   ],
   "reliability": "low",
   "importance": 4,
-  "note": "polity_id blank, as E_IN_039. The order of the two battles is the order of SN 3.14 and 3.15 in the collection; neither text says which came first.",
+  "note": "polity_id blank, as E_IN_039. The order of the two battles is the order of SN 3.14 and 3.15 in the collection; neither text says which came first. Source-level confirmation of the elephant basis for P_PASENADI's emblem (Sophia r13-4, 2026-10-16): the root Pali names Ajatasattu's elephant troops first of the four divisions Pasenadi takes, 'sabbaṁ hatthikāyaṁ pariyādiyitvā' at sn3.15:1.9 and again at 2.1, inside Q_158's range sn3.15:1.6-2.1, read again at those segments this session in suttacentral/bilara-data, published branch, fetched raw from GitHub (HTTP 200, byte count equal to the GitHub tree listing): sn3.15_root-pli-ms.json and Sujato's sn3.15_translation-en-sujato.json ('elephant troops' at 1.9; the English renders 2.1 as 'And that's what he did.').",
   "review_status": "draft"
  },
  {
@@ -4503,6 +4503,26 @@
   "reliability": "low",
   "importance": 4,
   "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_IN_044",
+  "year_min": -471,
+  "year_max": -380,
+  "year_display": "within the Buddha's teaching life, c. 471-380 BCE (short chronology)",
+  "dating_basis": "No source read in this session dates this by a calendar year; the Pali canon dates nothing that way. The range is the Buddha's teaching life on the corpus's own frame (conventions section 2, the constant -471/-380: the earliest going forth, birth -500 plus twenty-nine years, to the latest death), and the source places the event inside the teaching life and nowhere more exactly; reliability=low says so. SN 3.1:1.2-1.7, 2.1-2.4 and 14.1-14.5, read at their segments this session (Sophia r13-4, 2026-10-16): the Buddha is alive and teaching, and Pasenadi is already king (rājā pasenadi kosalo, 1.3). Pasenadi calls him 'so young in age and newly gone forth' (daharo ceva jātiyā navo ca pabbajjāyā, 2.4), which would put the scene early in the teaching life; the range is NOT narrowed on it, because the text gives no measure of 'newly' and narrowing on an unquantified phrase would be unexplained precision (as for E_IN_041's 'not long after'). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-80 years earlier.",
+  "region_id": "R_IN",
+  "polity_id": "POL_KOSALA",
+  "place_id": "PL_SAVATTHI",
+  "title_en": "Pasenadi questions the Buddha in Jeta's Grove and goes for refuge",
+  "summary_en": "King Pasenadi of Kosala comes to the Buddha in Jeta's Grove near Savatthi and asks how one so young in age and newly gone forth can claim the supreme awakening, when the six famous founders he has asked make no such claim. The Buddha answers that four things should not be despised for being young: an aristocrat, a serpent, a fire and a mendicant. Pasenadi goes for refuge as a lay follower for life.",
+  "category": "meeting",
+  "source_ids": [
+   "SRC_SC_SN"
+  ],
+  "reliability": "low",
+  "importance": 3,
+  "note": "place_id is Savatthi, the city: the text sets the scene 'near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery' (sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme, sn3.1:1.2); the grove lies outside the city, which is the place this dataset locates (as E_IN_014). polity_id is Kosala because Pasenadi acts as its king in his own capital. category is meeting, not ordination: going for refuge as a lay follower (upāsaka, 14.5) is not entering an order. The six founders Pasenadi says he questioned (sn3.1:2.2) are not linked: the text reports those questions, it does not set them at this meeting. Read at segments sn3.1:0.1-14.5 on 2026-10-16, this session (Sophia r13-4), in suttacentral/bilara-data, published branch, fetched raw from GitHub (HTTP 200, byte count equal to the GitHub tree listing): root Pali sn3.1_root-pli-ms.json (5,043 bytes) and Sujato's English sn3.1_translation-en-sujato.json (4,949 bytes), side by side.",
   "review_status": "draft"
  }
 ]
