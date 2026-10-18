@@ -1355,7 +1355,7 @@
   "year_min": -444,
   "year_max": -441,
   "year_display": "c. 444-441 BCE",
-  "dating_basis": "Diogenes Laertius 9.50 (Hicks), citing Heraclides of Pontus On Laws, says Protagoras 'was born at Abdera ... and also that he made laws for Thurii'. DL 9.56 puts his floruit in the 84th Olympiad (= 444-441 BCE); Olympiad conversion per calendars.csv CAL_OLYMPIAD (Ol. n year k = -776 + 4(n-1) + (k-1)). No source dates the lawgiving itself, so the range is the floruit.",
+  "dating_basis": "Diogenes Laertius 9.50 (Hicks), citing Heraclides of Pontus On Laws, says Protagoras 'was born at Abdera ... and also that he made laws for Thurii'. DL 9.56 puts his floruit in the 84th Olympiad (= 444-441 BCE); Olympiad conversion per calendars.csv CAL_OLYMPIAD (Ol. n year k = -776 + 4(n-1) + (k-1)). No source dates the lawgiving itself, so the range is the floruit. APOLLODORUS NAMED (DL 9.56 read 2026-10-18 in Hicks and in the Greek): the floruit is Apollodorus's - 'Apollodorus makes his age seventy, assigns forty years for his career as a sophist, and puts his floruit in the 84th Olympiad' - so this range stands in Apollodorus's chronological frame, not on an independent date for the lawgiving.",
   "region_id": "R_GR",
   "polity_id": null,
   "place_id": "PL_THURII",
@@ -2993,7 +2993,7 @@
   "year_min": -460,
   "year_max": -445,
   "year_display": "c. 460-445 BCE (a scene in Plato, not a dated event)",
-  "dating_basis": "Plato, Parmenides 127b-c (Fowler, PerseusDL), read at its locator this session: Zeno and Parmenides once came to the Great Panathenaea; Parmenides was already quite elderly, about sixty-five years old, very white-haired; Zeno was about forty; and Socrates was then very young. THE SOURCE GIVES NO YEAR, and the Panathenaic festival recurred, so the range here is derived only from what this corpus already holds: P_SOCRATES's birth range (-470/-469) plus an interpretation of very young as somewhere between about ten and twenty-five years old. That interpretation is mine and is disclosed as one. reliability=low, and the summary says in the reader's hearing that this is a scene Plato wrote two generations later.",
+  "dating_basis": "Plato, Parmenides 127b-c (Fowler, PerseusDL), read at its locator this session: Zeno and Parmenides once came to the Great Panathenaea; Parmenides was already quite elderly, about sixty-five years old, very white-haired; Zeno was about forty; and Socrates was then very young. THE SOURCE GIVES NO YEAR, and the Panathenaic festival recurred, so the range here is derived only from what this corpus already holds: P_SOCRATES's birth range (-470/-469) plus an interpretation of very young as somewhere between about ten and twenty-five years old. That interpretation is mine and is disclosed as one. reliability=low, and the summary says in the reader's hearing that this is a scene Plato wrote two generations later. TWO FRAMES (Diogenes Laertius 9.23 read 2026-10-18): this scene's 'about sixty-five years old', at -460/-445, puts Parmenides's birth about -525/-510; Diogenes Laertius 9.23 puts his floruit in the 69th Olympiad (504-501), when on Plato's figures he would have been about six to twenty-four. The conflict is recorded on P_PARMENIDES as well; neither frame is chosen.",
   "region_id": "R_GR",
   "polity_id": "POL_ATHENS",
   "place_id": "PL_ATHENS",
@@ -4523,6 +4523,311 @@
   "reliability": "low",
   "importance": 3,
   "note": "place_id is Savatthi, the city: the text sets the scene 'near Sāvatthī in Jeta's Grove, Anāthapiṇḍika's monastery' (sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme, sn3.1:1.2); the grove lies outside the city, which is the place this dataset locates (as E_IN_014). polity_id is Kosala because Pasenadi acts as its king in his own capital. category is meeting, not ordination: going for refuge as a lay follower (upāsaka, 14.5) is not entering an order. The six founders Pasenadi says he questioned (sn3.1:2.2) are not linked: the text reports those questions, it does not set them at this meeting. Read at segments sn3.1:0.1-14.5 on 2026-10-16, this session (Sophia r13-4), in suttacentral/bilara-data, published branch, fetched raw from GitHub (HTTP 200, byte count equal to the GitHub tree listing): root Pali sn3.1_root-pli-ms.json (5,043 bytes) and Sujato's English sn3.1_translation-en-sujato.json (4,949 bytes), side by side.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_045",
+  "year_min": -488,
+  "year_max": -487,
+  "year_display": "488/487 BCE",
+  "dating_basis": "Aristotle, Constitution of the Athenians (Kenyon, MIT plain text classics.mit.edu/Aristotle/athenian_const.mb.txt, 142,823 bytes, read 2026-10-18, this session), Part 22: 'eleven years later, in the archonship of Phaenippus they won the battle of Marathon; and two years after this victory, when the people had now gained self-confidence, they for the first time made use of the law of ostracism'. The conversion, shown: Marathon is 490 in this corpus (E_GR_017), in the archon year of Phaenippus, 490/489; two archon years on is 488/487. The archon of 488/487 is not named by Ath. Pol. and is not taken from the archon list. The first man ostracized was 'Hipparchus son of Charmus, of the deme of Collytus', a relative of Pisistratus.",
+  "region_id": "R_GR",
+  "polity_id": "POL_ATHENS",
+  "place_id": "PL_ATHENS",
+  "title_en": "Athens uses the law of ostracism for the first time",
+  "summary_en": "Two years after Marathon the Athenians first voted a man into exile by ostracism. The law, Aristotle's Constitution says, had been made by Cleisthenes as a precaution against men in high office, after Pisistratus had used his position to make himself tyrant, and the first man sent away was one of Pisistratus's relatives.",
+  "category": "decree",
+  "source_ids": [
+   "SRC_KENYON_ATHPOL"
+  ],
+  "reliability": "high",
+  "importance": 4,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_046",
+  "year_min": -487,
+  "year_max": -486,
+  "year_display": "487/486 BCE",
+  "dating_basis": "Aristotle, Constitution of the Athenians (Kenyon, MIT plain text classics.mit.edu/Aristotle/athenian_const.mb.txt, 142,823 bytes, read 2026-10-18, this session), Part 22: 'Then in the very next year, in the archonship of Telesinus, they for the first time since the tyranny elected, tribe by tribe, the nine Archons by lot out of the five hundred candidates selected by the demes, all the earlier ones having been elected by vote'. The conversion, shown: 'the very next year' after the first ostracism (E_GR_045, 488/487) is the archon year 487/486, which Ath. Pol. names as Telesinus's; Telesinus is not converted separately from the archon list.",
+  "region_id": "R_GR",
+  "polity_id": "POL_ATHENS",
+  "place_id": "PL_ATHENS",
+  "title_en": "Athens begins choosing its archons by lot",
+  "summary_en": "For the first time since the tyranny, the nine archons were chosen by lot from five hundred candidates put forward by the demes, instead of by vote. In the same year a second man, Megacles son of Hippocrates, was ostracized.",
+  "category": "reform",
+  "source_ids": [
+   "SRC_KENYON_ATHPOL"
+  ],
+  "reliability": "high",
+  "importance": 4,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_047",
+  "year_min": -510,
+  "year_max": -507,
+  "year_display": "between 510 and 507 BCE",
+  "dating_basis": "Herodotus (Godley, PerseusDL canonical-greekLit perseus-eng2 with the Greek perseus-grc2, read 2026-10-18, this session), 5.70.1-5.72.2: invited by Isagoras, Cleomenes 'appeared in Athens with no great force', banished seven hundred families, 'next attempted to dissolve the Council', was resisted and besieged on the acropolis, and the Lacedaemonians left under truce on the third day. Aristotle, Constitution of the Athenians (Kenyon, MIT plain text classics.mit.edu/Aristotle/athenian_const.mb.txt, 142,823 bytes, read 2026-10-18, this session), Part 20, tells the same story ('he next attempted to dissolve the Council, and to set up Isagoras and three hundred of his partisans as the supreme power in the state. The Council, however, resisted'). Neither gives a year. Both set it after the overthrow of the tyranny (E_GR_012, 511/510) and before or within the archonship of Isagoras in which Ath. Pol. 21 places Cleisthenes' reforms (E_GR_002, 508/507), so the range runs from -510 to -507 and no year inside it is chosen.",
+  "region_id": "R_GR",
+  "polity_id": "POL_ATHENS",
+  "place_id": "PL_ATHENS",
+  "title_en": "The Council of Athens resists King Cleomenes",
+  "summary_en": "The Spartan king Cleomenes came to Athens at the call of Isagoras, expelled seven hundred families, and tried to dissolve the Council and hand power to Isagoras's partisans. The Council refused; the people besieged Cleomenes and Isagoras on the Acropolis, and on the third day the Spartans left under a truce. Cleisthenes and the exiles were recalled.",
+  "category": "coup",
+  "source_ids": [
+   "SRC_GODLEY_HDT",
+   "SRC_KENYON_ATHPOL"
+  ],
+  "reliability": "high",
+  "importance": 4,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_048",
+  "year_min": -481,
+  "year_max": -480,
+  "year_display": "481/480 BCE",
+  "dating_basis": "Herodotus (Godley, PerseusDL canonical-greekLit perseus-eng2 with the Greek perseus-grc2, read 2026-10-18, this session), 7.145.1: 'All the Greeks who were concerned about the general welfare of Hellas met in conference and exchanged guarantees. They resolved in debate to make an end of all their feuds and wars against each other'. Herodotus gives no year and names no place in the passage read. The conference is narrated after Xerxes's preparations and before the stand at Thermopylae, so the range runs from the bridging of the Hellespont (E_PE_024, -481/-480) to the campaign of 480 (E_GR_019); nothing narrower is derived. The frame is Herodotus's narrative sequence hung on the archonship of Calliades at 8.51.1.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": null,
+  "title_en": "The Greeks who will resist Persia swear alliance and end their feuds",
+  "summary_en": "Before Xerxes's invasion the Greek cities that meant to resist met, exchanged pledges and agreed to end their wars against one another, the greatest of them the war between Athens and Aegina. It is the first alliance of the Greeks as Greeks.",
+  "category": "treaty",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium",
+  "importance": 4,
+  "note": "No place: Herodotus 7.145 does not name where the conference met, and no place is supplied.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_049",
+  "year_min": -640,
+  "year_max": -545,
+  "year_display": "before c. 546 BCE",
+  "dating_basis": "Herodotus (Godley, PerseusDL canonical-greekLit perseus-eng2 with the Greek perseus-grc2, read 2026-10-18, this session), 1.170.3: Thales's advice was given 'before the destruction' of Ionia (πρὶν ἢ διαφθαρῆναι Ἰωνίην), in contrast with Bias's after it. Herodotus gives no year. The upper bound is the conquest of the Ionian cities (E_GR_008, -547/-545). Nothing read gives a lower bound, so the range opens at the earliest end of Thales's own birth range on P_THALES (-640, Diogenes Laertius 1.37 citing Apollodorus's Chronology); the range is therefore wide on purpose and dates only the man's lifetime before the conquest, not the proposal.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": "PL_TEOS",
+  "title_en": "Thales proposes one council for all Ionia, to sit at Teos",
+  "summary_en": "Before the Persians conquered Ionia, Thales of Miletus advised the Ionians to have a single council chamber, at Teos, the centre of Ionia, and to treat the other cities as no more than its districts: a federal state in place of a dozen cities. Herodotus calls the advice good. The map puts it at Teos, the seat he proposed; Herodotus does not say where he gave it.",
+  "category": "speech",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium",
+  "importance": 3,
+  "note": "Place: PL_TEOS is the seat Thales proposed (Hdt 1.170.3), not a place where any source says he spoke; the summary says so, and P_THALES is linked as related, not present.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_050",
+  "year_min": -480,
+  "year_max": -480,
+  "year_display": "480 BCE",
+  "dating_basis": "Herodotus (Godley, PerseusDL canonical-greekLit perseus-eng2 with the Greek perseus-grc2, read 2026-10-18, this session), 7.166.1: the Sicilians 'add this tale too—that Gelon and Theron won a victory over Amilcas the Carchedonian in Sicily on the same day that the Greeks defeated the Persian at Salamis' (λέγουσι: the synchronism is theirs, reported). Diodorus (Oldfather, Loeb vol. IV 1946 / vol. V 1950, LacusCurtius pages 11A*-11D* and 12A*-12D*, each read 2026-10-18, this session), 11.1.2 (Calliades archon, the 75th Olympiad, the year of Xerxes's campaign) and 11.20-24: Gelon relieves Himera, where Theron was guarding the city, and 11.24.1 sets the victory 'on the same day that Leonidas and his soldiers were contesting against Xerxes at Thermopylae'. The two sources disagree on the day (Salamis or Thermopylae) and agree on the year; both are recorded and the day is not chosen. The year is 480, as for E_GR_019 and E_GR_021.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": "PL_HIMERA",
+  "title_en": "Gelon and Theron defeat the Carthaginians at Himera",
+  "summary_en": "In the year Xerxes invaded Greece, a Carthaginian army under Hamilcar attacked Himera in Sicily and was destroyed by Gelon of Syracuse and Theron of Acragas. Herodotus heard from the Sicilians that it happened on the day of Salamis; Diodorus puts it on the day of Thermopylae.",
+  "category": "battle",
+  "source_ids": [
+   "SRC_GODLEY_HDT",
+   "SRC_OLDFATHER_DIOD"
+  ],
+  "reliability": "high",
+  "importance": 4,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_051",
+  "year_min": -466,
+  "year_max": -465,
+  "year_display": "466/465 BCE",
+  "dating_basis": "Diodorus (Oldfather, Loeb vol. IV 1946 / vol. V 1950, LacusCurtius pages 11A*-11D* and 12A*-12D*, each read 2026-10-18, this session), 11.67.1-11.68.6, under the heading 'When Lysanias was archon in Athens': Thrasybulus was driven out, and the Syracusans 'liberated the other cities, which were either in the hands of tyrants or had garrisons, and re-established democracies in them ... and it maintained its democracy for almost sixty years'. The archon conversion, shown on Diodorus's own sequence: 11.65.1 'Theageneides was archon in Athens ... and the Seventy-eighth Olympiad' (Ol. 78.1 = 468/467 on CAL_OLYMPIAD), 11.66.1 Lysistratus (467/466), 11.67.1 Lysanias (466/465), 11.69.1 Lysitheus (465/464), 11.70.1 Archedemides with the Seventy-ninth Olympiad (Ol. 79.1 = 464/463), so the chain closes. The equation is Diodorus's, not the archon list's, and his archon list is not checked here.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": "PL_SYRACUSE",
+  "title_en": "Syracuse expels its tyrant and restores democracy in the Sicilian cities",
+  "summary_en": "The Syracusans, helped by Gela, Acragas, Selinus and Himera, drove out the tyrant Thrasybulus, Hieron's brother, and then freed the other Sicilian cities from their tyrants and garrisons and set up democracies. Diodorus says Syracuse kept its democracy for almost sixty years.",
+  "category": "coup",
+  "source_ids": [
+   "SRC_OLDFATHER_DIOD"
+  ],
+  "reliability": "medium",
+  "importance": 4,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_052",
+  "year_min": -454,
+  "year_max": -453,
+  "year_display": "454/453 BCE",
+  "dating_basis": "Diodorus (Oldfather, Loeb vol. IV 1946 / vol. V 1950, LacusCurtius pages 11A*-11D* and 12A*-12D*, each read 2026-10-18, this session), 11.86.1-11.87.6, under the heading 'When Ariston was archon in Athens': the Syracusans, 'led to imitate the Athenians', wrote the name of the most influential citizen on an olive leaf and exiled him for five years, but 'soon repealed' the law. The archon conversion, shown on Diodorus's own sequence: 11.84.1 'While Callias was archon in Athens, in Elis the Eighty-first Olympiad was celebrated' (Ol. 81.1 = 456/455), 11.85.1 Sosistratus (455/454), 11.86.1 Ariston (454/453). Diodorus narrates the institution and the repeal together under that year; the repeal's own date is not given, so the range carries the year of the narrative only.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": "PL_SYRACUSE",
+  "title_en": "Syracuse adopts petalism, its own ostracism, and soon repeals it",
+  "summary_en": "Syracuse copied the Athenian ostracism: citizens wrote the name of the man most able to make himself tyrant on an olive leaf, and the man with most leaves went into exile for five years. Diodorus says the best men then withdrew from public life and demagogues took their place, so the Syracusans repealed the law after a short while.",
+  "category": "decree",
+  "source_ids": [
+   "SRC_OLDFATHER_DIOD"
+  ],
+  "reliability": "medium",
+  "importance": 3,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_053",
+  "year_min": -427,
+  "year_max": -426,
+  "year_display": "427/426 BCE",
+  "dating_basis": "Diodorus (Oldfather, Loeb vol. IV 1946 / vol. V 1950, LacusCurtius pages 11A*-11D* and 12A*-12D*, each read 2026-10-18, this session), 12.53.1-5, under the heading 'When Eucleides was archon in Athens': the Leontines, attacked by Syracuse, sent an embassy to Athens; 'The leader of the embassy was Gorgias the rhetorician', whose figures of speech filled the Athenians 'with wonder', and the alliance was won. The archon conversion, shown on Diodorus's own sequence: 12.49.1 'When Diotimus was archon in Athens ... the Eleians celebrated the Eighty-eighth Olympiad' (Ol. 88.1 = 428/427), and the next archon heading is 12.53.1 Eucleides (427/426). Thucydides' account of the Leontine embassy was not read for this row.",
+  "region_id": "R_GR",
+  "polity_id": "POL_ATHENS",
+  "place_id": "PL_ATHENS",
+  "title_en": "Gorgias of Leontini dazzles the Athenian assembly",
+  "summary_en": "Leontini, at war with Syracuse, sent an embassy to Athens led by Gorgias. Diodorus says his antitheses and balanced clauses, new to Athens then and laboured-sounding later, won over the assembly, and Athens voted an alliance and sent a force to Sicily.",
+  "category": "speech",
+  "source_ids": [
+   "SRC_OLDFATHER_DIOD"
+  ],
+  "reliability": "medium",
+  "importance": 3,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_054",
+  "year_min": -444,
+  "year_max": -441,
+  "year_display": "c. 444-441 BCE (84th Olympiad)",
+  "dating_basis": "Diogenes Laertius 8.74 (Hicks, PerseusDL canonical-greekLit perseus-eng2 with the Greek, read 2026-10-18, this session): 'He flourished in the 84th Olympiad' (= 444-441 on CAL_OLYMPIAD). DL names no authority at 8.74; at 8.52 he cites Apollodorus's Chronology for Empedocles's going to Thurii 'just then founded', and Burnet (Early Greek Philosophy 3rd ed., 'Empedokles of Akragas' §98, rendered page read 2026-10-18) calls the forty-year floruit 'the usual assumption of Apollodoros' and thinks it too late. A floruit is stored as an activity range (conventions §2). The summary's political acts are DL 8.63-66 and 8.72, all from Timaeus, Xanthus and Neanthes as DL reports them, and are not dated.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": "PL_AKRAGAS",
+  "title_en": "Empedocles active at Acragas",
+  "summary_en": "Diogenes Laertius puts Empedocles' prime in the 84th Olympiad. On the Sicilian historian Timaeus's stories, he prosecuted a magistrate who was playing at tyranny, broke up the oligarchic assembly of the Thousand, and refused the kingship when it was offered; Neanthes says he persuaded the citizens to cultivate equality in politics. Burnet warns that we have no clear knowledge of what he did.",
+  "category": "activity",
+  "source_ids": [
+   "SRC_DL9",
+   "SRC_BURNET_EGP"
+  ],
+  "reliability": "low",
+  "importance": 3,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_055",
+  "year_min": -446,
+  "year_max": -445,
+  "year_display": "446/445 BCE",
+  "dating_basis": "Thucydides (Crawley, MIT plain text, 1,048,323 bytes, read 2026-10-18, this session, with the Greek in PerseusDL canonical-greekLit tlg0003.tlg001.perseus-grc2), 1.115.1: 'Not long after their return from Euboea, they made a truce with the Lacedaemonians and their allies for thirty years'. The year is Thucydides' own count, shown: 2.2.1 (re-read today in the PerseusDL eng6 Crawley) says the truce 'lasted fourteen years. In the fifteenth ... at the beginning of spring' the Thebans entered Plataea (E_GR_029, spring 431); spring 431 falls in the truce's fifteenth year, so its first year began fourteen years earlier, in 445, and the truce was made in the winter of 446/445.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": null,
+  "title_en": "Athens and Sparta make the Thirty Years' Peace",
+  "summary_en": "Soon after subduing Euboea, Athens made a truce for thirty years with Sparta and its allies, giving up the places it held in the Peloponnese. It lasted fourteen years; its breaking began the Peloponnesian War.",
+  "category": "treaty",
+  "source_ids": [
+   "SRC_CRAWLEY_THUC",
+   "SRC_CRAWLEY_THUC_BK8"
+  ],
+  "reliability": "high",
+  "importance": 4,
+  "note": "No place: Thucydides 1.115.1 does not say where the truce was sworn. SRC_CRAWLEY_THUC_BK8 is cited because 2.2.1 was re-read in its PerseusDL eng6 file.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_056",
+  "year_min": -421,
+  "year_max": -421,
+  "year_display": "spring 421 BCE",
+  "dating_basis": "Thucydides (Crawley, MIT plain text, 1,048,323 bytes, read 2026-10-18, this session, with the Greek in PerseusDL canonical-greekLit tlg0003.tlg001.perseus-grc2), 5.18.1-5.20.1. The treaty carries its own double eponymous date (5.19.1): it 'begins from the ephoralty of Pleistolas in Lacedaemon, on the 27th day of the month of Artemisium, and from the archonship, of Alcaeus at Athens, on the 25th day of the month of Elaphebolion' (so punctuated in the MIT text; the Greek, ἔφορος Πλειστόλας ... ἄρχων Ἀλκαῖος, counts the days 'from the end' of each month). 5.20.1: 'This treaty was made in the spring, just at the end of winter, directly after the city festival of Dionysus, just ten years, with the difference of a few days, from the first invasion of Attica and the commencement of this war'. Ten years from the spring of 431 (E_GR_029) is the spring of 421. Neither archon nor ephor is converted from a list.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": null,
+  "title_en": "The Peace of Nicias, with its text",
+  "summary_en": "Ten years into the war Athens and Sparta made peace for fifty years, sworn city by city. Thucydides copies the treaty: free access to the common sanctuaries, Delphi to govern, tax and judge itself, and a double date by the Spartan ephor and the Athenian archon, because the Greeks had no common calendar.",
+  "category": "treaty",
+  "source_ids": [
+   "SRC_CRAWLEY_THUC"
+  ],
+  "reliability": "high",
+  "importance": 4,
+  "note": "No place: the treaty text read (5.18-19) names no place of swearing.",
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_057",
+  "year_min": -424,
+  "year_max": -423,
+  "year_display": "winter 424/423 BCE",
+  "dating_basis": "Thucydides (Crawley, MIT plain text, 1,048,323 bytes, read 2026-10-18, this session, with the Greek in PerseusDL canonical-greekLit tlg0003.tlg001.perseus-grc2), 4.102-107: in the winter, Brasidas took Amphipolis; Thucydides, sent for from Thasos (4.104.4), 'late in the same day ... entered the harbour of Eion' and saved it (4.106.3-4, 4.107.1). The year is Thucydides' count, shown: 4.116.3 closes the narrative 'with the expiration of the winter the eighth year of this war ended'; the war's first year began in the spring of 431 (E_GR_029), so the eighth year runs from the spring of 424 to the spring of 423, and its winter is 424/423. 5.26.5: 'It was also my fate to be an exile from my country for twenty years after my command at Amphipolis'.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": "PL_AMPHIPOLIS",
+  "title_en": "Brasidas takes Amphipolis; Thucydides saves Eion and is exiled",
+  "summary_en": "In winter the Spartan Brasidas won Amphipolis, an Athenian colony in Thrace, before help could arrive. The Athenian general sent for from Thasos reached nearby Eion late the same day and held it, but Amphipolis was lost. That general was Thucydides, who says he then spent twenty years in exile.",
+  "category": "conquest",
+  "source_ids": [
+   "SRC_CRAWLEY_THUC"
+  ],
+  "reliability": "high",
+  "importance": 3,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_GR_058",
+  "year_min": -591,
+  "year_max": -578,
+  "year_display": "c. 590-579 BCE",
+  "dating_basis": "Diogenes Laertius 1.75 and 1.79 (Hicks, PerseusDL canonical-greekLit perseus-eng2 with the Greek, read 2026-10-18, this session). 1.75: the people of Mitylene 'entrusted him with the government. He ruled for ten years and brought the constitution into order, and then laid down his office. He lived another ten years after his abdication'. 1.79: he died 'in the archonship of Aristomenes, in the third year of the 52nd Olympiad' (Ol. 52.3 = 570/569 on CAL_OLYMPIAD). The arithmetic, shown: abdication ten years before 570/569 is about 580/579, and the rule began ten years before that, about 590/589; DL's round tens and the straddling Olympiad year are carried by widening each end by a year, so -591/-578. Aristotle, Politics 3.1285a30-b1 (Ross's Greek, PerseusDL tlg0086.tlg035.perseus-grc2, read the same day) calls the office an elected tyranny (αἱρετὴ τυραννίς) and says the Mitylenaeans elected Pittacus against the exiles led by Antimenides and the poet Alcaeus; Aristotle gives no year.",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "place_id": "PL_MYTILENE",
+  "title_en": "Pittacus rules Mytilene by election, then lays down his power",
+  "summary_en": "The people of Mytilene elected Pittacus to hold sole power against the exiles led by the poet Alcaeus, who mocked him in song as a base-born tyrant. Aristotle calls the office an elected tyranny; Diogenes Laertius says he ruled ten years, put the constitution in order, and gave the power back.",
+  "category": "activity",
+  "source_ids": [
+   "SRC_DL9",
+   "SRC_RACKHAM_POL"
+  ],
+  "reliability": "medium",
+  "importance": 3,
+  "note": null,
+  "review_status": "draft"
+ },
+ {
+  "id": "E_PE_037",
+  "year_min": -493,
+  "year_max": -493,
+  "year_display": "493 BCE",
+  "dating_basis": "Herodotus (Godley, PerseusDL canonical-greekLit perseus-eng2 with the Greek perseus-grc2, read 2026-10-18, this session), 6.42.1-2: 'In this year ... Artaphrenes governor of Sardis summoned ambassadors from the cities and compelled the Ionians to make agreements among themselves that they would abide by the law and not rob and plunder each other', measured their lands by parasangs and fixed a tribute 'ever since that time up to this day'. 'This year' is the one 6.31.1 opens: the Persian fleet wintered at Miletus after taking it, 'and putting out to sea in the next year' subdued the islands. With the fall of Miletus at 494 (E_GR_015, itself the conventional year, not derived from a source read), the next year is 493; the row inherits that convention.",
+  "region_id": "R_PE",
+  "polity_id": "POL_ACHAEMENID",
+  "place_id": "PL_SARDIS",
+  "title_en": "Artaphernes makes the Ionian cities settle disputes at law",
+  "summary_en": "After the Ionian revolt the Persian satrap at Sardis summoned envoys from the Greek cities and made them agree to settle their quarrels by legal process instead of raiding one another, measured their lands in parasangs, and fixed a tribute that Herodotus says still stood in his own day. A Persian governor imposed arbitration on Greek cities.",
+  "category": "decree",
+  "source_ids": [
+   "SRC_GODLEY_HDT"
+  ],
+  "reliability": "medium",
+  "importance": 3,
+  "note": "Category: decree, because a satrap's order is the act; the agreements it compelled were between the Ionian cities, which is why the summary calls it arbitration. δωσίδικοι (6.42.1), rendered by Godley 'abide by the law', means submitting disputes to legal process.",
   "review_status": "draft"
  }
 ]

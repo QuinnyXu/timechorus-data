@@ -1214,5 +1214,100 @@
   "wikidata_qid": null,
   "source_ids": null,
   "description": "Station of the same route, before Savatthi (Snp 5.1:37.1, read this session). UNLOCATED IN THIS DATASET until Schwartzberg is read."
+ },
+ {
+  "id": "PL_SPARTA",
+  "name_en": "Sparta",
+  "name_original": "Σπάρτη",
+  "region_id": "R_GR",
+  "polity_id": "POL_SPARTA",
+  "modern_location": "Sparti, Laconia, Greece",
+  "place_type": "polis",
+  "lat": 37.0818,
+  "lng": 22.4247,
+  "coord_certainty": "high",
+  "coord_basis": "Pleiades (reprPoint from pleiades.stoa.org/places/<id>/json, read 2026-10-18)",
+  "pleiades_id": "570685",
+  "wikidata_qid": null,
+  "source_ids": [
+   "SRC_PLEIADES"
+  ],
+  "description": "The chief city of Lacedaemon. Pleiades 570685, 'Sparta' (JSON read 2026-10-18; names include Lacedemone and modern Sparti). name_original is the form Herodotus prints. Added so that POL_SPARTA has a place to stand and Cleomenes a place to be drawn."
+ },
+ {
+  "id": "PL_TEOS",
+  "name_en": "Teos",
+  "name_original": "Τέως",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "modern_location": "Sığacık, İzmir province, Turkey",
+  "place_type": "polis",
+  "lat": 38.1773,
+  "lng": 26.785,
+  "coord_certainty": "high",
+  "coord_basis": "Pleiades (reprPoint from pleiades.stoa.org/places/<id>/json, read 2026-10-18)",
+  "pleiades_id": "550913",
+  "wikidata_qid": null,
+  "source_ids": [
+   "SRC_PLEIADES"
+  ],
+  "description": "Ionian city on the coast of Asia Minor. Pleiades 550913, 'Teos' ('located at modern Siğacik in Turkey', JSON read 2026-10-18). Herodotus 1.170.3 has Thales propose it as the seat of a single council for all Ionia, 'for that was the center of Ionia'."
+ },
+ {
+  "id": "PL_AKRAGAS",
+  "name_en": "Acragas (Agrigentum)",
+  "name_original": "Ἀκράγας",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "modern_location": "Agrigento, Sicily, Italy",
+  "place_type": "polis",
+  "lat": 37.2906,
+  "lng": 13.5855,
+  "coord_certainty": "high",
+  "coord_basis": "Pleiades (reprPoint from pleiades.stoa.org/places/<id>/json, read 2026-10-18)",
+  "pleiades_id": "462086",
+  "wikidata_qid": null,
+  "source_ids": [
+   "SRC_PLEIADES"
+  ],
+  "description": "Greek city on the south coast of Sicily, Empedocles' city and Theron's. Pleiades 462086, 'Akragas/Agrigentum' (JSON read 2026-10-18); the r14-2 survey's search had surfaced only sub-sites, and this settlement record was found today by the Pleiades search for 'Akragas'."
+ },
+ {
+  "id": "PL_HIMERA",
+  "name_en": "Himera",
+  "name_original": "Ἱμέρα",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "modern_location": "north shore of Sicily, Italy",
+  "place_type": "polis",
+  "lat": 37.9698,
+  "lng": 13.8223,
+  "coord_certainty": "high",
+  "coord_basis": "Pleiades (reprPoint from pleiades.stoa.org/places/<id>/json, read 2026-10-18)",
+  "pleiades_id": "462244",
+  "wikidata_qid": null,
+  "source_ids": [
+   "SRC_PLEIADES"
+  ],
+  "description": "Greek colony on the north shore of Sicily, where Gelon and Theron defeated the Carthaginian army in 480. Pleiades 462244, 'Himera' (JSON read 2026-10-18); the settlement record was found today by the Pleiades search for 'Himera'."
+ },
+ {
+  "id": "PL_AMPHIPOLIS",
+  "name_en": "Amphipolis",
+  "name_original": "Ἀμφίπολις",
+  "region_id": "R_GR",
+  "polity_id": null,
+  "modern_location": "Amfipoli, Central Macedonia, Greece",
+  "place_type": "polis",
+  "lat": 40.8258,
+  "lng": 23.8416,
+  "coord_certainty": "high",
+  "coord_basis": "Pleiades (reprPoint from pleiades.stoa.org/places/<id>/json, read 2026-10-18)",
+  "pleiades_id": "501347",
+  "wikidata_qid": null,
+  "source_ids": [
+   "SRC_PLEIADES"
+  ],
+  "description": "Athenian colony on the Strymon in Thrace, taken by Brasidas in the winter of 424/423; Thucydides, the Athenian general who came too late to save it, was exiled for twenty years. Pleiades 501347, 'Amphipolis' (JSON read 2026-10-18)."
  }
 ]

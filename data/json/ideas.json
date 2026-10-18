@@ -201,7 +201,7 @@
   "first_attested_year_min": -560,
   "first_attested_year_max": -546,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Anaximander DK 12 B1 (Q_027, idea_link IL_045); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -560/-546 = W_ANAXIMANDER_FR's composition window."
+  "first_attestation_basis": "First attested at Anaximander DK 12 B1 (Q_027, idea_link IL_045); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -560/-546 = W_ANAXIMANDER_FR's composition window. WHY THE IDEA OPENS AT ANAXIMANDER AND NOT AT HESIOD: this row names justice as the order of things, the settlement the cosmos itself keeps, and Anaximander's fragment is the first text in this corpus to use the language of a lawsuit of the world. Hesiod's Works and Days, which no source read for this corpus dates, already sets Justice against Outrage (213-218, Evelyn-White, read 2026-10-18: 'Justice beats Outrage when she comes at length to the end of the race') and describes the city that gives straight judgements and prospers (225-237); but that is justice among men, in the city, watched over by Zeus, not justice as the order of the world. Hesiod's civic Dike is therefore this idea's root, not its first attestation, and it is not linked here because no Hesiod row is in the pilot."
  },
  {
   "id": "I_XINGSHU",
@@ -586,5 +586,41 @@
   "first_attested_year_max": -100,
   "review_status": "draft",
   "first_attestation_basis": "First attested at DN 26:5.2-5.4 and 10.3-10.5 (Q_138, IL_221), read at its segments 2026-10-16 (Sophia r13-3, this session), a story of past kings told in the Buddha's mouth. Range: the teaching-life constant -471 to the attesting work's ceiling -100 (W_DN26; conventions section 2 and the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-100 years earlier."
+ },
+ {
+  "id": "I_EUNOMIA",
+  "name_en": "Eunomia (good order under law)",
+  "name_original": "εὐνομίη",
+  "region_of_origin": "R_GR",
+  "category": "politics",
+  "one_line_en": "A city is ruined by its own citizens' greed and lawlessness, not by the gods, and held together by good order under law: law, not a man, is the master.",
+  "first_attested_year_min": -640,
+  "first_attested_year_max": -558,
+  "review_status": "draft",
+  "first_attestation_basis": "First attested in Solon's elegy as Demosthenes 19.255 quotes it (Q_165, originates), read 2026-10-18 in Butcher's Greek and Vince's English: 'dysnomia brings the city most evils, eunomia makes all things orderly and sound'. The poem is undated. The range is W_SOLON_FR's, Solon's lifetime as P_SOLON carries it (-640/-558), so it dates the poet's life, not the poem; his archonship (E_GR_001, 594/593), the only dated point of his career read, is NOT used as the poem's date. The range straddles the slice's -600 end. Hesiod, Works and Days 225-237 (Evelyn-White, read the same day) already describes the city that gives straight judgements and prospers; it is the idea's root, not linked, because no Hesiod row is in the pilot."
+ },
+ {
+  "id": "I_ARCHE",
+  "name_en": "Arche: empire and the rule of the stronger",
+  "name_original": "ἀρχή",
+  "region_of_origin": "R_GR",
+  "category": "politics",
+  "one_line_en": "Growing power forces war, and the weaker have always been ruled by the stronger: empire is held like a tyranny that it would be unsafe to let go.",
+  "first_attested_year_min": -431,
+  "first_attested_year_max": -400,
+  "review_status": "draft",
+  "first_attestation_basis": "First attested at Thucydides 1.76.2 (Q_185, originates), the Athenian envoys at Sparta: 'it has always been law that the weaker should be subject to the stronger', read 2026-10-18 in the MIT Crawley and the Greek (ἀρχήν, the empire offered to Athens). The speech is set before the war, but its words are Thucydides' composition (1.22.1, read the same day), so the range is W_THUCYDIDES's composition window, -431/-400, the practice of I_HUBRIS, which takes W_HERODOTUS's window. The Melian dialogue (Q_020) is the idea's sharpest development and already stands as refuting I_DIKE."
+ },
+ {
+  "id": "I_TO_HELLENIKON",
+  "name_en": "To Hellenikon: the Greek 'we'",
+  "name_original": "τὸ Ἑλληνικόν",
+  "region_of_origin": "R_GR",
+  "category": "politics",
+  "one_line_en": "The Greeks are one people by blood and speech, shared shrines and sacrifices and a common way of life, though they have no common state.",
+  "first_attested_year_min": -440,
+  "first_attested_year_max": -420,
+  "review_status": "draft",
+  "first_attestation_basis": "First attested at Herodotus 8.144.2 (Q_191, originates), the Athenians' answer to Sparta, read 2026-10-18 in Godley's English and the Greek: 'the kinship of all Greeks in blood and speech, and the shrines of gods and the sacrifices that we have in common, and the likeness of our way of life' (τὸ Ἑλληνικὸν ἐὸν ὅμαιμόν τε καὶ ὁμόγλωσσον). The words are Herodotus's composition, so the range is W_HERODOTUS's composition window, -440/-420, as for I_HUBRIS. The alliance of 481/480 (E_GR_048) enacts the idea before it is named."
  }
 ]

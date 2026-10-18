@@ -1,7 +1,7 @@
 TimeChorus data licence
 =======================
 
-Dataset: TimeChorus (axial corpus), exported from source commit a52c00397e5ae0b998eed3aad65929a557a16b15.
+Dataset: TimeChorus (axial corpus), exported from source commit c1d16873cec0eac2b754013593bfe30676102018.
 Site: https://timechorus.com
 
 1. The compilation and the project's own words
@@ -30,14 +30,14 @@ length. Share-alike (CC BY-SA) constrains what a reuser of that quoted text must
 downstream; it does not alter the licence of the rest of the dataset.
 
 Sources by licence:
-  public domain  64
+  public domain  66
   CC0            10
   CC BY 4.0      2
   CC BY 3.0      1
-  CC BY-SA 4.0   4
+  CC BY-SA 4.0   12
   CC BY-SA 3.0   1
   copyright      11
-  unconfirmed    2
+  unconfirmed    4
 
 3. Attribution clauses (CC BY and CC BY-SA sources)
 
@@ -50,10 +50,25 @@ labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
     Shown as: On the site these lines are signed "Tolman, Ancient Persian Lexicon and the Texts of the Achaemenidan Inscriptions" — that is the translator; the original script above it is this edition's.
     Attribution: ARIo / MOCCI, LMU Munich; Heitmann-Gordon; Schmitt 2009.
 
+* Aeschylus, Eumenides, ed. and tr. H. W. Smyth (Loeb), Perseus Digital Library [CC BY-SA 4.0] (SRC_SMYTH_EUMENIDES)
+    Attribution: Aeschylus, Eumenides, edited and translated by Herbert Weir Smyth (Loeb Classical Library, William Heinemann and G. P. Putnam's Sons, 1926), in the digital edition of the Perseus Digital Library: Greek text tlg0085.tlg007.perseus-grc2, English text tlg0085.tlg007.perseus-eng2, the English modernised by Judith Nelson and reviewed by John Gibert. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* Aeschylus, Persians, ed. and tr. H. W. Smyth (Loeb), Perseus Digital Library [CC BY-SA 4.0] (SRC_SMYTH_PERSIANS)
+    Attribution: Aeschylus, Persians, edited and translated by Herbert Weir Smyth (Loeb Classical Library, William Heinemann and G. P. Putnam's Sons, 1922), in the digital edition of the Perseus Digital Library: Greek text tlg0085.tlg002.perseus-grc2, English text tlg0085.tlg002.perseus-eng2, the English modernised by Annete Giesecke and reviewed by John Gibert. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* Aristotle, Politica, ed. W. D. Ross (OCT; Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_POL_GRC)
+    Attribution: Aristotle, Politica, edited by W. D. Ross (Oxford Classical Texts, Clarendon Press, 1957), in the digital edition of the Perseus Digital Library: Greek text tlg0086.tlg035.perseus-grc2. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* Demosthenes, Orationes, ed. S. H. Butcher (Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_DEM19_GRC)
+    Attribution: Demosthenes, Orationes, edited by S. H. Butcher (Oxford: Clarendon Press, 1903), in the digital edition of the Perseus Digital Library: Greek text tlg0014.tlg019.perseus-grc2. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
 * Diogenes Laertius, Lives of Eminent Philosophers, ed. Hicks (Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_DL_GRC)
     Used for: Supplies the Greek original of three quoted passages of Diogenes Laertius: 9.45 (Democritus) and 9.51 (Protagoras, twice).
     Shown as: On the site these passages are signed "Diogenes Laertius, Lives of the Eminent Philosophers, tr. Hicks (Loeb)" — that is the translation beside them. The Greek above it is the Perseus Digital Library's digital text of the same Loeb edition, which this licence covers.
     Attribution: Diogenes Laertius, Lives of Eminent Philosophers, edited by R. D. Hicks (Loeb Classical Library: Cambridge, MA, Harvard University Press; London, William Heinemann, 1925), in the digital edition of the Perseus Digital Library: Greek text tlg0004.tlg001.perseus-grc2, published by the Trustees of Tufts University with Cultural Heritage Language Technologies. Principal Gregory Crane; prepared under the supervision of Bridget Almas, Lisa Cerrato and Rashmi Singhal. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* Euripides, Suppliants, ed. G. Murray (OCT; Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_MURRAY_SUPPL_GRC)
+    Attribution: Euripides, Suppliants, in Euripidis Fabulae, edited by Gilbert Murray (Oxford: Clarendon Press, 1913), in the digital edition of the Perseus Digital Library: Greek text tlg0006.tlg008.perseus-grc2. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
 
 * Herodotus, tr. Godley (Loeb) [CC BY-SA 4.0] (SRC_GODLEY_HDT)
     Used for: Supplies seven quoted passages of Herodotus — the Greek original and the English translation of each: 1.74.2, 3.38.4, 3.80.6, 3.89.3, 5.37.2, 6.21.2 and 7.10ε.
@@ -65,6 +80,9 @@ labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
     Shown as: On the site these lines are signed "Mills, Sacred Books of the East vol. 31: The Zend-Avesta part III (Yasna)" — that is the translator; the original script above it is this edition's.
     Attribution: Corpus Avesticum - The Multimedia Yasna (MUYA), SOAS University of London, funded by the European Research Council; principal investigator Almut Hintze; the Yasna 28-30 edition and the TEI transcriptions by Benedikt Peschl.
 
+* Pindar, Odes, ed. J. Sandys (Loeb; Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_SANDYS_PIND_GRC)
+    Attribution: Pindar, Pythian Odes, Greek text edited by Sir John Sandys (The Odes of Pindar, Loeb Classical Library, Harvard University Press and William Heinemann, 1937 reprint), in the digital edition of the Perseus Digital Library: Greek text tlg0033.tlg002.perseus-grc2. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
 * Plato, Apology, ed. Burnet (Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_APOLOGY_GRC)
     Used for: Supplies the Greek original of one quoted passage of Plato's Apology: 38a.
     Shown as: On the site this passage carries Fowler's Loeb translation beside it. The Greek above it is the Perseus Digital Library's digital text of John Burnet's Oxford edition, which this licence covers.
@@ -73,6 +91,12 @@ labelled ATTRIBUTION CLAUSE segment of sources.licence_note).
 * Pleiades gazetteer of ancient places [CC BY 3.0] (SRC_PLEIADES)
     Used for: Supplies the coordinate basis of 35 of this atlas's 56 places — every located place except the Indian and Chinese ones. Each of those rows carries its Pleiades id, so any point can be checked against the gazetteer record it was taken from.
     Attribution: Pleiades, pleiades.stoa.org — a joint project of the Institute for the Study of the Ancient World at New York University and the Ancient World Mapping Center at the University of North Carolina at Chapel Hill; senior editors Roger Bagnall and Richard Talbert, managing editor Tom Elliott, with the associate editors, reviewers and individual contributors named at pleiades.stoa.org/credits, who hold copyright in the content together with the participating institutions. Copyright © Ancient World Mapping Center and Institute for the Study of the Ancient World. Used under the Creative Commons Attribution 3.0 License (cc-by), creativecommons.org/licenses/by/3.0/, whose text carries the disclaimer of warranties. Individual place points are used, each recorded in this atlas against its Pleiades id and reachable at pleiades.stoa.org/places/<id>; no Pleiades dataset or extract is redistributed.
+
+* Sophocles, Antigone, ed. F. Storr (Loeb; Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_STORR_ANTIGONE_GRC)
+    Attribution: Sophocles, Antigone, Greek text edited by Francis Storr (Loeb Classical Library, William Heinemann and The Macmillan Company, 1912), in the digital edition of the Perseus Digital Library: Greek text tlg0011.tlg002.perseus-grc2. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
+
+* Sophocles, Antigone, tr. R. C. Jebb, Perseus Digital Library (modernised) [CC BY-SA 4.0] (SRC_JEBB_ANTIGONE)
+    Attribution: Sophocles, Antigone, translated by Richard Jebb (Cambridge University Press, 1891), in the digital edition of the Perseus Digital Library: English text tlg0011.tlg002.perseus-eng2, modernised by Pierre Habel and reviewed by John Gibert. Funder: The Annenberg CPB/Project. Sponsor: Perseus Project, Tufts University; principal Gregory Crane; prepared under the supervision of Lisa Cerrato, William Merrill, Elli Mylonas and David Smith. Tufts University holds the overall copyright to the Perseus Digital Library. Published at github.com/PerseusDL/canonical-greekLit and licensed under the Creative Commons Attribution-ShareAlike 4.0 International License, creativecommons.org/licenses/by-sa/4.0/, whose text carries the disclaimer of warranties. Used here as excerpts: the TEI markup and the Perseus editorial notes are removed, and the words are otherwise unchanged.
 
 * Thucydides, Historiae, ed. H. Stuart Jones (Greek text, Perseus Digital Library perseus-grc2) [CC BY-SA 4.0] (SRC_PERSEUS_THUC_GRC)
     Used for: Supplies the Greek original of five quoted passages of Thucydides: 1.22.4, 2.37.1, 2.53.4, 3.82.4 and 5.89.1.
@@ -92,6 +116,9 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_KENYON_ATHPOL | public domain | translator F.G. Kenyon 1891
     Aristotle, Constitution of the Athenians, tr. Kenyon
     https://classics.mit.edu/Aristotle/athenian_const.html
+* SRC_RACKHAM_POL | unconfirmed | translator Harris Rackham 1944
+    Aristotle, Politics, tr. H. Rackham (Loeb, 1944 printing), Perseus Digital Library
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0086/tlg035/tlg0086.tlg035.perseus-eng2.xml
 * SRC_ABC5 | copyright | translator A.K. Grayson / J.-J. Glassner (via livius.org) 1975
     Babylonian Chronicle ABC 5 (Chronicle Concerning the Early Years of Nebuchadnezzar II; the 'Jerusalem Chronicle'), Livius.org edition
     https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/
@@ -109,12 +136,18 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_CTEXT | unconfirmed
     Chinese Text Project (ctext.org): the Chinese base texts read there
     https://ctext.org/
+* SRC_VINCE_DEM19 | public domain | translator C. A. Vince and J. H. Vince 1926
+    Demosthenes, On the False Embassy (19), tr. C. A. and J. H. Vince (Loeb)
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0014/tlg019/tlg0014.tlg019.perseus-eng2.xml
 * SRC_OLDFATHER_DIOD | public domain | translator C. H. Oldfather (vols I, IV, V) 1933-1950
     Diodorus Siculus, Library of History, tr. Oldfather et al. (Loeb), via LacusCurtius
     https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/11D*.html
 * SRC_DL9 | public domain | translator R.D. Hicks 1925
     Diogenes Laertius, Lives of the Eminent Philosophers, tr. Hicks (Loeb)
     https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-eng2.xml
+* SRC_COLERIDGE_SUPPL | public domain | translator E. P. Coleridge 1906
+    Euripides, Suppliants, tr. E. P. Coleridge, Perseus Digital Library
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0006/tlg008/tlg0006.tlg008.perseus-eng2.xml
 * SRC_GEIGER_MHV | unconfirmed | translator Wilhelm Geiger; Mabel Haynes Bode 1912
     Geiger (tr., assisted by Mabel Haynes Bode), The Mahavamsa or the Great Chronicle of Ceylon (Pali Text Society, London 1912)
     https://archive.org/details/mahavamsaorgreat00maha
@@ -171,6 +204,9 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_PD1942 | copyright
     Parker & Dubberstein, Babylonian Chronology 626 B.C. - A.D. 45 (Studies in Ancient Oriental Civilization 24)
     https://isac.uchicago.edu/sites/default/files/uploads/shared/docs/saoc24.pdf
+* SRC_SVARLIEN_PIND | unconfirmed | translator Diane Arnson Svarlien 1990
+    Pindar, Odes, tr. D. A. Svarlien (Perseus, 1990)
+    https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0033/tlg002/tlg0033.tlg002.perseus-eng3.xml
 * SRC_FOWLER_APOLOGY | public domain | translator Harold North Fowler 1914
     Plato, Apology, tr. Fowler (Loeb Classical Library, Plato vol. 1)
     https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0059/tlg002/tlg0059.tlg002.perseus-eng2.xml

@@ -232,3 +232,49 @@ IL_230,I_SANGHA,passage,Q_143,develops,medium,"MN 108:7-9: asked by a minister o
 IL_231,I_DHAMMA,passage,Q_163,develops,medium,"DN 33:1.7.6: the teaching recited in concert, without disputing, so that the path lasts."
 IL_232,I_SANGHA,event,E_IN_043,enacts,medium,A recitation proposed as the remedy for the split that followed another founder's death.
 IL_233,I_KARMA,passage,Q_158,develops,medium,SN 3.15:9.5-9.6: 'And so as deeds unfold the plunderer is plundered' (kammavivaṭṭena): karma read in a war.
+IL_234,I_EUNOMIA,passage,Q_165,originates,high,Solon sets good order against bad order (eunomia against dysnomia) and blames the city's ruin on its citizens.
+IL_235,I_EUNOMIA,person,P_SOLON,originates,medium,
+IL_236,I_EUNOMIA,passage,Q_166,develops,medium,"Solon on his own reforms: 'Equal laws I gave / To evil and to good', won 'by the force of law'."
+IL_237,I_EUNOMIA,passage,Q_167,develops,medium,Herodotus's Sparta changes from the worst-governed of the Greeks to eunomia; the lawgiver is legendary and the change undated.
+IL_238,I_EUNOMIA,passage,Q_174,develops,high,"Demaratus to Xerxes: the Spartans are free, but law is their master (despotes nomos)."
+IL_239,I_EUNOMIA,passage,Q_181,develops,medium,Heraclitus: the people must fight for its law as for its walls.
+IL_240,I_EUNOMIA,passage,Q_182,develops,medium,Heraclitus grounds the city's law in a divine law: all human laws are fed by the one divine law.
+IL_241,I_EUNOMIA,passage,Q_178,develops,medium,"Athena's court: neither anarchy nor rule by a master, and fear kept in the city so that none does wrong."
+IL_242,I_EUNOMIA,passage,Q_172,develops,low,"Hippodamus, as Aristotle reports him, is the first man outside politics to theorize the best constitution; the link is to constitutional design, not to Solon's word."
+IL_243,I_EUNOMIA,event,E_GR_058,enacts,medium,"Pittacus, elected to sole power, 'brought the constitution into order, and then laid down his office' (Diogenes Laertius 1.75)."
+IL_244,I_ARCHE,passage,Q_185,originates,high,"The Athenians at Sparta: fear, honour and interest made them keep an empire, and the weaker have always been subject to the stronger."
+IL_245,I_ARCHE,person,P_THUCYDIDES,originates,medium,Thucydides composed the speeches that state the idea (1.22.1).
+IL_246,I_ARCHE,passage,Q_184,develops,high,The truest cause of the war: Athens' growing power and the fear it caused in Sparta.
+IL_247,I_ARCHE,passage,Q_186,develops,high,"Pericles: the empire is held as a tyranny; to take it may have been wrong, to let it go is unsafe."
+IL_248,I_ARCHE,passage,Q_187,develops,high,"Cleon: the empire is a tyranny over unwilling subjects, held by strength, not loyalty."
+IL_249,I_ARCHE,passage,Q_188,develops,medium,The league's tribute and treasurers: the institution through which alliance became empire.
+IL_250,I_ARCHE,passage,Q_020,develops,high,At Melos the Athenians apply the law of the stronger to a small neutral island.
+IL_251,I_ARCHE,event,E_GR_023,enacts,medium,"The Delian League, which Thucydides tells as the beginning of the empire."
+IL_252,I_ARCHE,event,E_GR_031,enacts,high,"The Mytilene debate, where Cleon argues the empire must be held by fear."
+IL_253,I_ARCHE,event,E_GR_032,enacts,high,Melos: the doctrine stated and carried out.
+IL_254,I_TO_HELLENIKON,passage,Q_191,originates,high,"The Greek 'we' defined by blood, speech, shrines, sacrifices and way of life."
+IL_255,I_TO_HELLENIKON,person,P_HERODOTUS,originates,medium,Herodotus composed the Athenians' answer that names it.
+IL_256,I_TO_HELLENIKON,passage,Q_183,develops,medium,The Greeks who resist Persia meet as Greeks and end their feuds with one another.
+IL_257,I_TO_HELLENIKON,passage,Q_190,develops,medium,The Peace of Nicias opens the common sanctuaries to all and makes Delphi self-governing.
+IL_258,I_TO_HELLENIKON,passage,Q_193,develops,medium,Pindar sets a Sicilian victory beside Salamis and Plataea as one deliverance of Hellas from slavery.
+IL_259,I_TO_HELLENIKON,event,E_GR_048,enacts,medium,The alliance of the Greeks who would resist Xerxes.
+IL_260,I_ISONOMIA,passage,Q_018,develops,medium,"Aristagoras gives Miletus isonomia; Herodotus calls it a pretence (5.37.2), which is itself the point: the word already had the power to raise a revolt."
+IL_261,I_ISONOMIA,passage,Q_197,develops,medium,"Mardonius sets up democracies in Ionia, and Herodotus offers it as proof that Otanes argued for democracy."
+IL_262,I_ISONOMIA,passage,Q_177,develops,high,"A western democrat's definition: the demos is the whole city, oligarchy only a part."
+IL_263,I_ISONOMIA,passage,Q_176,develops,medium,"Theseus: written laws give rich and poor equal justice, and anyone may speak to the city."
+IL_264,I_ISONOMIA,passage,Q_198,develops,medium,The Persian court is told that the Athenians are no man's slaves or subjects.
+IL_265,I_ISONOMIA,passage,Q_179,develops,low,"Alcmaeon's medical isonomia of the body's powers against the monarchy of one, in the doxographer Aetius's words; it does not move the idea's first attestation."
+IL_266,I_ISONOMIA,passage,Q_180,refutes,medium,Heraclitus condemns the Ephesians for exiling their best man so that none should be best: the aristocratic answer to civic equality.
+IL_267,I_ISONOMIA,event,E_GR_045,enacts,high,"Ostracism first used, against a relative of the tyrants."
+IL_268,I_ISONOMIA,event,E_GR_046,enacts,high,The archons chosen by lot.
+IL_269,I_ISONOMIA,event,E_GR_047,enacts,medium,The new Council refuses to be dissolved by a Spartan king.
+IL_270,I_ISONOMIA,event,E_GR_051,enacts,medium,Syracuse and the Sicilian cities expel their tyrants and set up democracies.
+IL_271,I_ISONOMIA,event,E_GR_052,enacts,medium,Syracuse copies ostracism and repeals it.
+IL_272,I_ISONOMIA,event,E_GR_054,enacts,low,"The democratic acts Timaeus tells of Empedocles at Acragas, as Diogenes Laertius reports them."
+IL_273,I_NOMOS_PHYSIS,passage,Q_175,develops,high,"Antigone sets the unwritten, unfailing laws of the gods above the ruler's edict."
+IL_274,I_DIKE,passage,Q_175,develops,medium,Antigone appeals to Dike who dwells with the gods below against a human decree.
+IL_275,I_LOGOS,passage,Q_182,develops,medium,Heraclitus ties the common logos to the city's law.
+IL_276,I_DATA,passage,Q_194,develops,high,"Darius lists the lands that came to him, Ionia among them."
+IL_277,I_DATA,passage,Q_195,develops,high,"The tomb inscription's province list, with Ionia and 'the sea-faring (?) Ionians'."
+IL_278,I_DATA,passage,Q_196,develops,medium,A Persian satrap makes the Ionian cities submit their disputes to law and fixes their tribute.
+IL_279,I_ISONOMIA,passage,Q_199,refutes,medium,"Alcibiades at Sparta calls democracy acknowledged folly, 'a patent absurdity' that the men of sense at Athens knew for what it was. Medium, not high: he says it to win a Spartan audience, in the same speech that claims his party preserved the constitution."

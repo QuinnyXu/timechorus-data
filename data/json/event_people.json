@@ -2294,5 +2294,152 @@
   "role_in_event": "answers",
   "presence": "present",
   "note": "sn3.1:1.2, 1.6-1.7, 3.1-13.6."
+ },
+ {
+  "event_id": "E_GR_045",
+  "person_id": "P_CLEISTHENES",
+  "role_in_event": "author of the law of ostracism",
+  "presence": "related",
+  "note": "Constitution of the Athenians 22 (Kenyon, read 2026-10-18): Cleisthenes had enacted the law with Hipparchus son of Charmus especially in mind; he is not named as present at its first use."
+ },
+ {
+  "event_id": "E_GR_047",
+  "person_id": "P_CLEOMENES",
+  "role_in_event": "tried to dissolve the Council",
+  "presence": "present",
+  "note": "Herodotus 5.72.1 (read 2026-10-18): 'Cleomenes appeared in Athens with no great force'; 5.72.2 he seized the acropolis and left under truce."
+ },
+ {
+  "event_id": "E_GR_047",
+  "person_id": "P_CLEISTHENES",
+  "role_in_event": "expelled, then recalled",
+  "presence": "related",
+  "note": "Herodotus 5.72.1: 'Cleisthenes himself secretly departed'; Constitution of the Athenians 20: the people 'summoned Cleisthenes and the other exiles back'."
+ },
+ {
+  "event_id": "E_GR_012",
+  "person_id": "P_CLEOMENES",
+  "role_in_event": "commanded the Spartan army",
+  "presence": "present",
+  "note": "Herodotus 5.64.1-2 (read 2026-10-18): the Lacedaemonians appointed 'as its general their king Cleomenes son of Anaxandrides', and he and the Athenians besieged the tyrants within the Pelasgic wall."
+ },
+ {
+  "event_id": "E_GR_049",
+  "person_id": "P_THALES",
+  "role_in_event": "proposed the single council",
+  "presence": "related",
+  "note": "Herodotus 1.170.3 (read 2026-10-18) reports the advice but does not say where Thales gave it; Teos is the seat he proposed."
+ },
+ {
+  "event_id": "E_GR_050",
+  "person_id": "P_GELON",
+  "role_in_event": "commander",
+  "presence": "present",
+  "note": "Diodorus 11.21.1 (read 2026-10-18): Gelon marched from Syracuse to Himera; Herodotus 7.166.1 names him as victor."
+ },
+ {
+  "event_id": "E_GR_050",
+  "person_id": "P_THERON",
+  "role_in_event": "held Himera",
+  "presence": "present",
+  "note": "Diodorus 11.20.5 (read 2026-10-18): Theron was 'standing by to guard Himera'."
+ },
+ {
+  "event_id": "E_GR_053",
+  "person_id": "P_GORGIAS",
+  "role_in_event": "leader of the embassy",
+  "presence": "present",
+  "note": "Diodorus 12.53.3 (read 2026-10-18): Gorgias 'had arrived in Athens and been introduced to the people in assembly'."
+ },
+ {
+  "event_id": "E_GR_054",
+  "person_id": "P_EMPEDOCLES",
+  "role_in_event": "floruit at Acragas",
+  "presence": "present",
+  "note": "Diogenes Laertius 8.51 and 8.63-66 (read 2026-10-18): a native of Agrigentum, active in its politics."
+ },
+ {
+  "event_id": "E_GR_055",
+  "person_id": "P_PERICLES",
+  "role_in_event": "led the Euboea campaign just before",
+  "presence": "related",
+  "note": "Thucydides 1.114.3 (eng6, read 2026-10-18): the Athenians crossed to Euboea 'under the command of Pericles'; 1.115.1 dates the truce 'not long after their return from Euboea' and names no negotiator."
+ },
+ {
+  "event_id": "E_GR_057",
+  "person_id": "P_THUCYDIDES",
+  "role_in_event": "Athenian general who arrived too late",
+  "presence": "related",
+  "note": "Thucydides 4.104.4 and 4.106.3 (read 2026-10-18): sent for from Thasos, he reached Eion, not Amphipolis, the same evening the city surrendered."
+ },
+ {
+  "event_id": "E_GR_058",
+  "person_id": "P_PITTACUS",
+  "role_in_event": "elected ruler",
+  "presence": "present",
+  "note": "Diogenes Laertius 1.75 (read 2026-10-18): the people of Mitylene 'entrusted him with the government'."
+ },
+ {
+  "event_id": "E_GR_041",
+  "person_id": "P_THUCYDIDES",
+  "role_in_event": "caught the plague himself",
+  "presence": "related",
+  "note": "Thucydides 2.48.3 (MIT, read 2026-10-18): 'as I had the disease myself, and watched its operation in the case of others'. He does not name the place where he fell ill, so presence is not asserted."
+ },
+ {
+  "event_id": "E_GR_019",
+  "person_id": "P_LEONIDAS",
+  "role_in_event": "commander; fell in the battle",
+  "presence": "present",
+  "note": "Herodotus 7.204.1 and 7.224.1 (read 2026-10-18): leader of the whole army; 'Leonidas, proving himself extremely valiant, fell in that struggle'."
+ },
+ {
+  "event_id": "E_GR_019",
+  "person_id": "P_XERXES",
+  "role_in_event": "watched the assaults",
+  "presence": "present",
+  "note": "Herodotus 7.212.1 (read 2026-10-18): 'the king, as he watched, jumped up three times from the throne in fear for his army'."
+ },
+ {
+  "event_id": "E_GR_020",
+  "person_id": "P_XERXES",
+  "role_in_event": "took the city",
+  "presence": "present",
+  "note": "Herodotus 8.54.1 (read 2026-10-18): 'Xerxes took complete possession of Athens' and the next day ordered the exiles with him up to the acropolis to sacrifice."
+ },
+ {
+  "event_id": "E_GR_021",
+  "person_id": "P_XERXES",
+  "role_in_event": "watched from the mainland",
+  "presence": "related",
+  "note": "Herodotus 8.90.4 (read 2026-10-18): he 'sat beneath the mountain opposite Salamis which is called Aegaleos' and had his scribes record who did well; he was on the mainland shore, not on Salamis."
+ },
+ {
+  "event_id": "E_GR_021",
+  "person_id": "P_MARDONIUS",
+  "role_in_event": "polled the commanders before the battle",
+  "presence": "related",
+  "note": "Herodotus 8.67.1-8.68.1 (read 2026-10-18): at Phalerum 'Mardonius went about questioning them' for Xerxes on whether to fight at sea; he is not placed at the battle."
+ },
+ {
+  "event_id": "E_GR_022",
+  "person_id": "P_MARDONIUS",
+  "role_in_event": "Persian commander; killed in the battle",
+  "presence": "present",
+  "note": "Herodotus 9.63.1-2 (read 2026-10-18): 'So long as Mardonius was alive the Persians stood their ground'; 'when, however, Mardonius was killed ... the rest too yielded'."
+ },
+ {
+  "event_id": "E_GR_022",
+  "person_id": "P_PAUSANIAS",
+  "role_in_event": "commander of the Greek army",
+  "presence": "present",
+  "note": "Herodotus 9.10.1 and 9.64.1 (read 2026-10-18): the command was given to Pausanias son of Cleombrotus, and the victory 'was won by Pausanias'."
+ },
+ {
+  "event_id": "E_GR_023",
+  "person_id": "P_PAUSANIAS",
+  "role_in_event": "his violence drove the allies to Athens",
+  "presence": "related",
+  "note": "Thucydides 1.95.1 and 1.96.1 (MIT, read 2026-10-18): 'the violence of Pausanias had already begun to be disagreeable to the Hellenes', and the Athenians succeeded to the supremacy 'through their hatred of Pausanias'."
  }
 ]

@@ -15,7 +15,7 @@ year,region_id,one_line_en,source_ids,reliability
 -500,R_PE,Darius rules from Susa and Persepolis over the largest empire yet seen.,SRC_LIVIUS_BEHISTUN,high
 -479,R_CN,Confucius dies in Lu.,SRC_LEGGE_ZUO,high
 -479,R_GR,The Greeks defeat the Persians at Plataea and Mycale; the Persian Wars end.,SRC_GODLEY_HDT,high
--479,R_PE,Xerxes withdraws from Greece.,SRC_GODLEY_HDT,high
+-479,R_PE,"Mardonius, left in Greece by Xerxes, is killed at Plataea, and the remnant of the Persian fleet is beaten at Mycale on the same day; Xerxes has been at Sardis since his flight after Salamis.",SRC_GODLEY_HDT,high
 -399,R_GR,Socrates is executed in Athens.,SRC_JOWETT_APOLOGY,high
 -399,R_CN,The Warring States era: Mozi's school is active; Mencius not yet born.,SRC_LOEWE1993,medium
 -399,R_IN,Within the range of the Buddha's death (short chronology).,SRC_BECHERT1991,low

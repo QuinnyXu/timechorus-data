@@ -247,5 +247,16 @@
    "SRC_WS_SHIJI_65"
   ],
   "note": "Shiji 65: 嘗學於曾子 … 遂事曾子。居頃之，其母死，起終不歸。曾子薄之，而與起絕。 (read 2026-10-04 at zh.wikisource.org page 史記/卷065 (revision 2567048, fetched whole via action=raw on 2026-10-04, this session)). reliability LOW: Shiji 67 makes Zengzi forty-six years younger than Confucius (born -506/-505, P_ZENGZI, E_CN_029), and Wu Qi's career runs to -381 (E_CN_050); the teaching is possible only if Wu Qi was young and Zengzi old, and the same chapter says Zengzi broke with him. Entered as the Shiji gives it, with the strain stated (the LIN_019 precedent)."
+ },
+ {
+  "id": "LIN_023",
+  "teacher_id": "P_EMPEDOCLES",
+  "student_id": "P_GORGIAS",
+  "lineage_type": "claimed",
+  "reliability": "low",
+  "source_ids": [
+   "SRC_DL9"
+  ],
+  "note": "Diogenes Laertius 8.58 (read 2026-10-18): 'Satyrus in his Lives says that he was also a physician and an excellent orator: at all events Gorgias of Leontini ... had been his pupil.' One late report, at second hand."
  }
 ]

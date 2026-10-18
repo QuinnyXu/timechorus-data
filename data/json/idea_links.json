@@ -2095,5 +2095,419 @@
   "link_type": "develops",
   "reliability": "medium",
   "note": "SN 3.15:9.5-9.6: 'And so as deeds unfold the plunderer is plundered' (kammavivaṭṭena): karma read in a war."
+ },
+ {
+  "id": "IL_234",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_165",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "Solon sets good order against bad order (eunomia against dysnomia) and blames the city's ruin on its citizens."
+ },
+ {
+  "id": "IL_235",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "person",
+  "target_id": "P_SOLON",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": null
+ },
+ {
+  "id": "IL_236",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_166",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Solon on his own reforms: 'Equal laws I gave / To evil and to good', won 'by the force of law'."
+ },
+ {
+  "id": "IL_237",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_167",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Herodotus's Sparta changes from the worst-governed of the Greeks to eunomia; the lawgiver is legendary and the change undated."
+ },
+ {
+  "id": "IL_238",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_174",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Demaratus to Xerxes: the Spartans are free, but law is their master (despotes nomos)."
+ },
+ {
+  "id": "IL_239",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_181",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Heraclitus: the people must fight for its law as for its walls."
+ },
+ {
+  "id": "IL_240",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_182",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Heraclitus grounds the city's law in a divine law: all human laws are fed by the one divine law."
+ },
+ {
+  "id": "IL_241",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_178",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Athena's court: neither anarchy nor rule by a master, and fear kept in the city so that none does wrong."
+ },
+ {
+  "id": "IL_242",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "passage",
+  "target_id": "Q_172",
+  "link_type": "develops",
+  "reliability": "low",
+  "note": "Hippodamus, as Aristotle reports him, is the first man outside politics to theorize the best constitution; the link is to constitutional design, not to Solon's word."
+ },
+ {
+  "id": "IL_243",
+  "idea_id": "I_EUNOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_058",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Pittacus, elected to sole power, 'brought the constitution into order, and then laid down his office' (Diogenes Laertius 1.75)."
+ },
+ {
+  "id": "IL_244",
+  "idea_id": "I_ARCHE",
+  "target_type": "passage",
+  "target_id": "Q_185",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "The Athenians at Sparta: fear, honour and interest made them keep an empire, and the weaker have always been subject to the stronger."
+ },
+ {
+  "id": "IL_245",
+  "idea_id": "I_ARCHE",
+  "target_type": "person",
+  "target_id": "P_THUCYDIDES",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Thucydides composed the speeches that state the idea (1.22.1)."
+ },
+ {
+  "id": "IL_246",
+  "idea_id": "I_ARCHE",
+  "target_type": "passage",
+  "target_id": "Q_184",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "The truest cause of the war: Athens' growing power and the fear it caused in Sparta."
+ },
+ {
+  "id": "IL_247",
+  "idea_id": "I_ARCHE",
+  "target_type": "passage",
+  "target_id": "Q_186",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Pericles: the empire is held as a tyranny; to take it may have been wrong, to let it go is unsafe."
+ },
+ {
+  "id": "IL_248",
+  "idea_id": "I_ARCHE",
+  "target_type": "passage",
+  "target_id": "Q_187",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Cleon: the empire is a tyranny over unwilling subjects, held by strength, not loyalty."
+ },
+ {
+  "id": "IL_249",
+  "idea_id": "I_ARCHE",
+  "target_type": "passage",
+  "target_id": "Q_188",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The league's tribute and treasurers: the institution through which alliance became empire."
+ },
+ {
+  "id": "IL_250",
+  "idea_id": "I_ARCHE",
+  "target_type": "passage",
+  "target_id": "Q_020",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "At Melos the Athenians apply the law of the stronger to a small neutral island."
+ },
+ {
+  "id": "IL_251",
+  "idea_id": "I_ARCHE",
+  "target_type": "event",
+  "target_id": "E_GR_023",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The Delian League, which Thucydides tells as the beginning of the empire."
+ },
+ {
+  "id": "IL_252",
+  "idea_id": "I_ARCHE",
+  "target_type": "event",
+  "target_id": "E_GR_031",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The Mytilene debate, where Cleon argues the empire must be held by fear."
+ },
+ {
+  "id": "IL_253",
+  "idea_id": "I_ARCHE",
+  "target_type": "event",
+  "target_id": "E_GR_032",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Melos: the doctrine stated and carried out."
+ },
+ {
+  "id": "IL_254",
+  "idea_id": "I_TO_HELLENIKON",
+  "target_type": "passage",
+  "target_id": "Q_191",
+  "link_type": "originates",
+  "reliability": "high",
+  "note": "The Greek 'we' defined by blood, speech, shrines, sacrifices and way of life."
+ },
+ {
+  "id": "IL_255",
+  "idea_id": "I_TO_HELLENIKON",
+  "target_type": "person",
+  "target_id": "P_HERODOTUS",
+  "link_type": "originates",
+  "reliability": "medium",
+  "note": "Herodotus composed the Athenians' answer that names it."
+ },
+ {
+  "id": "IL_256",
+  "idea_id": "I_TO_HELLENIKON",
+  "target_type": "passage",
+  "target_id": "Q_183",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The Greeks who resist Persia meet as Greeks and end their feuds with one another."
+ },
+ {
+  "id": "IL_257",
+  "idea_id": "I_TO_HELLENIKON",
+  "target_type": "passage",
+  "target_id": "Q_190",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The Peace of Nicias opens the common sanctuaries to all and makes Delphi self-governing."
+ },
+ {
+  "id": "IL_258",
+  "idea_id": "I_TO_HELLENIKON",
+  "target_type": "passage",
+  "target_id": "Q_193",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Pindar sets a Sicilian victory beside Salamis and Plataea as one deliverance of Hellas from slavery."
+ },
+ {
+  "id": "IL_259",
+  "idea_id": "I_TO_HELLENIKON",
+  "target_type": "event",
+  "target_id": "E_GR_048",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The alliance of the Greeks who would resist Xerxes."
+ },
+ {
+  "id": "IL_260",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_018",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Aristagoras gives Miletus isonomia; Herodotus calls it a pretence (5.37.2), which is itself the point: the word already had the power to raise a revolt."
+ },
+ {
+  "id": "IL_261",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_197",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Mardonius sets up democracies in Ionia, and Herodotus offers it as proof that Otanes argued for democracy."
+ },
+ {
+  "id": "IL_262",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_177",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "A western democrat's definition: the demos is the whole city, oligarchy only a part."
+ },
+ {
+  "id": "IL_263",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_176",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Theseus: written laws give rich and poor equal justice, and anyone may speak to the city."
+ },
+ {
+  "id": "IL_264",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_198",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "The Persian court is told that the Athenians are no man's slaves or subjects."
+ },
+ {
+  "id": "IL_265",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_179",
+  "link_type": "develops",
+  "reliability": "low",
+  "note": "Alcmaeon's medical isonomia of the body's powers against the monarchy of one, in the doxographer Aetius's words; it does not move the idea's first attestation."
+ },
+ {
+  "id": "IL_266",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_180",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "Heraclitus condemns the Ephesians for exiling their best man so that none should be best: the aristocratic answer to civic equality."
+ },
+ {
+  "id": "IL_267",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_045",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "Ostracism first used, against a relative of the tyrants."
+ },
+ {
+  "id": "IL_268",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_046",
+  "link_type": "enacts",
+  "reliability": "high",
+  "note": "The archons chosen by lot."
+ },
+ {
+  "id": "IL_269",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_047",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "The new Council refuses to be dissolved by a Spartan king."
+ },
+ {
+  "id": "IL_270",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_051",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Syracuse and the Sicilian cities expel their tyrants and set up democracies."
+ },
+ {
+  "id": "IL_271",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_052",
+  "link_type": "enacts",
+  "reliability": "medium",
+  "note": "Syracuse copies ostracism and repeals it."
+ },
+ {
+  "id": "IL_272",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "event",
+  "target_id": "E_GR_054",
+  "link_type": "enacts",
+  "reliability": "low",
+  "note": "The democratic acts Timaeus tells of Empedocles at Acragas, as Diogenes Laertius reports them."
+ },
+ {
+  "id": "IL_273",
+  "idea_id": "I_NOMOS_PHYSIS",
+  "target_type": "passage",
+  "target_id": "Q_175",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Antigone sets the unwritten, unfailing laws of the gods above the ruler's edict."
+ },
+ {
+  "id": "IL_274",
+  "idea_id": "I_DIKE",
+  "target_type": "passage",
+  "target_id": "Q_175",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Antigone appeals to Dike who dwells with the gods below against a human decree."
+ },
+ {
+  "id": "IL_275",
+  "idea_id": "I_LOGOS",
+  "target_type": "passage",
+  "target_id": "Q_182",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "Heraclitus ties the common logos to the city's law."
+ },
+ {
+  "id": "IL_276",
+  "idea_id": "I_DATA",
+  "target_type": "passage",
+  "target_id": "Q_194",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "Darius lists the lands that came to him, Ionia among them."
+ },
+ {
+  "id": "IL_277",
+  "idea_id": "I_DATA",
+  "target_type": "passage",
+  "target_id": "Q_195",
+  "link_type": "develops",
+  "reliability": "high",
+  "note": "The tomb inscription's province list, with Ionia and 'the sea-faring (?) Ionians'."
+ },
+ {
+  "id": "IL_278",
+  "idea_id": "I_DATA",
+  "target_type": "passage",
+  "target_id": "Q_196",
+  "link_type": "develops",
+  "reliability": "medium",
+  "note": "A Persian satrap makes the Ionian cities submit their disputes to law and fixes their tribute."
+ },
+ {
+  "id": "IL_279",
+  "idea_id": "I_ISONOMIA",
+  "target_type": "passage",
+  "target_id": "Q_199",
+  "link_type": "refutes",
+  "reliability": "medium",
+  "note": "Alcibiades at Sparta calls democracy acknowledged folly, 'a patent absurdity' that the men of sense at Athens knew for what it was. Medium, not high: he says it to win a Spartan audience, in the same speech that claims his party preserved the constitution."
  }
 ]
