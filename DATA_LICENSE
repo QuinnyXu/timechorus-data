@@ -1,7 +1,7 @@
 TimeChorus data licence
 =======================
 
-Dataset: TimeChorus (axial corpus), exported from source commit c1d16873cec0eac2b754013593bfe30676102018.
+Dataset: TimeChorus (axial corpus), exported from source commit c6bdeda958ef0ebda7739870a9b7107e8ec00f27.
 Site: https://timechorus.com
 
 1. The compilation and the project's own words
@@ -30,7 +30,7 @@ length. Share-alike (CC BY-SA) constrains what a reuser of that quoted text must
 downstream; it does not alter the licence of the rest of the dataset.
 
 Sources by licence:
-  public domain  66
+  public domain  67
   CC0            10
   CC BY 4.0      2
   CC BY 3.0      1
@@ -119,6 +119,9 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_RACKHAM_POL | unconfirmed | translator Harris Rackham 1944
     Aristotle, Politics, tr. H. Rackham (Loeb, 1944 printing), Perseus Digital Library
     https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0086/tlg035/tlg0086.tlg035.perseus-eng2.xml
+* SRC_AIO | unconfirmed | translator Various; named per inscription (founded by Stephen Lambert) 2012-2025
+    Attic Inscriptions Online (AIO): English translations of Attic inscriptions (British School at Athens)
+    https://www.atticinscriptions.com/
 * SRC_ABC5 | copyright | translator A.K. Grayson / J.-J. Glassner (via livius.org) 1975
     Babylonian Chronicle ABC 5 (Chronicle Concerning the Early Years of Nebuchadnezzar II; the 'Jerusalem Chronicle'), Livius.org edition
     https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/
@@ -148,7 +151,7 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_COLERIDGE_SUPPL | public domain | translator E. P. Coleridge 1906
     Euripides, Suppliants, tr. E. P. Coleridge, Perseus Digital Library
     https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0006/tlg008/tlg0006.tlg008.perseus-eng2.xml
-* SRC_GEIGER_MHV | unconfirmed | translator Wilhelm Geiger; Mabel Haynes Bode 1912
+* SRC_GEIGER_MHV | public domain | translator Wilhelm Geiger; Mabel Haynes Bode 1912
     Geiger (tr., assisted by Mabel Haynes Bode), The Mahavamsa or the Great Chronicle of Ceylon (Pali Text Society, London 1912)
     https://archive.org/details/mahavamsaorgreat00maha
 * SRC_GONGYANG | public domain
@@ -249,7 +252,7 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_SC_ROOT_PLI | public domain
     SuttaCentral root Pali text (bilara-data root/pli/ms, the Mahāsaṅgīti edition)
     https://github.com/suttacentral/bilara-data/tree/published/root/pli/ms
-    Attribution: Root Pali text (the Mahasangiti edition) as published by SuttaCentral (suttacentral.net), which states that the original texts of Buddhism are in the public domain. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
+    Attribution: Root Pali text (the Mahāsaṅgīti edition) as published by SuttaCentral (suttacentral.net), which states that the original texts of Buddhism are in the public domain. SuttaCentral asks: “SuttaCentral does not make use of artifically-generated data. We politely request that our content not be scraped or used in any way for the creation of datasets for generative AI or similar. This request applies to those who create applications directly, and those who build apps downstream of AI models that have scraped SuttaCentral’s data.”
 * SRC_SC_AN | CC0 | translator Bhikkhu Sujato 2018
     SuttaCentral: Anguttara Nikaya (Numbered Discourses), tr. Bhikkhu Sujato
     https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/an

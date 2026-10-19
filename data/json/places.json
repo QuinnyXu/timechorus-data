@@ -1107,11 +1107,11 @@
   "lat": null,
   "lng": null,
   "coord_certainty": null,
-  "coord_basis": "Unlocated until Schwartzberg is read: the conventions section 5 route for South Asia (SRC_SCHWARTZBERG) was not read for this place this session, and no coordinate is given until it is.",
+  "coord_basis": "Schwartzberg read 2026-10-18 (Sophia r14-8, this session; SRC_SCHWARTZBERG, A Historical Atlas of South Asia, DSAL IIIF edition, plate III.B.1 insets (a) and (b)): Kasi is lettered as a country name ('KĀSI' in inset (a), 'KĀŚI' in inset (b)) beside Bārāṇasī/Vārāṇasī, with no point of its own. A territory is not given a point here, and its capital is not used as a stand-in (conventions section 5): the row stays unlocated.",
   "pleiades_id": null,
   "wikidata_qid": null,
   "source_ids": null,
-  "description": "The country Ajatasattu of Magadha and Pasenadi of Kosala fight over twice (SN 3.14:1.2 and SN 3.15:1.1, read this session: each king marches 'to Kasi'); one of the sixteen great countries of AN 3.70:28.3. A territory, not a town. UNLOCATED IN THIS DATASET until Schwartzberg is read."
+  "description": "The country Ajatasattu of Magadha and Pasenadi of Kosala fight over twice (SN 3.14:1.2 and SN 3.15:1.1, read this session: each king marches 'to Kasi'); one of the sixteen great countries of AN 3.70:28.3. A territory, not a town. UNLOCATED IN THIS DATASET: the atlas shows Kasi as a country name, not a point, and a territory is given no point here."
  },
  {
   "id": "PL_PATITTHANA",
@@ -1119,16 +1119,19 @@
   "name_original": "Patiṭṭhāna",
   "region_id": "R_IN",
   "polity_id": null,
-  "modern_location": "Not settled here",
+  "modern_location": "Paithan, Maharashtra, India",
   "place_type": "town",
-  "lat": null,
-  "lng": null,
-  "coord_certainty": null,
-  "coord_basis": "Unlocated until Schwartzberg is read: the conventions section 5 route for South Asia (SRC_SCHWARTZBERG) was not read for this place this session, and no coordinate is given until it is.",
+  "lat": 19.48,
+  "lng": 75.38,
+  "coord_certainty": "medium",
+  "coord_basis": "Wikidata modern site (Q2445534 Paithan, coordinate P625 read 2026-10-18, Special:EntityData JSON, HTTP 200, 19,566 bytes; the statement's only reference is 'imported from Wikimedia project' (English Wikipedia, Q328), so the datum carries no source of its own and SRC_WIKIDATA's caution applies); r14-8 CHECK (2026-10-18): Schwartzberg, A Historical Atlas of South Asia (DSAL IIIF edition, SRC_SCHWARTZBERG), plate III.B.1, read this session, marks 'Pratiṣṭhāna' (insets (a) and (b)) at this locality; the identification is confirmed at plate scale. The coordinate is NOT derived from the plate (a raster read against a 4-degree graticule is coarser than this point) and is the Wikidata point, as given (Wikidata carries it to two decimals only)",
   "pleiades_id": null,
-  "wikidata_qid": null,
-  "source_ids": null,
-  "description": "First station of the route of Bavari's students in the introductory verses of the Parayana (Snp 5.1:36.1, read this session). The root reads 'Aḷakassa patiṭṭhānaṁ'; the English names the country 'Muḷaka', a variant reading the translator follows, recorded here as his and not the root's. UNLOCATED IN THIS DATASET until Schwartzberg is read."
+  "wikidata_qid": "Q2445534",
+  "source_ids": [
+   "SRC_SCHWARTZBERG",
+   "SRC_WIKIDATA"
+  ],
+  "description": "First station of the route of Bavari's students in the introductory verses of the Parayana (Snp 5.1:36.1, read this session). The root reads 'Aḷakassa patiṭṭhānaṁ'; the English names the country 'Muḷaka', a variant reading the translator follows, recorded here as his and not the root's. The point is the modern town of Paithan, not an excavated ancient point."
  },
  {
   "id": "PL_MAHISSATI",
@@ -1136,16 +1139,16 @@
   "name_original": "Māhissatī",
   "region_id": "R_IN",
   "polity_id": null,
-  "modern_location": "Not settled here",
+  "modern_location": "Disputed: Maheshwar and Mandhata (Omkareshwar), both on the Narmada in Madhya Pradesh, are proposed",
   "place_type": "town",
   "lat": null,
   "lng": null,
   "coord_certainty": null,
-  "coord_basis": "Unlocated until Schwartzberg is read: the conventions section 5 route for South Asia (SRC_SCHWARTZBERG) was not read for this place this session, and no coordinate is given until it is.",
+  "coord_basis": "Schwartzberg read 2026-10-18 (Sophia r14-8, this session; SRC_SCHWARTZBERG, A Historical Atlas of South Asia, DSAL IIIF edition, plate III.B.1 insets (a) and (b)): 'Māhiṣmatī' is marked on the Narmada (Narmadā). The plate does not settle which modern site that is, and the identification is disputed: Wikidata keeps a separate item for the ancient city, Q6734124 'Mahishmati' (read this session), with no coordinate, while Q1023674 'Maheshwar, Madhya Pradesh' carries 'Mahishmati' among its aliases; the English Wikipedia article 'Mahishmati' (read this session) sets out Mandhata/Omkareshwar (after Pargiter) and Maheshwar (after Sankalia and others) as competing identifications, both on the Narmada. A point read off a plate with a 4-degree graticule cannot choose between two sites on the same river, and this batch does not adjudicate the dispute (the PL_PAVA and PL_KAPILAVATTHU precedent): no coordinate is given.",
   "pleiades_id": null,
   "wikidata_qid": null,
   "source_ids": null,
-  "description": "Second station of the same route (Snp 5.1:36.2, read this session: 'Purimāhissatiṁ'). UNLOCATED IN THIS DATASET until Schwartzberg is read."
+  "description": "Second station of the same route (Snp 5.1:36.2, read this session: 'Purimāhissatiṁ'). UNLOCATED IN THIS DATASET: the atlas places Mahissati on the Narmada, but two modern sites on that river are proposed for it and this batch does not choose between them."
  },
  {
   "id": "PL_UJJENI",
@@ -1153,16 +1156,19 @@
   "name_original": "Ujjenī",
   "region_id": "R_IN",
   "polity_id": null,
-  "modern_location": "Not settled here",
+  "modern_location": "Ujjain, Madhya Pradesh, India",
   "place_type": "city",
-  "lat": null,
-  "lng": null,
-  "coord_certainty": null,
-  "coord_basis": "Unlocated until Schwartzberg is read: the conventions section 5 route for South Asia (SRC_SCHWARTZBERG) was not read for this place this session, and no coordinate is given until it is.",
+  "lat": 23.1828,
+  "lng": 75.7772,
+  "coord_certainty": "medium",
+  "coord_basis": "Wikidata modern site (Q200119 Ujjain, coordinate P625 read 2026-10-18, Special:EntityData JSON, HTTP 200, 58,199 bytes; the statement's only reference is 'imported from Wikimedia project' (Russian Wikipedia, Q206855), so the datum carries no source of its own and SRC_WIKIDATA's caution applies); r14-8 CHECK (2026-10-18): Schwartzberg, A Historical Atlas of South Asia (DSAL IIIF edition, SRC_SCHWARTZBERG), plate III.B.1, read this session, marks 'Ujjenī' (inset (a)) and 'Ujjayinī' (inset (b)) at this locality; the identification is confirmed at plate scale. The coordinate is NOT derived from the plate (a raster read against a 4-degree graticule is coarser than this point) and is the Wikidata point, rounded to four decimals",
   "pleiades_id": null,
-  "wikidata_qid": null,
-  "source_ids": null,
-  "description": "Station of the same route (Snp 5.1:36.3, read this session). UNLOCATED IN THIS DATASET until Schwartzberg is read."
+  "wikidata_qid": "Q200119",
+  "source_ids": [
+   "SRC_SCHWARTZBERG",
+   "SRC_WIKIDATA"
+  ],
+  "description": "Station of the same route (Snp 5.1:36.3, read this session). The point is the modern city of Ujjain."
  },
  {
   "id": "PL_VEDISA",
@@ -1170,16 +1176,19 @@
   "name_original": "Vedisa",
   "region_id": "R_IN",
   "polity_id": null,
-  "modern_location": "Not settled here",
+  "modern_location": "Vidisha, Madhya Pradesh, India; the excavated site of Besnagar adjoins it",
   "place_type": "town",
-  "lat": null,
-  "lng": null,
-  "coord_certainty": null,
-  "coord_basis": "Unlocated until Schwartzberg is read: the conventions section 5 route for South Asia (SRC_SCHWARTZBERG) was not read for this place this session, and no coordinate is given until it is.",
+  "lat": 23.5239,
+  "lng": 77.8061,
+  "coord_certainty": "medium",
+  "coord_basis": "Wikidata modern site (Q1637471 Vidisha, coordinate P625 read 2026-10-18, Special:EntityData JSON, HTTP 200, 29,986 bytes; the statement's only reference is 'imported from Wikimedia project' (Czech Wikipedia, Q191168), so the datum carries no source of its own and SRC_WIKIDATA's caution applies); r14-8 CHECK (2026-10-18): Schwartzberg, A Historical Atlas of South Asia (DSAL IIIF edition, SRC_SCHWARTZBERG), plate III.B.1, read this session, marks 'Vidiśā' (inset (b)) at this locality; the identification is confirmed at plate scale. Wikidata's separate item for the archaeological site, Q56306351 Besnagar (read this session), lies about 2 km away (23.5423, 77.7974), well inside the plate's precision; the town item is used because it is the name the plate prints. The coordinate is NOT derived from the plate (a raster read against a 4-degree graticule is coarser than this point) and is the Wikidata point, rounded to four decimals",
   "pleiades_id": null,
-  "wikidata_qid": null,
-  "source_ids": null,
-  "description": "Station of the same route (Snp 5.1:36.4, read this session). UNLOCATED IN THIS DATASET until Schwartzberg is read."
+  "wikidata_qid": "Q1637471",
+  "source_ids": [
+   "SRC_SCHWARTZBERG",
+   "SRC_WIKIDATA"
+  ],
+  "description": "Station of the same route (Snp 5.1:36.4, read this session). The point is the modern town of Vidisha; the excavated ancient site at Besnagar adjoins it."
  },
  {
   "id": "PL_KOSAMBI",
@@ -1187,16 +1196,19 @@
   "name_original": "Kosambī",
   "region_id": "R_IN",
   "polity_id": null,
-  "modern_location": "Not settled here",
+  "modern_location": "Kauśāmbī, Uttar Pradesh, India",
   "place_type": "city",
-  "lat": null,
-  "lng": null,
-  "coord_certainty": null,
-  "coord_basis": "Unlocated until Schwartzberg is read: the conventions section 5 route for South Asia (SRC_SCHWARTZBERG) was not read for this place this session, and no coordinate is given until it is.",
+  "lat": 25.339,
+  "lng": 81.3929,
+  "coord_certainty": "medium",
+  "coord_basis": "Wikidata modern site (Q1194868 Kauśāmbī, coordinate P625 read 2026-10-18, Special:EntityData JSON, HTTP 200, 15,889 bytes; the statement's only reference is 'imported from Wikimedia project' (English Wikipedia, Q328), so the datum carries no source of its own and SRC_WIKIDATA's caution applies); r14-8 CHECK (2026-10-18): Schwartzberg, A Historical Atlas of South Asia (DSAL IIIF edition, SRC_SCHWARTZBERG), plate III.B.1, read this session, marks 'Kosāmbī' (inset (a)) and 'Kauśāmbī' (inset (b)) at this locality; the identification is confirmed at plate scale. The coordinate is NOT derived from the plate (a raster read against a 4-degree graticule is coarser than this point) and is the Wikidata point, rounded to four decimals",
   "pleiades_id": null,
-  "wikidata_qid": null,
-  "source_ids": null,
-  "description": "Station of the same route, where it turns toward Kosala (Snp 5.1:37.1, read this session). UNLOCATED IN THIS DATASET until Schwartzberg is read."
+  "wikidata_qid": "Q1194868",
+  "source_ids": [
+   "SRC_SCHWARTZBERG",
+   "SRC_WIKIDATA"
+  ],
+  "description": "Station of the same route, where it turns toward Kosala (Snp 5.1:37.1, read this session). The point is the Kauśāmbī settlement as Wikidata records it, not an excavated ancient point."
  },
  {
   "id": "PL_SAKETA",
@@ -1204,16 +1216,19 @@
   "name_original": "Sāketa",
   "region_id": "R_IN",
   "polity_id": null,
-  "modern_location": "Not settled here",
+  "modern_location": "Ayodhya, Uttar Pradesh, India",
   "place_type": "city",
-  "lat": null,
-  "lng": null,
-  "coord_certainty": null,
-  "coord_basis": "Unlocated until Schwartzberg is read: the conventions section 5 route for South Asia (SRC_SCHWARTZBERG) was not read for this place this session, and no coordinate is given until it is.",
+  "lat": 26.7992,
+  "lng": 82.2044,
+  "coord_certainty": "medium",
+  "coord_basis": "Wikidata modern site (Q186040 Ayodhya, coordinate P625 read 2026-10-18, Special:EntityData JSON, HTTP 200, 56,925 bytes; the statement's only reference is 'imported from Wikimedia project' (English Wikipedia, Q328), so the datum carries no source of its own and SRC_WIKIDATA's caution applies); r14-8 CHECK (2026-10-18): Schwartzberg, A Historical Atlas of South Asia (DSAL IIIF edition, SRC_SCHWARTZBERG), plate III.B.1, read this session, marks 'Sāketa' (insets (a) and (b)) at this locality; the identification is confirmed at plate scale. The coordinate is NOT derived from the plate (a raster read against a 4-degree graticule is coarser than this point) and is the Wikidata point, rounded to four decimals",
   "pleiades_id": null,
-  "wikidata_qid": null,
-  "source_ids": null,
-  "description": "Station of the same route, before Savatthi (Snp 5.1:37.1, read this session). UNLOCATED IN THIS DATASET until Schwartzberg is read."
+  "wikidata_qid": "Q186040",
+  "source_ids": [
+   "SRC_SCHWARTZBERG",
+   "SRC_WIKIDATA"
+  ],
+  "description": "Station of the same route, before Savatthi (Snp 5.1:37.1, read this session). The point is the modern city of Ayodhya, at the locality where the atlas marks Saketa."
  },
  {
   "id": "PL_SPARTA",

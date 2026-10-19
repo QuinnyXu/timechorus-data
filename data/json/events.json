@@ -1065,7 +1065,7 @@
   ],
   "reliability": "medium",
   "importance": 4,
-  "note": null,
+  "note": "Herodotus 5.49.1 (SRC_GODLEY_HDT, Greek perseus-grc2 and English perseus-eng2, read 2026-10-18): at Sparta, 'as the Lacedaemonians report', Aristagoras came to Cleomenes with 'a bronze tablet on which the map of all the earth was engraved, and all the sea and all the rivers' (ἔχων χάλκεον πίνακα ἐν τῷ γῆς ἁπάσης περίοδος ἐνετέτμητο καὶ θάλασσά τε πᾶσα καὶ ποταμοὶ πάντες); the embassy belongs to the revolt this row records, but it takes place at Sparta, not Miletus.",
   "review_status": "draft"
  },
  {
@@ -1428,7 +1428,7 @@
   ],
   "reliability": "high",
   "importance": 4,
-  "note": null,
+  "note": "Thucydides 3.38.4 (Greek SRC_PERSEUS_THUC_GRC, read 2026-10-18): Cleon tells the Athenians they are used to being 'spectators of words and hearers of deeds' (θεαταὶ μὲν τῶν λόγων γίγνεσθαι, ἀκροαταὶ δὲ τῶν ἔργων; the English is the project's own), and at 3.38.7 likens them to men sitting as spectators of sophists (σοφιστῶν θεαταῖς ἐοικότες καθημένοις); Crawley (SRC_CRAWLEY_THUC, read the same day) renders the first 'who go to see an oration as you would to see a sight' and the second 'more like the audience of a rhetorician than the council of a city'.",
   "review_status": "draft"
  },
  {
