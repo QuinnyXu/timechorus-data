@@ -27,6 +27,10 @@ Regions of the axial corpus; the top-level geographic and cultural division.
 | `pillar` | string | required column |  |
 | `colour` | string | required column |  |
 | `description` | string | required column |  |
+| `name_zh` | string |  | Optional. The region's Simplified Chinese name: ruled text (owner-approved), Han characters only. Blank means no zh name; the engine then falls back to name_en. |
+
+Gate rules beyond the column constraints (implemented in `tools/validate.py` of the
+source repository, not shipped here): `regions_name_zh`.
 
 ## polities
 

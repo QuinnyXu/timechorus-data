@@ -4,48 +4,55 @@
   "name_en": "China",
   "pillar": "core",
   "colour": "#b5443c",
-  "description": "Zhou world: Chunqiu and Warring States polities"
+  "description": "Zhou world: Chunqiu and Warring States polities",
+  "name_zh": "中国"
  },
  {
   "id": "R_IN",
   "name_en": "India",
   "pillar": "core",
   "colour": "#a86f22",
-  "description": "Gangetic plain: late Vedic and sramana movements; Mahajanapadas"
+  "description": "Gangetic plain: late Vedic and sramana movements; Mahajanapadas",
+  "name_zh": "印度"
  },
  {
   "id": "R_IL",
   "name_en": "Israel and Judah",
   "pillar": "core",
   "colour": "#4a6fa5",
-  "description": "Southern Levant, plus the Babylonian exile community"
+  "description": "Southern Levant, plus the Babylonian exile community",
+  "name_zh": "以色列与犹大"
  },
  {
   "id": "R_GR",
   "name_en": "Greece",
   "pillar": "core",
   "colour": "#35796d",
-  "description": "Aegean and Ionia; poleis and colonies"
+  "description": "Aegean and Ionia; poleis and colonies",
+  "name_zh": "希腊"
  },
  {
   "id": "R_PE",
   "name_en": "Persia",
   "pillar": "core",
   "colour": "#7d5aa6",
-  "description": "Iranian plateau; Achaemenid empire"
+  "description": "Iranian plateau; Achaemenid empire",
+  "name_zh": "波斯"
  },
  {
   "id": "R_ME",
   "name_en": "Mesopotamia",
   "pillar": "background",
   "colour": "#767676",
-  "description": "Assyria and Babylonia: the imperial background against which Judah and Persia are documented"
+  "description": "Assyria and Babylonia: the imperial background against which Judah and Persia are documented",
+  "name_zh": "两河流域"
  },
  {
   "id": "R_EG",
   "name_en": "Egypt",
   "pillar": "background",
   "colour": "#868686",
-  "description": "Nile valley and delta: a Persian province from Cambyses's conquest (526/525 BCE), often in revolt; the background against which Persian and Greek records place it"
+  "description": "Nile valley and delta: a Persian province from Cambyses's conquest (526/525 BCE), often in revolt; the background against which Persian and Greek records place it",
+  "name_zh": "埃及"
  }
 ]

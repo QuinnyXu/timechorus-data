@@ -28,12 +28,21 @@
     },
     "description": {
       "type": "string"
+    },
+    "name_zh": {
+      "type": "string",
+      "description": "Optional. The region's Simplified Chinese name: ruled text (owner-approved), Han characters only. Blank means no zh name; the engine then falls back to name_en."
     }
   },
   "x-timechorus": {
     "table": "regions",
     "idField": "id",
     "keyFields": null,
-    "checks": []
+    "checks": [
+      {
+        "rule": "procedural",
+        "name": "regions_name_zh"
+      }
+    ]
   }
 }
