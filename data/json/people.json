@@ -23,7 +23,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "孔子"
  },
  {
   "id": "P_LAOZI",
@@ -48,7 +49,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "老子"
  },
  {
   "id": "P_MENCIUS",
@@ -64,16 +66,17 @@
   "historicity": "attested",
   "birth_year_min": -390,
   "birth_year_max": -370,
-  "death_year_min": -310,
+  "death_year_min": -316,
   "death_year_max": -290,
-  "dating_basis": "Floruit from named rulers he addressed (King Hui of Liang, King Xuan of Qi); exact years disputed. SLICE (added 2026-10-04, Sophia r9-1): the whole life range lies after the 600-400 BCE pilot slice; until 2026-10-04 that held this row to a lineage endpoint (is_protagonist=0, no events; D-08). D-20 lifts the slice and D-08's endpoint restriction for the China pillar only (R_CN ranges over 800-200), so the row is now a protagonist at the range its sources support, unchanged. He has no event row yet, so the map home shows him in the tray (no event gives him a place) until a Phase B event lands. PHASE B, 2026-10-04 (Sophia r9-4): the sentence above saying he has no event row no longer holds. E_CN_055 (Mencius comes to King Hui of Liang, -336 on Shiji 15's chronology, at PL_DALIANG, presence 'present') is his first event row, and the map home's count rule now draws him at Daliang (no override). The birth and death ranges above are unchanged and were NOT re-read this session: Shiji 74, read this session (zh.wikisource.org page 史記/卷074 (revision 7908177, fetched whole via action=raw on 2026-10-04, this session)), gives no year for either, only the order of his travels (孟軻，騶人也。受業子思之門人。道既通，游事齊宣王，宣王不能用。適梁，梁惠王不果所言，則見以為迂遠而闊於事情。).",
+  "dating_basis": "Floruit from named rulers he addressed (King Hui of Liang, King Xuan of Qi); exact years disputed. SLICE (added 2026-10-04, Sophia r9-1): the whole life range lies after the 600-400 BCE pilot slice; until 2026-10-04 that held this row to a lineage endpoint (is_protagonist=0, no events; D-08). D-20 lifts the slice and D-08's endpoint restriction for the China pillar only (R_CN ranges over 800-200), so the row is now a protagonist at the range its sources support, unchanged. He has no event row yet, so the map home shows him in the tray (no event gives him a place) until a Phase B event lands. PHASE B, 2026-10-04 (Sophia r9-4): the sentence above saying he has no event row no longer holds. E_CN_055 (Mencius comes to King Hui of Liang, -336 on Shiji 15's chronology, at PL_DALIANG, presence 'present') is his first event row, and the map home's count rule now draws him at Daliang (no override). The birth and death ranges above are unchanged and were NOT re-read this session: Shiji 74, read this session (zh.wikisource.org page 史記/卷074 (revision 7908177, fetched whole via action=raw on 2026-10-04, this session)), gives no year for either, only the order of his travels (孟軻，騶人也。受業子思之門人。道既通，游事齊宣王，宣王不能用。適梁，梁惠王不果所言，則見以為迂遠而闊於事情。). DEATH, LOWER END, READ 2026-11-13 (Sophia r16-3, this session); the rest of both ranges is still NOT re-read. Mencius was alive and at the Qi court during Qi's conquest of Yan and the Yan rising that followed: Mencius 1B10 and 1B11 (zh.wikisource.org page 孟子/梁惠王下 (revision 2636980, fetched whole via action=raw on 2026-11-13, this session)): 齊人伐燕，勝之。宣王問曰 … and 齊人伐燕，取之。諸侯將謀救燕。; Mencius 2B9 (page 孟子/公孫丑下, revision 8750853, same fetch): 燕人畔，王曰：「吾甚慚於孟子。」, after which Chen Jia goes to see him. Shiji 15 (page 史記/卷015, revision 2607002, same fetch) gives the Yan crisis in the 燕 column: 五。君讓其臣子之國，顧為臣。 at the line labelled 316, 七。君噲及太子相子之皆死。 at 314, 九。燕人共立公子平。 at 312. Qi's conquest came after the abdication of 316, so Mencius was alive in -316 or later, and death_year_min moves from -310, which no reading supported, to -316: a widening, not a narrowing (red line 5). That the conquest is the 314 line and the rising of 2B9 the 312 line is likely, but no text read says so, so neither -314 nor -312 is taken. A CHRONOLOGICAL TENSION, CARRIED: the Mencius names the Qi king of the conquest as King Xuan (宣王), while Shiji 15 has 齊湣王地元年 at 323, so on the Shiji's chronology the king in 316-314 was Min, not Xuan; the same kind of disagreement as E_CN_055's, recorded and not resolved. death_year_max -290 and both birth ends (-390/-370) are still carried from before Round 9 without a reading at a locator; they are listed as unsourced in the r16-3 batch note and left as they were, and review_status stays draft for that reason.",
   "wikidata_qid": "Q188903",
   "is_protagonist": true,
   "short_bio_en": "Second sage of the Ru tradition; argued human nature is good and that Heaven's mandate is read in the people's acceptance.",
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "孟子"
  },
  {
   "id": "P_BUDDHA",
@@ -99,7 +102,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_MAHAVIRA",
@@ -123,7 +127,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_EZEKIEL",
@@ -145,7 +150,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_DEUTERO_ISAIAH",
@@ -169,7 +175,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_CYRUS",
@@ -193,7 +200,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_DARIUS",
@@ -217,7 +225,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ZOROASTER",
@@ -241,7 +250,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_SOLON",
@@ -263,7 +273,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_CLEISTHENES",
@@ -285,7 +296,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_HERACLITUS",
@@ -307,7 +319,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PERICLES",
@@ -329,7 +342,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_SOCRATES",
@@ -351,7 +365,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PLATO",
@@ -373,7 +388,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ARISTOTLE",
@@ -395,7 +411,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_THALES",
@@ -419,7 +436,8 @@
   "map_place_id": "PL_MILETUS",
   "map_place_basis": "Herodotus 1.74.2 and 1.170.3: 'Thales of Miletus'; his two related links tie, and the earliest-year tie-break picks Teos only because E_GR_049's range opens at his birth range",
   "map_place_reason": "Thales is drawn at Miletus, his city. He is linked to the Teos council only as the man who proposed it, and to the eclipse as the man who foretold it; neither places him anywhere else.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ANAXIMANDER",
@@ -441,7 +459,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PYTHAGORAS",
@@ -465,7 +484,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_XENOPHANES",
@@ -489,7 +509,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PARMENIDES",
@@ -513,7 +534,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_AESCHYLUS",
@@ -537,7 +559,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_HERODOTUS",
@@ -561,7 +584,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PROTAGORAS",
@@ -585,7 +609,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ANAXAGORAS",
@@ -609,7 +634,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_DEMOCRITUS",
@@ -633,7 +659,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_THEMISTOCLES",
@@ -655,7 +682,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_EPHIALTES",
@@ -679,7 +707,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ARISTOPHANES",
@@ -701,7 +730,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ALCIBIADES",
@@ -723,7 +753,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_XENOPHON",
@@ -745,7 +776,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ARISTAGORAS",
@@ -769,7 +801,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_CLEON",
@@ -791,7 +824,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ZICHAN",
@@ -816,7 +850,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "子产"
  },
  {
   "id": "P_YANYING",
@@ -842,7 +877,8 @@
   "map_place_id": "PL_LINZI",
   "map_place_basis": "Display anchor: Linzi, the capital of the state he served (places.PL_LINZI carries polity_id POL_QI, which is this person's polity_id). The ruled class (L-95(2)): polity seat, one located event abroad, the capital emptied by a ruled override. POLITY SEAT: Qi is the state whose rulers he served, and Linzi is its capital. ONE LOCATED EVENT ABROAD: his only event link is E_CN_009 at Xintian (-539, present), Qi's envoy at the court of Jin, sent there in the Zuozhuan's own words 齊侯使晏嬰請繼室於晉 (Zhao 3, read this session at zh.wikisource.org, 春秋左氏傳/昭公, revision 10445713), so the computed rule (anchorOf() in site/engine/views/home_map.js: the located place of most `present` events, ties to the earliest) has one place to choose and draws Qi's minister under the name of Jin's capital, beside Shuxiang of Jin. THE CAPITAL EMPTIED BY A RULED OVERRIDE: before L-84(1), the only protagonist anchored at Linzi was P_DUKE_AI_LU (a one-to-one tie, E_CN_023 at Linzi -481 against E_CN_024 at Qufu -479, broken to the earlier); his override to Qufu (r6-1) left no one anchored at Linzi, so Qi's own seat vanished from the map home. No tie-break can fix that: with one located event there is no tie to break, and the deciding fact, that Qi is the state he served and Linzi its capital, is not in the event table the rule reads. Recomputed from data/csv/ this session, 2026-10-03, over all 62 protagonists: this override moves exactly one anchor, this person's, from Xintian to Linzi. Ruled L-95(2); Vision r6-4. RECOMPUTED 2026-10-04 (Sophia r9-1) over data/csv at bcecf22 + data/incoming/phaseA + data/incoming/flags: the computed anchor without the override is still PL_XINTIAN (present, 1: E_CN_009), and the override still moves exactly this one anchor. What changed under it: E_CN_023 no longer sits at Linzi (its place is now PL_SHUZHOU, unlocated, ruling L-110(1)), so the 'capital emptied' paragraph above is history; Linzi keeps its pin through this override alone. Reader-register text: map_place_reason (schema v2.2).",
   "map_place_reason": "Yan Ying was a minister of Qi, and Linzi was Qi's capital. The only event in this atlas that places him is his mission to the court of Jin at Xintian in 539 BCE, so a count of events would draw Qi's minister in Jin's capital. The atlas draws him in the state he served instead.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "晏婴"
  },
  {
   "id": "P_SHUXIANG",
@@ -867,7 +903,8 @@
   "map_place_id": "PL_XINTIAN",
   "map_place_basis": "Display anchor: Xintian, the capital of the state he served (places.PL_XINTIAN carries polity_id POL_JIN, which is this person's polity_id). The capital-of-the-state-served family (ruled L-112, 2026-10-04: the fifth member after P_DUKE_AI_LU, P_FUCHAI, P_WUZIXU and P_YANYING). EVIDENCE AT THE DRAWN PLACE: E_CN_009 (-539, present) at PL_XINTIAN, Zuozhuan 昭公三年 傳, read this session (2026-10-04 local; fetched 2026-10-05T00:49-00:50Z) at zh.wikisource.org, whole page via action=raw, page 春秋左氏傳/昭公 revision 10445713: 齊侯使晏嬰請繼室於晉 … 韓宣子使叔向對曰 … 既成昏．晏子受禮．叔向從之晏．相與語 (Shuxiang answers Qi's envoy for Jin and feasts with him at the Jin court). So, unlike P_YANYING's case, an event does record him at the drawn place: the override's evidence tier is 'present', and the stated-only card sentence correctly does not fire. XINTIAN AS JIN'S SEAT: page 春秋左氏傳/成公 revision 8764928, same session, 成公六年 傳 夏。四月。丁丑。晉遷于新田 (Cheng 6 = -585), forty-six years before E_CN_009. WHY THE COUNT RULE MISPLACES HIM: the r9-0 batch (data/incoming/phaseA) gives him E_CN_044 (-546, present) at PL_SHANGQIU, on 襄公二十七年 傳 六月丁未朔．宋人享趙文子．叔向為介 (page 春秋左氏傳/襄公 revision 9172568, re-read this session), so he has one 'present' event at each of two located places, and anchorOf()'s tie-break to the earliest year (site/engine/views/home_map.js) draws a Jin grandee at Song's capital on his one deputation there. The presence is what the source says and is not bent; the deciding fact, that Jin is the state he served and Xintian its capital, is not in the event table the rule reads. Recomputed 2026-10-04 over data/csv at bcecf22 + data/incoming/phaseA + data/incoming/flags, all protagonists: the computed anchor without the override is PL_SHANGQIU (present, 1); this override moves exactly one anchor, his, from Shangqiu back to Xintian. Ruled L-110(3)/L-112; executed Sophia r9-1.",
   "map_place_reason": "Shuxiang was a grandee of Jin, and Xintian had been Jin's capital since 585 BCE. The Zuozhuan records him at the Jin court in 539 BCE, receiving Qi's envoy Yan Ying. He went to Song once, in 546 BCE, as deputy to Jin's delegate at the peace conference; a count of events would draw him there, so the atlas draws him in the state he served instead.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "叔向"
  },
  {
   "id": "P_SUNWU",
@@ -893,7 +930,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "孙武"
  },
  {
   "id": "P_WUZIXU",
@@ -918,7 +956,8 @@
   "map_place_id": "PL_GUSU",
   "map_place_basis": "Display anchor: Gusu, the capital of the state he served (places.PL_GUSU carries polity_id POL_WU, which is this person's polity_id) and the place where he was made to kill himself (E_CN_019, -484). Recomputed from data/csv/ this session, 2026-09-25: the computed rule (anchorOf() — most `present` events, ties to the earliest) counts three located `present` places at one each — E_CN_013 at Ying (-506), E_CN_018 at Kuaiji (-494), E_CN_019 at Gusu (-484) — and breaks the three-way tie to the earliest, anchoring the exile from Chu at Chu's own capital, which he entered once, at the head of an invading army, twenty-two years before he died there in Wu. A tie-break cannot fix that: the deciding fact, that Wu is the state he served and Gusu its capital, is not in the event table. Ruled L-84(1)/L-87(4); Vision r5-6 §8(1). RECOMPUTED 2026-10-04 (Sophia r9-1) over data/csv at bcecf22 + data/incoming/phaseA + data/incoming/flags: unchanged; the computed anchor without the override is PL_YING (present, 1; the three-way tie broken to the earliest year). The facts in the reader text were re-read this session at zh.wikisource.org: 春秋左氏傳/昭公 (revision 10445713) 昭公二十年 傳 楚人皆殺之．員如吳 (his father and brother killed, he goes to Wu); 春秋左氏傳/定公 (revision 2371915) 定公四年 經 and 傳 庚辰．吳入郢 (Wu takes Ying; the source does not name him at the entry, which is why the reason does not say he entered); 春秋左氏傳/哀公 (revision 7908334) 哀公十一年 傳 使賜之屬鏤以死 (Ai 11 = -484). Reader-register text: map_place_reason (schema v2.2).",
   "map_place_reason": "Wu Zixu fled Chu after his father and brother were killed, and served the kings of Wu for the rest of his life; Gusu is the conventional name for Wu's capital. A count of events would draw him at Ying, the Chu capital Wu's army took in 506 BCE. The atlas draws him in the state he served, where he was ordered to kill himself in 484 BCE.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "伍子胥"
  },
  {
   "id": "P_FANLI",
@@ -940,7 +979,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "范蠡"
  },
  {
   "id": "P_ZENGZI",
@@ -966,7 +1006,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "曾子"
  },
  {
   "id": "P_ZIXIA",
@@ -991,7 +1032,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "子夏"
  },
  {
   "id": "P_MOZI",
@@ -1016,7 +1058,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "墨子"
  },
  {
   "id": "P_DUKE_AI_LU",
@@ -1041,7 +1084,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "鲁哀公"
  },
  {
   "id": "P_HELU",
@@ -1066,7 +1110,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "阖闾"
  },
  {
   "id": "P_FUCHAI",
@@ -1090,7 +1135,8 @@
   "map_place_id": "PL_GUSU",
   "map_place_basis": "Display anchor: Gusu, the capital of his own kingdom (places.PL_GUSU carries polity_id POL_WU, which is this person's polity_id) and the place where he died (E_CN_025, -473, Yue extinguishes Wu and Fuchai hangs himself). The king of Wu belongs under Wu's capital, not under the mountain of the enemy state he spared. Recomputed from data/csv/ this session, 2026-09-25: of his five event links two name no place (E_CN_020, E_CN_022) and one counts only as `related` (E_CN_019 at Gusu), so the computed rule (anchorOf() — most `present` events, ties to the earliest) sees a one-to-one tie, E_CN_018 at Kuaiji (-494) against E_CN_025 at Gusu (-473), and breaks it to the earlier, drawing him at Yue's stronghold among Yue's people. A tie-break cannot fix that either: the deciding fact, that Gusu is his own capital, is not in the event table. Ruled L-84(1)/L-87(4); Vision r5-6 §8(1). RECOMPUTED 2026-10-04 (Sophia r9-1) over data/csv at bcecf22 + data/incoming/phaseA + data/incoming/flags: unchanged; the computed anchor without the override is PL_KUAIJI (present, 1). The facts in the reader text were re-read this session at zh.wikisource.org, 春秋左氏傳/哀公 (revision 7908334): 哀公元年 傳 吳王夫差敗越于夫椒 … 越子以甲楯五千，保于會稽，使大夫種因吳大宰嚭以行成 (Ai 1 = -494); 哀公二十二年 傳 越滅吳 … 乃縊 (Ai 22 = -473; the source names no place for the hanging, so the reason does not say he died at Gusu). Reader-register text: map_place_reason (schema v2.2).",
   "map_place_reason": "Fuchai was king of Wu, and Gusu is the conventional name for Wu's capital. A count of events would draw him at Kuaiji, the stronghold in Yue where the defeated Goujian held out and sued for peace in 494 BCE. The atlas draws the king under his own capital, in the kingdom Yue destroyed in 473 BCE.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "夫差"
  },
  {
   "id": "P_GOUJIAN",
@@ -1115,7 +1161,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "勾践"
  },
  {
   "id": "P_RANQIU",
@@ -1141,7 +1188,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": "冉求"
  },
  {
   "id": "P_NEBUCHADNEZZAR",
@@ -1165,7 +1213,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ZEDEKIAH",
@@ -1189,7 +1238,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_JEHOIACHIN",
@@ -1214,7 +1264,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_JEREMIAH",
@@ -1236,7 +1287,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_GEDALIAH",
@@ -1258,7 +1310,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ISHMAEL_NETHANIAH",
@@ -1280,7 +1333,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_EVIL_MERODACH",
@@ -1304,7 +1358,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_NABONIDUS",
@@ -1326,7 +1381,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_SHESHBAZZAR",
@@ -1348,7 +1404,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ZERUBBABEL",
@@ -1370,7 +1427,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_JESHUA",
@@ -1394,7 +1452,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_HAGGAI",
@@ -1416,7 +1475,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ZECHARIAH",
@@ -1438,7 +1498,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_EZRA",
@@ -1460,7 +1521,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_NEHEMIAH",
@@ -1482,7 +1544,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ARTAXERXES_I",
@@ -1506,7 +1569,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_BIMBISARA",
@@ -1530,7 +1594,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_AJATASATTU",
@@ -1554,7 +1619,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PASENADI",
@@ -1578,7 +1644,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_SARIPUTTA",
@@ -1602,7 +1669,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_MOGGALLANA",
@@ -1626,7 +1694,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ANANDA",
@@ -1648,7 +1717,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_MAHAKASSAPA",
@@ -1672,7 +1742,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ANURUDDHA",
@@ -1694,7 +1765,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_DEVADATTA",
@@ -1716,7 +1788,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_VASSAKARA",
@@ -1738,7 +1811,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_AMBAPALI",
@@ -1760,7 +1834,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_CUNDA",
@@ -1782,7 +1857,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_SUBHADDA",
@@ -1804,7 +1880,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_KONDANNA",
@@ -1828,7 +1905,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PURANA_KASSAPA",
@@ -1850,7 +1928,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_MAKKHALI",
@@ -1872,7 +1951,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_AJITA",
@@ -1894,7 +1974,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PAKUDHA",
@@ -1916,7 +1997,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_SANJAYA",
@@ -1940,7 +2022,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_YAJNAVALKYA",
@@ -1962,7 +2045,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_UDDALAKA",
@@ -1984,7 +2068,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ASTYAGES",
@@ -2006,7 +2091,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_CAMBYSES",
@@ -2030,7 +2116,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_GAUMATA",
@@ -2055,7 +2142,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_OTANES",
@@ -2077,7 +2165,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_HYSTASPES",
@@ -2101,7 +2190,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ATOSSA",
@@ -2123,7 +2213,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_XERXES",
@@ -2145,7 +2236,8 @@
   "map_place_id": "PL_SARDIS",
   "map_place_basis": "Herodotus 9.108.1 (read 2026-10-18): 'the king had been at Sardis ever since he came there in flight from Athens after his overthrow in the sea-fight'; his present links tie at one each at Sardis, Athens and Thermopylae, all in -480, and the place-id tie-break alone would draw him at Athens",
   "map_place_reason": "Xerxes is drawn at Sardis, where Herodotus says he stayed from his flight after Salamis; he was present at Thermopylae and at the taking of Athens, but Sardis was his seat in the west.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_MARDONIUS",
@@ -2169,7 +2261,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_MEGABYZUS",
@@ -2193,7 +2286,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PHRAORTES",
@@ -2218,7 +2312,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_DARIUS_II",
@@ -2240,7 +2335,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ARTAXERXES_II",
@@ -2262,7 +2358,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_CYRUS_YOUNGER",
@@ -2284,7 +2381,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_TISSAPHERNES",
@@ -2306,7 +2404,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_GUANZHONG",
@@ -2331,7 +2430,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "管仲"
  },
  {
   "id": "P_SHIKUANG",
@@ -2355,7 +2455,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "师旷"
  },
  {
   "id": "P_HUAYUAN",
@@ -2363,21 +2464,22 @@
   "name_original": "華元",
   "name_alt": null,
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_SONG",
   "role_tag_en": "Song minister who brokered the first Jin–Chu peace",
   "historicity": "attested",
   "birth_year_min": null,
   "birth_year_max": null,
   "death_year_min": null,
   "death_year_max": null,
-  "dating_basis": "No birth or death year read; both ranges blank. The row is held by the Zuozhuan's account of his mediation, read at zh.wikisource.org page 春秋左氏傳/成公 (revision 8764928, fetched whole via action=raw on 2026-10-04, this session): 成公十一年 傳 (= -580) 華元如楚．遂如晉．合晉楚之成 (the page punctuates with 。), and 成公十二年 傳 (= -579) 宋華元克合晉楚之成, followed by the covenant sworn outside the west gate of the Song capital (E_CN_043, Q_115). Duke-year to BCE conversion per calendars.csv CAL_LU, anchored on this dataset's own rows (Zhao 6 = -536 at E_CN_008, so Zhao 1 = -541; Ai 14 = -481 at E_CN_023, so Ai 1 = -494; Ding 1 = -509) and carried back by the reign lengths the edition's own year headers give, counted this session: 僖公 33, 文公 18, 宣公 18, 成公 18, 襄公 31 (so Xi 1 = -659, Wen 1 = -626, Xuan 1 = -608, Cheng 1 = -590, Xiang 1 = -572); the chain closes on both anchors. polity_id is BLANK because this dataset has no row for the state of Song yet (raised in CHANGES.md).",
+  "dating_basis": "No birth or death year read; both ranges blank. The row is held by the Zuozhuan's account of his mediation, read at zh.wikisource.org page 春秋左氏傳/成公 (revision 8764928, fetched whole via action=raw on 2026-10-04, this session): 成公十一年 傳 (= -580) 華元如楚．遂如晉．合晉楚之成 (the page punctuates with 。), and 成公十二年 傳 (= -579) 宋華元克合晉楚之成, followed by the covenant sworn outside the west gate of the Song capital (E_CN_043, Q_115). Duke-year to BCE conversion per calendars.csv CAL_LU, anchored on this dataset's own rows (Zhao 6 = -536 at E_CN_008, so Zhao 1 = -541; Ai 14 = -481 at E_CN_023, so Ai 1 = -494; Ding 1 = -509) and carried back by the reign lengths the edition's own year headers give, counted this session: 僖公 33, 文公 18, 宣公 18, 成公 18, 襄公 31 (so Xi 1 = -659, Wen 1 = -626, Xuan 1 = -608, Cheng 1 = -590, Xiang 1 = -572); the chain closes on both anchors. polity_id POL_SONG (filled 2026-11-13, Sophia r16-3, when the Song row was added): the Zuozhuan names him 宋華元 (成公十二年 傳; page 春秋左氏傳/成公, revision 8764928, read again this session: 宋華元克合晉楚之成).",
   "wikidata_qid": null,
   "is_protagonist": false,
   "short_bio_en": "A minister of the state of Song, a middle-sized state caught between the two great powers of Jin and Chu. He was on good terms with leaders on both sides and in 579 BCE brought them to swear a written covenant outside Song's west gate: neither would make war on the other. It did not last, but it was the first such treaty in the record.",
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "华元"
  },
  {
   "id": "P_XIANGXU",
@@ -2387,21 +2489,22 @@
    "the Commander of the Left (左師)"
   ],
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_SONG",
   "role_tag_en": "Song minister who convened the great disarmament conference of 546",
   "historicity": "attested",
   "birth_year_min": null,
   "birth_year_max": null,
   "death_year_min": null,
   "death_year_max": null,
-  "dating_basis": "No birth or death year read; both ranges blank. The row is held by the Zuozhuan's account of the conference he convened, read at zh.wikisource.org page 春秋左氏傳/襄公 (revision 9172568, fetched whole via action=raw on 2026-10-04, this session): 襄公二十七年 傳 (= -546) 宋向戌善於趙文子．又善於令尹子木．欲弭諸侯之兵以為名 (E_CN_044, Q_116); the same entry calls him 左師 and records his arrival at Song for the covenant (戊寅．左師至). Duke-year to BCE conversion per calendars.csv CAL_LU, anchored on this dataset's own rows (Zhao 6 = -536 at E_CN_008, so Zhao 1 = -541; Ai 14 = -481 at E_CN_023, so Ai 1 = -494; Ding 1 = -509) and carried back by the reign lengths the edition's own year headers give, counted this session: 僖公 33, 文公 18, 宣公 18, 成公 18, 襄公 31 (so Xi 1 = -659, Wen 1 = -626, Xuan 1 = -608, Cheng 1 = -590, Xiang 1 = -572); the chain closes on both anchors. polity_id is BLANK because this dataset has no row for the state of Song yet (raised in CHANGES.md).",
+  "dating_basis": "No birth or death year read; both ranges blank. The row is held by the Zuozhuan's account of the conference he convened, read at zh.wikisource.org page 春秋左氏傳/襄公 (revision 9172568, fetched whole via action=raw on 2026-10-04, this session): 襄公二十七年 傳 (= -546) 宋向戌善於趙文子．又善於令尹子木．欲弭諸侯之兵以為名 (E_CN_044, Q_116); the same entry calls him 左師 and records his arrival at Song for the covenant (戊寅．左師至). Duke-year to BCE conversion per calendars.csv CAL_LU, anchored on this dataset's own rows (Zhao 6 = -536 at E_CN_008, so Zhao 1 = -541; Ai 14 = -481 at E_CN_023, so Ai 1 = -494; Ding 1 = -509) and carried back by the reign lengths the edition's own year headers give, counted this session: 僖公 33, 文公 18, 宣公 18, 成公 18, 襄公 31 (so Xi 1 = -659, Wen 1 = -626, Xuan 1 = -608, Cheng 1 = -590, Xiang 1 = -572); the chain closes on both anchors. polity_id POL_SONG (filled 2026-11-13, Sophia r16-3, when the Song row was added): the Zuozhuan names him 宋向戌 (襄公二十七年 傳; page 春秋左氏傳/襄公, revision 9172568, read again this session: 宋向戌善於趙文子).",
   "wikidata_qid": null,
   "is_protagonist": false,
   "short_bio_en": "A minister of Song who, in 546 BCE, persuaded Jin, Chu and the other states to send delegates to Song and swear to stop the wars among the feudal lords. The chronicle says plainly that he wanted the credit, and afterwards asked to be rewarded with towns; a colleague told him that no one can abolish arms and had his grant cancelled.",
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "向戌"
  },
  {
   "id": "P_DENGXI",
@@ -2423,7 +2526,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "邓析"
  },
  {
   "id": "P_MARQUIS_WEN_WEI",
@@ -2449,7 +2553,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "魏文侯"
  },
  {
   "id": "P_LIKUI",
@@ -2474,7 +2579,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "李悝"
  },
  {
   "id": "P_SHANGYANG",
@@ -2489,21 +2595,22 @@
    " 商君"
   ],
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "role_tag_en": "Qin minister whose reforms built the centralised state",
   "historicity": "attested",
   "birth_year_min": null,
   "birth_year_max": null,
   "death_year_min": -338,
   "death_year_max": -338,
-  "dating_basis": "Death: Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the 秦 column at the line the edition labels 338 reads 二十四。（秦）大荔圍合陽。孝公薨。商君反，死彤地。 and the 魏 column of the same line 三十三。衛鞅亡歸我，我恐，弗內。 Shiji 5 秦本紀, read at zh.wikisource.org page 史記/卷005 (revision 8744286, fetched whole via action=raw on 2026-10-04, this session), puts it in the year Duke Xiao died: 孝公卒，子惠文君立。是歲，誅衛鞅。 Shiji 68 商君列傳, read at zh.wikisource.org page 史記/卷068 (revision 8764712, fetched whole via action=raw on 2026-10-04, this session), tells it at length and names a different place: 秦發兵攻商君，殺之於鄭黽池。秦惠王車裂商君以徇，曰：「莫如商鞅反者！」遂滅商君之家。 The two places (彤地 in the table, 鄭黽池 in the biography) are both carried and neither is chosen (E_CN_054). Active from his arrival in Qin in Duke Xiao's first year (Shiji 5: 衛鞅聞是令下，西入秦，因景監求見孝公。; 秦孝公元年 at the line labelled 361 in Shiji 15) to his death. No birth year is given; blank. The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200). polity_id is BLANK: he served Qin, and this dataset has no Qin polity row; a Qin row needs both ends of its range read at a locator, which this batch did not do (raised in CHANGES.md, the POL_SONG precedent).",
+  "dating_basis": "Death: Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the 秦 column at the line the edition labels 338 reads 二十四。（秦）大荔圍合陽。孝公薨。商君反，死彤地。 and the 魏 column of the same line 三十三。衛鞅亡歸我，我恐，弗內。 Shiji 5 秦本紀, read at zh.wikisource.org page 史記/卷005 (revision 8744286, fetched whole via action=raw on 2026-10-04, this session), puts it in the year Duke Xiao died: 孝公卒，子惠文君立。是歲，誅衛鞅。 Shiji 68 商君列傳, read at zh.wikisource.org page 史記/卷068 (revision 8764712, fetched whole via action=raw on 2026-10-04, this session), tells it at length and names a different place: 秦發兵攻商君，殺之於鄭黽池。秦惠王車裂商君以徇，曰：「莫如商鞅反者！」遂滅商君之家。 The two places (彤地 in the table, 鄭黽池 in the biography) are both carried and neither is chosen (E_CN_054). Active from his arrival in Qin in Duke Xiao's first year (Shiji 5: 衛鞅聞是令下，西入秦，因景監求見孝公。; 秦孝公元年 at the line labelled 361 in Shiji 15) to his death. No birth year is given; blank. The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200). polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): he served Qin from his arrival under Duke Xiao (Shiji 5, revision 8744286, read again this session: 衛鞅聞是令下，西入秦) to his death in the 秦 column of Shiji 15 at 338 (revision 2607002, read again this session, the cell quoted above).",
   "wikidata_qid": null,
   "is_protagonist": true,
   "short_bio_en": "A noble of the small state of Wey (衛) who went west to Qin in 361 BCE and persuaded Duke Xiao to remake it: households grouped in fives and tens and made answerable for one another's crimes, rank given for enemy heads taken in battle, villages merged into counties under appointed magistrates, and one standard for weights and measures. Qin's later conquest of all the states ran on this machinery. When the duke died, the members of the ruling house he had offended accused him of rebellion; he was killed and his body torn apart by chariots. The book that bears his name was put together by his followers.",
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "商鞅"
  },
  {
   "id": "P_SHENBUHAI",
@@ -2528,7 +2635,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "申不害"
  },
  {
   "id": "P_WUQI",
@@ -2550,7 +2658,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "吴起"
  },
  {
   "id": "P_XUNZI",
@@ -2578,7 +2687,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "荀子"
  },
  {
   "id": "P_HANFEI",
@@ -2605,7 +2715,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "韩非"
  },
  {
   "id": "P_LISI",
@@ -2613,21 +2724,22 @@
   "name_original": "李斯",
   "name_alt": null,
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "role_tag_en": "Xunzi's student who became chancellor of Qin's empire",
   "historicity": "attested",
   "birth_year_min": null,
   "birth_year_max": null,
   "death_year_min": -208,
   "death_year_max": -208,
-  "dating_basis": "Shiji 87 李斯列傳, read at zh.wikisource.org page 史記/卷087 (revision 2364605, fetched whole via action=raw on 2026-10-04, this session): 李斯者，楚上蔡人也。 … 乃從荀卿學帝王之術。 … 官至廷尉。二十餘年，竟并天下，尊主為皇帝，以斯為丞相。 … 二世二年七月，具斯五刑，論腰斬咸陽市。 Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the line labelled 208, a single cell spanning the table, reads 二將軍章邯、長史司馬欣、都尉董翳追楚兵至河。誅丞相斯、去疾，將軍馮劫。 (the Second Emperor's year 2: 二世元年 heads the line labelled 209). No birth year is given; blank. polity_id is blank: he served Qin (no Qin polity row; raised in CHANGES.md). Added as an index row because the sources read tie him to three rows of this batch: Xunzi's pupil (Shiji 74, Shiji 87; LIN_021), the instigator of Han Fei's death (Shiji 63, Shiji 6; E_CN_059), and the minister whose argument set up the commanderies in 221 (Shiji 6; E_CN_060). The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
+  "dating_basis": "Shiji 87 李斯列傳, read at zh.wikisource.org page 史記/卷087 (revision 2364605, fetched whole via action=raw on 2026-10-04, this session): 李斯者，楚上蔡人也。 … 乃從荀卿學帝王之術。 … 官至廷尉。二十餘年，竟并天下，尊主為皇帝，以斯為丞相。 … 二世二年七月，具斯五刑，論腰斬咸陽市。 Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the line labelled 208, a single cell spanning the table, reads 二將軍章邯、長史司馬欣、都尉董翳追楚兵至河。誅丞相斯、去疾，將軍馮劫。 (the Second Emperor's year 2: 二世元年 heads the line labelled 209). No birth year is given; blank. polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): he served Qin until his execution as its chancellor (Shiji 15, the line labelled 208, revision 2607002, read again this session: 誅丞相斯、去疾，將軍馮劫。). Added as an index row because the sources read tie him to three rows of this batch: Xunzi's pupil (Shiji 74, Shiji 87; LIN_021), the instigator of Han Fei's death (Shiji 63, Shiji 6; E_CN_059), and the minister whose argument set up the commanderies in 221 (Shiji 6; E_CN_060). The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "wikidata_qid": null,
   "is_protagonist": false,
   "short_bio_en": "A clerk from Shangcai in Chu who studied statecraft with Xunzi and went to Qin as the other states were being swallowed. In 221 BCE, as commandant of justice, he argued against making the emperor's sons kings of the conquered lands, and the empire was divided instead into commanderies under appointed governors; he became chancellor. The Shiji also makes him responsible for the death of his fellow student Han Fei. Under the Second Emperor he was accused of treason and cut in two in the market at Xianyang in 208 BCE.",
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "李斯"
  },
  {
   "id": "P_SUQIN",
@@ -2649,7 +2761,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "苏秦"
  },
  {
   "id": "P_ZHANGYI",
@@ -2671,7 +2784,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "name_zh": "张仪"
  },
  {
   "id": "P_MAHAPAJAPATI",
@@ -2696,7 +2810,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_THUCYDIDES",
@@ -2720,7 +2835,8 @@
   "map_place_id": "PL_ATHENS",
   "map_place_basis": "Thucydides 1.1.1 (MIT Crawley, read 2026-10-18): 'Thucydides, an Athenian'. His two event links in this batch are both 'related' (E_GR_041, where 2.48.3 says he had the disease but does not place him by name in the city; E_GR_057, where he reached Eion, not Amphipolis, 4.106.3-4), so without an override the engine would have no 'present' place to draw him at. Athens is the city he names as his own in the first words of the work.",
   "map_place_reason": "Thucydides opens his history with his name and his city: 'Thucydides, an Athenian'. He is drawn at Athens because that is the city he wrote as, and the place where he lived through the plague; his command in Thrace ended in twenty years of exile.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_CLEOMENES",
@@ -2744,7 +2860,8 @@
   "map_place_id": "PL_SPARTA",
   "map_place_basis": "Herodotus (Godley, PerseusDL canonical-greekLit perseus-eng2 with the Greek perseus-grc2, both fetched whole 2026-10-18, this session), 5.39.1: Cleomenes 'held the royal power' at Sparta; his two event links (E_GR_012, E_GR_047) are both at Athens, where he acted as Sparta's king, so the computed anchor would draw the Spartan king at Athens. PL_SPARTA is added in this batch (Pleiades 570685, read 2026-10-18).",
   "map_place_reason": "Cleomenes was king at Sparta. Both events that name him happened at Athens, where he led Sparta's army against the tyrants and later tried to overturn the new Council; he is drawn at Sparta because that is the city whose king he was.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_EMPEDOCLES",
@@ -2768,7 +2885,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_LEONIDAS",
@@ -2792,7 +2910,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PAUSANIAS",
@@ -2816,7 +2935,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_GELON",
@@ -2840,7 +2960,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_THERON",
@@ -2864,7 +2985,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PINDAR",
@@ -2886,7 +3008,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_ALCMAEON",
@@ -2910,7 +3033,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_GORGIAS",
@@ -2934,7 +3058,8 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  },
  {
   "id": "P_PITTACUS",
@@ -2958,6 +3083,7 @@
   "map_place_id": null,
   "map_place_basis": null,
   "map_place_reason": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "name_zh": null
  }
 ]

@@ -77,6 +77,10 @@
     },
     "description": {
       "type": "string"
+    },
+    "name_zh": {
+      "type": "string",
+      "description": "Optional. The place's Simplified Chinese name: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of name_en. Blank means no zh name; the engine then falls back to name_en."
     }
   },
   "x-timechorus": {
@@ -116,6 +120,10 @@
       {
         "rule": "procedural",
         "name": "places_source_ids_backlog_warn"
+      },
+      {
+        "rule": "procedural",
+        "name": "places_name_zh"
       }
     ]
   }

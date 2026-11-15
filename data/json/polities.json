@@ -8,7 +8,8 @@
   "year_max": -249,
   "capital_place_id": "PL_QUFU",
   "wikidata_qid": null,
-  "note": "Confucius's home state; Zhou ritual conservatory. Dates traditional."
+  "note": "Confucius's home state; Zhou ritual conservatory. Dates traditional.",
+  "name_zh": "鲁"
  },
  {
   "id": "POL_ZHOU",
@@ -19,7 +20,8 @@
   "year_max": -256,
   "capital_place_id": "PL_LUOYANG",
   "wikidata_qid": null,
-  "note": "Nominal overlord of the Chinese states."
+  "note": "Nominal overlord of the Chinese states.",
+  "name_zh": "东周"
  },
  {
   "id": "POL_MAGADHA",
@@ -30,7 +32,8 @@
   "year_max": -320,
   "capital_place_id": "PL_RAJGIR",
   "wikidata_qid": null,
-  "note": "Buddha's principal patron kingdom."
+  "note": "Buddha's principal patron kingdom.",
+  "name_zh": null
  },
  {
   "id": "POL_JUDAH",
@@ -41,7 +44,8 @@
   "year_max": -586,
   "capital_place_id": "PL_JERUSALEM",
   "wikidata_qid": null,
-  "note": "Ends with Babylonian conquest."
+  "note": "Ends with Babylonian conquest.",
+  "name_zh": null
  },
  {
   "id": "POL_YEHUD",
@@ -52,7 +56,8 @@
   "year_max": -332,
   "capital_place_id": "PL_JERUSALEM",
   "wikidata_qid": null,
-  "note": "Achaemenid province of Judah; Second Temple period."
+  "note": "Achaemenid province of Judah; Second Temple period.",
+  "name_zh": null
  },
  {
   "id": "POL_ATHENS",
@@ -63,7 +68,8 @@
   "year_max": -322,
   "capital_place_id": "PL_ATHENS",
   "wikidata_qid": null,
-  "note": "Democracy from Cleisthenes (508/7) to Macedonian suppression."
+  "note": "Democracy from Cleisthenes (508/7) to Macedonian suppression.",
+  "name_zh": null
  },
  {
   "id": "POL_ACHAEMENID",
@@ -74,7 +80,8 @@
   "year_max": -330,
   "capital_place_id": "PL_PASARGADAE",
   "wikidata_qid": null,
-  "note": "Capitals rotate: Pasargadae, Susa, Persepolis, Ecbatana, Babylon."
+  "note": "Capitals rotate: Pasargadae, Susa, Persepolis, Ecbatana, Babylon.",
+  "name_zh": null
  },
  {
   "id": "POL_NEOBAB",
@@ -85,7 +92,8 @@
   "year_max": -539,
   "capital_place_id": "PL_BABYLON",
   "wikidata_qid": null,
-  "note": "Conqueror of Judah; conquered by Cyrus."
+  "note": "Conqueror of Judah; conquered by Cyrus.",
+  "name_zh": null
  },
  {
   "id": "POL_ZHENG",
@@ -96,7 +104,8 @@
   "year_max": -375,
   "capital_place_id": "PL_XINZHENG",
   "wikidata_qid": null,
-  "note": "Small state between Jin and Chu whose survival depended on diplomacy; Zichan's state. Year range is the conventional one and is NOT established from the sources cited in this batch — the Zuozhuan gives ducal years, not a foundation or extinction date. Flagged for the lead."
+  "note": "Small state between Jin and Chu whose survival depended on diplomacy; Zichan's state. Year range is the conventional one and is NOT established from the sources cited in this batch — the Zuozhuan gives ducal years, not a foundation or extinction date. Flagged for the lead.",
+  "name_zh": "郑"
  },
  {
   "id": "POL_QI",
@@ -107,7 +116,8 @@
   "year_max": -221,
   "capital_place_id": "PL_LINZI",
   "wikidata_qid": null,
-  "note": "Great eastern state; Yan Ying's state. From 481 (Zuozhuan, Ai 14) real power passes to the Chen (Tian) house. Year range conventional, not established from the sources cited in this batch."
+  "note": "Great eastern state; Yan Ying's state. From 481 (Zuozhuan, Ai 14) real power passes to the Chen (Tian) house. Year range conventional, not established from the sources cited in this batch.",
+  "name_zh": "齐"
  },
  {
   "id": "POL_JIN",
@@ -118,7 +128,8 @@
   "year_max": -376,
   "capital_place_id": "PL_XINTIAN",
   "wikidata_qid": null,
-  "note": "Northern hegemon; Shuxiang's state. Partitioned among Han, Zhao and Wei in the fifth century. Year range conventional, not established from the sources cited in this batch."
+  "note": "Northern hegemon; Shuxiang's state. Partitioned among Han, Zhao and Wei in the fifth century. Year range conventional, not established from the sources cited in this batch.",
+  "name_zh": "晋"
  },
  {
   "id": "POL_CHU",
@@ -129,7 +140,8 @@
   "year_max": -223,
   "capital_place_id": "PL_YING",
   "wikidata_qid": null,
-  "note": "Great southern kingdom whose rulers styled themselves king. Its capital Ying was entered by Wu in 506 (Zuozhuan, Ding 4). Year range conventional, not established from the sources cited in this batch."
+  "note": "Great southern kingdom whose rulers styled themselves king. Its capital Ying was entered by Wu in 506 (Zuozhuan, Ding 4). Year range conventional, not established from the sources cited in this batch.",
+  "name_zh": "楚"
  },
  {
   "id": "POL_WU",
@@ -140,7 +152,8 @@
   "year_max": -473,
   "capital_place_id": "PL_GUSU",
   "wikidata_qid": null,
-  "note": "South-eastern kingdom that broke Chu in 506 and was itself extinguished by Yue in 473. The end date -473 IS established here: Zuozhuan, Ai 22, 'in winter, in the eleventh month, on the day dingmao, Yue extinguished Wu' (越滅吳). The start is conventional."
+  "note": "South-eastern kingdom that broke Chu in 506 and was itself extinguished by Yue in 473. The end date -473 IS established here: Zuozhuan, Ai 22, 'in winter, in the eleventh month, on the day dingmao, Yue extinguished Wu' (越滅吳). The start is conventional.",
+  "name_zh": "吴"
  },
  {
   "id": "POL_YUE",
@@ -151,7 +164,8 @@
   "year_max": -306,
   "capital_place_id": "PL_KUAIJI",
   "wikidata_qid": null,
-  "note": "Kingdom south of Wu; Goujian's state, which destroyed Wu in 473. Year range conventional, not established from the sources cited in this batch."
+  "note": "Kingdom south of Wu; Goujian's state, which destroyed Wu in 473. Year range conventional, not established from the sources cited in this batch.",
+  "name_zh": "越"
  },
  {
   "id": "POL_SPARTA",
@@ -162,7 +176,8 @@
   "year_max": -192,
   "capital_place_id": null,
   "wikidata_qid": null,
-  "note": "Dorian polis and the leading land power of Greece; Athens's opponent in the Peloponnesian War, and the power that installed the Thirty in 404. Year range conventional, not established from the sources cited in this batch. No place row: Sparta itself is not yet in places.csv."
+  "note": "Dorian polis and the leading land power of Greece; Athens's opponent in the Peloponnesian War, and the power that installed the Thirty in 404. Year range conventional, not established from the sources cited in this batch. No place row: Sparta itself is not yet in places.csv.",
+  "name_zh": null
  },
  {
   "id": "POL_KOSALA",
@@ -173,7 +188,8 @@
   "year_max": null,
   "capital_place_id": "PL_SAVATTHI",
   "wikidata_qid": null,
-  "note": "Northern neighbour and rival of Magadha; Pasenadi's kingdom, and the setting of a large part of the Pali canon (MN 135 opens at Savatthi in Jeta's Grove, read this session). YEAR RANGE DELIBERATELY BLANK: no source read for this batch gives a foundation or an end date, and the batch will not supply a conventional one it has not read."
+  "note": "Northern neighbour and rival of Magadha; Pasenadi's kingdom, and the setting of a large part of the Pali canon (MN 135 opens at Savatthi in Jeta's Grove, read this session). YEAR RANGE DELIBERATELY BLANK: no source read for this batch gives a foundation or an end date, and the batch will not supply a conventional one it has not read.",
+  "name_zh": null
  },
  {
   "id": "POL_VAJJI",
@@ -184,7 +200,8 @@
   "year_max": null,
   "capital_place_id": "PL_VESALI",
   "wikidata_qid": null,
-  "note": "The league of clans, the Licchavis of Vesali foremost among them, whose assembly practice DN 16 describes at 1.4.3-1.4.15 (read this session) as the seven principles that prevent decline, and which Ajatasattu means to destroy at 1.1.3. capital_place_id names Vesali as the leading city; the Pali text does not use a word for capital. Year range blank for the same reason as POL_KOSALA."
+  "note": "The league of clans, the Licchavis of Vesali foremost among them, whose assembly practice DN 16 describes at 1.4.3-1.4.15 (read this session) as the seven principles that prevent decline, and which Ajatasattu means to destroy at 1.1.3. capital_place_id names Vesali as the leading city; the Pali text does not use a word for capital. Year range blank for the same reason as POL_KOSALA.",
+  "name_zh": null
  },
  {
   "id": "POL_MALLA",
@@ -195,7 +212,8 @@
   "year_max": null,
   "capital_place_id": null,
   "wikidata_qid": null,
-  "note": "The clan territory in which the Buddha died. DN 16 has the Mallas of Kusinara sitting together at the town hall on their own business (6.12.6) and the Mallas of Pava sending for a share of the relics (6.24.25-28), both read this session: two towns, one people. capital_place_id blank because the sources name no single seat."
+  "note": "The clan territory in which the Buddha died. DN 16 has the Mallas of Kusinara sitting together at the town hall on their own business (6.12.6) and the Mallas of Pava sending for a share of the relics (6.24.25-28), both read this session: two towns, one people. capital_place_id blank because the sources name no single seat.",
+  "name_zh": null
  },
  {
   "id": "POL_WEI",
@@ -206,7 +224,8 @@
   "year_max": -225,
   "capital_place_id": null,
   "wikidata_qid": null,
-  "note": "Chinese name 魏. One of the three ministerial houses of Jin that divided the lands of Zhi Bo in 453 and were first ranked among the feudal lords in 403. BOTH ENDS OF THE RANGE COME FROM ONE SOURCE READ AT ITS LOCATOR, not from convention, which is what distinguishes these three rows from POL_JIN and POL_QI: Shiji 15 六國年表, read at https://ctext.org/shiji/liu-guo-nian-biao on 2026-09-20 (this session). year_min: this state's column at the line the ctext edition labels 403 reads 二十二。初為侯。, and the Chu column of the same line reads 五。魏、韓、趙始列為諸侯. year_max: this state's column at the line labelled 225 reads 三。秦虜王假 ('third year; Qin took King Jia prisoner'), the Qin column of the same line adding 王賁擊魏，得其王假，盡取其地. The column is blank from the next line on. The house itself is older than 403 and its origin was NOT established from the source read here; year_min is the date of the rank, not of the family. capital_place_id is BLANK, and the reason is not a missing coordinate — written here at r6-1b (2026-09-25) on ruling L-94(3), from the r6-3 search, and superseding the earlier sentence that said only that no capital of this state was a place row here. THE REASON: this state moved its seat INSIDE the very range this row carries — Wei's seat was Anyi and then Daliang — and capital_place_id is a single nullable FK. Filling it asserts one seat for the whole range, which is false; choosing which one to assert is exactly the quiet substitution conventions §10 forbids. The four sites are locatable, at the Qin/Han COUNTY horizon and under the county name, in CHGIS/TGAZ, all four records read 2026-09-25 at https://chgis.hudci.org/tgaz/placename/json/<id> (r6-3, re-read at r6-1b): 安邑縣 hvd_95289 (-204 to 13, 35.18027 N 111.16012 E, 今山西夏县禹王乡); 大樑縣 hvd_44393 (-225 to -138, 34.78548 N 114.34333 E, 今河南开封市); 陽翟縣 hvd_82453 (-230 to 13, 34.16249 N 113.46706 E, 今河南禹州市); 邯鄲縣 hvd_87010 (-221 to 0, 36.59348 N 114.47204 E, 今河北邯郸市). So the blank is NOT for want of a coordinate — though note that each of those records is a Qin or Han county, later than the seat this row would need, and every one of them declares \"license\": \"CC BY-NC 4.0\", which is not a conventions §6 vocabulary value (SRC_CHGIS.licence_note). What is missing is a reading, at its locator, establishing WHICH SEAT HELD WHEN — Shiji 15 (SRC_SHIJI_15) is already in this corpus and already read at its locator for this row's own year_min and year_max, and its table records the Wei removal to Daliang, so it is the obvious place to establish it. That is a reading task with its own dating basis, a later round's if wanted (L-94(3)), and not something to infer here: no basis for the choice, no FK. As a matter of record, neither Anyi nor Daliang is a place row in this dataset. Added r5-3."
+  "note": "Chinese name 魏. One of the three ministerial houses of Jin that divided the lands of Zhi Bo in 453 and were first ranked among the feudal lords in 403. BOTH ENDS OF THE RANGE COME FROM ONE SOURCE READ AT ITS LOCATOR, not from convention, which is what distinguishes these three rows from POL_JIN and POL_QI: Shiji 15 六國年表, read at https://ctext.org/shiji/liu-guo-nian-biao on 2026-09-20 (this session). year_min: this state's column at the line the ctext edition labels 403 reads 二十二。初為侯。, and the Chu column of the same line reads 五。魏、韓、趙始列為諸侯. year_max: this state's column at the line labelled 225 reads 三。秦虜王假 ('third year; Qin took King Jia prisoner'), the Qin column of the same line adding 王賁擊魏，得其王假，盡取其地. The column is blank from the next line on. The house itself is older than 403 and its origin was NOT established from the source read here; year_min is the date of the rank, not of the family. capital_place_id is BLANK, and the reason is not a missing coordinate — written here at r6-1b (2026-09-25) on ruling L-94(3), from the r6-3 search, and superseding the earlier sentence that said only that no capital of this state was a place row here. THE REASON: this state moved its seat INSIDE the very range this row carries — Wei's seat was Anyi and then Daliang — and capital_place_id is a single nullable FK. Filling it asserts one seat for the whole range, which is false; choosing which one to assert is exactly the quiet substitution conventions §10 forbids. The four sites are locatable, at the Qin/Han COUNTY horizon and under the county name, in CHGIS/TGAZ, all four records read 2026-09-25 at https://chgis.hudci.org/tgaz/placename/json/<id> (r6-3, re-read at r6-1b): 安邑縣 hvd_95289 (-204 to 13, 35.18027 N 111.16012 E, 今山西夏县禹王乡); 大樑縣 hvd_44393 (-225 to -138, 34.78548 N 114.34333 E, 今河南开封市); 陽翟縣 hvd_82453 (-230 to 13, 34.16249 N 113.46706 E, 今河南禹州市); 邯鄲縣 hvd_87010 (-221 to 0, 36.59348 N 114.47204 E, 今河北邯郸市). So the blank is NOT for want of a coordinate — though note that each of those records is a Qin or Han county, later than the seat this row would need, and every one of them declares \"license\": \"CC BY-NC 4.0\", which is not a conventions §6 vocabulary value (SRC_CHGIS.licence_note). What is missing is a reading, at its locator, establishing WHICH SEAT HELD WHEN — Shiji 15 (SRC_SHIJI_15) is already in this corpus and already read at its locator for this row's own year_min and year_max, and its table records the Wei removal to Daliang, so it is the obvious place to establish it. That is a reading task with its own dating basis, a later round's if wanted (L-94(3)), and not something to infer here: no basis for the choice, no FK. As a matter of record, neither Anyi nor Daliang is a place row in this dataset. Added r5-3. SEATS READ 2026-11-13 (Sophia r16-3), answering the sentence above that says what is missing. Shiji 44 魏世家, read at zh.wikisource.org page 史記/卷044 (revision 7903606, fetched whole via action=raw on 2026-11-13, this session), puts the house at Anyi long before this range opens: after Duke Dao of Jin's praise of Wei Jiang (悼公之十一年，曰：『自吾用魏絳，八年之中，九合諸侯…』; Duke Dao's eleventh year is the line labelled 562 in Shiji 14, page 史記/卷014, revision 2607001, same fetch, whose 晉 column reads 十一率諸侯伐鄭，秦敗我櫟。公曰：「吾用魏絳九合諸侯，」賜之樂。) it says 徙治安邑; the year of the move itself is not given. The move away is read in the same chapter: 卅一年 … 安邑近秦，於是徙治大梁 (King Hui's 31st year, -340 on Shiji 15's labels, 惠王元年 at 370). A SECOND CHRONOLOGY DISAGREES: the Bamboo Annals (page 古本竹書紀年輯校, revision 2014139, same fetch; SRC_WS_GUBEN_JINIAN), under 梁惠成王, have 六年四月甲寅，徙都于大梁 from the Shuijing zhu, and note that the Shiji commentary and the Mencius subcommentary quote it as the ninth year (梁惠成王九年四月甲寅徙都大梁). Counted on Shiji 15's own labels those are -365 and -362, but the Annals' count of Hui's years need not start where the Shiji's does, and no conversion is asserted. So within this row's range Wei's seat was Anyi from -403 until the move (-340 on the Shiji, earlier on the Annals) and Daliang (PL_DALIANG) from then to -225. capital_place_id STAYS BLANK for the reason given above, now with the readings that show it: two seats, each read at its locator, inside one range. Anyi is now a place row, PL_ANYI. Qin received Anyi in 286 (Shiji 15, the 秦 column: 二十一。魏納安邑及河內。).",
+  "name_zh": "魏"
  },
  {
   "id": "POL_HAN",
@@ -217,7 +236,8 @@
   "year_max": -230,
   "capital_place_id": null,
   "wikidata_qid": null,
-  "note": "Chinese name 韓. One of the three ministerial houses of Jin that divided the lands of Zhi Bo in 453 and were first ranked among the feudal lords in 403. BOTH ENDS OF THE RANGE COME FROM ONE SOURCE READ AT ITS LOCATOR, not from convention, which is what distinguishes these three rows from POL_JIN and POL_QI: Shiji 15 六國年表, read at https://ctext.org/shiji/liu-guo-nian-biao on 2026-09-20 (this session). year_min: this state's column at the line the ctext edition labels 403 reads 六。初為侯。, and the Chu column of the same line reads 五。魏、韓、趙始列為諸侯. year_max: this state's column at the line labelled 230 reads 九。秦虜王安，秦滅韓 ('ninth year; Qin took King An prisoner, Qin destroyed Han'). The column is blank from the next line on. The house itself is older than 403 and its origin was NOT established from the source read here; year_min is the date of the rank, not of the family. capital_place_id is BLANK, and the reason is not a missing coordinate — written here at r6-1b (2026-09-25) on ruling L-94(3), from the r6-3 search, and superseding the earlier sentence that said only that no capital of this state was a place row here. THE REASON: this state moved its seat INSIDE the very range this row carries — Han's seat was Yangzhai and then Xinzheng — and capital_place_id is a single nullable FK. Filling it asserts one seat for the whole range, which is false; choosing which one to assert is exactly the quiet substitution conventions §10 forbids. The four sites are locatable, at the Qin/Han COUNTY horizon and under the county name, in CHGIS/TGAZ, all four records read 2026-09-25 at https://chgis.hudci.org/tgaz/placename/json/<id> (r6-3, re-read at r6-1b): 安邑縣 hvd_95289 (-204 to 13, 35.18027 N 111.16012 E, 今山西夏县禹王乡); 大樑縣 hvd_44393 (-225 to -138, 34.78548 N 114.34333 E, 今河南开封市); 陽翟縣 hvd_82453 (-230 to 13, 34.16249 N 113.46706 E, 今河南禹州市); 邯鄲縣 hvd_87010 (-221 to 0, 36.59348 N 114.47204 E, 今河北邯郸市). So the blank is NOT for want of a coordinate — though note that each of those records is a Qin or Han county, later than the seat this row would need, and every one of them declares \"license\": \"CC BY-NC 4.0\", which is not a conventions §6 vocabulary value (SRC_CHGIS.licence_note). What is missing is a reading, at its locator, establishing WHICH SEAT HELD WHEN — Shiji 15 (SRC_SHIJI_15) is already in this corpus and already read at its locator for this row's own year_min and year_max, and its table records the Wei removal to Daliang, so it is the obvious place to establish it. That is a reading task with its own dating basis, a later round's if wanted (L-94(3)), and not something to infer here: no basis for the choice, no FK. As a matter of record, Yangzhai is not a place row in this dataset; Xinzheng IS — PL_XINZHENG, which this atlas holds as the capital of Zheng, the state Han absorbed. Added r5-3."
+  "note": "Chinese name 韓. One of the three ministerial houses of Jin that divided the lands of Zhi Bo in 453 and were first ranked among the feudal lords in 403. BOTH ENDS OF THE RANGE COME FROM ONE SOURCE READ AT ITS LOCATOR, not from convention, which is what distinguishes these three rows from POL_JIN and POL_QI: Shiji 15 六國年表, read at https://ctext.org/shiji/liu-guo-nian-biao on 2026-09-20 (this session). year_min: this state's column at the line the ctext edition labels 403 reads 六。初為侯。, and the Chu column of the same line reads 五。魏、韓、趙始列為諸侯. year_max: this state's column at the line labelled 230 reads 九。秦虜王安，秦滅韓 ('ninth year; Qin took King An prisoner, Qin destroyed Han'). The column is blank from the next line on. The house itself is older than 403 and its origin was NOT established from the source read here; year_min is the date of the rank, not of the family. capital_place_id is BLANK, and the reason is not a missing coordinate — written here at r6-1b (2026-09-25) on ruling L-94(3), from the r6-3 search, and superseding the earlier sentence that said only that no capital of this state was a place row here. THE REASON: this state moved its seat INSIDE the very range this row carries — Han's seat was Yangzhai and then Xinzheng — and capital_place_id is a single nullable FK. Filling it asserts one seat for the whole range, which is false; choosing which one to assert is exactly the quiet substitution conventions §10 forbids. The four sites are locatable, at the Qin/Han COUNTY horizon and under the county name, in CHGIS/TGAZ, all four records read 2026-09-25 at https://chgis.hudci.org/tgaz/placename/json/<id> (r6-3, re-read at r6-1b): 安邑縣 hvd_95289 (-204 to 13, 35.18027 N 111.16012 E, 今山西夏县禹王乡); 大樑縣 hvd_44393 (-225 to -138, 34.78548 N 114.34333 E, 今河南开封市); 陽翟縣 hvd_82453 (-230 to 13, 34.16249 N 113.46706 E, 今河南禹州市); 邯鄲縣 hvd_87010 (-221 to 0, 36.59348 N 114.47204 E, 今河北邯郸市). So the blank is NOT for want of a coordinate — though note that each of those records is a Qin or Han county, later than the seat this row would need, and every one of them declares \"license\": \"CC BY-NC 4.0\", which is not a conventions §6 vocabulary value (SRC_CHGIS.licence_note). What is missing is a reading, at its locator, establishing WHICH SEAT HELD WHEN — Shiji 15 (SRC_SHIJI_15) is already in this corpus and already read at its locator for this row's own year_min and year_max, and its table records the Wei removal to Daliang, so it is the obvious place to establish it. That is a reading task with its own dating basis, a later round's if wanted (L-94(3)), and not something to infer here: no basis for the choice, no FK. As a matter of record, Yangzhai is not a place row in this dataset; Xinzheng IS — PL_XINZHENG, which this atlas holds as the capital of Zheng, the state Han absorbed. Added r5-3. SEATS READ 2026-11-13 (Sophia r16-3), answering the sentence above that says what is missing, and correcting it. Shiji 45 韓世家, read at zh.wikisource.org page 史記/卷045 (revision 7903607, fetched whole via action=raw on 2026-11-13, this session), names two seats: 貞子徙居平陽 (before this range opens) and, under Marquis Ai, 二年，滅鄭，因徙都鄭 (Shiji 15, page 史記/卷015, revision 2607002, same fetch: the 韓 column at the line labelled 375 reads 二。滅鄭。康公二十年滅，無後。). So from -375 Han's seat was the Zheng capital, PL_XINZHENG. YANGZHAI IS NOT NAMED AS A SEAT IN ANY TEXT READ: Shiji 45 has only 九年，鄭圍我陽翟 under Marquis Jing (the 韓 column at the line labelled 400 in Shiji 15 reads 九。鄭圍陽翟。), and the commentary edition of the same chapter (page 史記三家註/卷045, revision 2514714, read the same day) adds nothing about a move there. The sentence above that says Han's seat was Yangzhai and then Xinzheng therefore rests on no reading in this dataset; what the texts read give is Pingyang, then Zheng from -375. Which seat held from -403 to -376 is not established (Pingyang is the last one named), so capital_place_id STAYS BLANK, and no Yangzhai place row is added.",
+  "name_zh": "韩"
  },
  {
   "id": "POL_ZHAO",
@@ -228,6 +248,31 @@
   "year_max": -222,
   "capital_place_id": null,
   "wikidata_qid": null,
-  "note": "Chinese name 趙. One of the three ministerial houses of Jin that divided the lands of Zhi Bo in 453 and were first ranked among the feudal lords in 403. BOTH ENDS OF THE RANGE COME FROM ONE SOURCE READ AT ITS LOCATOR, not from convention, which is what distinguishes these three rows from POL_JIN and POL_QI: Shiji 15 六國年表, read at https://ctext.org/shiji/liu-guo-nian-biao on 2026-09-20 (this session). year_min: this state's column at the line the ctext edition labels 403 reads 六。初為侯。, and the Chu column of the same line reads 五。魏、韓、趙始列為諸侯. year_max: this state's column at the line labelled 222 reads 六。秦將王賁虜王嘉，秦滅趙 ('sixth year; Qin's general Wang Ben took King Jia prisoner, Qin destroyed Zhao'). THE END OF THIS ONE IS NOT A SINGLE MOMENT EVEN IN THIS TABLE, and the later date is taken deliberately: at the line labelled 228 the same column reads 八。秦王翦虜王遷邯鄲。公子嘉自立為代王 — the king taken at Handan and a prince setting himself up as king of Dai — after which the table keeps the column running under the Dai succession for six more lines and puts 秦滅趙 at 222. year_max follows the table's own 滅 rather than the fall of the capital; the alternative is on the record here rather than chosen silently (conventions §10). The house itself is older than 403 and its origin was NOT established from the source read here; year_min is the date of the rank, not of the family. capital_place_id is BLANK, and the reason is not a missing coordinate — written here at r6-1b (2026-09-25) on ruling L-94(3), from the r6-3 search, and superseding the earlier sentence that said only that no capital of this state was a place row here. THE REASON: this state moved its seat INSIDE the very range this row carries — Zhao's seat was Jinyang, then Zhongmu, then Handan — and capital_place_id is a single nullable FK. Filling it asserts one seat for the whole range, which is false; choosing which one to assert is exactly the quiet substitution conventions §10 forbids. The four sites are locatable, at the Qin/Han COUNTY horizon and under the county name, in CHGIS/TGAZ, all four records read 2026-09-25 at https://chgis.hudci.org/tgaz/placename/json/<id> (r6-3, re-read at r6-1b): 安邑縣 hvd_95289 (-204 to 13, 35.18027 N 111.16012 E, 今山西夏县禹王乡); 大樑縣 hvd_44393 (-225 to -138, 34.78548 N 114.34333 E, 今河南开封市); 陽翟縣 hvd_82453 (-230 to 13, 34.16249 N 113.46706 E, 今河南禹州市); 邯鄲縣 hvd_87010 (-221 to 0, 36.59348 N 114.47204 E, 今河北邯郸市). So the blank is NOT for want of a coordinate — though note that each of those records is a Qin or Han county, later than the seat this row would need, and every one of them declares \"license\": \"CC BY-NC 4.0\", which is not a conventions §6 vocabulary value (SRC_CHGIS.licence_note). What is missing is a reading, at its locator, establishing WHICH SEAT HELD WHEN — Shiji 15 (SRC_SHIJI_15) is already in this corpus and already read at its locator for this row's own year_min and year_max, and its table records the Wei removal to Daliang, so it is the obvious place to establish it. That is a reading task with its own dating basis, a later round's if wanted (L-94(3)), and not something to infer here: no basis for the choice, no FK. As a matter of record, Zhongmu and Handan are not place rows in this dataset; Jinyang IS, as of r6-1b — PL_JINYANG, added for the 453 events. Added r5-3."
+  "note": "Chinese name 趙. One of the three ministerial houses of Jin that divided the lands of Zhi Bo in 453 and were first ranked among the feudal lords in 403. BOTH ENDS OF THE RANGE COME FROM ONE SOURCE READ AT ITS LOCATOR, not from convention, which is what distinguishes these three rows from POL_JIN and POL_QI: Shiji 15 六國年表, read at https://ctext.org/shiji/liu-guo-nian-biao on 2026-09-20 (this session). year_min: this state's column at the line the ctext edition labels 403 reads 六。初為侯。, and the Chu column of the same line reads 五。魏、韓、趙始列為諸侯. year_max: this state's column at the line labelled 222 reads 六。秦將王賁虜王嘉，秦滅趙 ('sixth year; Qin's general Wang Ben took King Jia prisoner, Qin destroyed Zhao'). THE END OF THIS ONE IS NOT A SINGLE MOMENT EVEN IN THIS TABLE, and the later date is taken deliberately: at the line labelled 228 the same column reads 八。秦王翦虜王遷邯鄲。公子嘉自立為代王 — the king taken at Handan and a prince setting himself up as king of Dai — after which the table keeps the column running under the Dai succession for six more lines and puts 秦滅趙 at 222. year_max follows the table's own 滅 rather than the fall of the capital; the alternative is on the record here rather than chosen silently (conventions §10). The house itself is older than 403 and its origin was NOT established from the source read here; year_min is the date of the rank, not of the family. capital_place_id is BLANK, and the reason is not a missing coordinate — written here at r6-1b (2026-09-25) on ruling L-94(3), from the r6-3 search, and superseding the earlier sentence that said only that no capital of this state was a place row here. THE REASON: this state moved its seat INSIDE the very range this row carries — Zhao's seat was Jinyang, then Zhongmu, then Handan — and capital_place_id is a single nullable FK. Filling it asserts one seat for the whole range, which is false; choosing which one to assert is exactly the quiet substitution conventions §10 forbids. The four sites are locatable, at the Qin/Han COUNTY horizon and under the county name, in CHGIS/TGAZ, all four records read 2026-09-25 at https://chgis.hudci.org/tgaz/placename/json/<id> (r6-3, re-read at r6-1b): 安邑縣 hvd_95289 (-204 to 13, 35.18027 N 111.16012 E, 今山西夏县禹王乡); 大樑縣 hvd_44393 (-225 to -138, 34.78548 N 114.34333 E, 今河南开封市); 陽翟縣 hvd_82453 (-230 to 13, 34.16249 N 113.46706 E, 今河南禹州市); 邯鄲縣 hvd_87010 (-221 to 0, 36.59348 N 114.47204 E, 今河北邯郸市). So the blank is NOT for want of a coordinate — though note that each of those records is a Qin or Han county, later than the seat this row would need, and every one of them declares \"license\": \"CC BY-NC 4.0\", which is not a conventions §6 vocabulary value (SRC_CHGIS.licence_note). What is missing is a reading, at its locator, establishing WHICH SEAT HELD WHEN — Shiji 15 (SRC_SHIJI_15) is already in this corpus and already read at its locator for this row's own year_min and year_max, and its table records the Wei removal to Daliang, so it is the obvious place to establish it. That is a reading task with its own dating basis, a later round's if wanted (L-94(3)), and not something to infer here: no basis for the choice, no FK. As a matter of record, Zhongmu and Handan are not place rows in this dataset; Jinyang IS, as of r6-1b — PL_JINYANG, added for the 453 events. Added r5-3. SEATS READ 2026-11-13 (Sophia r16-3), answering the sentence above that says what is missing. Shiji 43 趙世家, read at zh.wikisource.org page 史記/卷043 (revision 7903603, fetched whole via action=raw on 2026-11-13, this session): 獻侯少卽位，治中牟。 (趙獻侯元年 at the line labelled 423 in Shiji 15, page 史記/卷015, revision 2607002, same fetch) and 敬侯元年，武公子朝作亂，不克，出奔魏。趙始都邯鄲。 (the 趙 column at 386 reads 趙敬侯元年。武公子朝作亂，奔魏。). Hanshu 28 地理志 (page 漢書/卷028, revision 2605705, same fetch) agrees: 四世敬侯徙都邯鄲. Handan ceased to be Zhao's seat at the line labelled 228 quoted above (秦王翦虜王遷邯鄲); Shiji 43: 八年十月，邯鄲爲秦。 So within this row's range: Zhongmu from -403 to -387, Handan from -386 to -228, then the Dai succession, whose seat no text read names. capital_place_id STAYS BLANK, now on the readings: three seats inside one range. Zhongmu and Handan are now place rows (PL_ZHONGMU, unlocated; PL_HANDAN).",
+  "name_zh": "赵"
+ },
+ {
+  "id": "POL_QIN",
+  "name_en": "Qin",
+  "region_id": "R_CN",
+  "polity_type": "state",
+  "year_min": -771,
+  "year_max": -207,
+  "capital_place_id": null,
+  "wikidata_qid": null,
+  "note": "Chinese name 秦. BOTH ENDS OF THE RANGE ARE READ AT A LOCATOR, in two tables of the Shiji, which is what POL_WEI, POL_HAN and POL_ZHAO require of a polity row. year_min: Shiji 14 十二諸侯年表, read at zh.wikisource.org page 史記/卷014 (revision 2607001, fetched whole via action=raw on 2026-11-13, this session): the 秦 column at the line the edition labels 771 reads 七始列為諸侯。 (Duke Xiang's seventh year; 秦襄公元年 at 777), and the 周 column of the same line 十一幽王為犬戎所殺。 Shiji 5 秦本紀 (page 史記/卷005, revision 8744286, same fetch) tells it under the same year: 七年春 … 平王封襄公為諸侯，賜之岐以西之地 … 襄公於是始國. year_min is the date of the rank, not of the house, which is older and whose origin is not dated here; the three Jin successor rows read 初為侯 the same way. A ONE-YEAR TENSION, CARRIED: Shiji 5 puts the enfeoffment after the court's move east (東徙雒邑，襄公以兵送周平王。平王封襄公為諸侯), and the table puts 平王元年東徙雒邑。 in the next line, 770. The table's own 始列為諸侯 at 771 is taken; -770 is the alternative, recorded rather than chosen silently (conventions §10). year_max: Shiji 15 六國年表 (page 史記/卷015, revision 2607002, same fetch), the line labelled 207, a single cell spanning the table: 三趙高反，二世自殺，高立二世兄子嬰。子嬰立，剌殺高，夷三族。諸侯入秦，嬰降，為項羽所殺。 Shiji 6 (page 史記/卷006, revision 7907969, same fetch): 子嬰為秦王四十六日，楚將沛公破秦軍入武關 … 降軹道旁. The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). polity_type is 'state', as for POL_WEI: Qin's ruler took the title of king in 325 (Shiji 15, the 秦 column at 325: 十三。四月戊午，君為王。) and of emperor in 221 (E_CN_060); one type cannot carry all three, and the first is recorded. capital_place_id is BLANK for the reason POL_WEI's is: the seat moved inside this range. Shiji 5: 獻公即位，鎮撫邊境，徙治櫟陽 and 十二年，作為咸陽，筑冀闕，秦徙都之 (Duke Xiao's 12th year, -350 on Shiji 15; PL_XIANYANG). One FK would assert one seat for the whole range. The range lies mostly outside 600-400 BCE; the row is held in by the Qin rows that waited for it (P_SHANGYANG, P_LISI, E_CN_051, E_CN_052, E_CN_054, E_CN_057, E_CN_059, E_CN_060, PL_XIANYANG), admitted for the China pillar by D-20 (R_CN ranges over 800-200). Added 2026-11-13 (Sophia r16-3).",
+  "name_zh": "秦"
+ },
+ {
+  "id": "POL_SONG",
+  "name_en": "Song",
+  "region_id": "R_CN",
+  "polity_type": "state",
+  "year_min": null,
+  "year_max": null,
+  "capital_place_id": null,
+  "wikidata_qid": null,
+  "note": "Chinese name 宋. YEAR RANGE DELIBERATELY BLANK, in the POL_KOSALA form, because only ONE end can be read and the gate requires both or neither (validate.py year_range: 'must both be set or both blank'). THE END IS READ: Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-11-13, this session): the 齊 column at the line labelled 286 reads 三十八。齊滅宋。 and the 魏 column of the same line 十。宋王死我溫。. Shiji 38 宋微子世家 (page 史記/卷038, revision 8737306, same fetch) closes the house: 王偃立四十七年，齊湣王與魏、楚伐宋，殺王偃，遂滅宋而三分其地。 So -286 is the year an end would take (the edition's western year, calendars.csv CAL_ZHOU_REGNAL). THE START IS NOT READ: Shiji 38 has Weizi installed as heir of Yin with no year (乃命微子開代殷後，奉其先祀，作微子之命以申之，國于宋), and the Shiji's first year-table, Shiji 14 (page 史記/卷014, revision 2607001, same fetch), opens at the line labelled 841 with Song already in its ruler's eighteenth year (釐公十八年). No conventional start is supplied. L-110(5) asked for an end date read at a locator before a Song row is added; it is read, and the row is added on that condition with the range blank rather than half filled, so that a later reading of the start can fill both cells at once. capital_place_id is BLANK: PL_SHANGQIU is the Song capital of this dataset's Spring and Autumn rows (E_CN_043, E_CN_044), but Shiji 15 has Han seize a ruler of Song at Pengcheng in 385 (the 韓 column: 二。伐鄭，取陽城。伐宋，到彭城，執宋君。), so one seat for the state's whole existence is not established by the texts read. Added 2026-11-13 (Sophia r16-3).",
+  "name_zh": "宋"
  }
 ]

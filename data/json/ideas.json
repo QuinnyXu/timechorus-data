@@ -9,7 +9,8 @@
   "first_attested_year_min": -479,
   "first_attested_year_max": -200,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Analects 12.22 (Q_001, idea_link IL_001), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/yan-yuan/ens). The lower bound -479 is W_ANALECTS's lower bound, the death of Confucius. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis."
+  "first_attestation_basis": "First attested at Analects 12.22 (Q_001, idea_link IL_001), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/yan-yuan/ens). The lower bound -479 is W_ANALECTS's lower bound, the death of Confucius. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis.",
+  "name_zh": "仁"
  },
  {
   "id": "I_SHU",
@@ -21,7 +22,8 @@
   "first_attested_year_min": -479,
   "first_attested_year_max": -200,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Analects 15.24 (Q_002, idea_link IL_004); not re-read this session; this basis rests on the merged rows named (the check against ctext.org/analects/wei-ling-gong/ens did not match the quoted wording, which cites Legge's own numbering, Book XV ch. XXIII). The lower bound -479 is W_ANALECTS's lower bound. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis."
+  "first_attestation_basis": "First attested at Analects 15.24 (Q_002, idea_link IL_004); not re-read this session; this basis rests on the merged rows named (the check against ctext.org/analects/wei-ling-gong/ens did not match the quoted wording, which cites Legge's own numbering, Book XV ch. XXIII). The lower bound -479 is W_ANALECTS's lower bound. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis.",
+  "name_zh": "恕"
  },
  {
   "id": "I_WUWEI",
@@ -33,7 +35,8 @@
   "first_attested_year_min": -400,
   "first_attested_year_max": -250,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Daodejing 37 (Q_003, idea_link IL_006), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/dao-de-jing/ens). Range -400/-250 = W_DAODEJING's composition window (Guodian c. -300, Mawangdui c. -200; Loewe 1993 as cited on that row)."
+  "first_attestation_basis": "First attested at Daodejing 37 (Q_003, idea_link IL_006), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/dao-de-jing/ens). Range -400/-250 = W_DAODEJING's composition window (Guodian c. -300, Mawangdui c. -200; Loewe 1993 as cited on that row).",
+  "name_zh": "无为"
  },
  {
   "id": "I_MIDDLE_WAY",
@@ -45,7 +48,8 @@
   "first_attested_year_min": -471,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "Originated by P_BUDDHA (IL_008); first stated in its own words at SN 56.11 (Q_074, IL_139), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (bilara-data sn56.11 translation JSON), and summarised in DN 16's last words (Q_005, IL_009; not re-read this session; this basis rests on the merged rows named). The range dates the Buddha's teaching, not the texts: W_SN56_11 and W_DN16 are -400/-100. Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here, which was not the teaching-life constant round02_batchB §5.3 states (-471/-380), is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance SN 56.11 (Q_074, IL_139) reports, and closes at the attesting work's own ceiling: W_SN56_11 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named."
+  "first_attestation_basis": "Originated by P_BUDDHA (IL_008); first stated in its own words at SN 56.11 (Q_074, IL_139), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (bilara-data sn56.11 translation JSON), and summarised in DN 16's last words (Q_005, IL_009; not re-read this session; this basis rests on the merged rows named). The range dates the Buddha's teaching, not the texts: W_SN56_11 and W_DN16 are -400/-100. Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here, which was not the teaching-life constant round02_batchB §5.3 states (-471/-380), is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance SN 56.11 (Q_074, IL_139) reports, and closes at the attesting work's own ceiling: W_SN56_11 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named.",
+  "name_zh": null
  },
  {
   "id": "I_AHIMSA",
@@ -57,7 +61,8 @@
   "first_attested_year_min": -400,
   "first_attested_year_max": -200,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Acaranga 1.4.1.1 (Q_014, idea_link IL_026); not re-read this session; this basis rests on the merged rows named (sacred-texts.com refused this session and the archive.org file name tried returned 404). Range -400/-200 = W_ACARANGA's composition window (oldest stratum of the Jain canon; Dundas as cited on that row). The idea is linked to P_MAHAVIRA as originator (IL_010), generations earlier than the text."
+  "first_attestation_basis": "First attested at Acaranga 1.4.1.1 (Q_014, idea_link IL_026); not re-read this session; this basis rests on the merged rows named (sacred-texts.com refused this session and the archive.org file name tried returned 404). Range -400/-200 = W_ACARANGA's composition window (oldest stratum of the Jain canon; Dundas as cited on that row). The idea is linked to P_MAHAVIRA as originator (IL_010), generations earlier than the text.",
+  "name_zh": null
  },
  {
   "id": "I_INDIV_RESP",
@@ -69,7 +74,8 @@
   "first_attested_year_min": -593,
   "first_attested_year_max": -571,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Ezekiel 18:20 (Q_006, idea_link IL_012), re-read at its locator this session through the Sefaria API (JPS 1917 and Tanach with Text Only, both Public Domain). Range -593/-571 is the span of the book's dated oracles as W_EZEKIEL's basis states it ('Dated oracles 593-571'), not the work's full window (-593/-540), which allows for later editorial layers."
+  "first_attestation_basis": "First attested at Ezekiel 18:20 (Q_006, idea_link IL_012), re-read at its locator this session through the Sefaria API (JPS 1917 and Tanach with Text Only, both Public Domain). Range -593/-571 is the span of the book's dated oracles as W_EZEKIEL's basis states it ('Dated oracles 593-571'), not the work's full window (-593/-540), which allows for later editorial layers.",
+  "name_zh": null
  },
  {
   "id": "I_MONOTHEISM",
@@ -81,7 +87,8 @@
   "first_attested_year_min": -550,
   "first_attested_year_max": -539,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Isaiah 45:5 (Q_007, idea_link IL_014), re-read at its locator this session through the Sefaria API. Range -550/-539 = W_ISAIAH_40_55's composition window (references to Cyrus as conqueror-liberator), which ends at the fall of Babylon in October 539 by the work's own basis."
+  "first_attestation_basis": "First attested at Isaiah 45:5 (Q_007, idea_link IL_014), re-read at its locator this session through the Sefaria API. Range -550/-539 = W_ISAIAH_40_55's composition window (references to Cyrus as conqueror-liberator), which ends at the fall of Babylon in October 539 by the work's own basis.",
+  "name_zh": null
  },
  {
   "id": "I_ASHA",
@@ -93,7 +100,8 @@
   "first_attested_year_min": -1200,
   "first_attested_year_max": -518,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Yasna 30.3 (Q_009, idea_link IL_016), re-read this session in SBE 31 (archive.org sbe31zendavestapart3_202002; sacred-texts refused), and developed at Behistun DB §55 (Q_008, IL_017), re-read this session in Tolman 1908. Lower bound -1200 = W_GATHAS's lower bound (linguistic dating); upper bound -518 = the end of W_BEHISTUN's window, the first securely dated attestation. The range therefore runs from the earliest date the Gathas may have to the latest date by which the idea is certainly in writing."
+  "first_attestation_basis": "First attested at Yasna 30.3 (Q_009, idea_link IL_016), re-read this session in SBE 31 (archive.org sbe31zendavestapart3_202002; sacred-texts refused), and developed at Behistun DB §55 (Q_008, IL_017), re-read this session in Tolman 1908. Lower bound -1200 = W_GATHAS's lower bound (linguistic dating); upper bound -518 = the end of W_BEHISTUN's window, the first securely dated attestation. The range therefore runs from the earliest date the Gathas may have to the latest date by which the idea is certainly in writing.",
+  "name_zh": null
  },
  {
   "id": "I_LOGOS",
@@ -105,7 +113,8 @@
   "first_attested_year_min": -505,
   "first_attested_year_max": -480,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Heraclitus DK B50 = Burnet fr. 1 (Q_010, idea_link IL_019); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -505/-480 = W_HERACLITUS_FR's composition window."
+  "first_attestation_basis": "First attested at Heraclitus DK B50 = Burnet fr. 1 (Q_010, idea_link IL_019); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -505/-480 = W_HERACLITUS_FR's composition window.",
+  "name_zh": null
  },
  {
   "id": "I_ISONOMIA",
@@ -117,7 +126,8 @@
   "first_attested_year_min": -508,
   "first_attested_year_max": -430,
   "review_status": "draft",
-  "first_attestation_basis": "No passage row originates this idea. The range begins with an event: -508 is the lower bound of E_GR_002, Cleisthenes' reforms (enacts, IL_020). It ends at -430, the upper bound of E_GR_004, Pericles' funeral oration, whose text is Q_012 (Thucydides 2.37.1, develops, IL_022, re-read this session in the MIT Crawley text). The earliest text linked is Herodotus 3.80.6 (Q_011, IL_021, re-read this session), inside W_HERODOTUS -440/-420. So the range dates the institution and its classic description, not a first written attestation; that difference from the batch B practice is flagged to the lead."
+  "first_attestation_basis": "No passage row originates this idea. The range begins with an event: -508 is the lower bound of E_GR_002, Cleisthenes' reforms (enacts, IL_020). It ends at -430, the upper bound of E_GR_004, Pericles' funeral oration, whose text is Q_012 (Thucydides 2.37.1, develops, IL_022, re-read this session in the MIT Crawley text). The earliest text linked is Herodotus 3.80.6 (Q_011, IL_021, re-read this session), inside W_HERODOTUS -440/-420. So the range dates the institution and its classic description, not a first written attestation; that difference from the batch B practice is flagged to the lead.",
+  "name_zh": null
  },
  {
   "id": "I_EXAMINED_LIFE",
@@ -129,7 +139,8 @@
   "first_attested_year_min": -400,
   "first_attested_year_max": -380,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Apology 38a (Q_013, idea_link IL_024), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (Fowler, PerseusDL tlg0059.tlg002). Upper bound -380 = W_APOLOGY's composition ceiling (the full-window equation held until the lower bound was rederived, 2026-10-12, below) (written within a generation of the trial). Lower bound -400 (2026-10-12): the idea's anchor is the trial's utterance (Apology 38a), and the trial (E_GR_005) is -400/-399 on Diogenes Laertius 2.44 (Ol. 95.1), so the idea opens at the trial's earliest year; it touches the slice's inclusive -400 end."
+  "first_attestation_basis": "First attested at Apology 38a (Q_013, idea_link IL_024), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (Fowler, PerseusDL tlg0059.tlg002). Upper bound -380 = W_APOLOGY's composition ceiling (the full-window equation held until the lower bound was rederived, 2026-10-12, below) (written within a generation of the trial). Lower bound -400 (2026-10-12): the idea's anchor is the trial's utterance (Apology 38a), and the trial (E_GR_005) is -400/-399 on Diogenes Laertius 2.44 (Ol. 95.1), so the idea opens at the trial's earliest year; it touches the slice's inclusive -400 end.",
+  "name_zh": null
  },
  {
   "id": "I_NOMOS_PHYSIS",
@@ -141,7 +152,8 @@
   "first_attested_year_min": -450,
   "first_attested_year_max": -416,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Herodotus 3.38.4 (Q_017, idea_link IL_027), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Godley); W_HERODOTUS is -440/-420. Neither bound of -450/-416 is recorded anywhere. -450 coincides with the lower bound of W_PROTAGORAS_FR and I_RELATIVISM (paralleled at IL_032), and -416 with the lower bound of E_GR_032, the Melian dialogue (Q_020); that these are the reasons is an inference from the merged rows, not a record, and is flagged to the lead."
+  "first_attestation_basis": "First attested at Herodotus 3.38.4 (Q_017, idea_link IL_027), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Godley); W_HERODOTUS is -440/-420. Neither bound of -450/-416 is recorded anywhere. -450 coincides with the lower bound of W_PROTAGORAS_FR and I_RELATIVISM (paralleled at IL_032), and -416 with the lower bound of E_GR_032, the Melian dialogue (Q_020); that these are the reasons is an inference from the merged rows, not a record, and is flagged to the lead.",
+  "name_zh": null
  },
  {
   "id": "I_ARETE",
@@ -153,7 +165,8 @@
   "first_attested_year_min": -545,
   "first_attested_year_max": -475,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Xenophanes DK 21 B2 (Q_028, idea_link IL_034); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -545/-475 = W_XENOPHANES_FR's composition window."
+  "first_attestation_basis": "First attested at Xenophanes DK 21 B2 (Q_028, idea_link IL_034); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -545/-475 = W_XENOPHANES_FR's composition window.",
+  "name_zh": null
  },
  {
   "id": "I_HUBRIS",
@@ -165,7 +178,8 @@
   "first_attested_year_min": -440,
   "first_attested_year_max": -420,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Herodotus 7.10ε (Q_016, idea_link IL_036), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Godley). Range -440/-420 = W_HERODOTUS's composition window."
+  "first_attestation_basis": "First attested at Herodotus 7.10ε (Q_016, idea_link IL_036), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Godley). Range -440/-420 = W_HERODOTUS's composition window.",
+  "name_zh": null
  },
  {
   "id": "I_ATOMISM",
@@ -177,7 +191,8 @@
   "first_attested_year_min": -440,
   "first_attested_year_max": -380,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Diogenes Laertius 9.45 = DK 68 A1 (Q_026, idea_link IL_039), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Hicks). Range -440/-380 = W_DEMOCRITUS_FR's composition window, i.e. Democritus's working life; the passage itself is a third-century CE testimonium, as its note says."
+  "first_attestation_basis": "First attested at Diogenes Laertius 9.45 = DK 68 A1 (Q_026, idea_link IL_039), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Hicks). Range -440/-380 = W_DEMOCRITUS_FR's composition window, i.e. Democritus's working life; the passage itself is a third-century CE testimonium, as its note says.",
+  "name_zh": null
  },
  {
   "id": "I_RELATIVISM",
@@ -189,7 +204,8 @@
   "first_attested_year_min": -450,
   "first_attested_year_max": -420,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Diogenes Laertius 9.51 = DK 80 B1 (Q_024, idea_link IL_041), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Hicks). Range -450/-420 = W_PROTAGORAS_FR's composition window."
+  "first_attestation_basis": "First attested at Diogenes Laertius 9.51 = DK 80 B1 (Q_024, idea_link IL_041), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (PerseusDL Hicks). Range -450/-420 = W_PROTAGORAS_FR's composition window.",
+  "name_zh": null
  },
  {
   "id": "I_DIKE",
@@ -201,7 +217,8 @@
   "first_attested_year_min": -560,
   "first_attested_year_max": -546,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Anaximander DK 12 B1 (Q_027, idea_link IL_045); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -560/-546 = W_ANAXIMANDER_FR's composition window. WHY THE IDEA OPENS AT ANAXIMANDER AND NOT AT HESIOD: this row names justice as the order of things, the settlement the cosmos itself keeps, and Anaximander's fragment is the first text in this corpus to use the language of a lawsuit of the world. Hesiod's Works and Days, which no source read for this corpus dates, already sets Justice against Outrage (213-218, Evelyn-White, read 2026-10-18: 'Justice beats Outrage when she comes at length to the end of the race') and describes the city that gives straight judgements and prospers (225-237); but that is justice among men, in the city, watched over by Zeus, not justice as the order of the world. Hesiod's civic Dike is therefore this idea's root, not its first attestation, and it is not linked here because no Hesiod row is in the pilot."
+  "first_attestation_basis": "First attested at Anaximander DK 12 B1 (Q_027, idea_link IL_045); not re-read this session; this basis rests on the merged rows named (the Wikisource page names tried returned 404). Range -560/-546 = W_ANAXIMANDER_FR's composition window. WHY THE IDEA OPENS AT ANAXIMANDER AND NOT AT HESIOD: this row names justice as the order of things, the settlement the cosmos itself keeps, and Anaximander's fragment is the first text in this corpus to use the language of a lawsuit of the world. Hesiod's Works and Days, which no source read for this corpus dates, already sets Justice against Outrage (213-218, Evelyn-White, read 2026-10-18: 'Justice beats Outrage when she comes at length to the end of the race') and describes the city that gives straight judgements and prospers (225-237); but that is justice among men, in the city, watched over by Zeus, not justice as the order of the world. Hesiod's civic Dike is therefore this idea's root, not its first attestation, and it is not linked here because no Hesiod row is in the pilot.",
+  "name_zh": null
  },
  {
   "id": "I_XINGSHU",
@@ -213,7 +230,8 @@
   "first_attested_year_min": -536,
   "first_attested_year_max": -536,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Zuozhuan, Zhao 6 (Q_036, idea_link IL_050); not re-read this session; this basis rests on the merged rows named (the row is the project's own English over the Chinese, and the check against ctext did not match). Range -536/-536 is the year of E_CN_008 (enacts, IL_052), the casting of Zheng's penal code as the Zuozhuan dates it. It dates the reported event, NOT the text: W_ZUOZHUAN is -400/-300. That convention differs from batch B's work-window practice and is flagged to the lead."
+  "first_attestation_basis": "First attested at Zuozhuan, Zhao 6 (Q_036, idea_link IL_050); not re-read this session; this basis rests on the merged rows named (the row is the project's own English over the Chinese, and the check against ctext did not match). Range -536/-536 is the year of E_CN_008 (enacts, IL_052), the casting of Zheng's penal code as the Zuozhuan dates it. It dates the reported event, NOT the text: W_ZUOZHUAN is -400/-300. That convention differs from batch B's work-window practice and is flagged to the lead.",
+  "name_zh": "刑书"
  },
  {
   "id": "I_ZHENGMING",
@@ -225,7 +243,8 @@
   "first_attested_year_min": -479,
   "first_attested_year_max": -200,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Analects 13.3 (Q_032, idea_link IL_055), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/zi-lu/ens). The lower bound -479 is W_ANALECTS's lower bound. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis."
+  "first_attestation_basis": "First attested at Analects 13.3 (Q_032, idea_link IL_055), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/zi-lu/ens). The lower bound -479 is W_ANALECTS's lower bound. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis.",
+  "name_zh": "正名"
  },
  {
   "id": "I_JIANAI",
@@ -237,7 +256,8 @@
   "first_attested_year_min": -430,
   "first_attested_year_max": -200,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Mozi, Jian ai I §4 (Q_046, idea_link IL_059); not re-read this session; this basis rests on the merged rows named (the row is the project's own English over the Chinese). The lower bound -430 is W_MOZI's lower bound. The upper bound -300 is narrower than W_MOZI's composition window (-430/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_MOZI's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis."
+  "first_attestation_basis": "First attested at Mozi, Jian ai I §4 (Q_046, idea_link IL_059); not re-read this session; this basis rests on the merged rows named (the row is the project's own English over the Chinese). The lower bound -430 is W_MOZI's lower bound. The upper bound -300 is narrower than W_MOZI's composition window (-430/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_MOZI's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis.",
+  "name_zh": "兼爱"
  },
  {
   "id": "I_LI",
@@ -249,7 +269,8 @@
   "first_attested_year_min": -517,
   "first_attested_year_max": -300,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Zuozhuan, Zhao 25 (Q_038, idea_link IL_063); not re-read this session; this basis rests on the merged rows named. The lower bound -517 is the year of the reported speech (Zi Taishu quoting Zichan), NOT the date of the text: W_ZUOZHUAN is -400/-300. The upper bound -400 is recorded nowhere; it coincides with W_ZUOZHUAN's lower bound and with the -400 that batch A gave the Analects ideas. Both conventions are flagged to the lead; the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ZUOZHUAN's own composition ceiling -300, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis."
+  "first_attestation_basis": "First attested at Zuozhuan, Zhao 25 (Q_038, idea_link IL_063); not re-read this session; this basis rests on the merged rows named. The lower bound -517 is the year of the reported speech (Zi Taishu quoting Zichan), NOT the date of the text: W_ZUOZHUAN is -400/-300. The upper bound -400 is recorded nowhere; it coincides with W_ZUOZHUAN's lower bound and with the -400 that batch A gave the Analects ideas. Both conventions are flagged to the lead; the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ZUOZHUAN's own composition ceiling -300, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis.",
+  "name_zh": "礼"
  },
  {
   "id": "I_TIANMING",
@@ -261,7 +282,8 @@
   "first_attested_year_min": -539,
   "first_attested_year_max": -200,
   "review_status": "draft",
-  "first_attestation_basis": "First attested in the Analects at 16.8 (Q_034, idea_link IL_068), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/ji-shi/ens). The lower bound -539 is NOT from that text: it is the year of the conversation reported at Zuozhuan, Zhao 3 (Q_040, enacts, IL_070), which the idea row counts although W_ZUOZHUAN is -400/-300. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis."
+  "first_attestation_basis": "First attested in the Analects at 16.8 (Q_034, idea_link IL_068), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/ji-shi/ens). The lower bound -539 is NOT from that text: it is the year of the conversation reported at Zuozhuan, Zhao 3 (Q_040, enacts, IL_070), which the idea row counts although W_ZUOZHUAN is -400/-300. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis.",
+  "name_zh": "天命"
  },
  {
   "id": "I_XIAO",
@@ -273,7 +295,8 @@
   "first_attested_year_min": -479,
   "first_attested_year_max": -200,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Analects 1.2 (Q_035, idea_link IL_072), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/xue-er/ens). The lower bound -479 is W_ANALECTS's lower bound. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis."
+  "first_attestation_basis": "First attested at Analects 1.2 (Q_035, idea_link IL_072), re-found at its locator this session (2026-09-13) by a programmatic check of the quoted English against the fetched source (ctext.org/analects/xue-er/ens). The lower bound -479 is W_ANALECTS's lower bound. The upper bound -400 is narrower than W_ANALECTS's composition window (-479/-200) and no reason for it is recorded — not in docs/changes/round01_batchA.md (searched this session: it carries no reasoning for any idea range) and not on any merged row. It is batch A's own bracket. Disclosed rather than explained; widening to the work window is proposed to the lead in docs/delivery_sophia_r3-5.md, and the range is not changed here. r3-mergeB UPDATE (2026-09-13), ruling L-59/rider (c): the upper bound widens to W_ANALECTS's own composition ceiling -200, from an unexplained narrower bracket batch A gave with no reasoning recorded anywhere (CHANGES.md Sec 4.6.3; docs/changes/round01_batchA.md carries none either) -- unexplained precision is precision the evidence doesn't own. May re-narrow later only with a stated basis.",
+  "name_zh": "孝"
  },
  {
   "id": "I_COVENANT",
@@ -285,7 +308,8 @@
   "first_attested_year_min": -627,
   "first_attested_year_max": -550,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Jeremiah 31:31-33 (Q_062, idea_link IL_075): ‘a NEW covenant, not according to the covenant made with their fathers, with the law put in their inward parts.’ The idea of covenant is older than the slice; what is new, and what this attestation records, is a covenant deliberately rewritten. Range -627/-550 = W_JEREMIAH's own composition window (the book dates its oracles by Judahite/Babylonian regnal years, read at their locators in r2-5)."
+  "first_attestation_basis": "First attested at Jeremiah 31:31-33 (Q_062, idea_link IL_075): ‘a NEW covenant, not according to the covenant made with their fathers, with the law put in their inward parts.’ The idea of covenant is older than the slice; what is new, and what this attestation records, is a covenant deliberately rewritten. Range -627/-550 = W_JEREMIAH's own composition window (the book dates its oracles by Judahite/Babylonian regnal years, read at their locators in r2-5).",
+  "name_zh": null
  },
  {
   "id": "I_MESSIAH",
@@ -297,7 +321,8 @@
   "first_attested_year_min": -550,
   "first_attested_year_max": -539,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Isaiah 45:1 (Q_058, idea_link IL_079): 'thus saith the LORD to His anointed, to Cyrus.' Range -550/-539 = W_ISAIAH_40_55's composition window, the envelope of the text in which the word is used; how its end-year came to be -539 follows. ALIGNED 2026-09-13 (Sophia r3-5, residue item 3, L-53): the range previously ended at -539, one year short of the work's -538. The -539 followed E_IL_024's reading of the content (the oracles speak of gates still to be opened, so before the fall of Babylon, which E_PE_001 and Parker & Dubberstein 1942 p. 11 date to October 539). But an idea's first attestation is a claim about the text, and this corpus gives Isaiah 40-55's other ideas (I_MONOTHEISM, I_SERVANT) the full work window; a prophecy may also postdate what it foretells. Aligning widens the range by a year, which is the permitted direction; narrowing W_ISAIAH_40_55 to -539 would not be. A related observation, not acted on: W_ISAIAH_40_55's own composition_basis says 'between Cyrus's rise and the fall of Babylon', which is 539, while its number is -538. r3-mergeB UPDATE (2026-09-13), ruling L-59(6)/rider (d): follows W_ISAIAH_40_55's window end, itself realigned this same commit series to -539 (its own basis text names 'the fall of Babylon', October 539) -- so -550/-539, not the -550/-538 the r3-5 substitution set."
+  "first_attestation_basis": "First attested at Isaiah 45:1 (Q_058, idea_link IL_079): 'thus saith the LORD to His anointed, to Cyrus.' Range -550/-539 = W_ISAIAH_40_55's composition window, the envelope of the text in which the word is used; how its end-year came to be -539 follows. ALIGNED 2026-09-13 (Sophia r3-5, residue item 3, L-53): the range previously ended at -539, one year short of the work's -538. The -539 followed E_IL_024's reading of the content (the oracles speak of gates still to be opened, so before the fall of Babylon, which E_PE_001 and Parker & Dubberstein 1942 p. 11 date to October 539). But an idea's first attestation is a claim about the text, and this corpus gives Isaiah 40-55's other ideas (I_MONOTHEISM, I_SERVANT) the full work window; a prophecy may also postdate what it foretells. Aligning widens the range by a year, which is the permitted direction; narrowing W_ISAIAH_40_55 to -539 would not be. A related observation, not acted on: W_ISAIAH_40_55's own composition_basis says 'between Cyrus's rise and the fall of Babylon', which is 539, while its number is -538. r3-mergeB UPDATE (2026-09-13), ruling L-59(6)/rider (d): follows W_ISAIAH_40_55's window end, itself realigned this same commit series to -539 (its own basis text names 'the fall of Babylon', October 539) -- so -550/-539, not the -550/-538 the r3-5 substitution set.",
+  "name_zh": null
  },
  {
   "id": "I_EXILE_PRESENCE",
@@ -309,7 +334,8 @@
   "first_attested_year_min": -592,
   "first_attested_year_max": -571,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Ezekiel 11:16 (Q_053, idea_link IL_083): ‘yet have I been to them as a little sanctuary in the countries where they are come.’ THE STAMP, named 2026-10-14 (Sophia r12-3), Ezekiel 8-11 read in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version: 11:16 belongs to the vision dated at 8:1, 'in the sixth year, in the sixth month, in the fifth day of the month', which carries the prophet to Jerusalem (8:3) and ends when 'the vision that I had seen went up from Me' and he tells it to the exiles (11:24-25); no other date stands in chapters 8-11. On the batch's Ezekiel year-stamp conversion (docs/changes/round02_batchB.md §5.1: captivity-year N -> Julian year, anchored to Jehoiachin's 597 deportation, ABC 5), month 6 of year 6 gives 592, as on E_IL_005. So the lower bound is -592. The -597 first given here was the start of the captivity, which is not a stamp. The upper bound -571 is the latest stamp in the book (29:17, E_IL_021): the stamp dates the vision, not the writing down, and the range allows the oracle to have been written within the span of the dated oracles, as I_INDIV_RESP's does."
+  "first_attestation_basis": "First attested at Ezekiel 11:16 (Q_053, idea_link IL_083): ‘yet have I been to them as a little sanctuary in the countries where they are come.’ THE STAMP, named 2026-10-14 (Sophia r12-3), Ezekiel 8-11 read in JPS 1917 through the Sefaria API (version 'The Holy Scriptures: A New Translation (JPS 1917)', license 'Public Domain' as served), identical to the Sefaria-Export file of the same version: 11:16 belongs to the vision dated at 8:1, 'in the sixth year, in the sixth month, in the fifth day of the month', which carries the prophet to Jerusalem (8:3) and ends when 'the vision that I had seen went up from Me' and he tells it to the exiles (11:24-25); no other date stands in chapters 8-11. On the batch's Ezekiel year-stamp conversion (docs/changes/round02_batchB.md §5.1: captivity-year N -> Julian year, anchored to Jehoiachin's 597 deportation, ABC 5), month 6 of year 6 gives 592, as on E_IL_005. So the lower bound is -592. The -597 first given here was the start of the captivity, which is not a stamp. The upper bound -571 is the latest stamp in the book (29:17, E_IL_021): the stamp dates the vision, not the writing down, and the range allows the oracle to have been written within the span of the dated oracles, as I_INDIV_RESP's does.",
+  "name_zh": null
  },
  {
   "id": "I_SERVANT",
@@ -321,7 +347,8 @@
   "first_attested_year_min": -550,
   "first_attested_year_max": -539,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Isaiah 53:4-5 (Q_060, idea_link IL_089): ‘surely our diseases he did bear; he was wounded because of our transgressions.’ Range -550/-539 = W_ISAIAH_40_55's own composition window, which ends at the fall of Babylon in October 539 by the work's own basis."
+  "first_attestation_basis": "First attested at Isaiah 53:4-5 (Q_060, idea_link IL_089): ‘surely our diseases he did bear; he was wounded because of our transgressions.’ Range -550/-539 = W_ISAIAH_40_55's own composition window, which ends at the fall of Babylon in October 539 by the work's own basis.",
+  "name_zh": null
  },
  {
   "id": "I_TORAH_PUBLIC",
@@ -333,7 +360,8 @@
   "first_attested_year_min": -445,
   "first_attested_year_max": -385,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Nehemiah 8:8 (Q_065, idea_link IL_092): ‘they read in the book distinctly, and gave the sense, and caused them to understand the reading.’ Range -445/-385 holds open both the Artaxerxes I and II readings of Nehemiah's dating (ruling L-20, reliability=low; docs/changes/round02_batchB.md §5.2)."
+  "first_attestation_basis": "First attested at Nehemiah 8:8 (Q_065, idea_link IL_092): ‘they read in the book distinctly, and gave the sense, and caused them to understand the reading.’ Range -445/-385 holds open both the Artaxerxes I and II readings of Nehemiah's dating (ruling L-20, reliability=low; docs/changes/round02_batchB.md §5.2).",
+  "name_zh": null
  },
  {
   "id": "I_SABBATH",
@@ -345,7 +373,8 @@
   "first_attested_year_min": -591,
   "first_attested_year_max": -571,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Ezekiel 20:12 (Q_055, idea_link IL_096): ‘I gave them My sabbaths, to be a sign between Me and them.’ Range -591/-571 follows the batch's own Ezekiel year-stamp conversion (docs/changes/round02_batchB.md §5.1)."
+  "first_attestation_basis": "First attested at Ezekiel 20:12 (Q_055, idea_link IL_096): ‘I gave them My sabbaths, to be a sign between Me and them.’ Range -591/-571 follows the batch's own Ezekiel year-stamp conversion (docs/changes/round02_batchB.md §5.1).",
+  "name_zh": null
  },
  {
   "id": "I_KARMA",
@@ -357,7 +386,8 @@
   "first_attested_year_min": -1000,
   "first_attested_year_max": -600,
   "review_status": "reviewed",
-  "first_attestation_basis": "First attested at Brihadaranyaka Upanishad III, 2, 13 (Q_083, idea_link IL_103): ‘what they said was karman, that a man becomes good by good work,’ a teaching the text itself frames as too dangerous to discuss in a full hall. r4-9 CORRECTION (2026-09-20), against L-60's closing rule: the range is now the attesting work's own composition range, -1000/-600, the value W_BRIHADARANYAKA itself carries. It CLOSES at -600 because that is the attesting work's own ceiling — Mueller, SBE 1, Introduction p. lxvii: the ancient Upanishads ‘must be, if we follow the chronology which at present is commonly … received by Sanskrit scholars, older than 600 B.C., i.e. anterior to the rise of Buddhism.’ The previous -400 was W_MN135's composition FLOOR, and MN 135 (Q_077, IL_104) is a `develops` link, not the originating attestation, so it could not set this row's ceiling. It OPENS at -1000 because no sourced utterance anchor exists: IL_105 records that Yajnavalkya is traditional and that no date attaches to him, so — unlike the five Buddha-teaching rows, whose anchor is the teaching life at -471 (L-60, L-70(2), L-71(4)) — the open end falls back to the attesting work's own floor. Mueller p. lxvi fixes the Mantra period, in which ‘the first germs of Upanishad doctrines’ lie, ‘provisionally … between 1000 and 800 B.C.’; the previous -800 silently took the later end of that bracket while citing the p. lxvii sentence, which does not yield it. Read at their locators on 2026-09-20, this session: Q_083 in the archive.org OCR of SBE 15 (item upanishads02ml, upanishads02ml_djvu.txt, 844,033 bytes, fetched from node ia800706.us.archive.org because archive.org's own /download redirect host did not resolve this session), the text reading ‘what they said was karman (work), what they praised was karman, viz. that a man becomes good by good work, and bad by bad w^ork’ — the OCR corruption Q_083's note already records; and SBE 1, Introduction pp. lxvi-lxvii in item upanishads01mluoft (upanishads01mluoft_djvu.txt, 846,330 bytes, node ia600902.us.archive.org), the byte count matching the one SRC_SBE01's note records. CONSEQUENCE, recorded and not repaired: the corrected range now lies wholly before the pilot slice (600-400 BCE), abutting it at -600. The straddle flagged in docs/changes/round02_batchB.md §5.4 widens; the idea's presence inside the slice is carried by its in-slice `develops` link to MN 135, not by this range."
+  "first_attestation_basis": "First attested at Brihadaranyaka Upanishad III, 2, 13 (Q_083, idea_link IL_103): ‘what they said was karman, that a man becomes good by good work,’ a teaching the text itself frames as too dangerous to discuss in a full hall. r4-9 CORRECTION (2026-09-20), against L-60's closing rule: the range is now the attesting work's own composition range, -1000/-600, the value W_BRIHADARANYAKA itself carries. It CLOSES at -600 because that is the attesting work's own ceiling — Mueller, SBE 1, Introduction p. lxvii: the ancient Upanishads ‘must be, if we follow the chronology which at present is commonly … received by Sanskrit scholars, older than 600 B.C., i.e. anterior to the rise of Buddhism.’ The previous -400 was W_MN135's composition FLOOR, and MN 135 (Q_077, IL_104) is a `develops` link, not the originating attestation, so it could not set this row's ceiling. It OPENS at -1000 because no sourced utterance anchor exists: IL_105 records that Yajnavalkya is traditional and that no date attaches to him, so — unlike the five Buddha-teaching rows, whose anchor is the teaching life at -471 (L-60, L-70(2), L-71(4)) — the open end falls back to the attesting work's own floor. Mueller p. lxvi fixes the Mantra period, in which ‘the first germs of Upanishad doctrines’ lie, ‘provisionally … between 1000 and 800 B.C.’; the previous -800 silently took the later end of that bracket while citing the p. lxvii sentence, which does not yield it. Read at their locators on 2026-09-20, this session: Q_083 in the archive.org OCR of SBE 15 (item upanishads02ml, upanishads02ml_djvu.txt, 844,033 bytes, fetched from node ia800706.us.archive.org because archive.org's own /download redirect host did not resolve this session), the text reading ‘what they said was karman (work), what they praised was karman, viz. that a man becomes good by good work, and bad by bad w^ork’ — the OCR corruption Q_083's note already records; and SBE 1, Introduction pp. lxvi-lxvii in item upanishads01mluoft (upanishads01mluoft_djvu.txt, 846,330 bytes, node ia600902.us.archive.org), the byte count matching the one SRC_SBE01's note records. CONSEQUENCE, recorded and not repaired: the corrected range now lies wholly before the pilot slice (600-400 BCE), abutting it at -600. The straddle flagged in docs/changes/round02_batchB.md §5.4 widens; the idea's presence inside the slice is carried by its in-slice `develops` link to MN 135, not by this range.",
+  "name_zh": null
  },
  {
   "id": "I_SAMSARA",
@@ -369,7 +399,8 @@
   "first_attested_year_min": -1000,
   "first_attested_year_max": -600,
   "review_status": "reviewed",
-  "first_attestation_basis": "First attested in the same exchange as I_KARMA, Brihadaranyaka III, 2, 13 (Q_083, idea_link IL_108, `originates`): what a person becomes by good and bad work presupposes a becoming that outlasts the person. r4-9 CORRECTION (2026-09-20), against L-60's closing rule: the range is now the attesting work's own composition range, -1000/-600, identical to I_KARMA's because the originating attestation is the same passage in the same work. The previous -800/-380 failed the rule at both ends and more badly than I_KARMA's. Its late end followed Q_079 (DN 2's report of the ascetic Gosala, idea_link IL_109), which is a `develops` link and not the originating attestation; and -380 is not even that work's ceiling — W_DN2's composition range is -400/-100 — so the number belonged to the Buddha's death range rather than to any work cited here. Its early end, -800, was I_KARMA's, and is corrected with it: Mueller, SBE 1, Introduction p. lxvi places the germs of Upanishad doctrine in a Mantra period ‘provisionally … between 1000 and 800 B.C.’, and p. lxvii puts the ancient Upanishads ‘older than 600 B.C., i.e. anterior to the rise of Buddhism’; with no dated utterance to anchor the opening (Yajnavalkya is traditional, IL_105), the range takes the attesting work's own floor. Read at their locators on 2026-09-20, this session: Q_083 in the archive.org OCR of SBE 15 (item upanishads02ml, 844,033 bytes, node ia800706.us.archive.org) and SBE 1, Introduction pp. lxvi-lxvii (item upanishads01mluoft, 846,330 bytes, node ia600902.us.archive.org). DN 2's own segments were not re-read this session and are not relied on for either end of this range. CONSEQUENCE, recorded and not repaired: like I_KARMA, the corrected range now lies wholly before the pilot slice and abuts it at -600; the idea's presence inside the slice is carried by its in-slice `develops` and `refutes` links (Q_079, Q_078) and by E_IN_013, not by this range."
+  "first_attestation_basis": "First attested in the same exchange as I_KARMA, Brihadaranyaka III, 2, 13 (Q_083, idea_link IL_108, `originates`): what a person becomes by good and bad work presupposes a becoming that outlasts the person. r4-9 CORRECTION (2026-09-20), against L-60's closing rule: the range is now the attesting work's own composition range, -1000/-600, identical to I_KARMA's because the originating attestation is the same passage in the same work. The previous -800/-380 failed the rule at both ends and more badly than I_KARMA's. Its late end followed Q_079 (DN 2's report of the ascetic Gosala, idea_link IL_109), which is a `develops` link and not the originating attestation; and -380 is not even that work's ceiling — W_DN2's composition range is -400/-100 — so the number belonged to the Buddha's death range rather than to any work cited here. Its early end, -800, was I_KARMA's, and is corrected with it: Mueller, SBE 1, Introduction p. lxvi places the germs of Upanishad doctrine in a Mantra period ‘provisionally … between 1000 and 800 B.C.’, and p. lxvii puts the ancient Upanishads ‘older than 600 B.C., i.e. anterior to the rise of Buddhism’; with no dated utterance to anchor the opening (Yajnavalkya is traditional, IL_105), the range takes the attesting work's own floor. Read at their locators on 2026-09-20, this session: Q_083 in the archive.org OCR of SBE 15 (item upanishads02ml, 844,033 bytes, node ia800706.us.archive.org) and SBE 1, Introduction pp. lxvi-lxvii (item upanishads01mluoft, 846,330 bytes, node ia600902.us.archive.org). DN 2's own segments were not re-read this session and are not relied on for either end of this range. CONSEQUENCE, recorded and not repaired: like I_KARMA, the corrected range now lies wholly before the pilot slice and abuts it at -600; the idea's presence inside the slice is carried by its in-slice `develops` and `refutes` links (Q_079, Q_078) and by E_IN_013, not by this range.",
+  "name_zh": null
  },
  {
   "id": "I_ANATTA",
@@ -381,7 +412,8 @@
   "first_attested_year_min": -471,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at SN 22.59 (Q_076, idea_link IL_112): ‘form is not-self, and if it were self it would not lead to affliction and you could compel it.’ Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here was not the teaching-life constant that docs/changes/round02_batchB.md §5.3 defines, and is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance SN 22.59 (Q_076, IL_112) reports, and closes at the attesting work's own ceiling: W_SN22_59 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named."
+  "first_attestation_basis": "First attested at SN 22.59 (Q_076, idea_link IL_112): ‘form is not-self, and if it were self it would not lead to affliction and you could compel it.’ Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here was not the teaching-life constant that docs/changes/round02_batchB.md §5.3 defines, and is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance SN 22.59 (Q_076, IL_112) reports, and closes at the attesting work's own ceiling: W_SN22_59 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named.",
+  "name_zh": null
  },
  {
   "id": "I_DHAMMA",
@@ -393,7 +425,8 @@
   "first_attested_year_min": -471,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at SN 56.11 (Q_074, idea_link IL_117): ‘the middle way of practice that the Realized One understood, which gives vision and knowledge.’ Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance SN 56.11 (Q_074, IL_117) reports, and closes at the attesting work's own ceiling: W_SN56_11 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named."
+  "first_attestation_basis": "First attested at SN 56.11 (Q_074, idea_link IL_117): ‘the middle way of practice that the Realized One understood, which gives vision and knowledge.’ Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance SN 56.11 (Q_074, IL_117) reports, and closes at the attesting work's own ceiling: W_SN56_11 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named.",
+  "name_zh": null
  },
  {
   "id": "I_SRAMANA",
@@ -405,7 +438,8 @@
   "first_attested_year_min": -471,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "First attested through DN 2's report of the six rival teachers (Q_078, idea_link IL_123): ‘the doctrines DN 2 attributes to the six teachers are the movement's range, from materialism to fatalism, reported by a rival.’ Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance DN 2 (Q_078, IL_123) reports, and closes at the attesting work's own ceiling: W_DN2 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named."
+  "first_attestation_basis": "First attested through DN 2's report of the six rival teachers (Q_078, idea_link IL_123): ‘the doctrines DN 2 attributes to the six teachers are the movement's range, from materialism to fatalism, reported by a rival.’ Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance DN 2 (Q_078, IL_123) reports, and closes at the attesting work's own ceiling: W_DN2 is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named.",
+  "name_zh": null
  },
  {
   "id": "I_SANGHA",
@@ -417,7 +451,8 @@
   "first_attested_year_min": -471,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Vinaya, Mahakhandhaka, pli-tv-kd1:22.18 (Q_081, idea_link IL_131): ‘the gift of the Bamboo Grove, and the ruling that follows it — I allow monasteries,’ the moment the movement becomes something that can hold property. Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance Vinaya, Mahakhandhaka pli-tv-kd1:22.18 (Q_081, IL_131) reports, and closes at the attesting work's own ceiling: W_VINAYA is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named."
+  "first_attestation_basis": "First attested at Vinaya, Mahakhandhaka, pli-tv-kd1:22.18 (Q_081, idea_link IL_131): ‘the gift of the Bamboo Grove, and the ruling that follows it — I allow monasteries,’ the moment the movement becomes something that can hold property. Range -471/-100, derived in the r4-5 update below; the -450/-380 first given here is superseded. r4-5 UPDATE (2026-09-15), residue 2 and ruling L-60's idea-range convention: the range -450/-380 is replaced by -471/-100. (1) THE CONSTANT: the Buddha-frame teaching-life constant is -471/-380, as round02_batchB section 5.3 defines it; -450 had no derivation anywhere in the corpus. Derivation: P_BUDDHA's short-chronology birth range -500/-460 and death range -420/-380; he went forth at twenty-nine (DN 16, dn16:5.27.5-6, 'I was twenty-nine years of age, Subhadda, when I went forth') and was eighty at the end (dn16:2.25.10, 'I'm currently eighty years old'), both segments read this session in suttacentral/bilara-data (published branch, Sujato translation and Mahasangiti root), so everything he did as a renouncer falls between the earliest going-forth (-500 + 29 = -471) and the latest death (-380). (2) THE RANGE: under L-60 a first-attestation range may open at the earliest sourced utterance its attesting text reports, here the teaching life's floor -471 for the utterance Vinaya, Mahakhandhaka pli-tv-kd1:22.18 (Q_081, IL_131) reports, and closes at the attesting work's own ceiling: W_VINAYA is -400/-100, so the close is -100, not -380. The originating passage was not re-read this session; this basis rests on the merged rows named.",
+  "name_zh": null
  },
  {
   "id": "I_VASHNA",
@@ -429,7 +464,8 @@
   "first_attested_year_min": -520,
   "first_attested_year_max": -518,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Behistun DB §5 (Q_088, idea_link IL_142): 'By the grace of Ahura Mazda I am king; Ahura Mazda gave me the kingdom.' Range -520/-518 = W_BEHISTUN's composition window (merged row). name_original is Tolman's transliteration of the formula as the OCR prints it (diacritics lost), read this session in col. I. The Cyrus Cylinder (-539/-530) makes Marduk choose Cyrus (Q_099), which is earlier; it is linked as a parallel written in Akkadian for Babylon, not as this Old Persian formula's first attestation. NAME_ORIGINAL ALIGNED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the formula as Q_088 quotes it, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes; corpusjson/Q007134.json, refs Q007134.12.6-7, DB 'Persian i 11'): 'vašnā A.uramazdāha', whose first word the edition restores in part (Q_088's note lists it)."
+  "first_attestation_basis": "First attested at Behistun DB §5 (Q_088, idea_link IL_142): 'By the grace of Ahura Mazda I am king; Ahura Mazda gave me the kingdom.' Range -520/-518 = W_BEHISTUN's composition window (merged row). name_original is Tolman's transliteration of the formula as the OCR prints it (diacritics lost), read this session in col. I. The Cyrus Cylinder (-539/-530) makes Marduk choose Cyrus (Q_099), which is earlier; it is linked as a parallel written in Akkadian for Babylon, not as this Old Persian formula's first attestation. NAME_ORIGINAL ALIGNED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the formula as Q_088 quotes it, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes; corpusjson/Q007134.json, refs Q007134.12.6-7, DB 'Persian i 11'): 'vašnā A.uramazdāha', whose first word the edition restores in part (Q_088's note lists it).",
+  "name_zh": null
  },
  {
   "id": "I_DATA",
@@ -441,7 +477,8 @@
   "first_attested_year_min": -520,
   "first_attested_year_max": -518,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Behistun DB §8 (Q_089, idea_link IL_148): 'by the grace of Ahura Mazda these countries respected my laws', where 'laws' is Old Persian data (Tolman's vocabulary s.v. data, read this session). Range -520/-518 = W_BEHISTUN's composition window (merged row)."
+  "first_attestation_basis": "First attested at Behistun DB §8 (Q_089, idea_link IL_148): 'by the grace of Ahura Mazda these countries respected my laws', where 'laws' is Old Persian data (Tolman's vocabulary s.v. data, read this session). Range -520/-518 = W_BEHISTUN's composition window (merged row).",
+  "name_zh": null
  },
  {
   "id": "I_RECTITUDE",
@@ -453,7 +490,8 @@
   "first_attested_year_min": -520,
   "first_attested_year_max": -518,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Behistun DB §63 (Q_092, idea_link IL_154). Range -520/-518 = W_BEHISTUN's composition window (merged row). The rendering of the people the king did not oppress is marked doubtful by the translator himself (Q_092 note). name_original left blank: the Old Persian of this paragraph was not read at a clean locator this session. NAME_ORIGINAL FILLED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the rectitude clause inside Q_092's quotation, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes; corpusjson/Q007134.json, refs Q007134.354.8-10, DB 'Persian iv 64', guide words 'above' (sense 'in accordance with'), 'justice', 'behave in accordance with'): 'upari ṛštām upariyāyam', which Tolman renders 'according to rectitude [I ruled]' (Behistun col. IV §13, both scans, re-read 2026-10-13). None of the three words is restored by the edition."
+  "first_attestation_basis": "First attested at Behistun DB §63 (Q_092, idea_link IL_154). Range -520/-518 = W_BEHISTUN's composition window (merged row). The rendering of the people the king did not oppress is marked doubtful by the translator himself (Q_092 note). name_original left blank: the Old Persian of this paragraph was not read at a clean locator this session. NAME_ORIGINAL FILLED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the rectitude clause inside Q_092's quotation, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes; corpusjson/Q007134.json, refs Q007134.354.8-10, DB 'Persian iv 64', guide words 'above' (sense 'in accordance with'), 'justice', 'behave in accordance with'): 'upari ṛštām upariyāyam', which Tolman renders 'according to rectitude [I ruled]' (Behistun col. IV §13, both scans, re-read 2026-10-13). None of the three words is restored by the edition.",
+  "name_zh": null
  },
  {
   "id": "I_RESTORATION",
@@ -465,7 +503,8 @@
   "first_attested_year_min": -539,
   "first_attested_year_max": -530,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at the Cyrus Cylinder line 32 (Q_098, idea_link IL_157). Range -539/-530 = W_CYRUS_CYLINDER's composition window: after Cyrus's entry into Babylon in October 539 and before his death reported in August 530 (Parker & Dubberstein 1942 pp. 11-12, read this session)."
+  "first_attestation_basis": "First attested at the Cyrus Cylinder line 32 (Q_098, idea_link IL_157). Range -539/-530 = W_CYRUS_CYLINDER's composition window: after Cyrus's entry into Babylon in October 539 and before his death reported in August 530 (Parker & Dubberstein 1942 pp. 11-12, read this session).",
+  "name_zh": null
  },
  {
   "id": "I_CREATOR_WELFARE",
@@ -477,7 +516,8 @@
   "first_attested_year_min": -522,
   "first_attested_year_max": -486,
   "review_status": "draft",
-  "first_attestation_basis": "First attested in Darius's inscriptions: Suez stela c §1 (Q_094, idea_link IL_162) and Naqsh-i Rustam a §1 (Q_095), both undated within Darius's reign; range -522/-486 = that reign per Parker & Dubberstein 1942 pp. 13-14 (read this session), the composition window of both works. Xerxes repeats the formula (Q_097, W_XPA -486/-465). name_original is the word Tolman translates 'welfare', as the OCR of his transliteration prints it ('siyatim', accusative; diacritics lost) in NRa §1. NAME_ORIGINAL ALIGNED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the same word, accusative as the formula has it and as Q_094, Q_095 and Q_097 quote it, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes): 'šiyātim' (guide word 'happiness') at DNa 'Persian 4' (Q007152.4.2), unrestored, and at DZc 'Persian 2' (Q007194.2.7), where the edition restores part of it."
+  "first_attestation_basis": "First attested in Darius's inscriptions: Suez stela c §1 (Q_094, idea_link IL_162) and Naqsh-i Rustam a §1 (Q_095), both undated within Darius's reign; range -522/-486 = that reign per Parker & Dubberstein 1942 pp. 13-14 (read this session), the composition window of both works. Xerxes repeats the formula (Q_097, W_XPA -486/-465). name_original is the word Tolman translates 'welfare', as the OCR of his transliteration prints it ('siyatim', accusative; diacritics lost) in NRa §1. NAME_ORIGINAL ALIGNED 2026-10-13 (Sophia r12-1b): the sentence above was true as read on its date, before the clean Old Persian of SRC_ARIO was in this corpus. name_original is now ARIo's normalised transcription of the same word, accusative as the formula has it and as Q_094, Q_095 and Q_097 quote it, read 2026-10-13 in SRC_ARIO's Oracc export (ario.zip, 2,689,695 bytes): 'šiyātim' (guide word 'happiness') at DNa 'Persian 4' (Q007152.4.2), unrestored, and at DZc 'Persian 2' (Q007194.2.7), where the edition restores part of it.",
+  "name_zh": null
  },
  {
   "id": "I_JUDGE_BRIDGE",
@@ -489,7 +529,8 @@
   "first_attested_year_min": -1200,
   "first_attested_year_max": -550,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Yasna 46.10-11 (Q_101, idea_link IL_166). Range -1200/-550 = W_GATHAS's composition window (merged row), which holds open both the linguistic dating and the traditional one; reliability of the link is low for that reason, as for I_ASHA's IL_016. The range straddles the 600 boundary of the pilot slice and is not wholly outside it (L-51(3)). ONE-LINE RE-SAID 2026-10-13 (Sophia r12-1b): the one-line follows only words Mills prints as the Gathic line (Y. 46.10, 'forth to the Judge’s Bridge (itself) with all of them shall I lead on'; 46.11, 'and in the Lie’s abode for ever shall their habitation be'). It no longer uses 'those who followed the Lie miss their path and fall', which it carried until 2026-10-13: 'these shall miss their path and fall' sits inside the long parenthesis that Mills's footnote 7 marks as 'Inserted to shed light on the last line; so the later Parsism' (re-read 2026-10-13 in archive.org item sbe31zendavestapart3_202002, 859,507 bytes; Q_101's note records the same)."
+  "first_attestation_basis": "First attested at Yasna 46.10-11 (Q_101, idea_link IL_166). Range -1200/-550 = W_GATHAS's composition window (merged row), which holds open both the linguistic dating and the traditional one; reliability of the link is low for that reason, as for I_ASHA's IL_016. The range straddles the 600 boundary of the pilot slice and is not wholly outside it (L-51(3)). ONE-LINE RE-SAID 2026-10-13 (Sophia r12-1b): the one-line follows only words Mills prints as the Gathic line (Y. 46.10, 'forth to the Judge’s Bridge (itself) with all of them shall I lead on'; 46.11, 'and in the Lie’s abode for ever shall their habitation be'). It no longer uses 'those who followed the Lie miss their path and fall', which it carried until 2026-10-13: 'these shall miss their path and fall' sits inside the long parenthesis that Mills's footnote 7 marks as 'Inserted to shed light on the last line; so the later Parsism' (re-read 2026-10-13 in archive.org item sbe31zendavestapart3_202002, 859,507 bytes; Q_101's note records the same).",
+  "name_zh": null
  },
  {
   "id": "I_MINBEN",
@@ -501,7 +542,8 @@
   "first_attested_year_min": -559,
   "first_attested_year_max": -300,
   "review_status": "reviewed",
-  "first_attestation_basis": "First attested at Zuozhuan, 襄公十四年 傳 (Q_113, idea_link IL_170), read this session at zh.wikisource.org page 春秋左氏傳/襄公 (revision 9172568, fetched whole via action=raw on 2026-10-04, this session): Shi Kuang's answer to the marquis of Jin, 天生民而立之君．使司牧之 ... 天之愛民甚矣．豈其使一人肆於民上. The lower bound -559 is the year of the reported speech, NOT the date of the text (the I_LI precedent: -517 for a speech reported in the Zuozhuan); the upper bound -300 is W_ZUOZHUAN's own composition ceiling, as I_LI's is. Duke-year to BCE conversion per calendars.csv CAL_LU, anchored on this dataset's own rows (Zhao 6 = -536 at E_CN_008, so Zhao 1 = -541; Ai 14 = -481 at E_CN_023, so Ai 1 = -494; Ding 1 = -509) and carried back by the reign lengths the edition's own year headers give, counted this session: 僖公 33, 文公 18, 宣公 18, 成公 18, 襄公 31 (so Xi 1 = -659, Wen 1 = -626, Xuan 1 = -608, Cheng 1 = -590, Xiang 1 = -572); the chain closes on both anchors. An earlier witness to the people's benefit as the test of a ruler's choice (文公十三年 傳, 苟利於民, = -614) was read at r8-3 and is not re-read or used here. NOT ANCHORED in 尚書 五子之歌's 民惟邦本 (L-105(6)): that chapter was re-read this session at zh.wikisource.org page 尚書/五子之歌 (revision 2616187, fetched whole via action=raw on 2026-10-04, this session) — its header names 梅賾 (noauthor), marks the chapter （僞）, and gives its origin as 古文尚書, the forged old-text Shangshu. THE NAME: 民本 is the conventional modern label for this family of ideas, not a phrase of the anchoring passage; it is recorded as the label, and the CJK check accounts for it in CHANGES.md."
+  "first_attestation_basis": "First attested at Zuozhuan, 襄公十四年 傳 (Q_113, idea_link IL_170), read this session at zh.wikisource.org page 春秋左氏傳/襄公 (revision 9172568, fetched whole via action=raw on 2026-10-04, this session): Shi Kuang's answer to the marquis of Jin, 天生民而立之君．使司牧之 ... 天之愛民甚矣．豈其使一人肆於民上. The lower bound -559 is the year of the reported speech, NOT the date of the text (the I_LI precedent: -517 for a speech reported in the Zuozhuan); the upper bound -300 is W_ZUOZHUAN's own composition ceiling, as I_LI's is. Duke-year to BCE conversion per calendars.csv CAL_LU, anchored on this dataset's own rows (Zhao 6 = -536 at E_CN_008, so Zhao 1 = -541; Ai 14 = -481 at E_CN_023, so Ai 1 = -494; Ding 1 = -509) and carried back by the reign lengths the edition's own year headers give, counted this session: 僖公 33, 文公 18, 宣公 18, 成公 18, 襄公 31 (so Xi 1 = -659, Wen 1 = -626, Xuan 1 = -608, Cheng 1 = -590, Xiang 1 = -572); the chain closes on both anchors. An earlier witness to the people's benefit as the test of a ruler's choice (文公十三年 傳, 苟利於民, = -614) was read at r8-3 and is not re-read or used here. NOT ANCHORED in 尚書 五子之歌's 民惟邦本 (L-105(6)): that chapter was re-read this session at zh.wikisource.org page 尚書/五子之歌 (revision 2616187, fetched whole via action=raw on 2026-10-04, this session) — its header names 梅賾 (noauthor), marks the chapter （僞）, and gives its origin as 古文尚書, the forged old-text Shangshu. THE NAME: 民本 is the conventional modern label for this family of ideas, not a phrase of the anchoring passage; it is recorded as the label, and the CJK check accounts for it in CHANGES.md.",
+  "name_zh": "民本"
  },
  {
   "id": "I_SHANGXIAN",
@@ -513,7 +555,8 @@
   "first_attested_year_min": -430,
   "first_attested_year_max": -200,
   "review_status": "reviewed",
-  "first_attestation_basis": "First attested at Mozi, 尚賢上第八 (Q_114, idea_link IL_173), read this session at zh.wikisource.org page 墨子閒詁/卷二 (revision 853986, fetched whole via action=raw on 2026-10-04, this session): 列德而尚賢，雖在農與工肆之人，有能則舉之 and 夫尚賢者，政之本也. Range = W_MOZI's composition range (-430/-200), the I_JIANAI precedent (r3-mergeB, L-59/rider (c)): the Mozi chapters cannot be dated more finely than the work from any source read. The range straddles the 600-400 slice's lower boundary."
+  "first_attestation_basis": "First attested at Mozi, 尚賢上第八 (Q_114, idea_link IL_173), read this session at zh.wikisource.org page 墨子閒詁/卷二 (revision 853986, fetched whole via action=raw on 2026-10-04, this session): 列德而尚賢，雖在農與工肆之人，有能則舉之 and 夫尚賢者，政之本也. Range = W_MOZI's composition range (-430/-200), the I_JIANAI precedent (r3-mergeB, L-59/rider (c)): the Mozi chapters cannot be dated more finely than the work from any source read. The range straddles the 600-400 slice's lower boundary.",
+  "name_zh": "尚贤"
  },
  {
   "id": "I_FA",
@@ -525,7 +568,8 @@
   "first_attested_year_min": -359,
   "first_attested_year_max": -233,
   "review_status": "reviewed",
-  "first_attestation_basis": "Anchor: 商君書 賞刑第十七 (Q_122, IL_181 originates), read at zh.wikisource.org page 商君書/卷四 (revision 1741809, fetched whole via action=raw on 2026-10-04, this session): 所謂壹刑者，刑無等級。自卿相將軍以至大夫庶人，有不從王令，犯國禁，亂上制者，罪死不赦。 The range is the window in which the sources read this session place the first written statement of the doctrine. LOWER BOUND -359, the year Shiji 5 gives for Shang Yang's first laws (E_CN_051): the school book that carries the anchor cannot be earlier than the reforms it argues for. UPPER BOUND -233, by which year the doctrine is certainly attested in writing: Han Fei's 五蠹 (Q_124: 以法爲教) is one of the two chapters Shiji 63 says the king of Qin had read before Han Fei came to Qin, and Han Fei died in -233 (Shiji 6; E_CN_059); 五蠹 itself says books of Shang's laws were kept in every household (藏商、管之法者家有之). THE ANCHOR'S OWN DATE IS NOT FIXED within the window: the book of Lord Shang is a school compilation (W_SHANGJUNSHU), one chapter of which postdates -260. The I_JIANAI precedent (an idea anchored in a school compilation takes the window the evidence allows), narrowed at the top by the 五蠹 attestation. Develops I_XINGSHU (IL_190): the sixth-century publication of law (Zheng 536, Jin 513) becomes a theory of the state. Range wholly after the 600-400 slice; R_CN by D-20."
+  "first_attestation_basis": "Anchor: 商君書 賞刑第十七 (Q_122, IL_181 originates), read at zh.wikisource.org page 商君書/卷四 (revision 1741809, fetched whole via action=raw on 2026-10-04, this session): 所謂壹刑者，刑無等級。自卿相將軍以至大夫庶人，有不從王令，犯國禁，亂上制者，罪死不赦。 The range is the window in which the sources read this session place the first written statement of the doctrine. LOWER BOUND -359, the year Shiji 5 gives for Shang Yang's first laws (E_CN_051): the school book that carries the anchor cannot be earlier than the reforms it argues for. UPPER BOUND -233, by which year the doctrine is certainly attested in writing: Han Fei's 五蠹 (Q_124: 以法爲教) is one of the two chapters Shiji 63 says the king of Qin had read before Han Fei came to Qin, and Han Fei died in -233 (Shiji 6; E_CN_059); 五蠹 itself says books of Shang's laws were kept in every household (藏商、管之法者家有之). THE ANCHOR'S OWN DATE IS NOT FIXED within the window: the book of Lord Shang is a school compilation (W_SHANGJUNSHU), one chapter of which postdates -260. The I_JIANAI precedent (an idea anchored in a school compilation takes the window the evidence allows), narrowed at the top by the 五蠹 attestation. Develops I_XINGSHU (IL_190): the sixth-century publication of law (Zheng 536, Jin 513) becomes a theory of the state. Range wholly after the 600-400 slice; R_CN by D-20.",
+  "name_zh": "法"
  },
  {
   "id": "I_DAYITONG",
@@ -537,7 +581,8 @@
   "first_attested_year_min": -334,
   "first_attested_year_max": -319,
   "review_status": "reviewed",
-  "first_attestation_basis": "Anchor: Mencius 1A6 (Q_119, IL_193 originates), read at zh.wikisource.org page 孟子/梁惠王上 (revision 2642991, fetched whole via action=raw on 2026-10-04, this session): asked how the world will be settled, Mencius answers 定於一, 'by unity', and that the one who has no taste for killing will unify it. The range is the reign of King Xiang of Liang, to whom the answer is given, on Shiji 15's chronology (魏襄王元年 at the line labelled 334, 魏哀王元年 at 318), read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session); that chronology is in tension with the Mencius's own text (E_CN_055.dating_basis), which is why the range is the whole reign and not a year. THIN DATING, STATED: the NAME 大一統 is not Mencius's. It is the Gongyang commentary's (Q_130, IL_194 develops: 何言乎王正月？大一統也), and that text was written down in the Han, under Emperor Jing (-156/-141), on the account the index note to 春秋公羊傳註疏 quotes from a Tang subcommentary (W_GONGYANG). The idea is dated by its earliest statement in this dataset and the name by its text, a century and a half apart; this row says so rather than dating the idea by the later name or the name by the earlier idea. r8-3 drafted Mencius as a 'develops' link; making him the anchor is this batch's change, argued in CHANGES.md. The unification of 221 enacts it (IL_195). Range wholly after the 600-400 slice; R_CN by D-20."
+  "first_attestation_basis": "Anchor: Mencius 1A6 (Q_119, IL_193 originates), read at zh.wikisource.org page 孟子/梁惠王上 (revision 2642991, fetched whole via action=raw on 2026-10-04, this session): asked how the world will be settled, Mencius answers 定於一, 'by unity', and that the one who has no taste for killing will unify it. The range is the reign of King Xiang of Liang, to whom the answer is given, on Shiji 15's chronology (魏襄王元年 at the line labelled 334, 魏哀王元年 at 318), read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session); that chronology is in tension with the Mencius's own text (E_CN_055.dating_basis), which is why the range is the whole reign and not a year. THIN DATING, STATED: the NAME 大一統 is not Mencius's. It is the Gongyang commentary's (Q_130, IL_194 develops: 何言乎王正月？大一統也), and that text was written down in the Han, under Emperor Jing (-156/-141), on the account the index note to 春秋公羊傳註疏 quotes from a Tang subcommentary (W_GONGYANG). The idea is dated by its earliest statement in this dataset and the name by its text, a century and a half apart; this row says so rather than dating the idea by the later name or the name by the earlier idea. r8-3 drafted Mencius as a 'develops' link; making him the anchor is this batch's change, argued in CHANGES.md. The unification of 221 enacts it (IL_195). Range wholly after the 600-400 slice; R_CN by D-20.",
+  "name_zh": "大一统"
  },
  {
   "id": "I_ATMAN",
@@ -549,7 +594,8 @@
   "first_attested_year_min": -1000,
   "first_attested_year_max": -600,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Chandogya Upanishad VI, 8, 7 (Q_082, IL_204): 'It is the Self, and thou, O Svetaketu, art it'; stated again at Brihadaranyaka II, 4, 5 (Q_147, IL_205), read at its locator 2026-10-16 (Sophia r13-3, this session). The range is the attesting works' composition window, W_CHANDOGYA and W_BRIHADARANYAKA -1000/-600 (Mueller, SBE 1 Introduction, per those rows; not re-read this session), on the L-60 rule that a first attestation closes at the attesting work's ceiling. Not affected by the Buddha chronology."
+  "first_attestation_basis": "First attested at Chandogya Upanishad VI, 8, 7 (Q_082, IL_204): 'It is the Self, and thou, O Svetaketu, art it'; stated again at Brihadaranyaka II, 4, 5 (Q_147, IL_205), read at its locator 2026-10-16 (Sophia r13-3, this session). The range is the attesting works' composition window, W_CHANDOGYA and W_BRIHADARANYAKA -1000/-600 (Mueller, SBE 1 Introduction, per those rows; not re-read this session), on the L-60 rule that a first attestation closes at the attesting work's ceiling. Not affected by the Buddha chronology.",
+  "name_zh": null
  },
  {
   "id": "I_VARNA_CRITIQUE",
@@ -561,7 +607,8 @@
   "first_attested_year_min": -420,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at MN 84 (Q_153, IL_214), read at its segments 2026-10-16 (Sophia r13-3, this session): 'these four classes are equal' (mn84:5.46). MN 84 sets itself after the Buddha's death (mn84:11.4), so the range opens at the earliest death on the corpus's frame, -420 (P_BUDDHA), not at the teaching-life constant -471, and closes at the attesting work's ceiling, -100 (W_MN84; the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-100 years earlier."
+  "first_attestation_basis": "First attested at MN 84 (Q_153, IL_214), read at its segments 2026-10-16 (Sophia r13-3, this session): 'these four classes are equal' (mn84:5.46). MN 84 sets itself after the Buddha's death (mn84:11.4), so the range opens at the earliest death on the corpus's frame, -420 (P_BUDDHA), not at the teaching-life constant -471, and closes at the attesting work's ceiling, -100 (W_MN84; the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-100 years earlier.",
+  "name_zh": null
  },
  {
   "id": "I_MAHASAMMATA",
@@ -573,7 +620,8 @@
   "first_attested_year_min": -471,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at DN 27:20.1-21.4 (Q_137, IL_220), read at its segments 2026-10-16 (Sophia r13-3, this session), a teaching the text gives in the Buddha's mouth. Range: the teaching-life constant -471 to the attesting work's ceiling -100 (W_DN27; conventions section 2 and the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-100 years earlier."
+  "first_attestation_basis": "First attested at DN 27:20.1-21.4 (Q_137, IL_220), read at its segments 2026-10-16 (Sophia r13-3, this session), a teaching the text gives in the Buddha's mouth. Range: the teaching-life constant -471 to the attesting work's ceiling -100 (W_DN27; conventions section 2 and the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-100 years earlier.",
+  "name_zh": null
  },
  {
   "id": "I_CAKKAVATTI",
@@ -585,7 +633,8 @@
   "first_attested_year_min": -471,
   "first_attested_year_max": -100,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at DN 26:5.2-5.4 and 10.3-10.5 (Q_138, IL_221), read at its segments 2026-10-16 (Sophia r13-3, this session), a story of past kings told in the Buddha's mouth. Range: the teaching-life constant -471 to the attesting work's ceiling -100 (W_DN26; conventions section 2 and the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-100 years earlier."
+  "first_attestation_basis": "First attested at DN 26:5.2-5.4 and 10.3-10.5 (Q_138, IL_221), read at its segments 2026-10-16 (Sophia r13-3, this session), a story of past kings told in the Buddha's mouth. Range: the teaching-life constant -471 to the attesting work's ceiling -100 (W_DN26; conventions section 2 and the L-60 rule). BUDDHA-CHRONOLOGY SHADING: this range is computed on the short chronology the corpus has chosen (P_BUDDHA: birth -500/-460, death -420/-380; conventions section 2). On the long chronology of the Lankan chronicles, as Geiger derives it (SRC_GEIGER_MHV, Introduction pp. xxiii-xxiv, read 2026-10-16: 218 years from the Nirvana to Asoka's consecration, Dipavamsa 6.1 and Mahavamsa 5.21; Candagutta's accession therefore 162 years after the Nirvana; with 321 BCE for that accession, the Buddha's death falls in 483 BCE, a calculation Geiger himself calls hypothetical), the range would sit about 60-100 years earlier.",
+  "name_zh": null
  },
  {
   "id": "I_EUNOMIA",
@@ -597,7 +646,8 @@
   "first_attested_year_min": -640,
   "first_attested_year_max": -558,
   "review_status": "draft",
-  "first_attestation_basis": "First attested in Solon's elegy as Demosthenes 19.255 quotes it (Q_165, originates), read 2026-10-18 in Butcher's Greek and Vince's English: 'dysnomia brings the city most evils, eunomia makes all things orderly and sound'. The poem is undated. The range is W_SOLON_FR's, Solon's lifetime as P_SOLON carries it (-640/-558), so it dates the poet's life, not the poem; his archonship (E_GR_001, 594/593), the only dated point of his career read, is NOT used as the poem's date. The range straddles the slice's -600 end. Hesiod, Works and Days 225-237 (Evelyn-White, read the same day) already describes the city that gives straight judgements and prospers; it is the idea's root, not linked, because no Hesiod row is in the pilot."
+  "first_attestation_basis": "First attested in Solon's elegy as Demosthenes 19.255 quotes it (Q_165, originates), read 2026-10-18 in Butcher's Greek and Vince's English: 'dysnomia brings the city most evils, eunomia makes all things orderly and sound'. The poem is undated. The range is W_SOLON_FR's, Solon's lifetime as P_SOLON carries it (-640/-558), so it dates the poet's life, not the poem; his archonship (E_GR_001, 594/593), the only dated point of his career read, is NOT used as the poem's date. The range straddles the slice's -600 end. Hesiod, Works and Days 225-237 (Evelyn-White, read the same day) already describes the city that gives straight judgements and prospers; it is the idea's root, not linked, because no Hesiod row is in the pilot.",
+  "name_zh": null
  },
  {
   "id": "I_ARCHE",
@@ -609,7 +659,8 @@
   "first_attested_year_min": -431,
   "first_attested_year_max": -400,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Thucydides 1.76.2 (Q_185, originates), the Athenian envoys at Sparta: 'it has always been law that the weaker should be subject to the stronger', read 2026-10-18 in the MIT Crawley and the Greek (ἀρχήν, the empire offered to Athens). The speech is set before the war, but its words are Thucydides' composition (1.22.1, read the same day), so the range is W_THUCYDIDES's composition window, -431/-400, the practice of I_HUBRIS, which takes W_HERODOTUS's window. The Melian dialogue (Q_020) is the idea's sharpest development and already stands as refuting I_DIKE."
+  "first_attestation_basis": "First attested at Thucydides 1.76.2 (Q_185, originates), the Athenian envoys at Sparta: 'it has always been law that the weaker should be subject to the stronger', read 2026-10-18 in the MIT Crawley and the Greek (ἀρχήν, the empire offered to Athens). The speech is set before the war, but its words are Thucydides' composition (1.22.1, read the same day), so the range is W_THUCYDIDES's composition window, -431/-400, the practice of I_HUBRIS, which takes W_HERODOTUS's window. The Melian dialogue (Q_020) is the idea's sharpest development and already stands as refuting I_DIKE.",
+  "name_zh": null
  },
  {
   "id": "I_TO_HELLENIKON",
@@ -621,6 +672,7 @@
   "first_attested_year_min": -440,
   "first_attested_year_max": -420,
   "review_status": "draft",
-  "first_attestation_basis": "First attested at Herodotus 8.144.2 (Q_191, originates), the Athenians' answer to Sparta, read 2026-10-18 in Godley's English and the Greek: 'the kinship of all Greeks in blood and speech, and the shrines of gods and the sacrifices that we have in common, and the likeness of our way of life' (τὸ Ἑλληνικὸν ἐὸν ὅμαιμόν τε καὶ ὁμόγλωσσον). The words are Herodotus's composition, so the range is W_HERODOTUS's composition window, -440/-420, as for I_HUBRIS. The alliance of 481/480 (E_GR_048) enacts the idea before it is named."
+  "first_attestation_basis": "First attested at Herodotus 8.144.2 (Q_191, originates), the Athenians' answer to Sparta, read 2026-10-18 in Godley's English and the Greek: 'the kinship of all Greeks in blood and speech, and the shrines of gods and the sacrifices that we have in common, and the likeness of our way of life' (τὸ Ἑλληνικὸν ἐὸν ὅμαιμόν τε καὶ ὁμόγλωσσον). The words are Herodotus's composition, so the range is W_HERODOTUS's composition window, -440/-420, as for I_HUBRIS. The alliance of 481/480 (E_GR_048) enacts the idea before it is named.",
+  "name_zh": null
  }
 ]

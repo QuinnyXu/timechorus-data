@@ -784,7 +784,7 @@
   "year_min": -514,
   "year_max": -506,
   "year_display": "c. 512 BCE (traditional)",
-  "dating_basis": "Shiji 65, Biographies of Sun Zi and Wu Qi, read in Chinese at ctext.org 2026-09-08: 孫子武者，齊人也。以兵法見於吳王闔廬 — 'Master Sun, named Wu, was a man of Qi; he gained an audience with King Helü of Wu on the strength of his art of war'; the chapter ends by crediting him with the breaking of Chu and the entry into Ying. No year is given. The range runs from Helü's accession to the Chu campaign of 506, both of which the Shiji supplies as limits. reliability is LOW because the Zuozhuan, which narrates that campaign year by year, never mentions Sun Wu.",
+  "dating_basis": "Shiji 65, Biographies of Sun Zi and Wu Qi, read in Chinese at ctext.org 2026-09-08: 孫子武者，齊人也。以兵法見於吳王闔廬 — 'Master Sun, named Wu, was a man of Qi; he gained an audience with King Helü of Wu on the strength of his art of war'; the chapter ends by crediting him with the breaking of Chu and the entry into Ying. No year is given. The range runs from Helü's accession to the Chu campaign of 506, both of which the Shiji supplies as limits. reliability is LOW because the Zuozhuan, which narrates that campaign year by year, never mentions Sun Wu. RE-READ 2026-11-14 (Sophia r16-3c, this session, D-14), at zh.wikisource.org page 史記/卷065 (revision 2567048, fetched whole via action=raw; 8,878 bytes; the revision SRC_WS_SHIJI_65 already cites), section 孫武: the opening above is found verbatim (孫子武者，齊人也。以兵法見於吳王闔廬。). The audience is at the king's court: 闔廬曰：「子之十三篇，吾盡觀之矣，可以小試勒兵乎？」 and the drill uses the palace women (出宮中美女，得百八十人), watched by the king from a terrace (吳王從臺上觀). The credit for the campaign closes Sun Wu's SECTION, not the chapter (the chapter goes on to Sun Bin and Wu Qi): 西破彊楚，入郢，北威齊晉，顯名諸侯，孫子與有力焉。 THE TWO LIMITS, re-read: Shiji 14 十二諸侯年表 (page 史記/卷014, revision 2607001, same day; SRC_WS_SHIJI_14), the Wu column at the line labelled 514 reads 吳闔閭元年, and at the line labelled 506 reads 九與蔡伐楚，入郢。 THE SILENCE, re-checked: the pages 春秋左氏傳/昭公 (revision 12657085) and 春秋左氏傳/定公 (revision 2371915), fetched whole the same day (SRC_WS_ZUOZHUAN), contain no 孫武, and their one 孫子 is a quotation of the Odes (施于孫子, 'descendants'), not a name; 闔廬 occurs 5 times in 定公 and the entry into Ying (入郢) twice. The range and the reliability stand as recorded.",
   "region_id": "R_CN",
   "polity_id": "POL_WU",
   "place_id": "PL_GUSU",
@@ -792,12 +792,15 @@
   "summary_en": "Sima Qian's story: asked to prove his method on the palace women, Sun Wu drilled them, had them laugh at his orders twice, blamed himself the first time and the officers the second, and beheaded the king's two favourite concubines as squad leaders over the king's protest — because a general in the field need not accept even his ruler's command. The near-contemporary annals of the war he is said to have won do not know his name.",
   "category": "meeting",
   "source_ids": [
-   "SRC_SHIJI_65"
+   "SRC_SHIJI_65",
+   "SRC_WS_SHIJI_65",
+   "SRC_WS_SHIJI_14",
+   "SRC_WS_ZUOZHUAN"
   ],
   "reliability": "low",
   "importance": 3,
-  "note": null,
-  "review_status": "draft"
+  "note": "PLACE (r16-3c, 2026-11-14): Shiji 65 names no town. It sets the audience at King Helü's court, in his palace (宮中) with the king on a terrace (臺上). place_id PL_GUSU is this dataset's row for the Wu capital, so the place is the seat of the court: an identification the row makes, not one the text states. PL_GUSU's own coord_certainty is low (four candidate sites; see its coord_basis). This row anchors P_SUNWU's map medallion (r16-3b; L-259(2)); review_status set to reviewed on the reading recorded at the end of dating_basis. The traditional story's historicity stays doubtful (reliability low).",
+  "review_status": "reviewed"
  },
  {
   "id": "E_CN_027",
@@ -4133,7 +4136,7 @@
   "year_display": "359 BCE",
   "dating_basis": "Shiji 5 秦本紀, read at zh.wikisource.org page 史記/卷005 (revision 8744286, fetched whole via action=raw on 2026-10-04, this session): 三年，衛鞅說孝公變法修刑，內務耕稼，外勸戰死之賞罰，孝公善之。甘龍、杜摯等弗然，相與爭之。卒用鞅法，百姓苦之；居三年，百姓便之。乃拜鞅為左庶長。 Duke Xiao's third year: Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session) gives 秦孝公元年。彗星見西方。 at the line labelled 361, and its 秦 column reads only 三 at 359 (the table records no reform that year). Shiji 68 商君列傳, read at zh.wikisource.org page 史記/卷068 (revision 8764712, fetched whole via action=raw on 2026-10-04, this session), gives the court debate with the same two opponents and Shang Yang's answer (衛鞅曰：「治世不一道，便國不法古。…), then 以衛鞅為左庶長，卒定變法之令。 and the first laws (令民為什伍，而相牧司連坐。 …). The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "place_id": null,
   "title_en": "Shang Yang persuades Duke Xiao of Qin to change the laws",
   "summary_en": "Over the objections of two senior ministers, who held that the laws of the ancestors should not be changed, Shang Yang told Duke Xiao that 'there is more than one way to govern an age, and serving the state does not require copying antiquity.' The duke gave him office and issued the new laws: households grouped in fives and tens and made liable for one another's crimes, informers rewarded like soldiers who take an enemy head, rank given for military merit and withheld even from members of the ruling house without it, and those who produced the most grain and cloth exempted from labour service. The people, the Shiji says, suffered under the laws at first and after three years found them convenient.",
@@ -4145,7 +4148,7 @@
   ],
   "reliability": "medium",
   "importance": 5,
-  "note": "No place: neither chapter places the debate, and Qin's seat at this date is itself recorded inconsistently (Yong in Shiji 68, Yueyang in Shiji 5; PL_XIANYANG.description). polity_id blank: no Qin polity row. Shiji 68's dialogue is also the opening chapter of the book of Lord Shang (Q_121), where the duke is called by his posthumous title; the two share the scene and neither is a record made at the time. reliability medium: the year is Shiji 5's alone.",
+  "note": "No place: neither chapter places the debate, and Qin's seat at this date is itself recorded inconsistently (Yong in Shiji 68, Yueyang in Shiji 5; PL_XIANYANG.description). polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): the reform is Duke Xiao of Qin's (Shiji 5, revision 8744286, read again this session: 三年，衛鞅說孝公變法修刑). Shiji 68's dialogue is also the opening chapter of the book of Lord Shang (Q_121), where the duke is called by his posthumous title; the two share the scene and neither is a record made at the time. reliability medium: the year is Shiji 5's alone.",
   "review_status": "reviewed"
  },
  {
@@ -4155,7 +4158,7 @@
   "year_display": "350/349 BCE",
   "dating_basis": "Duke Xiao's twelfth year, -350 on Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session) (秦孝公元年 at the line labelled 361). THREE CHAPTERS, TWO COUNTS, BOTH CARRIED: Shiji 5, read at zh.wikisource.org page 史記/卷005 (revision 8744286, fetched whole via action=raw on 2026-10-04, this session): 十二年，作為咸陽，筑冀闕，秦徙都之。并諸小鄉聚，集為大縣，縣一令，四十一縣。為田開阡陌。 — FORTY-ONE counties. Shiji 15, the 秦 column at the line labelled 350: 十二。初聚小邑為三十一縣，令。為田開阡陌。 — THIRTY-ONE. Shiji 68, read at zh.wikisource.org page 史記/卷068 (revision 8764712, fetched whole via action=raw on 2026-10-04, this session): 居三年，作為筑冀闕宮庭於咸陽，秦自雍徙都之。…而集小（都）鄉邑聚為縣，置令、丞，凡三十一縣。為田開阡陌封疆，而賦稅平。平斗桶權衡丈尺。 — THIRTY-ONE, 'three years' after the capture of Anyi, which Shiji 15 puts at the line labelled 352 (十。衛公孫鞅為大良造，伐安邑，降之。). THE YEAR WAVERS BY ONE: the appendix to Shiji 6, read at zh.wikisource.org page 史記/卷006 (revision 7907969, fetched whole via action=raw on 2026-10-04, this session), gives the move to Xianyang in Duke Xiao's thirteenth year (孝公享國二十四年。葬弟圉。生惠文王。其十三年，始都咸陽。), -349; the range -350/-349 carries both and is not narrowed. The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "place_id": "PL_XIANYANG",
   "title_en": "Qin moves its capital to Xianyang and merges its villages into counties",
   "summary_en": "Qin built gate towers and a palace at Xianyang and moved its capital there; it merged its small villages and settlements into counties, each run by an appointed magistrate, reorganised the boundaries of the fields and, in the biography's account, made the measures of grain, weight and length uniform. The county, governed by a salaried appointee instead of a hereditary lord, became the basic unit of the later empire. The Shiji gives two counts of the new counties: thirty-one in two chapters and forty-one in a third.",
@@ -4168,7 +4171,7 @@
   ],
   "reliability": "medium",
   "importance": 4,
-  "note": "PLACE: Shiji 5 and Shiji 68 name Xianyang for the new capital, so PL_XIANYANG is the source's place for the move; the county reform is the same year's entry and is not separately placed. THE COUNT: 31 (Shiji 15, Shiji 68) against 41 (Shiji 5) is carried as found and not resolved (r8-3); no source read this session settles it. polity_id blank: no Qin polity row. reliability medium for the contradiction in the count and the one-year wobble in the date.",
+  "note": "PLACE: Shiji 5 and Shiji 68 name Xianyang for the new capital, so PL_XIANYANG is the source's place for the move; the county reform is the same year's entry and is not separately placed. THE COUNT: 31 (Shiji 15, Shiji 68) against 41 (Shiji 5) is carried as found and not resolved (r8-3); no source read this session settles it. polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): Shiji 5, revision 8744286, read again this session: 十二年，作為咸陽，筑冀闕，秦徙都之。 reliability medium for the contradiction in the count and the one-year wobble in the date.",
   "review_status": "reviewed"
  },
  {
@@ -4200,7 +4203,7 @@
   "year_display": "338 BCE",
   "dating_basis": "Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the 秦 column at the line labelled 338: 二十四。（秦）大荔圍合陽。孝公薨。商君反，死彤地。; the 魏 column: 三十三。衛鞅亡歸我，我恐，弗內。 Shiji 5, read at zh.wikisource.org page 史記/卷005 (revision 8744286, fetched whole via action=raw on 2026-10-04, this session): 孝公卒，子惠文君立。是歲，誅衛鞅。 … 及孝公卒，太子立，宗室多怨鞅，鞅亡，因以為反，而卒車裂以徇秦國。 Shiji 68, read at zh.wikisource.org page 史記/卷068 (revision 8764712, fetched whole via action=raw on 2026-10-04, this session): 秦發兵攻商君，殺之於鄭黽池。秦惠王車裂商君以徇，曰：「莫如商鞅反者！」遂滅商君之家。 The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "place_id": null,
   "title_en": "Shang Yang is killed after Duke Xiao's death",
   "summary_en": "When Duke Xiao died, members of the ruling house who hated Shang Yang (he had once had the crown prince's tutor branded for the prince's offence) accused him of plotting rebellion. He fled, was turned back by Wei, returned to his fief and raised its troops, and was killed; the new king had his body torn apart by chariots as a warning and wiped out his family. The table and the biography name different places for his death.",
@@ -4212,15 +4215,15 @@
   ],
   "reliability": "medium",
   "importance": 3,
-  "note": "PLACES: Shiji 15 says 彤地, Shiji 68 鄭黽池; neither is a place row here and neither is chosen, so the event has no place_id. The branding: Shiji 5, 法之不行，自於貴戚。 … 太子不可黥，黥其傅師. Han Feizi 和氏 (Q_127): 商君車裂於秦. polity_id blank: no Qin polity row.",
+  "note": "PLACES: Shiji 15 says 彤地, Shiji 68 鄭黽池; neither is a place row here and neither is chosen, so the event has no place_id. The branding: Shiji 5, 法之不行，自於貴戚。 … 太子不可黥，黥其傅師. Han Feizi 和氏 (Q_127): 商君車裂於秦. polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): the 秦 column of Shiji 15 at the line labelled 338 (revision 2607002, read again this session): 孝公薨。商君反，死彤地。",
   "review_status": "reviewed"
  },
  {
   "id": "E_CN_055",
   "year_min": -336,
-  "year_max": -336,
-  "year_display": "336 BCE (Shiji chronology)",
-  "dating_basis": "Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the 魏 column at the line labelled 336: 三十五。孟子來，王問利國，對曰：「君不可言利。」 (King Hui's 35th year; 惠王元年 at 370). Shiji 44 魏世家, read at zh.wikisource.org page 史記/卷044 (revision 7903606, fetched whole via action=raw on 2026-10-04, this session), tells it in the same year's block: 卅五年，與齊宣王會平阿南。 then 惠王數被於軍旅，卑禮厚幣以招賢者。鄒衍、淳于髡、孟軻皆至梁。梁惠王曰：『…叟不遠千里，辱幸至獘邑之廷，將何利吾國？』, and closes the reign the next year (卅六年，復與齊王會甄。是歳，惠王卒，子襄王立。). Mencius 1A1 (Q_118) opens 孟子見梁惠王. THE SHIJI'S CHRONOLOGY OF THESE KINGS IS IN TENSION WITH THE MENCIUS ITSELF, and both are recorded: in Mencius 1A5 (孟子/梁惠王上, revision 2642991) King Hui lists among his humiliations 東敗於齊，長子死焉；西喪地於秦七百里；南辱於楚。 — 'in the south I was disgraced by Chu' — but the Shiji puts Chu's defeat of Wei at Xiangling after Hui's death: Shiji 15, the 楚 column at 323, 六。敗魏襄陵。; Shiji 44, 十二年，楚敗我襄陵。, under King Xiang. Either the Shiji's dates for Hui's reign or the identification of that defeat is wrong; no source read this session settles which. Other chronologies of the Wei kings, which would place the visit later, exist but were NOT read and are NOT asserted; the year is the Shiji table's. The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
+  "year_max": -319,
+  "year_display": "336-319 BCE (Shiji and Bamboo Annals chronologies)",
+  "dating_basis": "Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the 魏 column at the line labelled 336: 三十五。孟子來，王問利國，對曰：「君不可言利。」 (King Hui's 35th year; 惠王元年 at 370). Shiji 44 魏世家, read at zh.wikisource.org page 史記/卷044 (revision 7903606, fetched whole via action=raw on 2026-10-04, this session), tells it in the same year's block: 卅五年，與齊宣王會平阿南。 then 惠王數被於軍旅，卑禮厚幣以招賢者。鄒衍、淳于髡、孟軻皆至梁。梁惠王曰：『…叟不遠千里，辱幸至獘邑之廷，將何利吾國？』, and closes the reign the next year (卅六年，復與齊王會甄。是歳，惠王卒，子襄王立。). Mencius 1A1 (Q_118) opens 孟子見梁惠王. THE SHIJI'S CHRONOLOGY OF THESE KINGS IS IN TENSION WITH THE MENCIUS ITSELF, and both are recorded: in Mencius 1A5 (孟子/梁惠王上, revision 2642991) King Hui lists among his humiliations 東敗於齊，長子死焉；西喪地於秦七百里；南辱於楚。 — 'in the south I was disgraced by Chu' — but the Shiji puts Chu's defeat of Wei at Xiangling after Hui's death: Shiji 15, the 楚 column at 323, 六。敗魏襄陵。; Shiji 44, 十二年，楚敗我襄陵。, under King Xiang. Either the Shiji's dates for Hui's reign or the identification of that defeat is wrong; no source read this session settles which. A SECOND CHRONOLOGY, READ 2026-11-13 (Sophia r16-3, this session), replacing the sentence that stood here (that other chronologies existed but were not read and not asserted): the Bamboo Annals as collected by Zhu Youzeng and Wang Guowei, zh.wikisource.org page 古本竹書紀年輯校 (revision 2014139, fetched whole via action=raw on 2026-11-13, this session) (SRC_WS_GUBEN_JINIAN), under 梁惠成王: 三十六年。, quoting Du Yu's postface to his Zuozhuan commentary as its carrier, 「惠王三十六年改元從一年始，至十六年而稱惠成王卒。」, then 一年。 and, at the end of the reign, 十六年，惠成王卒。 On the Annals, King Hui did not die in his 36th year, as the Shiji has it; he began his count again and reigned sixteen more years. Counted on Shiji 15's own labels (惠王元年 at 370, so his 36th year at 335), those sixteen years are 334 to 319, the years Shiji 15 gives to a King Xiang (魏襄王元年 at 334) before 魏哀王元年 at 318; the arithmetic is this row's, and the Annals' own count of Hui's years is not asserted to begin where the Shiji's does. On the Annals' reckoning Hui was still reigning in 323, when Shiji 15 has Chu defeat Wei at Xiangling, which is what Mencius 1A5's 南辱於楚 requires, though nothing read says that 1A5 belongs to the same visit as 1A1. THE RANGE THEREFORE RUNS FROM THE SHIJI TABLE'S YEAR, -336, TO THE LAST YEAR OF HUI'S REIGN ON THE ANNALS' COUNT, -319; no year inside it is preferred. RE-READ 2026-11-13 (this session): Shiji 15 (revision 2607002), Shiji 44 (revision 7903606) and 孟子/梁惠王上 (revision 2642991), the same revisions cited above, fetched again whole via action=raw; every Chinese quotation in this field was found again verbatim (checked by script, the page's -{…}- conversion markup removed). The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "region_id": "R_CN",
   "polity_id": "POL_WEI",
   "place_id": "PL_DALIANG",
@@ -4230,11 +4233,12 @@
   "source_ids": [
    "SRC_WS_SHIJI_15",
    "SRC_WS_SHIJI_44",
-   "SRC_WS_MENGZI"
+   "SRC_WS_MENGZI",
+   "SRC_WS_GUBEN_JINIAN"
   ],
   "reliability": "medium",
   "importance": 4,
-  "note": "PLACE, A STATED READING (the task book asks for the Wei capital's own place reading): in Shiji 44 the king says Mencius has come 'to the court of my humble city' (辱幸至獘邑之廷), and the same chapter records in Hui's 31st year, four years before this visit by its own count, that the seat moved to Daliang (安邑近秦，於是徙治大梁); Shiji 68 records the same move (而魏遂去安邑，徙都大梁). So the court Mencius came to was at Daliang on the Shiji's account, and PL_DALIANG is that reading, not a stand-in for the state. Neither text names the city in the account of the visit itself. reliability medium: the year is the Shiji table's, with the chronological tension stated in dating_basis.",
+  "note": "PLACE, A STATED READING (the task book asks for the Wei capital's own place reading): in Shiji 44 the king says Mencius has come 'to the court of my humble city' (辱幸至獘邑之廷), and the same chapter records in Hui's 31st year, four years before this visit by its own count, that the seat moved to Daliang (安邑近秦，於是徙治大梁); Shiji 68 records the same move (而魏遂去安邑，徙都大梁). So the court Mencius came to was at Daliang on the Shiji's account, and PL_DALIANG is that reading, not a stand-in for the state. Neither text names the city in the account of the visit itself. reliability medium: the range runs from the Shiji table's year to the end of King Hui's reign on the Bamboo Annals' count, the two chronologies stated in dating_basis (r16-3, 2026-11-13).",
   "review_status": "reviewed"
  },
  {
@@ -4265,7 +4269,7 @@
   "year_display": "328-322 BCE",
   "dating_basis": "Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the 秦 column reads 十。張儀相。公子桑圍蒲陽，降之。魏納上郡。 at the line labelled 328 (秦惠文王元年 at 337) and 三。張儀免相，相魏。 at 322 (the reign count restarts with 相張儀將兵取陝。初更元年 at 324). Shiji 70, read at zh.wikisource.org page 史記/卷070 (revision 2621148, fetched whole via action=raw on 2026-10-04, this session): 惠王乃以張儀為相，更名少梁曰夏陽。 … 東還而免相，相魏以為秦 The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "place_id": null,
   "title_en": "Zhang Yi serves as chancellor of Qin",
   "summary_en": "Zhang Yi became chancellor of Qin under King Huiwen. In the Shiji's account his policy was to break up any combination of states against Qin by making a separate bargain with each, and in 322 BCE he left Qin's service to become chancellor of Wei, the better, the biography says, to bring Wei over to Qin. He later returned to Qin's chancellorship.",
@@ -4276,7 +4280,7 @@
   ],
   "reliability": "medium",
   "importance": 3,
-  "note": "No place: the cells name none and Xianyang is not used as a stand-in. CONTESTED PAIRING (P_ZHANGYI, P_SUQIN): the Qin table records these offices independently of the Su Qin story; the motive clause (相魏以為秦) is Shiji 70's. polity_id blank: no Qin polity row.",
+  "note": "No place: the cells name none and Xianyang is not used as a stand-in. CONTESTED PAIRING (P_ZHANGYI, P_SUQIN): the Qin table records these offices independently of the Su Qin story; the motive clause (相魏以為秦) is Shiji 70's. polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): the office is Qin's, in the 秦 column of Shiji 15 at the line labelled 328 (revision 2607002, read again this session): 十。張儀相。",
   "review_status": "reviewed"
  },
  {
@@ -4308,7 +4312,7 @@
   "year_display": "233 BCE",
   "dating_basis": "Shiji 6, read at zh.wikisource.org page 史記/卷006 (revision 7907969, fetched whole via action=raw on 2026-10-04, this session): 十四年，攻趙軍於平陽，取宜安，破之，殺其將軍。桓齮定平陽、武城。韓非使秦，秦用李斯謀，留非，非死雲陽。韓王請為臣。 The First Emperor's first year is the line labelled 246 in Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session) (始皇帝元年。擊取晉陽，作鄭國渠。), so his 14th year is -233. Shiji 63, read at zh.wikisource.org page 史記/卷063 (revision 7903601, fetched whole via action=raw on 2026-10-04, this session): 人或傳其書至秦。秦王見《孤憤》、《五蠹》之書，… 李斯使人遺非藥，使自殺。韓非欲自陳，不得見。秦王後悔之，使人赦之，非已死矣。 The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "place_id": null,
   "title_en": "Han Fei dies in a Qin prison",
   "summary_en": "The king of Qin had read Han Fei's essays and said he could die content if he met their author. When Han sent Han Fei to Qin as an envoy, Li Si and Yao Jia warned the king that a prince of Han would always serve Han; Han Fei was handed to the officials, and Li Si sent him poison. The king changed his mind and sent a pardon, but Han Fei was already dead.",
@@ -4320,7 +4324,7 @@
   ],
   "reliability": "medium",
   "importance": 3,
-  "note": "Shiji 6 names the place, 雲陽 (非死雲陽), which is not a place row here and is not located; no place_id. The two chapters agree on the cause (秦用李斯謀 / 李斯使人遺非藥). polity_id blank: no Qin polity row.",
+  "note": "Shiji 6 names the place, 雲陽 (非死雲陽), which is not a place row here and is not located; no place_id. The two chapters agree on the cause (秦用李斯謀 / 李斯使人遺非藥). polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): Shiji 15, the line labelled 233, whose first cell spans the 周 and 秦 columns (revision 2607002, read again this session): 韓使非來，我殺非。; Shiji 6 (revision 7907969, read again this session): 韓非使秦，秦用李斯謀，留非，非死雲陽.",
   "review_status": "reviewed"
  },
  {
@@ -4330,7 +4334,7 @@
   "year_display": "221 BCE",
   "dating_basis": "Shiji 6, read at zh.wikisource.org page 史記/卷006 (revision 7907969, fetched whole via action=raw on 2026-10-04, this session): 二十六年，齊王建與其相后勝發兵守其西界，不通秦。秦使將軍王賁從燕南攻齊，得齊王建。 秦王初并天下，令丞相、御史曰： … 廷尉李斯議曰：「周文武所封子弟同姓甚眾，然後屬疏遠，相攻擊如仇讎，諸侯更相誅伐，周天子弗能禁止。今海內賴陛下神靈一統，皆為郡縣， … 分天下以為三十六郡，郡置守、尉、監。更名民曰「黔首」。大酺。收天下兵，聚之咸陽，銷以為鐘鐻，金人十二，重各千石，置廷宮中。一法度衡石丈尺。車同軌。書同文字。 徙天下豪富於咸陽十二萬戶。 … 剛毅戾深，事皆決於法，刻削毋仁恩和義 Shiji 15 六國年表, read at zh.wikisource.org page 史記/卷015 (revision 2607002, fetched whole via action=raw on 2026-10-04, this session): the line labelled 221, whose first cell spans the 周 and 秦 columns, reads 二十六。王賁擊齊，虜王建。初并天下，立為皇帝。 (始皇帝元年 at 246). The western years are the edition's leftmost column (each cell links a w:前N年 article), the edition's own conversion and not Sima Qian's (calendars.csv CAL_ZHOU_REGNAL). Range wholly after the 600-400 BCE pilot slice; admitted for the China pillar by D-20 (R_CN ranges over 800-200).",
   "region_id": "R_CN",
-  "polity_id": null,
+  "polity_id": "POL_QIN",
   "place_id": "PL_XIANYANG",
   "title_en": "Qin unifies the states and divides the realm into thirty-six commanderies",
   "summary_en": "With the capture of the king of Qi, Qin had conquered all six of its rivals, and its king took the new title of emperor. His ministers proposed making the emperor's sons kings of the distant conquests; Li Si answered that the Zhou had done exactly that and its kinsmen had ended by fighting each other, and the emperor agreed with him. The realm was divided instead into thirty-six commanderies, each under an appointed governor, commandant and inspector; the weapons of the conquered were melted down at Xianyang, measures, weights and axle widths made uniform, the script standardised, and 120,000 rich households moved to the capital.",
@@ -4341,7 +4345,7 @@
   ],
   "reliability": "high",
   "importance": 5,
-  "note": "CATEGORY: reform, for the settlement; the conquest that made it possible (得齊王建) is recorded in the same entry and not split into a second row. PLACE: the entry names 咸陽 for the melting of the weapons and the resettlement of the rich; the court debate itself is not placed, and PL_XIANYANG stands for the capital where the decisions were carried out, as stated here. polity_id blank: no Qin polity row. Shiji 6 adds of the new regime: 剛毅戾深，事皆決於法 (IL_189).",
+  "note": "CATEGORY: reform, for the settlement; the conquest that made it possible (得齊王建) is recorded in the same entry and not split into a second row. PLACE: the entry names 咸陽 for the melting of the weapons and the resettlement of the rich; the court debate itself is not placed, and PL_XIANYANG stands for the capital where the decisions were carried out, as stated here. polity_id POL_QIN (filled 2026-11-13, Sophia r16-3, when the Qin row was added): Shiji 15, the line labelled 221 (revision 2607002, read again this session): 初并天下，立為皇帝。 Shiji 6 adds of the new regime: 剛毅戾深，事皆決於法 (IL_189).",
   "review_status": "reviewed"
  },
  {

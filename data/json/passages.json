@@ -2585,5 +2585,18 @@
   "quote_type": "speech",
   "note": "Alcibiades to the Lacedaemonian assembly after his flight from Thurii by way of Cyllene (6.88.9-10, eng6, read the same day), as Thucydides composes the speech (1.22.1): the anti-democratic voice the pillar lacked (r14-4b). The setting qualifies the words: he has just said his family led the people because they were 'always hostile to tyrants' and the city was a democracy (6.89.4), and that his party tried to preserve 'the form of government under which the city enjoyed the utmost greatness and freedom' (6.89.6, the sentence before the quotation); he speaks to Spartans whose help he is asking for. 'a patent absurdity' renders περὶ ὁμολογουμένης ἀνοίας, literally 'acknowledged folly'. Lower-case ἐπεὶ is correct: the Greek sentence begins earlier in the section (ἡμεῖς δὲ τοῦ ξύμπαντος προέστημεν). MIT prints a semicolon before 'meanwhile'; the PerseusDL eng6 copy prints a dash. Both files were re-fetched in the r14-4b session and are byte-identical to the r14-4 copies. English read 2026-10-18, this session, in the MIT Internet Classics Archive plain text of Crawley (classics.mit.edu/Thucydides/pelopwar.mb.txt, https, HTTP 200, 1,048,323 bytes), the url recorded on SRC_CRAWLEY_THUC; this row follows MIT, not the PerseusDL eng6 copy. Greek read the same day in PerseusDL canonical-greekLit tlg0003.tlg001.perseus-grc2.xml (2,838,526 bytes, fetched whole, <note> stripped) and found inside the TEI section the locator names.",
   "review_status": "reviewed"
+ },
+ {
+  "id": "Q_200",
+  "work_id": "W_SUNZI",
+  "source_id": "SRC_WS_SUNZI_LUEJIE",
+  "original_source_id": "SRC_WS_SUNZI_LUEJIE",
+  "locator": "Sunzi 1, 計篇 (opening and the passage on deception)",
+  "quote_original": "孫子曰：兵者，國之大事也；死生之地，存亡之道，不可不察也。……兵者，詭道也。",
+  "quote_translation": "Master Sun said: War is the great affair of a state, the ground of life and death, the road to survival or ruin. It must be examined. ... War is the way of deception.",
+  "translation_source_id": null,
+  "quote_type": "paraphrase",
+  "note": "The English is the project's own rendering, hence quote_type 'paraphrase' (conventions §7); no published English translation of this text was read this session, so none is quoted. The Chinese is verbatim zh.wikisource.org page 孫子略解 (revision 10642245, fetched whole via action=raw on 2026-11-13, this session), main text only, without Cao Cao's inline commentary: each segment between ellipses is an exact substring of the page (checked by script), punctuation as the page prints it. This edition reads 國之大事也； where the plain wikisource page 孫子兵法 reads 國之大事， (both read this session); the edition cited is the one quoted. source_id and original_source_id are the same row because the edition read is the edition of the licensed original; passages_original_source_distinct warns on that by design (the Q_102 precedent), and leaving original_source_id blank would fail the original-licence guard. No idea link: carried as the text of W_SUNZI. Added 2026-11-13 (Sophia r16-3).",
+  "review_status": "reviewed"
  }
 ]

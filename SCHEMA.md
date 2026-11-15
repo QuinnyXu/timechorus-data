@@ -47,6 +47,10 @@ Polities (states, kingdoms, leagues) within a region.
 | `capital_place_id` | string | required column; FK -> `places` |  |
 | `wikidata_qid` | string | required column |  |
 | `note` | string | required column |  |
+| `name_zh` | string |  | Optional. The polity's Simplified Chinese name: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of name_en. Blank means no zh name; the engine then falls back to name_en. |
+
+Gate rules beyond the column constraints (implemented in `tools/validate.py` of the
+source repository, not shipped here): `polities_name_zh`.
 
 ## places
 
@@ -69,9 +73,10 @@ Located places, with coordinates and the basis for them.
 | `wikidata_qid` | string | required column |  |
 | `source_ids` | string | required column; list of FK -> `sources` | Semicolon-separated FK list to sources: the citation(s) behind this row's coordinates, companion to coord_basis's prose (schema v2.1, r6-0, L-86(1)). Blank is a validate.py warning (backlog), not an error, until the row is migrated. |
 | `description` | string | required column |  |
+| `name_zh` | string |  | Optional. The place's Simplified Chinese name: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of name_en. Blank means no zh name; the engine then falls back to name_en. |
 
 Gate rules beyond the column constraints (implemented in `tools/validate.py` of the
-source repository, not shipped here): `places_pleiades_l8`, `places_coords`, `places_source_ids_backlog_warn`.
+source repository, not shipped here): `places_pleiades_l8`, `places_coords`, `places_source_ids_backlog_warn`, `places_name_zh`.
 
 ## people
 
@@ -99,9 +104,10 @@ Persons, with range-dated birth/death and a historicity grade.
 | `map_place_basis` | string | required column | Why the map_place_id override was made. No reason, no override (conventions.md §1): a non-blank map_place_id with a blank map_place_basis is a validate.py error. |
 | `map_place_reason` | string | required column | Reader-register reason for the map_place_id override, shown to readers on the person record line (schema v2.2, r9-2, L-104(2)). Required non-blank wherever map_place_id is set once the column is in use; 60-450 characters, no ruling ids, no file paths. map_place_basis stays the reviewers' working log in the CSV. |
 | `review_status` | string | required column; one of: `draft`, `reviewed` |  |
+| `name_zh` | string |  | Optional. The person's Simplified Chinese name: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of name_en. Blank means no zh name; the engine then falls back to name_en. |
 
 Gate rules beyond the column constraints (implemented in `tools/validate.py` of the
-source repository, not shipped here): `people_dating_basis`, `people_role_tag_en`, `people_traditional_birth_range`, `people_map_place_override`, `people_map_place_reason`, `people_is_protagonist_enum`.
+source repository, not shipped here): `people_dating_basis`, `people_role_tag_en`, `people_traditional_birth_range`, `people_map_place_override`, `people_map_place_reason`, `people_is_protagonist_enum`, `people_name_zh`.
 
 ## works
 
@@ -123,9 +129,10 @@ Works (texts) with a range-dated composition window.
 | `wikidata_qid` | string | required column |  |
 | `note` | string | required column |  |
 | `review_status` | string | required column; one of: `draft`, `reviewed` |  |
+| `title_zh` | string |  | Optional. The work's Simplified Chinese title: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of title_en. Blank means no zh name; the engine then falls back to title_en. |
 
 Gate rules beyond the column constraints (implemented in `tools/validate.py` of the
-source repository, not shipped here): `works_composition_basis`.
+source repository, not shipped here): `works_composition_basis`, `works_title_zh`.
 
 ## sources
 
@@ -237,9 +244,10 @@ Ideas, each anchored to at least one passage.
 | `first_attested_year_max` | string | required column; pattern `^-?\d{1,4}$` | Integer year, BCE negative; blank permitted where the range is optional. |
 | `first_attestation_basis` | string |  | Why the first-attested range is what it is (conventions §2's dating_basis, for ideas). Blank on a row is a warning, not an error, added by ruling L-51(5): red line 5 could not be satisfied for this table until the column existed; the pre-existing rows earn their warning as the backlog marker for the Round-3 backfill. |
 | `review_status` | string | required column; one of: `draft`, `reviewed` |  |
+| `name_zh` | string |  | Optional. The idea's Simplified Chinese name: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of name_en. Blank means no zh name; the engine then falls back to name_en. |
 
 Gate rules beyond the column constraints (implemented in `tools/validate.py` of the
-source repository, not shipped here): `ideas_one_line_en`, `ideas_need_passage_link`, `ideas_first_attestation_basis`.
+source repository, not shipped here): `ideas_one_line_en`, `ideas_need_passage_link`, `ideas_first_attestation_basis`, `ideas_name_zh`.
 
 ## idea_links
 

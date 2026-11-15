@@ -72,6 +72,10 @@
         "draft",
         "reviewed"
       ]
+    },
+    "title_zh": {
+      "type": "string",
+      "description": "Optional. The work's Simplified Chinese title: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of title_en. Blank means no zh name; the engine then falls back to title_en."
     }
   },
   "x-timechorus": {
@@ -108,6 +112,10 @@
       {
         "rule": "enum",
         "field": "review_status"
+      },
+      {
+        "rule": "procedural",
+        "name": "works_title_zh"
       }
     ]
   }

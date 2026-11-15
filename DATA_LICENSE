@@ -1,7 +1,7 @@
 TimeChorus data licence
 =======================
 
-Dataset: TimeChorus (axial corpus), exported from source commit fa6c47d659ffa7069992e71a4d93ccbdcad84fbe.
+Dataset: TimeChorus (axial corpus), exported from source commit 83960214cee37731d063a383a22c0e8e9ed87999.
 Site: https://timechorus.com
 
 1. The compilation and the project's own words
@@ -30,7 +30,7 @@ length. Share-alike (CC BY-SA) constrains what a reuser of that quoted text must
 downstream; it does not alter the licence of the rest of the dataset.
 
 Sources by licence:
-  public domain  67
+  public domain  74
   CC0            10
   CC BY 4.0      2
   CC BY 3.0      1
@@ -316,6 +316,9 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_GUWENDAO | copyright
     古文岛 (guwendao.net): the Chinese text read there for Q_004
     https://www.guwendao.net/
+* SRC_WS_GUBEN_JINIAN | public domain
+    古本竹書紀年輯校 (the Bamboo Annals in their ancient-text fragments, collected by Zhu Youzeng and revised by Wang Guowei), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%A4%E6%9C%AC%E7%AB%B9%E6%9B%B8%E7%B4%80%E5%B9%B4%E8%BC%AF%E6%A0%A1
 * SRC_WS_SHIJI_130 | public domain
     史記 卷一百三十 太史公自序 (Shiji 130, Postface of the Grand Historian), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7130
@@ -325,6 +328,9 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_WS_SHIJI_74 | public domain
     史記 卷七十四 孟子荀卿列傳 (Shiji 74, Biographies of Mencius and Xun Qing), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7074
+* SRC_WS_SHIJI_38 | public domain
+    史記 卷三十八 宋微子世家 (Shiji 38, Hereditary House of Weizi of Song), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7038
 * SRC_WS_SHIJI_22 | public domain
     史記 卷二十二 漢興以來將相名臣年表 (Shiji 22, Table of Generals, Chancellors and Eminent Ministers since the Rise of Han), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7022
@@ -352,6 +358,15 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_WS_SHIJI_15 | public domain
     史記 卷十五 六國年表 (Shiji 15, Chronological Table of the Six States), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7015
+* SRC_WS_SHIJI_14 | public domain
+    史記 卷十四 十二諸侯年表 (Shiji 14, Chronological Table of the Twelve Feudal Lords), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7014
+* SRC_WS_SHIJI_43 | public domain
+    史記 卷四十三 趙世家 (Shiji 43, Hereditary House of Zhao), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7043
+* SRC_WS_SHIJI_45 | public domain
+    史記 卷四十五 韓世家 (Shiji 45, Hereditary House of Han), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7045
 * SRC_WS_SHIJI_44 | public domain
     史記 卷四十四 魏世家 (Shiji 44, Hereditary House of Wei), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E5%8F%B2%E8%A8%98/%E5%8D%B7044
@@ -364,6 +379,9 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_WS_MENGZI | public domain
     孟子 (Mencius), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90
+* SRC_WS_SUNZI_LUEJIE | public domain
+    孫子略解 (the Sunzi with Cao Cao's brief commentary), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E5%AD%AB%E5%AD%90%E7%95%A5%E8%A7%A3
 * SRC_WS_GONGYANG | public domain
     春秋公羊傳 (Gongyang Commentary), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E5%85%AC%E7%BE%8A%E5%82%B3
@@ -379,6 +397,9 @@ whatever the licence family (r13-mergeA, L-162(1)); a source without one shows n
 * SRC_WS_HANSHU_30 | public domain
     漢書 卷三十 藝文志 (Hanshu 30, Treatise on Literature), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7030
+* SRC_WS_HANSHU_28 | public domain
+    漢書 卷二十八 地理志 (Hanshu 28, Treatise on Geography), Chinese text at 维基文库 (zh.wikisource.org)
+    https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7028
 * SRC_WS_HANSHU_24 | public domain
     漢書 卷二十四 食貨志 (Hanshu 24, Treatise on Food and Money), Chinese text at 维基文库 (zh.wikisource.org)
     https://zh.wikisource.org/wiki/%E6%BC%A2%E6%9B%B8/%E5%8D%B7024

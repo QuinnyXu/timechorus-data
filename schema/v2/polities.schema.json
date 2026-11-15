@@ -48,6 +48,10 @@
     },
     "note": {
       "type": "string"
+    },
+    "name_zh": {
+      "type": "string",
+      "description": "Optional. The polity's Simplified Chinese name: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of name_en. Blank means no zh name; the engine then falls back to name_en."
     }
   },
   "x-timechorus": {
@@ -70,6 +74,10 @@
         "rule": "yearRange",
         "min": "year_min",
         "max": "year_max"
+      },
+      {
+        "rule": "procedural",
+        "name": "polities_name_zh"
       }
     ]
   }

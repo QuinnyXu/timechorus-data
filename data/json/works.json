@@ -13,7 +13,8 @@
   "open_translation_source_id": "SRC_LEGGE_ANALECTS",
   "wikidata_qid": "Q276015",
   "note": "Author field = the teacher whose sayings it records, not the compiler.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "论语"
  },
  {
   "id": "W_DAODEJING",
@@ -29,7 +30,8 @@
   "open_translation_source_id": "SRC_LEGGE_DDJ",
   "wikidata_qid": "Q134425",
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "道德经"
  },
  {
   "id": "W_ZUOZHUAN",
@@ -45,7 +47,8 @@
   "open_translation_source_id": "SRC_LEGGE_ZUO",
   "wikidata_qid": "Q230230",
   "note": "Cross-reference: chunqiu.timechorus.com data can be imported wholesale as R_CN events.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "左传"
  },
  {
   "id": "W_DN16",
@@ -61,7 +64,8 @@
   "open_translation_source_id": "SRC_SUTTACENTRAL_DN16",
   "wikidata_qid": "Q374326",
   "note": "Best single 'map story' source in the Indian pillar: an itinerary from Rajagaha to Kusinara.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_EZEKIEL",
@@ -77,7 +81,8 @@
   "open_translation_source_id": "SRC_JPS1917",
   "wikidata_qid": "Q178390",
   "note": "wikidata_qid Q178390 is the Book of Ezekiel (read by the site owner at wikidata.org, 2026-09-07/08, relayed by the lead); ruling L-24. The person Ezekiel is Q194064, on P_EZEKIEL - Wikidata separates book from prophet and so does this project.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ISAIAH_40_55",
@@ -93,7 +98,8 @@
   "open_translation_source_id": "SRC_JPS1917",
   "wikidata_qid": null,
   "note": "wikidata_qid deliberately BLANK (ruling L-24): Wikidata has no item for chapters 40-55 as a text. Q131458 is the whole Book of Isaiah (read by the site owner at wikidata.org, 2026-09-07/08, relayed by the lead) - noted for context, not recorded here, because this row is the sub-work. The anonymous author does have an item, Q1201710, and it sits on P_DEUTERO_ISAIAH.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_2KINGS",
@@ -109,7 +115,8 @@
   "open_translation_source_id": "SRC_JPS1917",
   "wikidata_qid": "Q4224666",
   "note": "wikidata_qid Q4224666 is 'Books of Kings', i.e. 1-2 Kings as one work; no separate Wikidata item for 2 Kings alone could be verified on 2026-09-07.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_EZRA",
@@ -125,7 +132,8 @@
   "open_translation_source_id": "SRC_JPS1917",
   "wikidata_qid": "Q4816643",
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_BEHISTUN",
@@ -141,7 +149,8 @@
   "open_translation_source_id": "SRC_LIVIUS_BEHISTUN",
   "wikidata_qid": "Q180012",
   "note": "Contemporary, dated, in situ: the highest source layer in the whole project.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_GATHAS",
@@ -157,7 +166,8 @@
   "open_translation_source_id": "SRC_SBE31",
   "wikidata_qid": "Q1329536",
   "note": "wikidata_qid Q1329536 is the Gathas, the sacred hymns of Zarathushtra - item description confirmed (read by the site owner at wikidata.org, 2026-09-07/08, relayed by the lead); ruling L-24.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_HERODOTUS",
@@ -173,7 +183,8 @@
   "open_translation_source_id": "SRC_GODLEY_HDT",
   "wikidata_qid": "Q746583",
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_THUCYDIDES",
@@ -189,7 +200,8 @@
   "open_translation_source_id": "SRC_CRAWLEY_THUC",
   "wikidata_qid": "Q639493",
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ATHPOL",
@@ -205,7 +217,8 @@
   "open_translation_source_id": "SRC_KENYON_ATHPOL",
   "wikidata_qid": "Q382282",
   "note": "Attribution disputed, and the dispute is deliberately visible here rather than only in composition_basis. The treatise is transmitted in the Aristotelian corpus and Kenyon's editio princeps (1891) printed it as Aristotle's; author_person_id records that traditional attribution (conventions §7), it is not a claim that Aristotle wrote it. Many scholars assign it to a pupil of the Aristotelian school - hence composition_basis 'Aristotelian school'.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_APOLOGY",
@@ -221,7 +234,8 @@
   "open_translation_source_id": "SRC_JOWETT_APOLOGY",
   "wikidata_qid": "Q273668",
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ACARANGA",
@@ -237,7 +251,8 @@
   "open_translation_source_id": "SRC_SBE22",
   "wikidata_qid": "Q4672107",
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_HERACLITUS_FR",
@@ -253,7 +268,8 @@
   "open_translation_source_id": "SRC_BURNET_EGP",
   "wikidata_qid": "Q18961674",
   "note": "wikidata_qid Q18961674 is 'Fragments of Heraclitus' (read by the site owner at wikidata.org, 2026-09-07/08, relayed by the lead); ruling L-24. Q59731816 (Kirk, The Cosmic Fragments, 1954) was seen and rejected: that is a specific modern edition, not the work. The person Heraclitus is Q41155, on P_HERACLITUS.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MOZI",
@@ -269,7 +285,8 @@
   "open_translation_source_id": "SRC_MOZI",
   "wikidata_qid": "Q6835619",
   "note": "wikidata_qid Q6835619 = 'Mozi, ancient Chinese text expounding Mohism' (label and description read at wikidata.org 2026-09-08); the person Mo Di is Q272411, on P_MOZI. open_translation_source_id points at the Chinese text, not at a translation: see SRC_MEI_MOZI for the translation question.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "墨子"
  },
  {
   "id": "W_XEN_HELL",
@@ -285,7 +302,8 @@
   "open_translation_source_id": "SRC_XEN_HELL",
   "wikidata_qid": "Q674638",
   "note": "wikidata_qid Q674638 = 'Hellenica, historical work by Xenophon' (read at wikidata.org 2026-09-08). Cited in this batch for the years 406-400; no English is quoted from it (see SRC_XEN_HELL).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ANAXIMANDER_FR",
@@ -301,7 +319,8 @@
   "open_translation_source_id": "SRC_BURNET_EGP",
   "wikidata_qid": null,
   "note": "wikidata_qid left blank: no item for the fragments as a text was looked up and confirmed this session (conventions §1, 'leave blank rather than guess'). The person is Q42458, on P_ANAXIMANDER.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_XENOPHANES_FR",
@@ -317,7 +336,8 @@
   "open_translation_source_id": "SRC_BURNET_EGP",
   "wikidata_qid": null,
   "note": "Fragment numbering in this dataset follows Diels as printed by Burnet, Early Greek Philosophy 3rd ed. §57. wikidata_qid left blank (no item confirmed this session).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_PARMENIDES_FR",
@@ -333,7 +353,8 @@
   "open_translation_source_id": "SRC_BURNET_EGP",
   "wikidata_qid": null,
   "note": "Fragment numbering follows Burnet, Early Greek Philosophy 3rd ed., whose numbers differ from Diels-Kranz; both are recorded in the passage locator. wikidata_qid left blank (no item confirmed this session).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_PROTAGORAS_FR",
@@ -349,7 +370,8 @@
   "open_translation_source_id": "SRC_DL9",
   "wikidata_qid": null,
   "note": "The books themselves are lost; what survives are the first sentences, preserved because they were notorious. wikidata_qid left blank (no item confirmed this session).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DEMOCRITUS_FR",
@@ -365,7 +387,8 @@
   "open_translation_source_id": "SRC_DL9",
   "wikidata_qid": null,
   "note": "The atomist passage recorded in this batch is a testimonium — Diogenes Laertius's doxographic summary of the doctrine — not Democritus's own words; the passage note says so. wikidata_qid left blank (no item confirmed this session).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_JEREMIAH",
@@ -381,7 +404,8 @@
   "open_translation_source_id": "SRC_JPS1917",
   "wikidata_qid": null,
   "note": "wikidata_qid left blank rather than guessed: no QID was confirmed for this work in this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_HAGGAI",
@@ -397,7 +421,8 @@
   "open_translation_source_id": "SRC_JPS1917",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ZECHARIAH_1_8",
@@ -413,7 +438,8 @@
   "open_translation_source_id": "SRC_JPS1917",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DN2",
@@ -429,7 +455,8 @@
   "open_translation_source_id": "SRC_SC_DN2",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_SN56_11",
@@ -445,7 +472,8 @@
   "open_translation_source_id": "SRC_SC_SN",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_SN22_59",
@@ -461,7 +489,8 @@
   "open_translation_source_id": "SRC_SC_SN",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MN135",
@@ -477,7 +506,8 @@
   "open_translation_source_id": "SRC_SC_MN",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MN104",
@@ -493,7 +523,8 @@
   "open_translation_source_id": "SRC_SC_MN",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_VINAYA",
@@ -509,7 +540,8 @@
   "open_translation_source_id": "SRC_SC_VINAYA",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_CHANDOGYA",
@@ -525,7 +557,8 @@
   "open_translation_source_id": "SRC_SBE01",
   "wikidata_qid": null,
   "note": "Cited here only for VI, 8, 7, the tat tvam asi formula in Mueller's rendering.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_BRIHADARANYAKA",
@@ -541,7 +574,8 @@
   "open_translation_source_id": "SRC_SBE15",
   "wikidata_qid": null,
   "note": "Cited here only for III, 2, 13, the karman exchange.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_PARIAN",
@@ -557,7 +591,8 @@
   "open_translation_source_id": "SRC_PARIAN1788",
   "wikidata_qid": null,
   "note": "The composition range is the conventional one and is the weakest field on this row; the batch does not depend on it, because the two Aeschylus dates are derived from intervals against Marathon, not from the stone's epoch.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_PLATO_PARMENIDES",
@@ -573,7 +608,8 @@
   "open_translation_source_id": "SRC_FOWLER_PARMENIDES",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_CYRUS_CYLINDER",
@@ -589,7 +625,8 @@
   "open_translation_source_id": "SRC_ROGERS1912",
   "wikidata_qid": "Q405008",
   "note": "wikidata_qid Q405008, label 'Cyrus cylinder', description 'ancient cylinder covered with Akkadian cuneiform script' (read at wikidata.org 2026-09-13, this session). title_original left blank: the Akkadian has no title and none is invented.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DPD",
@@ -605,7 +642,8 @@
   "open_translation_source_id": "SRC_TOLMAN1908",
   "wikidata_qid": null,
   "note": "Tolman prints the location as 'on the south retaining wall of terrace'. No Wikidata item looked up and confirmed this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DNA",
@@ -621,7 +659,8 @@
   "open_translation_source_id": "SRC_TOLMAN1908",
   "wikidata_qid": null,
   "note": "No Wikidata item looked up and confirmed this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DSZC",
@@ -637,7 +676,8 @@
   "open_translation_source_id": "SRC_TOLMAN1908",
   "wikidata_qid": null,
   "note": "Tolman notes the Babylonian version obliterated and hieroglyphics on the other face. No Wikidata item looked up and confirmed this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_XPA",
@@ -653,7 +693,8 @@
   "open_translation_source_id": "SRC_TOLMAN1908",
   "wikidata_qid": null,
   "note": "Tolman: four times repeated on the propylaea above the winged bulls. No Wikidata item looked up and confirmed this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MENGZI",
@@ -669,7 +710,8 @@
   "open_translation_source_id": "SRC_LEGGE_MENCIUS",
   "wikidata_qid": null,
   "note": "Received text in seven books, each in two halves (the locator convention 1A, 1B ... as SRC_LEGGE_MENCIUS). Legge's translation is public domain but was not read this session; every English rendering in this batch is the project's own. Added 2026-10-04 (Sophia r9-4).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "孟子"
  },
  {
   "id": "W_SHANGJUNSHU",
@@ -685,7 +727,8 @@
   "open_translation_source_id": null,
   "wikidata_qid": null,
   "note": "Cited as the school's book under Shang Yang's name, never as his own words (Q_121, Q_122). Added 2026-10-04 (Sophia r9-4).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "商君书"
  },
  {
   "id": "W_HANFEIZI",
@@ -701,7 +744,8 @@
   "open_translation_source_id": null,
   "wikidata_qid": null,
   "note": "Chapters cited as the Han Feizi's; only 五蠹 is dated securely to Han Fei's lifetime by the Shiji. Added 2026-10-04 (Sophia r9-4).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "韩非子"
  },
  {
   "id": "W_XUNZI",
@@ -717,7 +761,8 @@
   "open_translation_source_id": null,
   "wikidata_qid": null,
   "note": "Read in Yang Liang's annotated text on wikisource; Yang's interlinear commentary is set aside where quoted (Q_129). Added 2026-10-04 (Sophia r9-4).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": "荀子"
  },
  {
   "id": "W_GONGYANG",
@@ -733,7 +778,8 @@
   "open_translation_source_id": null,
   "wikidata_qid": null,
   "note": "author_person_id blank: Gongyang Gao and Gongyang Shou have no person rows. Gongyang commentary citations by E_CN_001 (SRC_GONGYANG) predate this row and are unchanged. Added 2026-10-04 (Sophia r9-4).",
-  "review_status": "reviewed"
+  "review_status": "reviewed",
+  "title_zh": "春秋公羊传"
  },
  {
   "id": "W_DN1",
@@ -749,7 +795,8 @@
   "open_translation_source_id": "SRC_SC_DN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (dn1:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DN3",
@@ -765,7 +812,8 @@
   "open_translation_source_id": "SRC_SC_DN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (dn3:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DN5",
@@ -781,7 +829,8 @@
   "open_translation_source_id": "SRC_SC_DN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (dn5:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DN13",
@@ -797,7 +846,8 @@
   "open_translation_source_id": "SRC_SC_DN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (dn13:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DN26",
@@ -813,7 +863,8 @@
   "open_translation_source_id": "SRC_SC_DN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (dn26:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DN27",
@@ -829,7 +880,8 @@
   "open_translation_source_id": "SRC_SC_DN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (dn27:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_DN33",
@@ -845,7 +897,8 @@
   "open_translation_source_id": "SRC_SC_DN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (dn33:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MN35",
@@ -861,7 +914,8 @@
   "open_translation_source_id": "SRC_SC_MN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (mn35:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MN84",
@@ -877,7 +931,8 @@
   "open_translation_source_id": "SRC_SC_MN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (mn84:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MN89",
@@ -893,7 +948,8 @@
   "open_translation_source_id": "SRC_SC_MN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (mn89:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_MN108",
@@ -909,7 +965,8 @@
   "open_translation_source_id": "SRC_SC_MN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (mn108:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_SN3_14",
@@ -925,7 +982,8 @@
   "open_translation_source_id": "SRC_SC_SN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (sn3.14:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_SN3_15",
@@ -941,7 +999,8 @@
   "open_translation_source_id": "SRC_SC_SN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (sn3.15:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_AN3_65",
@@ -957,7 +1016,8 @@
   "open_translation_source_id": "SRC_SC_AN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (an3.65:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_AN3_70",
@@ -973,7 +1033,8 @@
   "open_translation_source_id": "SRC_SC_AN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (an3.70:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_AN7_21",
@@ -989,7 +1050,8 @@
   "open_translation_source_id": "SRC_SC_AN",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (an7.21:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_SNP5_1",
@@ -1005,7 +1067,8 @@
   "open_translation_source_id": "SRC_SC_SNP",
   "wikidata_qid": null,
   "note": "Added 2026-10-16 (Sophia r13-3). Title from the root text's own heading segment (snp5.1:0.2 or 0.3), read this session.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_SOLON_FR",
@@ -1021,7 +1084,8 @@
   "open_translation_source_id": "SRC_VINCE_DEM19",
   "wikidata_qid": null,
   "note": "The poems survive only as quotations: the elegy quoted in this batch is carried by Demosthenes 19.255 (Q_165), the iambics by Constitution of the Athenians 12 (Q_166).",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ARIST_POLITICS",
@@ -1037,7 +1101,8 @@
   "open_translation_source_id": null,
   "wikidata_qid": null,
   "note": "open_translation_source_id is blank on purpose: Rackham's English (SRC_RACKHAM_POL) is `unconfirmed` (L-180) and is not quoted.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ANTIGONE",
@@ -1053,7 +1118,8 @@
   "open_translation_source_id": "SRC_JEBB_ANTIGONE",
   "wikidata_qid": null,
   "note": "author_person_id is blank: no Sophocles person row exists in this corpus, and this batch does not add one.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_EUR_SUPPLIANTS",
@@ -1069,7 +1135,8 @@
   "open_translation_source_id": "SRC_COLERIDGE_SUPPL",
   "wikidata_qid": null,
   "note": "author_person_id is blank: no Euripides person row exists in this corpus, and this batch does not add one.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_PERSIANS",
@@ -1085,7 +1152,8 @@
   "open_translation_source_id": "SRC_SMYTH_PERSIANS",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_EUMENIDES",
@@ -1101,7 +1169,8 @@
   "open_translation_source_id": "SRC_SMYTH_EUMENIDES",
   "wikidata_qid": null,
   "note": null,
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_PINDAR_PYTH1",
@@ -1117,7 +1186,8 @@
   "open_translation_source_id": null,
   "wikidata_qid": null,
   "note": "title_original is blank: the Greek file prints the collection's title (Πυθιονῖκαι) and the ode's dedication heading, not a title for this ode; open_translation_source_id is blank because Svarlien's English is `unconfirmed` (L-180) and is not quoted.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
  },
  {
   "id": "W_ALCMAEON_FR",
@@ -1133,6 +1203,24 @@
   "open_translation_source_id": "SRC_BURNET_EGP",
   "wikidata_qid": null,
   "note": "The one passage carried (Q_179) is the doxographer Aetius's report of Alcmaeon's doctrine, not Alcmaeon's words; its wording is Aetius's, centuries later.",
-  "review_status": "draft"
+  "review_status": "draft",
+  "title_zh": null
+ },
+ {
+  "id": "W_SUNZI",
+  "title_en": "The Art of War (Sunzi)",
+  "title_original": "孫子兵法",
+  "language": "Classical Chinese",
+  "region_id": "R_CN",
+  "genre": "military treatises",
+  "author_person_id": "P_SUNWU",
+  "composition_year_min": -514,
+  "composition_year_max": -100,
+  "composition_basis": "THE TEXT IS DATED, NOT THE MAN (L-105(2)). LOWER BOUND -514, A FLOOR SET BY THE ATTRIBUTION, NOT AN ESTIMATE: tradition gives the book to Sun Wu, who came to King Helü of Wu with thirteen chapters (Shiji 65, read at zh.wikisource.org page 史記/卷065 (revision 2567048, fetched whole via action=raw on 2026-11-13, this session): 以兵法見於吳王闔廬。闔廬曰：「子之十三篇，吾盡觀之矣，可以小試勒兵乎？」), so nothing in that story lets the text be earlier than Helü's accession, 吳闔閭元年 at the line labelled 514 in Shiji 14 (page 史記/卷014, revision 2607001, same fetch; E_CN_026). Sun Wu's own historicity is 'traditional' (P_SUNWU): the Zuozhuan's account of the 506 campaign never names him, and this floor does not make the attribution true. UPPER BOUND -100, AN APPROXIMATION, STATED (the W_HANFEIZI form): Sima Qian is the earliest firm witness read here to a book of thirteen chapters under Sun Wu's name (Shiji 65, the closing judgement: 世俗所稱師旅，皆道孫子十三篇). The Shiji's narrative ends at the Taichu era (Shiji 130, page 史記/卷130, revision 2609362, same fetch: 余述歷黃帝以來至太初而訖，百三十篇。; 太初元年 at the line labelled 104 and 天漢元年 at 100 on Shiji 22's edition labels, page 史記/卷022, revision 2607038, same fetch), and the year he wrote is not fixed by any source read, so -100 stands for 'by the Shiji', not a known date. AN EARLIER WITNESS, RECORDED AND NOT TAKEN: Han Fei's 五蠹 (by -233, W_HANFEIZI; page 韓非子/五蠹, revision 2642850, same fetch) says 境内皆言兵，藏孫、吳之書者家有之, books of 'Sun' and 'Wu' kept in every household; but which Sun is not said, and the Han imperial catalogue lists military books under two men of that surname, 吳孫子兵法八十二篇，齊孫子八十九篇 (Hanshu 30, page 漢書/卷030, revision 7908197, same fetch), the Sun of Wu and the Sun of Qi. So -233 would date a book of one of the two, and is not used as the bound. THE CHAPTER COUNTS DISAGREE: thirteen in the Shiji and in the edition read here (SRC_WS_SUNZI_LUEJIE, 計篇 to 用間篇), eighty-two in the Han catalogue; not reconciled. Cao Cao's preface to that edition names the author of the text he annotated: 吾觀兵書戰策多矣，孫武所著深已.",
+  "open_translation_source_id": null,
+  "wikidata_qid": null,
+  "note": "Cited as the text attributed to Sun Wu, never as his own words. Passage: Q_200 (the opening of 計篇). No published English translation was read this session; the English in Q_200 is the project's own. L-105(2) named a work row dating the text, with a passage, as the condition for restoring P_SUNWU's medallion; this row and Q_200 are offered as that condition, and P_SUNWU.is_protagonist is NOT changed in this batch: a medallion is a map change, ruled and re-baselined on its own. Added 2026-11-13 (Sophia r16-3).",
+  "review_status": "reviewed",
+  "title_zh": "孙子兵法"
  }
 ]

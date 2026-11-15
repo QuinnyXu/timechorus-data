@@ -56,6 +56,10 @@
         "draft",
         "reviewed"
       ]
+    },
+    "name_zh": {
+      "type": "string",
+      "description": "Optional. The idea's Simplified Chinese name: ruled text (owner-approved), Han characters only, no book-title marks and no glosses. The zh counterpart of name_en. Blank means no zh name; the engine then falls back to name_en."
     }
   },
   "x-timechorus": {
@@ -89,6 +93,10 @@
       {
         "rule": "procedural",
         "name": "ideas_first_attestation_basis"
+      },
+      {
+        "rule": "procedural",
+        "name": "ideas_name_zh"
       }
     ]
   }
