@@ -1406,7 +1406,7 @@
   "name_original": "安邑",
   "region_id": "R_CN",
   "polity_id": "POL_WEI",
-  "modern_location": "Xia County, Shanxi, China (the Yuwangcheng walled site)",
+  "modern_location": "Xia County, Shanxi, China (identified with the Yuwangcheng walled site; no point is drawn, because the identification is not at a conventions §5 tier)",
   "place_type": "capital",
   "lat": null,
   "lng": null,
@@ -1415,9 +1415,10 @@
   "pleiades_id": null,
   "wikidata_qid": "Q17030164",
   "source_ids": [
-   "SRC_WIKIDATA"
+   "SRC_WIKIDATA",
+   "SRC_WS_SHIJI_44"
   ],
-  "description": "Seat of the Wei house and then of the state of Wei until the move to Daliang. Shiji 44 has the house move here in the time of Duke Dao of Jin (徙治安邑) and move out in King Hui's 31st year (安邑近秦，於是徙治大梁; -340 on Shiji 15's labels); the Bamboo Annals put the move to Daliang in Hui's 6th or 9th year (POL_WEI's note has both readings). Qin received it in 286 (Shiji 15, the 秦 column: 二十一。魏納安邑及河內。). No event in this dataset is placed here yet. THE TIERS ABOVE THIS ROW'S BASIS, searched 2026-11-13 (this session): the Pleiades gazetteer, search_rss?SearchableText=Anyi, HTTP 200, 506 bytes, 0 items (its scope is Mediterranean and Near Eastern; no pleiades_id is claimed); chunqiu at its HEAD ab90baa898aae7754ec586285eb39a9b41b41287 (data/csv/places.csv, searched read-only with git grep per D-18; nothing written there), 0 hits for 安邑; CHGIS/TGAZ, whose live host chgis.hudci.org did not answer this session's requests (no HTTP response, 2026-11-13, for hvd_95289 and hvd_87010). polity_id POL_WEI: the row is here as Wei's seat; that the house already sat here inside Jin before 403 is said above. Added 2026-11-13 (Sophia r16-3).",
+  "description": "Seat of the Wei house and then of the state of Wei until the move to Daliang. Shiji 44 has the house move here in the time of Duke Dao of Jin (徙治安邑) and move out in King Hui's 31st year (安邑近秦，於是徙治大梁; -340 on Shiji 15's labels); the Bamboo Annals put the move to Daliang in Hui's 6th or 9th year (POL_WEI's note has both readings). Qin received it in 286 (Shiji 15, the 秦 column: 二十一。魏納安邑及河內。). No event in this dataset is placed here yet. THE TIERS ABOVE THIS ROW'S BASIS, searched 2026-11-13 (this session): the Pleiades gazetteer, search_rss?SearchableText=Anyi, HTTP 200, 506 bytes, 0 items (its scope is Mediterranean and Near Eastern; no pleiades_id is claimed); chunqiu at its HEAD ab90baa898aae7754ec586285eb39a9b41b41287 (data/csv/places.csv, searched read-only with git grep per D-18; nothing written there), 0 hits for 安邑; CHGIS/TGAZ, whose live host chgis.hudci.org did not answer this session's requests (no HTTP response, 2026-11-13, for hvd_95289 and hvd_87010). polity_id POL_WEI: the row is here as Wei's seat; that the house already sat here inside Jin before 403 is said above. Added 2026-11-13 (Sophia r16-3). UNLOCATED IN THIS DATASET (Sophia r16-3d, 2026-11-15; L-254(3), L-265(1), L-266(3)): the identification with the Yuwangcheng walled site in Xia County, Shanxi, is kept (modern_location), but no point is drawn, because that identification rests on a Wikidata sitelink and a zh.wikipedia page, not on a tier of conventions §5 (coord_basis). source_ids now also names the edition that attests the name, Shiji 44 (SRC_WS_SHIJI_44), beside SRC_WIKIDATA, which records where the identification comes from (the PL_SHUZHOU and PL_ZHONGMU precedent): page 史記/卷044, revision 7903606, re-read 2026-11-15 via action=raw (22,226 bytes, the revision SRC_WS_SHIJI_44 already cites), where 徙治安邑 and 安邑近秦，於是徙治大梁 are found again verbatim (the page's -{…}- conversion markup removed).",
   "name_zh": "安邑"
  },
  {
